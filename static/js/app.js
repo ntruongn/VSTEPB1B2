@@ -308,6 +308,7 @@ document.addEventListener("DOMContentLoaded", () => {
             // Setup quiz submit listener
             document.getElementById("submit-quiz-btn").onclick = submitQuiz;
             setupAnswerListeners();
+            addWorkspaceTabs("reading");
             
             // Setup hover events for sentences
             const passagePanel = document.getElementById("passage-panel");
@@ -411,6 +412,7 @@ document.addEventListener("DOMContentLoaded", () => {
             
             document.getElementById("submit-quiz-btn").onclick = submitQuiz;
             setupAnswerListeners();
+            addWorkspaceTabs("listening");
             
         } else if (category === "writing") {
             // Header: Translation
@@ -804,6 +806,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 initClozePractice();
                 initRecallPractice();
             }
+            addWorkspaceTabs("writing");
             
         } else if (category === "speaking") {
             // Header: Translation
@@ -852,6 +855,52 @@ document.addEventListener("DOMContentLoaded", () => {
             // Audio recording event hookup
             document.getElementById("btn-start-record").onclick = startSpeakingRecording;
             document.getElementById("btn-stop-record").onclick = stopSpeakingRecording;
+        }
+        
+        function addWorkspaceTabs(category) {
+            let leftLabel = "Nội dung";
+            let rightLabel = "Bài làm";
+            
+            if (category === "reading") {
+                leftLabel = "Bài Đọc";
+                rightLabel = "Câu Hỏi";
+            } else if (category === "listening") {
+                leftLabel = "Nghe Audio";
+                rightLabel = "Câu Hỏi";
+            } else if (category === "writing") {
+                leftLabel = "Đề Bài";
+                rightLabel = "Bài Viết";
+            }
+            
+            const tabsContainer = document.createElement("div");
+            tabsContainer.className = "workspace-tabs";
+            tabsContainer.innerHTML = `
+                <button class="workspace-tab-btn active" id="w-tab-left">
+                    <i data-lucide="${category === 'reading' ? 'book-open' : category === 'listening' ? 'headphones' : 'file-text'}"></i> ${leftLabel}
+                </button>
+                <button class="workspace-tab-btn" id="w-tab-right">
+                    <i data-lucide="${category === 'writing' ? 'pen-tool' : 'check-circle-2'}"></i> ${rightLabel}
+                </button>
+            `;
+            
+            elements.examWorkspace.prepend(tabsContainer);
+            
+            elements.examWorkspace.classList.add("show-left");
+            elements.examWorkspace.classList.remove("show-right");
+            
+            tabsContainer.querySelector("#w-tab-left").onclick = () => {
+                tabsContainer.querySelector("#w-tab-left").classList.add("active");
+                tabsContainer.querySelector("#w-tab-right").classList.remove("active");
+                elements.examWorkspace.classList.add("show-left");
+                elements.examWorkspace.classList.remove("show-right");
+            };
+            
+            tabsContainer.querySelector("#w-tab-right").onclick = () => {
+                tabsContainer.querySelector("#w-tab-right").classList.add("active");
+                tabsContainer.querySelector("#w-tab-left").classList.remove("active");
+                elements.examWorkspace.classList.add("show-right");
+                elements.examWorkspace.classList.remove("show-left");
+            };
         }
         
         lucide.createIcons();
