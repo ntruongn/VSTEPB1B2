@@ -1,0 +1,26 @@
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS
+Thumbs.db
+ehthumbs.db
+
+# Build artifacts
+_jekyll/
+site/
+
+# Local data (not committed)
+*.log
+
+# Python virtual environment & cache
+.venv/
+__pycache__/
+*.pyc
+
+# Temporary scratch folder
+scratch/

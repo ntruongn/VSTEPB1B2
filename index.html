@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="vi" data-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VSTEP Practice Portal - Luyện thi VSTEP</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <!-- Lucide Icons (CDN) -->
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="static/css/styles.css">
+</head>
+<body>
+
+    <!-- App Shell -->
+    <div class="app-shell">
+        
+        <!-- Header -->
+        <header class="app-header">
+            <div class="header-container">
+                <div class="logo-area" id="btn-logo-home">
+                    <div class="logo-icon">
+                        <i data-lucide="graduation-cap"></i>
+                    </div>
+                    <div class="logo-text">
+                        <span class="brand-vstep">VSTEP</span>
+                        <span class="brand-portal">PORTAL</span>
+                    </div>
+                </div>
+                
+                <div class="header-actions">
+                    <button class="theme-toggle" id="theme-toggle-btn" title="Chuyển chế độ Sáng/Tối">
+                        <i data-lucide="sun" class="sun-icon"></i>
+                        <i data-lucide="moon" class="moon-icon"></i>
+                    </button>
+                    <div class="user-badge">
+                        <div class="avatar">VIP</div>
+                        <span class="user-name">Ngoc-Truong Nguyen</span>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <!-- Main Content Area -->
+        <main class="app-main">
+            <div class="main-container">
+                
+                <!-- View 1: Dashboard -->
+                <section id="dashboard-view" class="view-section active">
+                    <div class="hero-section">
+                        <h1>Nâng tầm kỹ năng tiếng Anh</h1>
+                        <p>Luyện tập 4 kỹ năng Nghe - Nói - Đọc - Viết với kho đề thi VSTEP phong phú đã được cào đầy đủ lời giải chi tiết.</p>
+                    </div>
+                    
+                    <div class="skills-grid">
+                        <!-- Reading Card -->
+                        <div class="skill-card card-reading" data-category="reading">
+                            <div class="card-glow"></div>
+                            <div class="card-icon">
+                                <i data-lucide="book-open"></i>
+                            </div>
+                            <h3>Đề thi ĐỌC</h3>
+                            <p class="description">Phát triển từ vựng và tư duy phân tích đoạn văn thông qua 52 đề đọc chuyên sâu.</p>
+                            <div class="card-stats">
+                                <span class="stats-num" id="reading-count">--</span> đề thi sẵn có
+                            </div>
+                            <button class="btn-start-skill">Luyện tập <i data-lucide="arrow-right"></i></button>
+                        </div>
+                        
+                        <!-- Listening Card -->
+                        <div class="skill-card card-listening" data-category="listening">
+                            <div class="card-glow"></div>
+                            <div class="card-icon">
+                                <i data-lucide="headphones"></i>
+                            </div>
+                            <h3>Đề thi NGHE</h3>
+                            <p class="description">Luyện nghe hội thoại và bài nói độc thoại kèm audio và transcript chuẩn VSTEP.</p>
+                            <div class="card-stats">
+                                <span class="stats-num" id="listening-count">--</span> đề thi sẵn có
+                            </div>
+                            <button class="btn-start-skill">Luyện tập <i data-lucide="arrow-right"></i></button>
+                        </div>
+
+                        <!-- Writing Card -->
+                        <div class="skill-card card-writing" data-category="writing">
+                            <div class="card-glow"></div>
+                            <div class="card-icon">
+                                <i data-lucide="pen-tool"></i>
+                            </div>
+                            <h3>Đề thi VIẾT</h3>
+                            <p class="description">Thực hành viết thư và bài luận nghị luận xã hội kèm bản dịch hướng dẫn.</p>
+                            <div class="card-stats">
+                                <span class="stats-num" id="writing-count">--</span> đề thi sẵn có
+                            </div>
+                            <button class="btn-start-skill">Luyện tập <i data-lucide="arrow-right"></i></button>
+                        </div>
+
+                        <!-- Speaking Card -->
+                        <div class="skill-card card-speaking" data-category="speaking">
+                            <div class="card-glow"></div>
+                            <div class="card-icon">
+                                <i data-lucide="mic"></i>
+                            </div>
+                            <h3>Đề thi NÓI</h3>
+                            <p class="description">Luyện nói 3 phần thi chính thức, kèm bộ công cụ ghi âm trực tiếp trên web.</p>
+                            <div class="card-stats">
+                                <span class="stats-num" id="speaking-count">--</span> đề thi sẵn có
+                            </div>
+                            <button class="btn-start-skill">Luyện tập <i data-lucide="arrow-right"></i></button>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- View 2: Exam List -->
+                <section id="list-view" class="view-section">
+                    <div class="view-header">
+                        <button class="btn-back" id="btn-list-back">
+                            <i data-lucide="chevron-left"></i> Quay lại
+                        </button>
+                        <h2 id="list-title">Đề thi ĐỌC</h2>
+                    </div>
+                    
+                    <div class="search-filter-area">
+                        <div class="search-box">
+                            <i data-lucide="search"></i>
+                            <input type="text" id="search-exam-input" placeholder="Tìm kiếm mã đề...">
+                        </div>
+                    </div>
+
+                    <div class="exams-list-grid" id="exams-grid-container">
+                        <!-- Exam cards generated by JS -->
+                    </div>
+                </section>
+
+                <!-- View 3: Exam Practice Area -->
+                <section id="exam-view" class="view-section">
+                    
+                    <!-- Subnavbar header -->
+                    <div class="exam-header">
+                        <div class="header-left">
+                            <button class="btn-back" id="btn-exam-back">
+                                <i data-lucide="chevron-left"></i> Thoát đề
+                            </button>
+                            <div class="exam-info">
+                                <h2 id="exam-current-title">Luyện đề Đọc mã số 01</h2>
+                                <span id="exam-current-id" class="badge">#ID-01</span>
+                            </div>
+                        </div>
+                        
+                        <div class="header-right" id="exam-action-buttons">
+                            <!-- Toggle buttons (Passage translation/transcript) generated here -->
+                        </div>
+                    </div>
+
+                    <!-- Split container for practice layout -->
+                    <div class="exam-workspace" id="exam-workspace-layout">
+                        <!-- Layout structure is injected dynamically by JavaScript depending on category -->
+                    </div>
+                </section>
+
+            </div>
+        </main>
+    </div>
+
+    <!-- Popup Offcanvas elements -->
+    <div class="offcanvas" id="offcanvas-panel">
+        <div class="offcanvas-content">
+            <div class="offcanvas-header">
+                <h3 id="offcanvas-title">Bản dịch tiếng Việt</h3>
+                <button class="offcanvas-close" id="offcanvas-close-btn">
+                    <i data-lucide="x"></i>
+                </button>
+            </div>
+            <div class="offcanvas-body" id="offcanvas-body-content">
+                <!-- Translation content loaded here -->
+            </div>
+        </div>
+    </div>
+
+    <!-- Sentence Tooltip -->
+    <div class="sentence-tooltip" id="sentence-tooltip"></div>
+
+    <!-- Custom Script -->
+    <script src="static/js/app.js"></script>
+</body>
+</html>
