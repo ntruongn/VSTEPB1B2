@@ -1252,11 +1252,15 @@ a {
 @media (max-width: 1024px) {
     .exam-workspace {
         flex-direction: column;
+        height: calc(100dvh - 200px);
+        min-height: 480px;
+        gap: 1rem;
     }
     
     .workspace-panel {
-        max-height: none;
-        overflow-y: visible;
+        flex: 1;
+        max-height: 100% !important;
+        overflow-y: auto !important;
     }
 }
 
@@ -1985,6 +1989,60 @@ a {
     }
 }
 
+@media (max-width: 768px) {
+    .exam-submit-area {
+        flex-direction: column-reverse;
+        align-items: stretch;
+        gap: 1rem;
+        padding-top: 1rem;
+        margin-top: 1rem;
+    }
+    
+    .questions-progress {
+        flex-wrap: nowrap !important;
+        overflow-x: auto !important;
+        padding-bottom: 0.5rem;
+        -webkit-overflow-scrolling: touch;
+        justify-content: flex-start;
+        width: 100%;
+        scrollbar-width: thin;
+    }
+    
+    .progress-dot {
+        flex-shrink: 0;
+    }
+    
+    .btn-submit-exam {
+        width: 100%;
+        justify-content: center;
+    }
+    
+    .passage-text p {
+        font-size: 1rem;
+        line-height: 1.6;
+    }
+    
+    .reading-parts-tabs {
+        flex-wrap: nowrap !important;
+        overflow-x: auto !important;
+        -webkit-overflow-scrolling: touch;
+        scrollbar-width: none; /* Hide scrollbar for tabs */
+        border-bottom: 1px solid var(--border-color);
+        gap: 0.25rem;
+    }
+    
+    .reading-parts-tabs::-webkit-scrollbar {
+        display: none;
+    }
+    
+    .reading-part-tab-btn, .listening-part-tab-btn, .writing-task-tab-btn, .speaking-part-tab-btn {
+        flex-shrink: 0;
+        white-space: nowrap;
+        padding: 0.5rem 0.75rem;
+        font-size: 0.85rem;
+    }
+}
+
 @media (max-width: 576px) {
     .user-name {
         display: none !important;
@@ -1999,6 +2057,10 @@ a {
     }
     .recorder-card {
         padding: 1.5rem 1rem !important;
+    }
+    .workspace-panel {
+        padding: 1.25rem 1rem !important;
+        border-radius: 1rem;
     }
 }
 
