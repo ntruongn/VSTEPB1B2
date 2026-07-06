@@ -1,129 +1,1015 @@
 {
-  "title": "📖 Xem lại đề đọc mã số 06 - Part 2",
-  "passage": "Bài đọc\n(A)\nThe development of jazz can be seen as part of the larger continuum of American popular music, especially dance music. In the twenties, jazz became the hottest new thing in dance music, much as ragtime had at the turn of the century, and as would rhythm and blues in the fifties, rock in the fifties, and disco in the seventies.\n(B)\nBut two characteristics distinguish jazz from other dance music. The first is\nimprovisation\n, the changing of a musical phrase according to the player's inspiration. Like all artists, jazz musicians strive for an individual style, and the improvise or paraphrase is a jazz musician's main opportunity to display his or her individuality. In early jazz, musicians often improvised melodies collectively, thus creating a kind of\npolyphony\n. There was little soloing as such, although some New Orleans players, particularly\ncornet player\nBuddy Bolden, achieved local fame for their ability to improvise a solo. Later the idea of the chorus-long or\nmultichorus\nsolo took hold. Louis Armstrong's instrumental brilliance, demonstrated through extended solos, was a major influence in this development. Even in the early twenties, however, some jazz bands had featured soloists. Similarly, show orchestras and carnival bands often included one or two such\n\"get-off'' musicians\n. Unimproved, completely structured jazz does exist, but the ability of the best jazz musicians to create music of great cohesion and beauty during performance has been a hallmark of the music and its major source of inspiration and change.\n(C)\nThe second distinguishing characteristic of jazz is a rhythmic drive that was initially called \"hot\" and later \"swing\". In playing hot, a musician\nconsciously\ndeparts from strict meter to create a relaxed sense of phrasing that also emphasizes the underlying rhythms. (\"Rough\" tone and use of moderate vibrato also contributed to a hot sound.) Not all jazz is hot, however, many early bands played\nunadorned\npublished arrangements of popular songs. Still, the proclivity to play hot distinguished the jazz musician from other instrumentalists.",
-  "translation": "(A)\nSự phát triển của nhạc jazz có thể được xem như một phần của dòng chảy rộng lớn hơn trong nền âm nhạc đại chúng Mỹ, đặc biệt là nhạc khiêu vũ. Vào những năm 1920, jazz trở thành xu hướng mới nóng nhất trong âm nhạc khiêu vũ, giống như ragtime vào đầu thế kỷ, hay như rhythm and blues vào những năm 1950, rock vào những năm 1950, và disco vào những năm 1970.\n(B)\nNhưng có hai đặc điểm giúp jazz khác biệt với các thể loại nhạc khiêu vũ khác. Đầu tiên là\nsự\nngẫu hứng\n, tức là thay đổi một cụm nhạc dựa theo cảm hứng của người chơi. Giống như mọi nghệ sĩ khác, nhạc sĩ jazz luôn hướng tới một phong cách cá nhân, và việc ngẫu hứng hoặc phóng tác chính là cơ hội chính để họ thể hiện dấu ấn cá nhân của mình. Trong thời kỳ đầu của jazz, các nhạc sĩ thường cùng nhau ngẫu hứng giai điệu, tạo ra một dạng\nđa âm\n. Khi đó, ít có phần độc tấu, mặc dù một số nghệ sĩ New Orleans, đặc biệt là\nnghệ sĩ kèn cornet\nBuddy Bolden, đã nổi danh ở địa phương nhờ khả năng ngẫu hứng solo của họ. Sau này, khái niệm độc tấu kéo dài trong một đoạn nhạc hoặc\nđộc tấu nhiều đoạn\ntrở nên phổ biến. Tài năng xuất chúng của Louis Armstrong, được thể hiện qua các phần độc tấu kéo dài, đã có ảnh hưởng lớn đến sự phát triển này. Tuy nhiên, ngay từ đầu những năm 1920, một số ban nhạc jazz đã có những nghệ sĩ độc tấu. Tương tự, các dàn nhạc sân khấu và ban nhạc lễ hội cũng thường có một hoặc hai\nnghệ sĩ \"bứt phá\"\nnhư vậy. Nhạc jazz không ngẫu hứng và hoàn toàn theo cấu trúc cũng tồn tại, nhưng khả năng của những nhạc sĩ jazz xuất sắc trong việc tạo ra âm nhạc gắn kết và đầy cảm hứng ngay trong khi biểu diễn đã trở thành dấu ấn của dòng nhạc này, đồng thời là nguồn cảm hứng và sự đổi mới chính.\n(C)\nĐặc điểm thứ hai giúp jazz trở nên khác biệt là nhịp điệu mạnh mẽ, ban đầu được gọi là \"hot\" và sau này là \"swing\". Khi chơi theo phong cách \"hot\", một nhạc sĩ\ncố ý\nphá vỡ nhịp điệu cứng nhắc để mang đến cách thể hiện thoải mái hơn nhưng vẫn nhấn mạnh nhịp nền. (Âm thanh \"thô ráp\" và việc sử dụng kĩ thuật rung âm vừa cũng góp phần tạo nên phong cách hot.) Tuy nhiên, không phải tất cả nhạc jazz đều theo phong cách hot; nhiều ban nhạc thời kỳ đầu chỉ chơi những bản phối đơn giản của các bài hát phổ biến. Dù vậy, khuynh hướng chơi theo phong cách hot đã giúp nhạc sĩ jazz khác biệt với những nghệ sĩ nhạc cụ khác.",
+  "title": "📖 Đề đọc mã số 06",
+  "parts": [
+    {
+      "part_number": 1,
+      "title": "📖 Xem lại đề đọc mã số 21 - Part 1",
+      "passage": "Bài đọc\nTV REVIEW\nLucy Chang tells you what's new (and not so new!) on your screens this summer.\n(A)\nI always look forward to this time of year, and I'm always disappointed! It’s the time of year when the TV channels announce their summer schedules, and every year I tell myself that this time might be different. It never is. Take SuperTV, for example. This channel, on our screens for five years now, broadcasts a depressing mix of game shows and music videos. So what do we find in the new schedule?\nI'm The One\n, a game show offering holiday prizes, and\nVJ-TV\n, yet another music video programme with brainless presenters.\nThey\n're also planning to repeat the dreadful chat show\nStar Quality\n, which is about as entertaining as watching grass grow. Why can’t they come up with new ideas?\n(B)\nChannel 9 does a little better. Now that\nTrain Driver\nhas finished, they’ve decided to replace it with\nStaff Room\n, a reality show that follows teachers around all day. It should be the hit of the summer, giving us insight into what really goes on when the lessons are over. Who doesn’t want to see and hear what teachers say about their students at the end of the school day? Great stuff! Together with\nLife in Aylesford Street\n, the soap opera that everyone’s talking about, it looks like Channel 9 could be the channel to watch this summer.\n(C)\nOver on BTV1, Max Read is back with\nJoke-a-Cola\n, the comedy show. The first series was slightly amusing, the second\nhilarious\n. Let’s wait and see what the third series is like. Comedy is difficult to get right, but it ought to be great. I wish I could say the same about the sitcom\nOh! Those Kids!\nJust look at the expressions on the faces of the cast! It’s obvious they know it’s rubbish, and the script is just so badly written! Oh! Those writers!\n(D)\nThe programme makers must think we’ll watch anything. That’s just not true. People might have hundreds of channels on their TV or live near a cinema with a dozen screens. There is so much choice of entertainment these days—TV, the cinema, the theatre, even the internet—that they have to work hard to keep their audience. What they should be doing is making new, exciting programmes. Where are the shows that make people feel they must stay in to watch them?\n(E)\nWe have to ask ourselves what entertainment really is. We have to think about what people do with their leisure time. Television has been popular for about 50–60 years, but it might not be popular forever. More people are going to the cinema and theatre than ever before. More people are surfing the internet or playing computer games than ever before. If\nOh! Those Kids!\nis all that TV has to offer, why should we watch it? With one or two exceptions, this summer’s programmes will make more people turn off than vice versa.",
+      "translation": "ĐÁNH GIÁ TRUYỀN HÌNH\nLucy Chang sẽ cho bạn biết những gì mới (và không quá mới!) trên màn ảnh mùa hè này.\n(A)\nTôi luôn mong đợi khoảng thời gian này trong năm, và tôi luôn thất vọng! Đây là thời điểm mà các kênh truyền hình công bố lịch phát sóng mùa hè, và năm nào tôi cũng tự nhủ rằng lần này có thể sẽ khác. Nhưng không bao giờ có gì thay đổi. Lấy ví dụ kênh SuperTV. Kênh này đã phát sóng được năm năm, nhưng vẫn duy trì một danh sách ảm đạm toàn các chương trình trò chơi và video ca nhạc. Vậy lịch phát sóng mới có gì?\nI'm The One\n, một chương trình trò chơi với giải thưởng là những chuyến du lịch, và\nVJ-TV\n, lại một chương trình video ca nhạc khác với những người dẫn chương trình nhạt nhẽo.\nHọ\ncũng dự định phát lại chương trình trò chuyện tệ hại\nStar Quality\n, nhàm chán chẳng khác gì việc ngồi nhìn cỏ mọc. Tại sao họ không thể nghĩ ra những ý tưởng mới?\n(B)\nChannel 9 có phần làm tốt hơn một chút. Giờ đây khi\nTrain Driver\nđã kết thúc, họ quyết định thay thế nó bằng\nStaff Room\n, một chương trình thực tế theo chân các giáo viên cả ngày. Đây hẳn sẽ là cú hit của mùa hè, mang đến cái nhìn sâu sắc về những gì thực sự diễn ra sau giờ học. Ai mà không muốn biết giáo viên nói gì về học sinh sau một ngày làm việc? Thật tuyệt! Cùng với\nLife in Aylesford Street\n, bộ phim truyền hình đang được bàn tán nhiều nhất hiện nay, có vẻ như Channel 9 sẽ là kênh đáng xem nhất mùa hè này.\n(C)\nTrên BTV1, Max Read trở lại với chương trình hài\nJoke-a-Cola\n. Phần đầu tiên thì hơi hài hước, phần thứ hai thì\ncực kỳ vui nhộn\n. Hãy chờ xem phần ba sẽ ra sao. Hài kịch là thể loại khó làm tốt, nhưng chương trình này có vẻ sẽ rất hấp dẫn. Ước gì tôi cũng có thể nói như vậy về bộ sitcom\nOh! Those Kids!\nHãy nhìn biểu cảm trên khuôn mặt các diễn viên mà xem! Rõ ràng họ biết chương trình này tệ đến mức nào, và kịch bản thì viết quá dở! Ôi trời! Những biên kịch đó đang làm gì vậy?\n(D)\nCác nhà sản xuất chương trình có lẽ nghĩ rằng chúng ta sẽ xem bất cứ thứ gì. Nhưng điều đó không đúng. Mọi người có thể có hàng trăm kênh truyền hình hoặc sống gần rạp chiếu phim với hàng chục phòng chiếu. Ngày nay có quá nhiều lựa chọn giải trí—truyền hình, điện ảnh, sân khấu, thậm chí cả internet—nên họ phải làm việc chăm chỉ hơn để giữ chân khán giả. Điều họ nên làm là sản xuất những chương trình mới, hấp dẫn hơn. Vậy đâu là những chương trình khiến mọi người cảm thấy không thể bỏ lỡ?\n(E)\nChúng ta phải tự hỏi giải trí thực sự là gì. Chúng ta phải suy nghĩ về cách mọi người sử dụng thời gian rảnh của mình. Truyền hình đã phổ biến khoảng 50–60 năm, nhưng có thể nó sẽ không phổ biến mãi mãi. Ngày càng có nhiều người đến rạp chiếu phim và nhà hát hơn bao giờ hết. Ngày càng có nhiều người lướt internet hoặc chơi trò chơi điện tử hơn bao giờ hết. Nếu\nOh! Those Kids!\nlà tất cả những gì truyền hình có thể mang lại, thì tại sao chúng ta phải xem nó? Ngoại trừ một vài chương trình, các chương trình mùa hè này có lẽ sẽ khiến nhiều người tắt TV hơn là làm điều ngược lại.",
+      "questions": [
+        {
+          "id": "question1",
+          "question": "Câu 1: At this time of year, _____",
+          "options": [
+            "A. the writer hopes for something that never happens.",
+            "B. the TV channels change all their programmes.",
+            "C. the writer disappoints the TV channels with her reviews.",
+            "D. the writer's favourite programmes often disappear."
+          ],
+          "correct_answer": "A. the writer hopes for something that never happens.",
+          "explanation": "Giải thích:\nAt this time of year, _____\n(Vào thời điểm này trong năm, _____)\n❌\nthe TV channels change all their programmes.\n(Các kênh truyền hình thay đổi tất cả chương trình của họ.) → Sai, vì bài đọc cho thấy rằng lịch phát sóng không có nhiều thay đổi.\n❌\nthe writer disappoints the TV channels with her reviews.\n(Tác giả khiến các kênh truyền hình thất vọng với bài đánh giá của mình.) → Sai, vì tác giả chỉ bày tỏ ý kiến cá nhân.\n✅\nthe writer hopes for something that never happens.\n(Tác giả hy vọng điều gì đó nhưng nó không bao giờ xảy ra.) → Đúng, vì tác giả nói rằng cô ấy luôn mong đợi lịch phát sóng thay đổi, nhưng điều đó không bao giờ xảy ra.\n❌\nthe writer's favourite programmes often disappear.\n(Các chương trình yêu thích của tác giả thường biến mất.) → Sai, vì bài đọc không đề cập đến điều này."
+        },
+        {
+          "id": "question2",
+          "question": "Câu 2: How does the writer describe the current programmes on SuperTV?",
+          "options": [
+            "A. informative",
+            "B. strange",
+            "C. disappointing",
+            "D. exciting"
+          ],
+          "correct_answer": "C. disappointing",
+          "explanation": "Giải thích:\nHow does the writer describe the current programmes on SuperTV?\n(Tác giả mô tả các chương trình hiện tại trên SuperTV như thế nào?)\n❌\nexciting.\n(thú vị) → Sai, vì tác giả cảm thấy chương trình rất nhàm chán.\n❌\ninformative.\n(cung cấp nhiều thông tin) → Sai, vì bài đọc không đề cập đến việc các chương trình mang tính giáo dục hay thông tin.\n❌\nstrange.\n(kỳ lạ) → Sai, vì tác giả không gọi chương trình là kỳ lạ.\n✅\ndisappointing.\n(gây thất vọng) → Đúng, vì tác giả cảm thấy lịch phát sóng của SuperTV luôn lặp lại và không có ý tưởng mới."
+        },
+        {
+          "id": "question3",
+          "question": "Câu 3: What does \"They\" in paragraph (A) refer to?",
+          "options": [
+            "A. TV viewers",
+            "B. SuperTV",
+            "C. the TV channels",
+            "D. the presenters of VJ-TV"
+          ],
+          "correct_answer": "B. SuperTV",
+          "explanation": "Giải thích:\nWhat does \"They\" in paragraph (A) refer to?\n(Từ \"They\" trong đoạn (A) ám chỉ điều gì?)\n✅\nSuperTV.\n→ Đúng, vì câu trước đó nói về lịch phát sóng của SuperTV.\n❌\nthe TV channels.\n(các kênh truyền hình) → Sai, vì từ \"They\" trong ngữ cảnh này chỉ riêng SuperTV, không phải tất cả các kênh truyền hình.\n❌\nthe presenters of VJ-TV.\n(các MC của VJ-TV) → Sai, vì \"They\" không liên quan đến các MC.\n❌\nTV viewers.\n(khán giả truyền hình) → Sai, vì \"They\" không ám chỉ khán giả."
+        },
+        {
+          "id": "question4",
+          "question": "Câu 4: The writer says that Staff Room will probably _____.",
+          "options": [
+            "A. be successful",
+            "B. be worse than Train Driver",
+            "C. shock students",
+            "D. be on instead of Life in Aylesford Street"
+          ],
+          "correct_answer": "A. be successful",
+          "explanation": "Giải thích:\nThe writer says that Staff Room will probably _____.\n(Tác giả nói rằng chương trình Staff Room có thể sẽ _____.)\n✅\nbe successful.\n(thành công) → Đúng, vì tác giả tin rằng chương trình này sẽ là \"cú hit của mùa hè\".\n❌\nshock students.\n(gây sốc cho học sinh) → Sai, vì chương trình chỉ đơn giản là theo chân giáo viên, không phải là nội dung gây sốc.\n❌\nbe worse than Train Driver.\n(tệ hơn Train Driver) → Sai, vì bài đọc không nói rằng nó tệ hơn chương trình trước đó.\n❌\nbe on instead of Life in Aylesford Street.\n(thay thế Life in Aylesford Street) → Sai, vì cả hai chương trình sẽ được phát sóng trên Channel 9."
+        },
+        {
+          "id": "question5",
+          "question": "Câu 5: Characters of the show Staff Room are _____.",
+          "options": [
+            "A. teachers",
+            "B. students",
+            "C. travellers",
+            "D. Channel 9's audience"
+          ],
+          "correct_answer": "A. teachers",
+          "explanation": "Giải thích:\nCharacters of the show Staff Room are _____.\n(Các nhân vật trong chương trình Staff Room là ____.)\n❌\nstudents.\n(học sinh) → Sai, vì chương trình theo chân các giáo viên, không phải học sinh.\n✅\nteachers.\n(giáo viên) → Đúng, vì bài đọc nói rằng chương trình này theo chân các giáo viên cả ngày.\n❌\ntravellers.\n(người đi du lịch) → Sai, vì bài đọc không đề cập đến khách du lịch.\n❌\nChannel 9's audience.\n(khán giả của Channel 9) → Sai, vì câu hỏi hỏi về nhân vật trong chương trình, không phải khán giả."
+        },
+        {
+          "id": "question6",
+          "question": "Câu 6: The word \"hilarious\" in paragraph (C) can be best replaced by _____?",
+          "options": [
+            "A. up-to-date",
+            "B. amusing",
+            "C. strange",
+            "D. informative"
+          ],
+          "correct_answer": "B. amusing",
+          "explanation": "Giải thích:\nThe word \"hilarious\" in paragraph (C) can be best replaced by _____?\n(Từ \"hilarious\" trong đoạn (C) có thể được thay thế tốt nhất bằng từ nào?)\n✅\namusing.\n(hài hước) → Đúng, vì \"hilarious\" có nghĩa là cực kỳ vui nhộn, hài hước.\n❌\ninformative.\n(cung cấp thông tin) → Sai, vì \"hilarious\" không liên quan đến việc cung cấp thông tin.\n❌\nstrange.\n(kỳ lạ) → Sai, vì \"hilarious\" không mang nghĩa kỳ lạ.\n❌\nup-to-date.\n(cập nhật) → Sai, vì \"hilarious\" không liên quan đến sự cập nhật."
+        },
+        {
+          "id": "question7",
+          "question": "Câu 7: The writer thinks that <i>Joke-a-Cola is now 3</i> _____",
+          "options": [
+            "A. more popular with viewers",
+            "B. funnier than before.",
+            "C. more difficult to understand.",
+            "D. more like a sitcom."
+          ],
+          "correct_answer": "B. funnier than before.",
+          "explanation": "Giải thích:\nThe writer thinks that\nJoke-a-Cola\nis now _____.\n(Tác giả nghĩ rằng\nJoke-a-Cola\nbây giờ ____.)\n❌\nmore difficult to understand.\n(khó hiểu hơn) → Sai, vì tác giả không đề cập đến sự khó hiểu của chương trình.\n❌\nmore popular with viewers.\n(phổ biến hơn với khán giả) → Sai, vì bài đọc không nói về mức độ phổ biến của chương trình.\n✅\nfunnier than before.\n(hài hước hơn trước) → Đúng, vì tác giả nói rằng phần 1 chỉ hơi hài hước, phần 2 cực kỳ vui nhộn.\n❌\nmore like a sitcom.\n(giống phim sitcom hơn) → Sai, vì chương trình là một show hài, không phải sitcom."
+        },
+        {
+          "id": "question8",
+          "question": "Câu 8: Because of the various choices of entertainment, _____?",
+          "options": [
+            "A. programmes have to be more exciting.",
+            "B. people watch more television.",
+            "C. programme makers have to tell lies.",
+            "D. people move to areas with more facilities."
+          ],
+          "correct_answer": "A. programmes have to be more exciting.",
+          "explanation": "Giải thích:\nBecause of the various choices of entertainment, _____?\n(Vì có nhiều lựa chọn giải trí, _____?)\n❌\npeople watch more television.\n(mọi người xem TV nhiều hơn) → Sai, vì bài đọc nói rằng TV có thể mất đi khán giả.\n❌\npeople move to areas with more facilities.\n(mọi người chuyển đến khu vực có nhiều tiện ích hơn) → Sai, vì bài đọc không đề cập đến di chuyển chỗ ở.\n❌\nprogramme makers have to tell lies.\n(những người làm chương trình phải nói dối) → Sai, vì không có chi tiết nào đề cập đến việc nói dối.\n✅\nprogrammes have to be more exciting.\n(các chương trình phải thú vị hơn) → Đúng, vì tác giả nói rằng để giữ chân khán giả, các nhà sản xuất phải tạo ra nội dung hấp dẫn hơn."
+        },
+        {
+          "id": "question9",
+          "question": "Câu 9: The writer thinks that television _____",
+          "options": [
+            "A. could lose its popularity in the future.",
+            "B. will never be as popular as the theatre is.",
+            "C. should show more programmes about hobbies.",
+            "D. ought to provide more than just entertainment."
+          ],
+          "correct_answer": "A. could lose its popularity in the future.",
+          "explanation": "Giải thích:\nThe writer thinks that television _____.\n(Tác giả nghĩ rằng truyền hình _____.)\n❌\nwill never be as popular as the theatre is.\n(sẽ không bao giờ phổ biến như nhà hát) → Sai, vì tác giả không so sánh trực tiếp giữa TV và nhà hát.\n❌\nshould show more programmes about hobbies.\n(nên chiếu nhiều chương trình về sở thích hơn) → Sai, vì bài đọc không đề cập đến điều này.\n✅\ncould lose its popularity in the future.\n(có thể mất đi sự phổ biến trong tương lai) → Đúng, vì tác giả nói rằng truyền hình đã phổ biến trong 50-60 năm, nhưng có thể không mãi mãi.\n❌\nought to provide more than just entertainment.\n(nên cung cấp nhiều hơn là chỉ giải trí) → Sai, vì bài đọc không đề cập đến việc TV cần có nội dung giáo dục hay xã hội."
+        },
+        {
+          "id": "question10",
+          "question": "Câu 10: Which of the following channels would the author most probably recommend viewers to watch?",
+          "options": [
+            "A. Channel 9",
+            "B. BTV1",
+            "C. All of them",
+            "D. SuperTV"
+          ],
+          "correct_answer": "A. Channel 9",
+          "explanation": "Giải thích:\nWhich of the following channels would the author most probably recommend viewers to watch?\n(Kênh nào sau đây có khả năng được tác giả khuyến nghị người xem nhất?)\n❌\nSuperTV.\n→ Sai, vì tác giả chỉ trích SuperTV vì chương trình nhàm chán.\n✅\nChannel 9.\n→ Đúng, vì tác giả nói rằng Channel 9 có thể là kênh đáng xem nhất mùa hè.\n❌\nBTV1.\n→ Sai, vì tác giả không quá ấn tượng với BTV1.\n❌\nAll of them.\n(Tất cả các kênh) → Sai, vì tác giả không hài lòng với tất cả các kênh."
+        }
+      ],
+      "original_test_id": 21,
+      "original_results_url": "https://luyenthivstep.vn/luyen-de/ket-qua-doc/265765"
+    },
+    {
+      "part_number": 2,
+      "title": "📖 Xem lại đề đọc mã số 22 - Part 2",
+      "passage": "Bài đọc\nThe Reluctant Hero\n(A)\nThe most endearing thing about Aaron Green—and there are many—is his refusal to accept how famous he's about to become. \"I can walk down the street and not be hassled, which is really nice. I kind of hope that continues, and I'm sure it will,\" he says earnestly. He seems genuinely to believe that the job won't change his life. \"There's nothing\nfascinating\nabout my life, and there's absolutely no reason why that should start happening.\" You can only wish him well.\nHow lovely it would be if this turned out to be true, but the chances are it won't, and he must know this. Aaron has been cast as the hero in the latest fantasy blockbuster that will hit our screens next year. The first photo of him in his costume was released last week, sparking a frenzy on the Internet.\n(B)\nAfter an award nomination for his last film, Aaron is having the biggest year of his life, but it\nhasn't gone to his head\n. \"It's nice if your work is praised, but this is all very new to me,\" he says. \"I really like working in this profession and exploring its possibilities. Who knows what the future holds? We could dream about what might happen next, but there's not much point. I'm just enjoying my job and want to do well in it, but that's kind of it, really. No big hassles.\"\nOf all the characters in his last film, which is based on a true story about a group of university students who start an influential blog, Aaron's character is the one who emerges as the most likeable. But he insists that the plot is not as straightforward as it might appear. \"What's wonderful about this film is that everyone feels they are the good guy. I don't think anyone in the cast felt they were playing the villain. It was just a group of human beings who had different opinions.\"\n(C)\nIt's a typically thoughtful answer from the 27-year-old, who seems to be a bit of a worrier and prefers to avoid watching himself on screen. Doubtless, he doesn't care much for interviews either, but he is so open and engaging that you wouldn’t know it. He felt \"a heightened sense of responsibility\" playing a real-life person in his last film but had no direct contact with the person concerned. \"These people are living and breathing somewhere—of course, that has a great effect on the care with which you approach your work. I kept wondering if he'd come and see the film, if he'd recognize himself in my performance or be angered by it.\"\n(D)\nHis performance has a vulnerability that is almost painful to watch. Does he seek out those parts, or do directors see that quality in him? \"I don’t know, I think it’s probably a bit of both. I certainly have that unwillingness to lose naivety—to lose that childlike way of looking at the world. I find it a very real and profound theme in my life and, talking to other people my age, I think it’s universal.\"",
+      "translation": "Người Hùng Miễn Cưỡng\n(A)\nĐiều đáng yêu nhất về Aaron Green—và có rất nhiều điều đáng yêu—là sự từ chối chấp nhận việc anh sắp trở nên nổi tiếng đến mức nào. \"Tôi có thể đi dạo trên đường mà không bị ai làm phiền, điều đó thực sự rất tuyệt. Tôi khá hy vọng điều này sẽ tiếp tục, và tôi chắc chắn là nó sẽ vậy,\" anh ấy nói một cách chân thành. Anh dường như thực sự tin rằng công việc này sẽ không thay đổi cuộc sống của mình. \"Không có gì\nđặc biệt\nvề cuộc sống của tôi, và hoàn toàn không có lý do gì để điều đó bắt đầu xảy ra.\" Bạn chỉ có thể chúc anh ấy may mắn.\nThật tuyệt nếu điều đó trở thành sự thật, nhưng khả năng là không, và chắc hẳn anh ấy cũng biết điều đó. Aaron đã được chọn vào vai chính trong bộ phim giả tưởng bom tấn mới nhất sẽ ra mắt vào năm sau. Tuần trước, bức ảnh đầu tiên của anh trong bộ trang phục đã được công bố, làm dậy sóng cộng đồng mạng.\n(B)\nSau khi nhận được một đề cử giải thưởng cho bộ phim trước, Aaron đang có năm thành công nhất trong sự nghiệp của mình, nhưng\nanh ấy không hề kiêu ngạo\n. \"Thật tuyệt nếu công việc của bạn được khen ngợi, nhưng tất cả những điều này đều rất mới mẻ với tôi,\" anh ấy nói. \"Tôi thực sự thích làm việc trong lĩnh vực này và khám phá những khả năng của nó. Ai mà biết được tương lai sẽ ra sao? Chúng ta có thể mơ về những gì có thể xảy ra tiếp theo, nhưng điều đó cũng không có nhiều ý nghĩa. Tôi chỉ đang tận hưởng công việc của mình và muốn làm tốt nó, vậy thôi. Không có rắc rối gì lớn cả.\"\nTrong số tất cả các nhân vật trong bộ phim trước đó, vốn dựa trên một câu chuyện có thật về một nhóm sinh viên đại học lập ra một blog có ảnh hưởng, nhân vật của Aaron là người được khán giả yêu thích nhất. Nhưng anh khẳng định rằng cốt truyện không đơn giản như vẻ bề ngoài. \"Điều tuyệt vời về bộ phim này là ai cũng cảm thấy họ là người tốt. Tôi không nghĩ có ai trong dàn diễn viên cảm thấy mình đang đóng vai phản diện. Họ chỉ là một nhóm con người có những quan điểm khác nhau.\"\n(C)\nĐó là một câu trả lời đầy suy tư điển hình của nam diễn viên 27 tuổi này, người có vẻ là một người hay lo lắng và thích tránh xem lại chính mình trên màn ảnh. Chắc chắn, anh ấy cũng không mặn mà với các cuộc phỏng vấn, nhưng anh ấy lại cởi mở và cuốn hút đến mức bạn sẽ không nhận ra điều đó. Khi đóng vai một nhân vật có thật trong bộ phim trước, anh ấy cảm thấy \"một trách nhiệm cao độ\" nhưng không có liên hệ trực tiếp với người ngoài đời thực. \"Những người này vẫn đang sống và hít thở ở đâu đó—tất nhiên, điều đó ảnh hưởng rất nhiều đến sự cẩn trọng mà bạn áp dụng vào công việc của mình. Tôi cứ tự hỏi liệu anh ấy có đến xem phim không, liệu anh ấy có nhận ra bản thân mình trong diễn xuất của tôi không hay có tức giận vì nó không.\"\n(D)\nMàn trình diễn của anh ấy có một sự mong manh gần như khiến người ta đau lòng khi xem. Liệu anh ấy có chủ động tìm kiếm những vai diễn như vậy, hay các đạo diễn nhìn thấy phẩm chất đó trong anh? \"Tôi không biết, tôi nghĩ có lẽ là cả hai. Tôi chắc chắn có sự do dự trong việc đánh mất sự ngây thơ—đánh mất cách nhìn thế giới bằng đôi mắt của một đứa trẻ. Tôi thấy đó là một chủ đề rất thực tế và sâu sắc trong cuộc sống của mình, và khi nói chuyện với những người cùng tuổi, tôi nghĩ nó mang tính phổ quát.\"",
+      "questions": [
+        {
+          "id": "question11",
+          "question": "Câu 11: According to the text, what does Aaron think about his job?",
+          "options": [
+            "A. It brings him many opportunities.",
+            "B. It helps him become famous.",
+            "C. It's a boring job.",
+            "D. It can't make his life change."
+          ],
+          "correct_answer": "D. It can't make his life change.",
+          "explanation": "Giải thích:\nAccording to the text, what does Aaron think about his job?\n(Theo đoạn văn, Aaron nghĩ gì về công việc của anh ấy?)\n❌\nIt helps him become famous.\n(Nó giúp anh ấy trở nên nổi tiếng.) → Sai, vì trong đoạn (A), Aaron nói rằng anh không nghĩ công việc của mình sẽ thay đổi cuộc sống của anh ấy.\n✅\nIt can't make his life change.\n(Nó không thể thay đổi cuộc sống của anh ấy.) → Đúng, vì Aaron tin rằng anh vẫn có thể đi dạo mà không bị làm phiền, và anh hy vọng điều này sẽ tiếp tục.\n❌\nIt's a boring job.\n(Đó là một công việc nhàm chán.) → Sai, vì Aaron nói rằng anh ấy thích công việc của mình.\n❌\nIt brings him many opportunities.\n(Nó mang lại cho anh ấy nhiều cơ hội.) → Sai, vì đoạn văn không đề cập đến việc anh ấy nhận được nhiều cơ hội từ công việc."
+        },
+        {
+          "id": "question12",
+          "question": "Câu 12: The word \"fascinating\" in paragraph (A) can be best replaced by _____?",
+          "options": [
+            "A. modern",
+            "B. frightening",
+            "C. interesting",
+            "D. ordinary"
+          ],
+          "correct_answer": "C. interesting",
+          "explanation": "Giải thích:\nThe word \"fascinating\" in paragraph (A) can be best replaced by _____?\n(Từ \"fascinating\" trong đoạn (A) có thể được thay thế tốt nhất bằng từ nào?)\n❌\nmodern\n(hiện đại) → Sai, vì \"fascinating\" có nghĩa là hấp dẫn, thú vị, không phải hiện đại.\n❌\nordinary\n(bình thường) → Sai, vì \"fascinating\" mang nghĩa ngược lại với \"ordinary\".\n❌\nfrightening\n(đáng sợ) → Sai, vì \"fascinating\" không có nghĩa tiêu cực.\n✅\ninteresting\n(thú vị) → Đúng, vì \"fascinating\" có nghĩa là \"cực kỳ thú vị\", đồng nghĩa với \"interesting\"."
+        },
+        {
+          "id": "question13",
+          "question": "Câu 13: In paragraph (A), the writer suggests that he thinks Aaron _____?",
+          "options": [
+            "A. has unrealistic ideas about what it's like to be famous",
+            "B. seems unaware that he's about to become famous",
+            "C. has a sensible attitude towards fame",
+            "D. seems confident that he can deal with fame"
+          ],
+          "correct_answer": "B. seems unaware that he's about to become famous",
+          "explanation": "Giải thích:\nIn paragraph (A), the writer suggests that he thinks Aaron _____?\n(Trong đoạn (A), tác giả cho thấy rằng anh ấy nghĩ Aaron _____?)\n❌\nhas a sensible attitude towards fame.\n(có thái độ hợp lý đối với sự nổi tiếng.) → Sai, vì Aaron có vẻ không thực sự nhận thức được sự thay đổi mà danh tiếng sẽ mang lại.\n❌\nseems confident that he can deal with fame.\n(có vẻ tự tin rằng anh ấy có thể đối phó với sự nổi tiếng.) → Sai, vì Aaron không nghĩ danh tiếng sẽ ảnh hưởng đến anh ấy.\n✅\nseems unaware that he's about to become famous.\n(có vẻ không nhận thức được rằng anh ấy sắp trở nên nổi tiếng.) → Đúng, vì anh ấy nói rằng anh hy vọng cuộc sống của mình sẽ không thay đổi, nhưng thực tế thì điều đó rất khó xảy ra.\n❌\nhas unrealistic ideas about what it's like to be famous.\n(có những ý tưởng phi thực tế về việc nổi tiếng như thế nào.) → Sai, vì Aaron không hẳn có ý tưởng phi thực tế, mà chỉ là anh ấy chưa thực sự ý thức được điều đó."
+        },
+        {
+          "id": "question14",
+          "question": "Câu 14: According to the text, when will Aaron's latest film probably be released?",
+          "options": [
+            "A. in the next 5 years",
+            "B. in the next 2 years",
+            "C. at the end of this year",
+            "D. next year"
+          ],
+          "correct_answer": "D. next year",
+          "explanation": "Giải thích:\nAccording to the text, when will Aaron's latest film probably be released?\n(Theo đoạn văn, khi nào bộ phim mới nhất của Aaron có thể được phát hành?)\n❌\nat the end of this year.\n(vào cuối năm nay.) → Sai, vì đoạn văn không đề cập đến việc phim sẽ ra mắt vào cuối năm nay.\n✅\nnext year.\n(năm sau.) → Đúng, vì trong đoạn (A), có nói rằng bộ phim mới của Aaron sẽ ra mắt vào năm sau.\n❌\nin the next 2 years.\n(trong 2 năm tới.) → Sai, vì đoạn văn chỉ nhắc đến \"năm sau\", không phải \"2 năm tới\".\n❌\nin the next 5 years.\n(trong 5 năm tới.) → Sai, vì bộ phim dự kiến ra mắt sớm hơn nhiều."
+        },
+        {
+          "id": "question15",
+          "question": "Câu 15: The phrase \"hasn't gone to his head\" in paragraph (B) suggests that Aaron _____?",
+          "options": [
+            "A. is used to receiving so much praise",
+            "B. doesn't think much about his achievements",
+            "C. is doubtful whether he will win an award",
+            "D. would like to receive great attention"
+          ],
+          "correct_answer": "B. doesn't think much about his achievements",
+          "explanation": "Giải thích:\nThe phrase \"hasn't gone to his head\" in paragraph (B) suggests that Aaron _____?\n(Cụm từ \"hasn't gone to his head\" trong đoạn (B) gợi ý rằng Aaron _____?)\n✅\ndoesn't think much about his achievements.\n(không nghĩ nhiều về thành tựu của mình.) → Đúng, vì \"hasn't gone to his head\" có nghĩa là không để danh tiếng làm thay đổi thái độ của mình.\n❌\nis used to receiving so much praise.\n(đã quen với việc nhận được nhiều lời khen ngợi.) → Sai, vì Aaron nói rằng điều này vẫn còn mới mẻ với anh ấy.\n❌\nis doubtful whether he will win an award.\n(nghi ngờ liệu anh ấy có giành được giải thưởng hay không.) → Sai, vì đoạn văn không đề cập đến sự nghi ngờ của Aaron về việc thắng giải.\n❌\nwould like to receive great attention.\n(muốn nhận được sự chú ý lớn.) → Sai, vì Aaron có vẻ không quan tâm đến việc trở nên nổi tiếng."
+        },
+        {
+          "id": "question16",
+          "question": "Câu 16: What does Aaron say about his last film?",
+          "options": [
+            "A. The plot is not as simple as it may appear.",
+            "B. There were often disagreements between the actors.",
+            "C. There are clear heroes in it.",
+            "D. He knows why people liked his character best."
+          ],
+          "correct_answer": "A. The plot is not as simple as it may appear.",
+          "explanation": "Giải thích:\nWhat does Aaron say about his last film?\n(Aaron nói gì về bộ phim trước của anh ấy?)\n❌\nThere are clear heroes in it.\n(Có những nhân vật anh hùng rõ ràng trong đó.) → Sai, vì Aaron nói rằng ai cũng nghĩ mình là người tốt, không có nhân vật phản diện rõ ràng.\n✅\nThe plot is not as simple as it may appear.\n(Cốt truyện không đơn giản như ta tưởng.) → Đúng, vì Aaron nhấn mạnh rằng bộ phim có nhiều sắc thái hơn là chỉ có nhân vật tốt và xấu.\n❌\nHe knows why people liked his character best.\n(Anh ấy biết tại sao nhân vật của anh ấy được yêu thích nhất.) → Sai, vì anh ấy không nói về lý do tại sao nhân vật của mình được khán giả yêu thích.\n❌\nThere were often disagreements between the actors.\n(Có nhiều bất đồng giữa các diễn viên.) → Sai, vì đoạn văn không đề cập đến sự bất đồng giữa các diễn viên."
+        },
+        {
+          "id": "question17",
+          "question": "Câu 17: What makes the writer think that Aaron is a bit of a worrier?",
+          "options": [
+            "A. He thinks carefully before answering a question.",
+            "B. He doesn't like giving interviews.",
+            "C. He feels responsible for the character he plays.",
+            "D. He avoids watching his own films."
+          ],
+          "correct_answer": "D. He avoids watching his own films.",
+          "explanation": "Giải thích:\nWhat makes the writer think that Aaron is a bit of a worrier?\n(Điều gì khiến tác giả nghĩ rằng Aaron là một người hay lo lắng?)\n✅\nHe avoids watching his own films.\n(Anh ấy tránh xem phim của chính mình.) → Đúng, vì đoạn (C) nói rằng Aaron không thích xem lại mình trên màn ảnh.\n❌\nHe doesn't like giving interviews.\n(Anh ấy không thích phỏng vấn.) → Sai, vì mặc dù anh ấy không hứng thú với phỏng vấn, nhưng anh ấy vẫn rất cởi mở khi tham gia.\n❌\nHe feels responsible for the character he plays.\n(Anh ấy cảm thấy có trách nhiệm với nhân vật mà anh ấy đóng.) → Sai, vì đây là dấu hiệu của sự tận tâm, không phải lo lắng.\n❌\nHe thinks carefully before answering a question.\n(Anh ấy suy nghĩ cẩn thận trước khi trả lời câu hỏi.) → Sai, vì điều này không liên quan đến việc anh ấy lo lắng."
+        },
+        {
+          "id": "question18",
+          "question": "Câu 18: How did Aaron feel when playing a real-life person in his last film?",
+          "options": [
+            "A. fantastic",
+            "B. curious",
+            "C. highly responsible",
+            "D. confused"
+          ],
+          "correct_answer": "C. highly responsible",
+          "explanation": "Giải thích:\nHow did Aaron feel when playing a real-life person in his last film?\n(Aaron cảm thấy thế nào khi đóng vai một nhân vật có thật trong bộ phim trước của anh ấy?)\n❌\ncurious\n(tò mò) → Sai, vì anh ấy không nói rằng anh ấy tò mò về nhân vật này.\n❌\nfantastic\n(tuyệt vời) → Sai, vì anh ấy không đề cập đến việc cảm thấy phấn khích hay hào hứng.\n❌\nconfused\n(bối rối) → Sai, vì không có chi tiết nào cho thấy anh ấy bối rối khi đóng vai nhân vật có thật.\n✅\nhighly responsible\n(cảm thấy có trách nhiệm cao) → Đúng, vì Aaron nói rằng anh ấy cảm thấy \"một trách nhiệm cao độ\" khi đóng vai một người thực."
+        },
+        {
+          "id": "question19",
+          "question": "Câu 19: What does Aaron say about playing a real-life person on screen?",
+          "options": [
+            "A. He was concerned that the person might feel angry.",
+            "B. He was pleased that the person approved of the fact he was playing it.",
+            "C. He was disappointed that he never met that person.",
+            "D. He was sure that person wouldn't want to see the film."
+          ],
+          "correct_answer": "A. He was concerned that the person might feel angry.",
+          "explanation": "Giải thích:\nWhat does Aaron say about playing a real-life person on screen?\n(Aaron nói gì về việc đóng vai một nhân vật có thật trên màn ảnh?)\n❌\nHe was disappointed that he never met that person.\n(Anh ấy thất vọng vì chưa bao giờ gặp người đó.) → Sai, vì anh ấy không nói rằng anh ấy muốn gặp người thật.\n❌\nHe was sure that person wouldn't want to see the film.\n(Anh ấy chắc chắn rằng người đó sẽ không muốn xem phim.) → Sai, vì anh ấy không chắc chắn về điều đó.\n✅\nHe was concerned that the person might feel angry.\n(Anh ấy lo lắng rằng người đó có thể cảm thấy tức giận.) → Đúng, vì anh ấy nói rằng anh ấy tự hỏi liệu người đó có tức giận về cách anh ấy thể hiện nhân vật không.\n❌\nHe was pleased that the person approved of the fact he was playing it.\n(Anh ấy vui mừng vì người đó chấp nhận việc anh ấy đóng vai họ.) → Sai, vì anh ấy không biết người đó có đồng ý hay không."
+        },
+        {
+          "id": "question20",
+          "question": "Câu 20: According to paragraph (D), what do Aaron and the directors of films have in common?",
+          "options": [
+            "A. the professionalism",
+            "B. the unwillingness to lose naivety",
+            "C. the appearance",
+            "D. the fame"
+          ],
+          "correct_answer": "B. the unwillingness to lose naivety",
+          "explanation": "Giải thích:\nAccording to paragraph (D), what do Aaron and the directors of films have in common?\n(Theo đoạn (D), Aaron và các đạo diễn phim có điểm chung gì?)\n❌\nthe fame\n(sự nổi tiếng) → Sai, vì không phải tất cả đạo diễn phim đều nổi tiếng.\n❌\nthe professionalism\n(sự chuyên nghiệp) → Sai, vì không có đề cập đến việc Aaron và đạo diễn phim đều chuyên nghiệp.\n❌\nthe appearance\n(ngoại hình) → Sai, vì đoạn văn không nhắc đến ngoại hình của Aaron hoặc đạo diễn.\n✅\nthe unwillingness to lose naivety\n(sự miễn cưỡng trong việc đánh mất sự ngây thơ) → Đúng, vì Aaron nói rằng anh ấy không muốn mất đi cách nhìn thế giới bằng đôi mắt trẻ thơ, điều mà anh ấy tin là có tính phổ quát."
+        }
+      ],
+      "original_test_id": 22,
+      "original_results_url": "https://luyenthivstep.vn/luyen-de/ket-qua-doc/265766"
+    },
+    {
+      "part_number": 3,
+      "title": "📖 Xem lại đề đọc mã số 23 - Part 3",
+      "passage": "Bài đọc\nADVERTISING - ART OR POLLUTION?\n(A)\nHow many adverts do you think you'll see today? 10? 30? According to the market research firm\nYankelovich\n, some of us see as many as 2,000–5,000 adverts a day! There are adverts all around us. Most of the time, we're not even consciously aware of them. But think about your town or city. How many billboards, shop signs, and posters does it have?\n(B)\nTokyo, in Japan, takes urban advertising to the extreme. Although the city's temples may still lay claim to being more impressive, the explosion of sound and colour in the commercial centre can take your breath away. Whether you find the overall effect stunning or nightmarish is a question of personal taste. However, it would be hard not to admire the advertisers' ingenuity. Recent innovations include interactive games projected onto walls for people to play. \"Smellvertising\" is also catching on—that’s the idea of using pleasant smells like chocolate to attract consumers' attention!\n(C)\nInnovations in Tokyo are of huge significance in the world of advertising because where Tokyo leads, other cities soon follow. Big cities from New York to London already have outdoor television screens. Although Tokyo is far from being universally admired, many urban authorities find its approach to advertising exciting and dynamic. So what's the problem?\n(D)\n\"If every city copied Tokyo, it would be absolutely terrible!\" exclaims Roberta Calvino of the advertising watchdog group,\nAd Alert\n. \"At the moment, Tokyo's futuristic style\nsets it apart\n. It invites our attention because there's simply nothing like it. But we don't need 100 poor imitations. In many cities, advertising is as bad as litter or vandalism—it spoils our environment. Go beyond the city outskirts, and you'll find that advertising is taking over the countryside, too. The world's biggest advert was actually in a field in Austria, below the flight path to Vienna airport. It was the size of 50 football pitches!\"\n(E)\nAccording to Roberta, advertising can also influence the way we think and feel. \"Advertisers want to convince us that their products will make us happy or successful. Unfortunately, that's all an illusion—you can't simply 'buy' a celebrity lifestyle at the shops!\" Nevertheless, advertisers work hard to get us to swallow this message. For instance, fashion brands prefer to advertise using images of glamorously made-up supermodels because they want \"ordinary\" girls to feel inadequate in comparison. The more dissatisfied we feel with our lives, the more we'll spend to cheer ourselves up! Although outdoor advertising may seem to make less of an immediate impression than TV commercials, its message can have a greater impact.\n(F)\nIn 2007, one Brazilian city made a radical protest. Gilberto Kassab, the mayor of São Paulo, ordered the removal of more than 15,000 adverts! In justification, he condemned urban advertising in very strong terms as \"visual pollution.\" Unsurprisingly, this made many local businesses unhappy. One marketing executive argued that adverts \"are more like works of art, hiding grey office blocks and industrial estates.\" However, a more typical response can be summed up in this statement from Isuara dos Santos: \"If we'd known what a difference it would make, we'd have got rid of the adverts years ago. Now we can see the\nreal\nSão Paulo, and it's wonderful!\"",
+      "translation": "QUẢNG CÁO - NGHỆ THUẬT HAY Ô NHIỄM?\n(A)\nBạn nghĩ rằng hôm nay mình sẽ nhìn thấy bao nhiêu quảng cáo? 10? 30? Theo công ty nghiên cứu thị trường\nYankelovich\n, một số người trong chúng ta có thể nhìn thấy từ 2.000 đến 5.000 quảng cáo mỗi ngày! Quảng cáo xuất hiện ở khắp mọi nơi. Hầu hết thời gian, chúng ta thậm chí không ý thức được sự hiện diện của chúng. Nhưng hãy thử nghĩ về thị trấn hoặc thành phố của bạn. Có bao nhiêu bảng quảng cáo, biển hiệu cửa hàng và áp phích?\n(B)\nTokyo, Nhật Bản, đã đưa quảng cáo đô thị lên một tầm cao mới. Mặc dù những ngôi đền của thành phố vẫn có thể được coi là ấn tượng hơn, nhưng sự bùng nổ của âm thanh và màu sắc trong trung tâm thương mại có thể khiến bạn ngỡ ngàng. Việc bạn thấy hiệu ứng tổng thể này là tuyệt vời hay ác mộng hoàn toàn phụ thuộc vào gu thẩm mỹ của bạn. Tuy nhiên, khó có thể phủ nhận sự sáng tạo của các nhà quảng cáo. Những đổi mới gần đây bao gồm các trò chơi tương tác được chiếu lên tường để mọi người chơi. \"Quảng cáo bằng mùi hương\" cũng đang trở thành xu hướng—đó là ý tưởng sử dụng những mùi hương dễ chịu như sô cô la để thu hút sự chú ý của người tiêu dùng!\n(C)\nNhững đổi mới ở Tokyo có ý nghĩa quan trọng đối với thế giới quảng cáo, vì nơi nào Tokyo tiên phong, các thành phố khác sẽ nhanh chóng noi theo. Các đô thị lớn từ New York đến London đã có màn hình quảng cáo ngoài trời. Mặc dù Tokyo không được ngưỡng mộ một cách toàn diện, nhưng nhiều chính quyền thành phố vẫn xem cách tiếp cận quảng cáo của Tokyo là sáng tạo và năng động. Vậy vấn đề là gì?\n(D)\n\"Nếu mọi thành phố đều bắt chước Tokyo, đó sẽ là một thảm họa!\" Roberta Calvino, thuộc tổ chức giám sát quảng cáo\nAd Alert\n, tuyên bố. \"Hiện tại, phong cách tương lai của Tokyo\ngiúp nó nổi bật\n. Nó thu hút sự chú ý của chúng ta vì đơn giản là không có nơi nào giống như vậy. Nhưng chúng ta không cần 100 bản sao kém chất lượng. Ở nhiều thành phố, quảng cáo cũng tệ hại chẳng khác gì rác thải hay hành vi phá hoại—nó làm xấu đi môi trường sống của chúng ta. Hãy đi ra ngoài vùng ngoại ô, bạn sẽ thấy quảng cáo đang dần xâm chiếm cả vùng quê. Quảng cáo lớn nhất thế giới từng xuất hiện trên một cánh đồng ở Áo, ngay bên dưới đường bay đến sân bay Vienna. Nó có diện tích bằng 50 sân bóng đá!\"\n(E)\nTheo Roberta, quảng cáo cũng có thể ảnh hưởng đến cách chúng ta suy nghĩ và cảm nhận. \"Các nhà quảng cáo muốn thuyết phục chúng ta rằng sản phẩm của họ sẽ mang lại hạnh phúc hay thành công cho chúng ta. Đáng tiếc, đó chỉ là ảo tưởng—bạn không thể đơn giản 'mua' một lối sống hào nhoáng của người nổi tiếng từ cửa hàng!\" Tuy nhiên, các nhà quảng cáo làm việc chăm chỉ để khiến chúng ta tin vào thông điệp này. Ví dụ, các thương hiệu thời trang thường sử dụng hình ảnh những siêu mẫu được trang điểm lộng lẫy vì họ muốn những cô gái \"bình thường\" cảm thấy tự ti khi so sánh. Càng cảm thấy không hài lòng với cuộc sống, chúng ta càng chi tiêu nhiều hơn để tự an ủi bản thân! Mặc dù quảng cáo ngoài trời có vẻ ít tác động tức thì hơn so với quảng cáo trên truyền hình, nhưng thông điệp của nó có thể gây ảnh hưởng sâu sắc hơn.\n(F)\nNăm 2007, một thành phố ở Brazil đã có một động thái phản đối táo bạo. Gilberto Kassab, thị trưởng São Paulo, đã ra lệnh gỡ bỏ hơn 15.000 biển quảng cáo! Để lý giải cho quyết định này, ông lên án quảng cáo đô thị bằng những từ ngữ rất mạnh mẽ, gọi nó là \"ô nhiễm thị giác.\" Không có gì ngạc nhiên khi điều này khiến nhiều doanh nghiệp địa phương tức giận. Một giám đốc tiếp thị lập luận rằng quảng cáo \"giống như tác phẩm nghệ thuật, che lấp những tòa nhà văn phòng xám xịt và các khu công nghiệp.\" Tuy nhiên, một quan điểm phổ biến hơn được thể hiện qua lời của Isuara dos Santos: \"Nếu chúng tôi biết điều này tạo nên sự thay đổi lớn đến mức nào, chúng tôi đã loại bỏ quảng cáo từ lâu rồi. Bây giờ chúng tôi có thể thấy được\nSão Paulo thực sự\n, và điều đó thật tuyệt vời!\"",
+      "questions": [
+        {
+          "id": "question21",
+          "question": "Câu 21: What is the main point of paragraph (A)?",
+          "options": [
+            "A. Advertising has increased in towns and cities.",
+            "B. We see more adverts than we realise.",
+            "C. We do not pay enough attention to adverts.",
+            "D. Many people are annoyed by television advertising."
+          ],
+          "correct_answer": "B. We see more adverts than we realise.",
+          "explanation": "Giải thích:\nWhat is the main point of paragraph (A)?\n(Ý chính của đoạn (A) là gì?)\n✅\nWe see more adverts than we realise.\n(Chúng ta thấy nhiều quảng cáo hơn chúng ta nhận ra.) → Đúng, vì đoạn (A) đề cập rằng nhiều người có thể nhìn thấy từ 2.000 đến 5.000 quảng cáo mỗi ngày, ngay cả khi họ không nhận thức được điều đó.\n❌\nMany people are annoyed by television advertising.\n(Nhiều người cảm thấy phiền phức bởi quảng cáo trên TV.) → Sai, vì đoạn (A) không nhắc đến quảng cáo trên TV hoặc sự khó chịu của người xem.\n❌\nWe do not pay enough attention to adverts.\n(Chúng ta không chú ý đủ đến quảng cáo.) → Sai, vì mặc dù nói rằng chúng ta không nhận thức được tất cả quảng cáo, nhưng không nói rằng chúng ta không chú ý đủ.\n❌\nAdvertising has increased in towns and cities.\n(Quảng cáo đã tăng lên ở các thị trấn và thành phố.) → Sai, vì đoạn (A) không đề cập đến sự gia tăng mà chỉ mô tả sự hiện diện rộng rãi của quảng cáo."
+        },
+        {
+          "id": "question22",
+          "question": "Câu 22: Yankelovich is _____.",
+          "options": [
+            "A. a marketing company",
+            "B. a manufacturing company",
+            "C. a market research company",
+            "D. a consulting firm"
+          ],
+          "correct_answer": "C. a market research company",
+          "explanation": "Giải thích:\nYankelovich is _____?\n(Yankelovich là gì?)\n❌\na marketing company\n(một công ty tiếp thị) → Sai, vì Yankelovich không chỉ làm tiếp thị mà là công ty nghiên cứu thị trường.\n❌\na manufacturing company\n(một công ty sản xuất) → Sai, vì Yankelovich không sản xuất sản phẩm.\n✅\na market research company\n(một công ty nghiên cứu thị trường) → Đúng, vì đoạn văn đề cập rõ ràng rằng Yankelovich là một công ty nghiên cứu thị trường.\n❌\na consulting firm\n(một công ty tư vấn) → Sai, vì Yankelovich không chỉ tập trung vào tư vấn mà chủ yếu nghiên cứu thị trường."
+        },
+        {
+          "id": "question23",
+          "question": "Câu 23: What do we learn about the writer’s opinion of advertising in paragraph (B)?",
+          "options": [
+            "A. It lacks a personal appeal for him.",
+            "B. It seems excessive to him.",
+            "C. He thinks it is Tokyo's main attraction.",
+            "D. He thinks that it is very creative."
+          ],
+          "correct_answer": "B. It seems excessive to him.",
+          "explanation": "Giải thích:\nWhat do we learn about the writer’s opinion of advertising in paragraph (B)?\n(Chúng ta biết được gì về quan điểm của tác giả về quảng cáo trong đoạn (B)?)\n❌\nIt lacks a personal appeal for him.\n(Nó thiếu sự thu hút cá nhân đối với tác giả.) → Sai, vì đoạn (B) không đề cập đến sở thích cá nhân của tác giả với quảng cáo.\n❌\nHe thinks that it is very creative.\n(Tác giả nghĩ rằng nó rất sáng tạo.) → Sai, vì mặc dù có đề cập đến sự sáng tạo, nhưng ý chính không phải là tác giả đánh giá cao điều đó.\n✅\nIt seems excessive to him.\n(Nó có vẻ quá mức đối với tác giả.) → Đúng, vì đoạn văn nói về sự bùng nổ của quảng cáo tại Tokyo, tạo ra cảm giác \"choáng ngợp\" và \"bùng nổ âm thanh và màu sắc.\"\n❌\nHe thinks it is Tokyo's main attraction.\n(Tác giả nghĩ đó là điểm thu hút chính của Tokyo.) → Sai, vì mặc dù nhắc đến Tokyo, nhưng không nói rằng quảng cáo là điểm thu hút chính của thành phố."
+        },
+        {
+          "id": "question24",
+          "question": "Câu 24: Why do advertisers see Tokyo as important?",
+          "options": [
+            "A. Its distinctive style is popular with everyone.",
+            "B. It reflects trends that are popular elsewhere.",
+            "C. It sets trends which are often copied.",
+            "D. Its style is imitated in every city."
+          ],
+          "correct_answer": "C. It sets trends which are often copied.",
+          "explanation": "Giải thích:\nWhy do advertisers see Tokyo as important?\n(Tại sao các nhà quảng cáo coi Tokyo là quan trọng?)\n✅\nIt sets trends which are often copied.\n(Nó tạo ra xu hướng thường được sao chép.) → Đúng, vì đoạn văn nói rằng \"Tokyo dẫn đầu, các thành phố khác nhanh chóng noi theo.\"\n❌\nIts distinctive style is popular with everyone.\n(Phong cách đặc trưng của nó phổ biến với tất cả mọi người.) → Sai, vì không phải ai cũng yêu thích phong cách này, có người cảm thấy choáng ngợp.\n❌\nIt reflects trends that are popular elsewhere.\n(Nó phản ánh các xu hướng phổ biến ở nơi khác.) → Sai, vì đoạn văn nói rằng Tokyo là nơi tiên phong, không phải nơi phản ánh xu hướng từ nơi khác.\n❌\nIts style is imitated in every city.\n(Phong cách của nó được sao chép ở mọi thành phố.) → Sai, vì không phải tất cả các thành phố đều sao chép Tokyo, chỉ một số nơi học theo."
+        },
+        {
+          "id": "question25",
+          "question": "Câu 25: What does the writer mean by \"sets it apart\" in paragraph (D)?",
+          "options": [
+            "A. is something which visitors find very inviting",
+            "B. lends it a highly unattractive appearance",
+            "C. gives it something in common with other cities",
+            "D. makes it seem individual and different"
+          ],
+          "correct_answer": "D. makes it seem individual and different",
+          "explanation": "Giải thích:\nWhat does the writer mean by \"sets it apart\" in paragraph (D)?\n(\"sets it apart\" trong đoạn (D) có nghĩa là gì?)\n✅\nmakes it seem individual and different.\n(Khiến nó có vẻ riêng biệt và khác biệt.) → Đúng, vì đoạn văn nói rằng phong cách của Tokyo là \"độc nhất\" và không nơi nào giống nó.\n❌\nis something which visitors find very inviting.\n(Là thứ mà du khách cảm thấy rất hấp dẫn.) → Sai, vì không phải ai cũng thích phong cách quảng cáo của Tokyo, có người thấy choáng ngợp.\n❌\ngives it something in common with other cities.\n(Khiến nó có điểm chung với các thành phố khác.) → Sai, vì đoạn văn nói rằng Tokyo \"khác biệt,\" không phải \"có điểm chung.\"\n❌\nlends it a highly unattractive appearance.\n(Làm cho nó trông rất kém hấp dẫn.) → Sai, vì đoạn văn không nói Tokyo trông kém hấp dẫn, chỉ nói rằng nó gây ấn tượng mạnh."
+        },
+        {
+          "id": "question26",
+          "question": "Câu 26: In paragraph (D), Roberta Calvino suggests that _____?",
+          "options": [
+            "A. the largest adverts can usually be found in rural areas",
+            "B. outdoor advertising extends beyond urban areas",
+            "C. advertising is a particularly bad problem in Austria",
+            "D. modern adverts are continuing to grow in size"
+          ],
+          "correct_answer": "B. outdoor advertising extends beyond urban areas",
+          "explanation": "Giải thích:\nIn paragraph (D), Roberta Calvino suggests that _____?\n(Trong đoạn (D), Roberta Calvino\ncho thấy\nrằng _____?)\n❌\nthe largest adverts can usually be found in rural areas.\n(Những quảng cáo lớn nhất thường được tìm thấy ở vùng nông thôn.) → Sai, vì Roberta chỉ đề cập đến việc quảng cáo đang mở rộng ra vùng nông thôn, chứ không nói rằng những quảng cáo lớn nhất nằm ở đó.\n❌\nadvertising is a particularly bad problem in Austria.\n(Quảng cáo là một vấn đề đặc biệt nghiêm trọng ở Áo.) → Sai, vì Áo chỉ được đề cập như một ví dụ về quảng cáo lớn, không phải vấn đề chính.\n✅\noutdoor advertising extends beyond urban areas.\n(Quảng cáo ngoài trời đang mở rộng ra ngoài khu vực đô thị.) → Đúng, vì đoạn văn đề cập rằng quảng cáo đang dần xâm chiếm cả vùng quê.\n❌\nmodern adverts are continuing to grow in size.\n(Quảng cáo hiện đại tiếp tục tăng kích thước.) → Sai, vì không có đề cập đến xu hướng tăng kích thước của quảng cáo."
+        },
+        {
+          "id": "question27",
+          "question": "Câu 27: What does Roberta tell us about urban advertising in paragraph (E)?",
+          "options": [
+            "A. It can lower our self-confidence.",
+            "B. It can be rather unconvincing.",
+            "C. It helps us to fulfil our dreams.",
+            "D. It particularly affects women."
+          ],
+          "correct_answer": "A. It can lower our self-confidence.",
+          "explanation": "Giải thích:\nWhat does Roberta tell us about urban advertising in paragraph (E)?\n(Roberta nói gì về quảng cáo đô thị trong đoạn (E)?)\n❌\nIt can be rather unconvincing.\n(Nó có thể khá không thuyết phục.) → Sai, vì Roberta không nói rằng quảng cáo đô thị không thuyết phục.\n❌\nIt helps us to fulfil our dreams.\n(Nó giúp chúng ta hoàn thành ước mơ.) → Sai, vì cô ấy cho rằng quảng cáo chỉ tạo ra ảo tưởng về hạnh phúc.\n❌\nIt particularly affects women.\n(Nó đặc biệt ảnh hưởng đến phụ nữ.) → Sai, vì mặc dù có đề cập đến siêu mẫu nữ trong quảng cáo thời trang, nhưng không nói rằng chỉ phụ nữ bị ảnh hưởng.\n✅\nIt can lower our self-confidence.\n(Nó có thể làm giảm sự tự tin của chúng ta.) → Đúng, vì Roberta nói rằng quảng cáo khiến mọi người cảm thấy không hài lòng với cuộc sống của họ, từ đó thúc đẩy họ chi tiêu nhiều hơn."
+        },
+        {
+          "id": "question28",
+          "question": "Câu 28: What comparison does Roberta make between urban advertising and TV advertising?",
+          "options": [
+            "A. TV advertising is more effective in the long term.",
+            "B. There is greater variety in urban advertising.",
+            "C. It is easier to ignore urban advertising.",
+            "D. Urban advertising can have more impact."
+          ],
+          "correct_answer": "D. Urban advertising can have more impact.",
+          "explanation": "Giải thích:\nWhat comparison does Roberta make between urban advertising and TV advertising?\n(Roberta so sánh quảng cáo đô thị và quảng cáo trên TV như thế nào?)\n❌\nTV advertising is more effective in the long term.\n(Quảng cáo trên TV hiệu quả hơn về lâu dài.) → Sai, vì Roberta không nói rằng quảng cáo trên TV hiệu quả hơn.\n❌\nIt is easier to ignore urban advertising.\n(Dễ dàng bỏ qua quảng cáo đô thị hơn.) → Sai, vì cô ấy cho rằng quảng cáo đô thị có tác động mạnh mẽ hơn.\n✅\nUrban advertising can have more impact.\n(Quảng cáo đô thị có thể có tác động lớn hơn.) → Đúng, vì Roberta cho rằng quảng cáo ngoài trời có thể có ảnh hưởng sâu sắc hơn so với quảng cáo trên TV.\n❌\nThere is greater variety in urban advertising.\n(Quảng cáo đô thị có nhiều hình thức đa dạng hơn.) → Sai, vì không có so sánh nào về mức độ đa dạng của hai loại quảng cáo."
+        },
+        {
+          "id": "question29",
+          "question": "Câu 29: What did the mayor of São Paulo do in 2007?",
+          "options": [
+            "A. He encouraged the establishment of advertising companies in the area.",
+            "B. He was strongly impressed by the development of advertising firms in the area.",
+            "C. He ordered the removal of more than ten thousand adverts.",
+            "D. He wrote an article about urban advertising."
+          ],
+          "correct_answer": "C. He ordered the removal of more than ten thousand adverts.",
+          "explanation": "Giải thích:\nWhat did the mayor of São Paulo do in 2007?\n(Thị trưởng São Paulo đã làm gì vào năm 2007?)\n✅\nHe ordered the removal of more than ten thousand adverts.\n(Ông ấy ra lệnh loại bỏ hơn 10.000 quảng cáo.) → Đúng, vì đoạn văn nói rằng thị trưởng Gilberto Kassab đã ra lệnh gỡ bỏ hơn 15.000 bảng quảng cáo.\n❌\nHe encouraged the establishment of advertising companies in the area.\n(Ông ấy khuyến khích thành lập các công ty quảng cáo trong khu vực.) → Sai, vì ông ấy chống lại quảng cáo đô thị.\n❌\nHe wrote an article about urban advertising.\n(Ông ấy viết một bài báo về quảng cáo đô thị.) → Sai, vì ông ấy không viết bài báo mà thực hiện hành động cụ thể.\n❌\nHe was strongly impressed by the development of advertising firms in the area.\n(Ông ấy rất ấn tượng với sự phát triển của các công ty quảng cáo trong khu vực.) → Sai, vì ông ấy không ủng hộ quảng cáo mà chỉ trích nó."
+        },
+        {
+          "id": "question30",
+          "question": "Câu 30: What response did the mayor get after removing advertising from São Paulo?",
+          "options": [
+            "A. The majority of private individuals and commercial people supported him.",
+            "B. Most of the people who lived in the city welcomed his decision.",
+            "C. Advertisers were willing to display fewer advertisements in the city.",
+            "D. Local artists were unsure how attractive the office blocks would look."
+          ],
+          "correct_answer": "B. Most of the people who lived in the city welcomed his decision.",
+          "explanation": "Giải thích:\nWhat response did the mayor get after removing advertising from São Paulo?\n(Thị trưởng nhận được phản ứng gì sau khi loại bỏ quảng cáo ở São Paulo?)\n❌\nThe majority of private individuals and commercial people supported him.\n(Phần lớn cá nhân và doanh nghiệp ủng hộ ông ấy.) → Sai, vì nhiều doanh nghiệp địa phương phản đối quyết định này.\n❌\nAdvertisers were willing to display fewer advertisements in the city.\n(Các nhà quảng cáo sẵn sàng giảm số lượng quảng cáo trong thành phố.) → Sai, vì không có bằng chứng cho thấy các nhà quảng cáo đồng ý với lệnh cấm.\n❌\nLocal artists were unsure how attractive the office blocks would look.\n(Các nghệ sĩ địa phương không chắc các tòa nhà văn phòng sẽ trông như thế nào.) → Sai, vì đây không phải là phản hồi chính từ người dân.\n✅\nMost of the people who lived in the city welcomed his decision.\n(Hầu hết người dân sống trong thành phố hoan nghênh quyết định của ông ấy.) → Đúng, vì một cư dân được trích dẫn nói rằng họ cảm thấy thành phố trông đẹp hơn khi không có quảng cáo."
+        }
+      ],
+      "original_test_id": 23,
+      "original_results_url": "https://luyenthivstep.vn/luyen-de/ket-qua-doc/265767"
+    },
+    {
+      "part_number": 4,
+      "title": "📖 Xem lại đề đọc mã số 24 - Part 4",
+      "passage": "Bài đọc\n(A)\nUntil fairly recently, explaining the presence of human beings in Australia was not considered a major problem. At the beginning of the twentieth century, it was believed that Aborigines had been on the continent for no more than 400 years. As recently as the 1960s, the estimated timeframe was perhaps 8,000 years. Then, in 1969, a geologist from the Australian National University in Canberra was exploring the shores of a long-dried lakebed called Mungo, in a remote and arid corner of New South Wales, when something caught his eye. It was the skeleton of a woman, protruding slightly from a sandbank. The bones were collected and sent for carbon dating. The results showed that the woman had died 23,000 years ago. Since then, other discoveries have pushed the date back even further. Today, evidence suggests an arrival date of at least 45,000 years ago, but more likely around 60,000 years. [A]\n(B)\nThe first occupants of Australia could not have walked there, as Australia has always been an island throughout human history. Nor could they have evolved independently, as the continent had no apelike creatures from which humans could have descended. The first arrivals could only have come by sea, presumably from Timor or the Indonesian archipelago, and here is where the challenges arise. [B]\n(C)\nTo place Homo sapiens in Australia, we must assume that at a time so remote that it predates the known rise of behaviorally modern humans, there existed in southern Asia a people so advanced that they were fishing inshore waters using some form of watercraft. This is despite the fact that the archaeological record shows no other evidence of such seafaring activity anywhere else on Earth for another 30,000 years.\n(D)\nNext, we must consider what motivated these people to cross at least sixty miles of open sea to reach a land they could hardly have known existed. The most widely accepted scenario is that a simple fishing craft—probably little more than a floating platform—was accidentally carried out to sea, likely due to one of the sudden storms characteristic of this region. This craft then drifted helplessly for several days before washing up on a beach in northern Australia. So far, so good. [D]\n(E)\nThe next logical question—one that is seldom asked—is how a new population could have arisen from this. If a lone fisherman was carried off to Australia, he would have needed to find his way back home to report his discovery and persuade enough people to accompany him to establish a colony. This, of course, implies the possession of significant sailing skills.\n(F)\nBy any measure, this is a\nstaggeringly\nmomentous achievement. Yet, how much attention has it received? Ask yourself—when was the last time you read anything about it? When was the last time, in any discussion of human migration and the rise of civilizations, that you saw even a passing mention of the role of Aborigines? They are the planet’s invisible people. A major part of the issue is that, for most of us, it is nearly impossible to comprehend the vast span of time under consideration here. Suppose, for the sake of argument, that Aborigines arrived in Australia 60,000 years ago (the figure used by Roger Lewin of Harvard in Principles of Evolution, a widely recognized text). In that case, the entire period of European occupation of Australia represents a mere 0.3 per cent of the total. [F]",
+      "translation": "(A)\nCho đến khá gần đây, việc giải thích sự xuất hiện của con người ở Úc không được coi là một vấn đề lớn. Vào đầu thế kỷ XX, người ta tin rằng thổ dân Úc đã có mặt trên lục địa này không quá 400 năm. Ngay cả vào những năm 1960, khung thời gian ước tính chỉ khoảng 8.000 năm. Sau đó, vào năm 1969, một nhà địa chất từ Đại học Quốc gia Úc ở Canberra đã khám phá bờ hồ cổ xưa Mungo—nay đã khô cạn—ở một vùng xa xôi và khô hạn của bang New South Wales, khi anh phát hiện ra một điều gì đó lạ thường. Đó là bộ xương của một người phụ nữ, nhô lên một phần từ cồn cát. Bộ xương được thu thập và gửi đi để xác định niên đại bằng phương pháp carbon. Kết quả cho thấy người phụ nữ này đã qua đời cách đây 23.000 năm. Kể từ đó, nhiều khám phá khác đã đẩy mốc thời gian này lùi xa hơn nữa. Ngày nay, bằng chứng cho thấy con người có thể đã đặt chân đến Úc ít nhất 45.000 năm trước, nhưng có khả năng là khoảng 60.000 năm. [A]\n(B)\nNhững người đầu tiên đặt chân đến Úc không thể đi bộ tới đây, vì Úc luôn là một hòn đảo trong suốt lịch sử loài người. Họ cũng không thể tiến hóa độc lập ở đây, vì lục địa này không có bất kỳ loài linh trưởng nào mà con người có thể tiến hóa từ đó. Do đó, những cư dân đầu tiên chỉ có thể đến bằng đường biển, có lẽ từ đảo Timor hoặc quần đảo Indonesia, và đây chính là điểm khiến câu chuyện trở nên đầy thách thức. [B]\n(C)\nĐể đưa loài Homo sapiens đến Úc, chúng ta phải giả định rằng vào một thời điểm xa xưa đến mức vượt quá cả thời kỳ được biết đến của con người hiện đại về mặt hành vi, đã tồn tại một nhóm người ở khu vực Nam Á tiên tiến đến mức họ có thể đánh bắt cá ven biển bằng một số dạng phương tiện di chuyển trên nước. Điều này hoàn toàn trái ngược với hồ sơ khảo cổ, vốn không ghi nhận bất kỳ hoạt động hàng hải nào trên Trái Đất trong suốt 30.000 năm tiếp theo.\n(D)\nTiếp theo, chúng ta phải xem xét động lực nào đã khiến những người này vượt qua ít nhất 60 dặm (khoảng 100 km) biển mở để đến một vùng đất mà họ gần như không thể biết trước sự tồn tại của nó. Kịch bản được chấp nhận rộng rãi nhất là một chiếc bè đánh cá đơn giản—có lẽ chỉ là một nền nổi—bị cuốn ra biển một cách tình cờ, có thể do một trong những cơn bão đột ngột đặc trưng của khu vực này. Chiếc bè này sau đó trôi dạt trong nhiều ngày trước khi bị đánh dạt vào một bãi biển ở miền bắc Úc. Cho đến đây, câu chuyện vẫn có vẻ hợp lý. [D]\n(E)\nCâu hỏi tiếp theo—một câu hỏi ít khi được đặt ra—là làm thế nào một dân số mới có thể hình thành từ sự kiện này. Nếu một ngư dân đơn độc bị cuốn trôi đến Úc, anh ta sẽ cần phải tìm đường trở về nhà để báo cáo phát hiện của mình và thuyết phục đủ số người đi cùng để thiết lập một cộng đồng. Điều này, tất nhiên, ngụ ý rằng họ phải sở hữu kỹ năng hàng hải đáng kể.\n(F)\nDù xét theo tiêu chí nào, đây cũng là một thành tựu\nđáng kinh ngạc\n. Thế nhưng, nó đã nhận được bao nhiêu sự chú ý? Hãy tự hỏi—lần cuối cùng bạn đọc được điều gì đó về nó là khi nào? Lần cuối cùng bạn thấy vai trò của thổ dân Úc được nhắc đến, dù chỉ thoáng qua, trong bất kỳ cuộc thảo luận nào về sự di cư của loài người và sự phát triển của các nền văn minh là khi nào? Họ dường như là những con người vô hình của hành tinh này. Một phần lớn của vấn đề là, đối với hầu hết chúng ta, rất khó để hiểu được khoảng thời gian dài đáng kinh ngạc đang được xem xét ở đây. Giả sử, vì mục đích lập luận, rằng thổ dân Úc đã đến đây từ 60.000 năm trước (theo con số được Roger Lewin của Đại học Harvard sử dụng trong\nPrinciples of Evolution\n, một tài liệu học thuật được công nhận rộng rãi). Nếu vậy, toàn bộ thời kỳ người châu Âu đặt chân đến Úc chỉ chiếm 0,3% tổng thời gian đó. [F]",
+      "questions": [
+        {
+          "id": "question31",
+          "question": "Câu 31: According to the text, Aborigines arrived in Australia _____.",
+          "options": [
+            "A. 400 years ago",
+            "B. 8,0000 years ago",
+            "C. 23,000 years ago",
+            "D. more than 45,000 years ago"
+          ],
+          "correct_answer": "D. more than 45,000 years ago",
+          "explanation": "Giải thích:\nAccording to the text, Aborigines arrived in Australia _____?\n(Theo văn bản, người thổ dân Úc đến Úc khi nào?)\n❌\n400 years ago\n(400 năm trước) → Sai, vì vào đầu thế kỷ XX, người ta tin rằng thổ dân Úc chỉ mới đến đây trong khoảng thời gian này, nhưng điều đó đã bị chứng minh là không đúng.\n❌\n8,000 years ago\n(8.000 năm trước) → Sai, vì vào những năm 1960, ước tính về thời gian xuất hiện của thổ dân Úc chỉ khoảng 8.000 năm, nhưng các khám phá sau này đã đẩy mốc thời gian xa hơn nhiều.\n❌\n23,000 years ago\n(23.000 năm trước) → Sai, vì bộ xương được tìm thấy ở hồ Mungo có niên đại khoảng 23.000 năm, nhưng những bằng chứng khác cho thấy người Úc đã đến đây sớm hơn.\n✅\nmore than 45,000 years ago\n(hơn 45.000 năm trước) → Đúng, vì bài đọc nói rằng bằng chứng cho thấy người Úc có thể đã đặt chân đến đây ít nhất 45.000 năm trước, nhưng có thể lên đến 60.000 năm."
+        },
+        {
+          "id": "question32",
+          "question": "Câu 32: What did the discovery of the skeleton show?",
+          "options": [
+            "A. Aborigines have been in Australia far longer than previously thought.",
+            "B. The Aborigine population was larger than originally thought.",
+            "C. The area called Mungo, now dry, was once a lake.",
+            "D. Aborigines used to live in very remote parts of Australia."
+          ],
+          "correct_answer": "A. Aborigines have been in Australia far longer than previously thought.",
+          "explanation": "Giải thích:\nWhat did the discovery of the skeleton show?\n(Phát hiện về bộ xương đã cho thấy điều gì?)\n❌\nAborigines used to live in very remote parts of Australia.\n(Người thổ dân Úc từng sống ở những vùng hẻo lánh của Úc.) → Sai, vì phát hiện này không chỉ ra nơi sinh sống của họ, mà chỉ cung cấp thông tin về thời gian họ có mặt ở Úc.\n❌\nThe area called Mungo, now dry, was once a lake.\n(Khu vực gọi là Mungo, hiện đã khô cạn, từng là một hồ nước.) → Sai, vì mặc dù thông tin này đúng trong bài đọc, nó không phải là phát hiện chính của bộ xương.\n✅\nAborigines have been in Australia far longer than previously thought.\n(Người thổ dân Úc đã có mặt ở Úc lâu hơn nhiều so với suy nghĩ trước đây.) → Đúng, vì bộ xương có niên đại 23.000 năm đã làm thay đổi hoàn toàn nhận thức về thời điểm con người đến Úc.\n❌\nThe Aborigine population was larger than originally thought.\n(Dân số thổ dân Úc lớn hơn so với suy nghĩ ban đầu.) → Sai, vì bài đọc không cung cấp thông tin về quy mô dân số."
+        },
+        {
+          "id": "question33",
+          "question": "Câu 33: Which of the following statements is NOT true, according to the text?",
+          "options": [
+            "A. Aborigines must have arrived in Australia by sea.",
+            "B. Aborigines probably originated in Timor or Indonesia.",
+            "C. Australia has always been an island since people existed.",
+            "D. Australian apes became extinct before human times."
+          ],
+          "correct_answer": "D. Australian apes became extinct before human times.",
+          "explanation": "Giải thích:\nWhich of the following statements is NOT true, according to the text?\n(Câu nào dưới đây KHÔNG đúng theo bài đọc?)\n❌\nAustralia has always been an island since people existed.\n(Úc luôn là một hòn đảo kể từ khi con người xuất hiện.) → Sai, vì bài đọc xác nhận điều này là đúng.\n✅\nAustralian apes became extinct before human times.\n(Loài vượn Úc đã tuyệt chủng trước thời đại con người.) → Đúng, vì bài đọc chỉ ra rằng Úc không có loài linh trưởng nào để con người có thể tiến hóa từ đó.\n❌\nAborigines probably originated in Timor or Indonesia.\n(Người thổ dân Úc có thể có nguồn gốc từ Timor hoặc Indonesia.) → Sai, vì bài đọc cho thấy đây là giả thuyết phổ biến về nguồn gốc của họ.\n❌\nAborigines must have arrived in Australia by sea.\n(Người thổ dân Úc chắc chắn đã đến Úc bằng đường biển.) → Sai, vì bài đọc khẳng định rằng đây là cách duy nhất để họ đến Úc."
+        },
+        {
+          "id": "question34",
+          "question": "Câu 34: Why is it so surprising that Homo sapiens got to Australia?",
+          "options": [
+            "A. Only much smaller boats have been found elsewhere from this period.",
+            "B. People in that area were less advanced than other peoples at this time.",
+            "C. It required skills that people generally developed very much later.",
+            "D. Aborigines are not particularly known for their sailing skills."
+          ],
+          "correct_answer": "C. It required skills that people generally developed very much later.",
+          "explanation": "Giải thích:\nWhy is it so surprising that Homo sapiens got to Australia?\n(Tại sao việc Homo sapiens đến Úc lại đáng ngạc nhiên như vậy?)\n✅\nIt required skills that people generally developed very much later.\n(Điều này đòi hỏi các kỹ năng mà con người chỉ phát triển rất lâu sau đó.) → Đúng, vì bài đọc chỉ ra rằng khả năng hàng hải vào thời điểm đó chưa được ghi nhận trong hồ sơ khảo cổ.\n❌\nPeople in that area were less advanced than other peoples at this time.\n(Người ở khu vực đó kém phát triển hơn các dân tộc khác vào thời điểm đó.) → Sai, vì bài đọc không đề cập đến sự phát triển xã hội của họ so với các dân tộc khác.\n❌\nOnly much smaller boats have been found elsewhere from this period.\n(Chỉ những con thuyền nhỏ hơn nhiều được tìm thấy từ thời kỳ này.) → Sai, vì không có bằng chứng nào về thuyền hoặc tàu thuyền tồn tại vào thời điểm đó.\n❌\nAborigines are not particularly known for their sailing skills.\n(Người thổ dân Úc không đặc biệt nổi tiếng về kỹ năng hàng hải.) → Sai, vì vấn đề chính không phải là kỹ năng của họ, mà là việc họ đến Úc vào thời điểm sớm như vậy."
+        },
+        {
+          "id": "question35",
+          "question": "Câu 35: What usually provides the explanation for the Aborigines' arrival in Australia?",
+          "options": [
+            "A. their curiosity",
+            "B. a desire for better fishing",
+            "C. bad weather",
+            "D. hunger for land"
+          ],
+          "correct_answer": "C. bad weather",
+          "explanation": "Giải thích:\nWhat usually provides the explanation for the Aborigines' arrival in Australia?\n(Giả thuyết nào thường được đưa ra để giải thích việc người thổ dân Úc đến Úc?)\n❌\ntheir curiosity\n(sự tò mò của họ) → Sai, vì bài đọc không đề cập đến việc họ tự nguyện khám phá vùng đất mới.\n✅\nbad weather\n(thời tiết xấu) → Đúng, vì bài đọc đưa ra giả thuyết phổ biến rằng một cơn bão mạnh có thể đã cuốn một chiếc bè đơn giản ra biển và đưa họ đến Úc.\n❌\na desire for better fishing\n(mong muốn có vùng đánh cá tốt hơn) → Sai, vì bài đọc không đề cập đến động cơ kinh tế hoặc tìm kiếm tài nguyên.\n❌\nhunger for land\n(khát khao mở rộng đất đai) → Sai, vì không có bằng chứng nào cho thấy họ tìm kiếm đất để định cư theo cách có kế hoạch."
+        },
+        {
+          "id": "question36",
+          "question": "Câu 36: The author is puzzled by how _____?",
+          "options": [
+            "A. enough people got there to found a settlement",
+            "B. the Aborigines chose not to return to their homeland",
+            "C. the aborigines got enough food and water to survive the crossing",
+            "D. the boat managed to travel across such dangerous seas"
+          ],
+          "correct_answer": "A. enough people got there to found a settlement",
+          "explanation": "Giải thích:\nThe author is puzzled by how _____?\n(Tác giả bối rối về điều gì?)\n❌\nthe boat managed to travel across such dangerous seas\n(con thuyền có thể di chuyển qua vùng biển nguy hiểm như thế nào) → Sai, vì tác giả không tập trung vào việc làm sao họ vượt qua biển, mà là điều gì xảy ra sau đó.\n❌\nthe aborigines got enough food and water to survive the crossing\n(người thổ dân Úc lấy đủ thức ăn và nước uống để sống sót qua chuyến đi như thế nào) → Sai, vì bài đọc không đặt câu hỏi về điều này.\n✅\nenough people got there to found a settlement\n(làm thế nào đủ số người đến đó để thành lập một cộng đồng) → Đúng, vì tác giả nhấn mạnh rằng một cá nhân bị trôi dạt đến Úc không thể tự mình thành lập một cộng đồng, trừ khi họ có khả năng quay trở lại và thuyết phục nhiều người hơn.\n❌\nthe Aborigines chose not to return to their homeland\n(người thổ dân Úc chọn không quay về quê hương của họ) → Sai, vì bài đọc không đề cập đến việc họ có ý định quay trở lại hay không."
+        },
+        {
+          "id": "question37",
+          "question": "Câu 37: Which word could replace \"staggeringly\" in paragraph (F) without changing the meaning?",
+          "options": [
+            "A. shockingly",
+            "B. extraordinarily",
+            "C. desperately",
+            "D. wonderfully"
+          ],
+          "correct_answer": "B. extraordinarily",
+          "explanation": "Giải thích:\nWhich word could replace \"staggeringly\" in paragraph (F) without changing the meaning?\n(Từ nào có thể thay thế \"staggeringly\" trong đoạn (F) mà không làm thay đổi nghĩa?)\n✅\nextraordinarily\n(cực kỳ, phi thường) → Đúng, vì \"staggeringly\" có nghĩa là \"một cách đáng kinh ngạc, phi thường\", tương đồng với \"extraordinarily\".\n❌\nshockingly\n(một cách gây sốc) → Sai, vì \"shockingly\" mang nghĩa tiêu cực hơn, không phù hợp với ngữ cảnh.\n❌\nwonderfully\n(một cách tuyệt vời) → Sai, vì \"staggeringly\" nhấn mạnh mức độ đáng kinh ngạc chứ không phải sự tuyệt vời.\n❌\ndesperately\n(một cách tuyệt vọng) → Sai, vì nghĩa của \"desperately\" không liên quan đến mức độ kinh ngạc hay phi thường."
+        },
+        {
+          "id": "question38",
+          "question": "Câu 38: What does the writer seem most surprised by at the end of this passage?",
+          "options": [
+            "A. how badly European settlers treated Australian Aborigines",
+            "B. the fact that so little attention is paid to this aspect of human history",
+            "C. the way that Aborigines managed to establish themselves in Australia",
+            "D. how long Australian Aborigines have lived on the continent"
+          ],
+          "correct_answer": "B. the fact that so little attention is paid to this aspect of human history",
+          "explanation": "Giải thích:\nWhat does the writer seem most surprised by at the end of this passage?\n(Điều gì khiến tác giả ngạc nhiên nhất vào cuối bài viết?)\n❌\nthe way that Aborigines managed to establish themselves in Australia\n(cách mà người thổ dân Úc định cư tại Úc) → Sai, vì đây là điều đã được bàn luận trước đó trong bài đọc.\n❌\nhow badly European settlers treated Australian Aborigines\n(người định cư châu Âu đã đối xử tệ với người thổ dân Úc như thế nào) → Sai, vì bài đọc không tập trung vào sự đối xử mà người châu Âu dành cho người thổ dân Úc.\n❌\nhow long Australian Aborigines have lived on the continent\n(người thổ dân Úc đã sống trên lục địa này bao lâu) → Sai, vì điều này đã được đề cập xuyên suốt bài đọc, nhưng không phải điều khiến tác giả ngạc nhiên nhất.\n✅\nthe fact that so little attention is paid to this aspect of human history\n(thực tế rằng khía cạnh này của lịch sử nhân loại ít được chú ý) → Đúng, vì tác giả bày tỏ sự ngạc nhiên rằng rất ít người nói về vai trò của người thổ dân Úc trong lịch sử loài người."
+        },
+        {
+          "id": "question39",
+          "question": "Câu 39: Where would this sentence fit in the passage? \"For 99.7% of its inhabited history, the Aborigines had Australia to themselves.\"",
+          "options": [
+            "A. (C)",
+            "B. (B)",
+            "C. (D)",
+            "D. (A)"
+          ],
+          "correct_answer": "C. (D)",
+          "explanation": "Giải thích:\nWhere would this sentence fit in the passage? \"For 99.7% of its inhabited history, the Aborigines had Australia to themselves.\"\n(Câu này nên được đặt ở đâu trong bài đọc?)\n❌\n(A)\n→ Sai, vì đoạn (A) chủ yếu tập trung vào các mốc thời gian về sự xuất hiện của con người tại Úc.\n❌\n(B)\n→ Sai, vì đoạn (B) bàn về cách người thổ dân Úc có thể đã đến lục địa này.\n❌\n(C)\n→ Sai, vì đoạn (C) tập trung vào thách thức của việc di cư đến Úc.\n✅\n(D)\n→ Đúng, vì đoạn (D) bắt đầu giải thích về sự hiện diện lâu dài của người thổ dân Úc và tác động của họ trong suốt lịch sử."
+        },
+        {
+          "id": "question40",
+          "question": "Câu 40: What is the main point the writer is making in the last paragraph?",
+          "options": [
+            "A. The Aborigines have inhabited Australia for much longer than the Europeans have Europe.",
+            "B. The Europeans had no right to take over Aborigine land in Australia.",
+            "C. No one can be exactly certain as to when the Aborigines first arrived in Australia.",
+            "D. The Aborigines were the only people in Australia for most of the time since it was settled."
+          ],
+          "correct_answer": "D. The Aborigines were the only people in Australia for most of the time since it was settled.",
+          "explanation": "Giải thích:\nWhat is the main point the writer is making in the last paragraph?\n(Ý chính mà tác giả muốn nhấn mạnh trong đoạn cuối là gì?)\n❌\nThe Europeans had no right to take over Aborigine land in Australia.\n(Người châu Âu không có quyền chiếm đất của người thổ dân Úc.) → Sai, vì bài đọc không đề cập đến vấn đề quyền sở hữu đất.\n❌\nNo one can be exactly certain as to when the Aborigines first arrived in Australia.\n(Không ai có thể chắc chắn chính xác khi nào người thổ dân Úc lần đầu tiên đến Úc.) → Sai, vì bài đọc đã cung cấp bằng chứng khoa học về niên đại của họ.\n❌\nThe Aborigines have inhabited Australia for much longer than the Europeans have Europe.\n(Người thổ dân Úc đã sống ở Úc lâu hơn nhiều so với thời gian người châu Âu sống ở châu Âu.) → Sai, vì bài đọc không so sánh lịch sử định cư giữa người Úc bản địa và người châu Âu.\n✅\nThe Aborigines were the only people in Australia for most of the time since it was settled.\n(Người thổ dân Úc là những người duy nhất sống ở Úc trong phần lớn lịch sử của nó.) → Đúng, vì bài đọc nhấn mạnh rằng trong 99.7% lịch sử có người sinh sống của Úc, chỉ có người thổ dân Úc ở đó."
+        }
+      ],
+      "original_test_id": 24,
+      "original_results_url": "https://luyenthivstep.vn/luyen-de/ket-qua-doc/265768"
+    }
+  ],
   "questions": [
     {
       "id": "question1",
-      "question": "Câu 1: The passage answers which of the following questions?",
+      "question": "Câu 1: At this time of year, _____",
       "options": [
-        "A. Which early jazz musicians most influenced rhythmand blues music?",
-        "B. What are the differences between jazz and other forms of music?",
-        "C. Why is dancing closely related to popular music in the United States?",
-        "D. What instruments comprised a typical jazz band of the 1920's?"
+        "A. the writer hopes for something that never happens.",
+        "B. the TV channels change all their programmes.",
+        "C. the writer disappoints the TV channels with her reviews.",
+        "D. the writer's favourite programmes often disappear."
       ],
-      "correct_answer": "B. What are the differences between jazz and other forms of music?",
-      "explanation": "Giải thích:\nThe passage answers which of the following questions?\n(Bài đọc trả lời câu hỏi nào sau đây?)\n❌\nWhich early jazz musicians most influenced rhythm and blues music?\n(Những nhạc sĩ jazz thời kỳ đầu nào có ảnh hưởng lớn nhất đến nhạc rhythm and blues?) → Sai vì bài đọc không đề cập cụ thể đến sự ảnh hưởng của nhạc sĩ jazz đối với rhythm and blues, mà chỉ nói về sự phát triển của jazz trong bối cảnh âm nhạc đại chúng Mỹ.\n✅\nWhat are the differences between jazz and other forms of music?\n(Những điểm khác biệt giữa jazz và các thể loại nhạc khác là gì?) → Đúng vì bài đọc tập trung vào hai đặc điểm chính giúp phân biệt jazz với các thể loại nhạc khác: **ngẫu hứng (improvisation)** và **nhịp điệu mạnh mẽ (rhythmic drive)**.\n❌\nWhy is dancing closely related to popular music in the United States?\n(Tại sao khiêu vũ có mối liên hệ mật thiết với nhạc đại chúng ở Mỹ?) → Sai vì bài đọc có đề cập đến nhạc jazz như một phần của dòng nhạc khiêu vũ, nhưng không tập trung giải thích mối quan hệ giữa khiêu vũ và nhạc đại chúng.\n❌\nWhat instruments comprised a typical jazz band of the 1920's?\n(Những nhạc cụ nào tạo nên một ban nhạc jazz điển hình vào những năm 1920?) → Sai vì bài đọc không liệt kê cụ thể các nhạc cụ trong một ban nhạc jazz thập niên 1920."
+      "correct_answer": "A. the writer hopes for something that never happens.",
+      "explanation": "Giải thích:\nAt this time of year, _____\n(Vào thời điểm này trong năm, _____)\n❌\nthe TV channels change all their programmes.\n(Các kênh truyền hình thay đổi tất cả chương trình của họ.) → Sai, vì bài đọc cho thấy rằng lịch phát sóng không có nhiều thay đổi.\n❌\nthe writer disappoints the TV channels with her reviews.\n(Tác giả khiến các kênh truyền hình thất vọng với bài đánh giá của mình.) → Sai, vì tác giả chỉ bày tỏ ý kiến cá nhân.\n✅\nthe writer hopes for something that never happens.\n(Tác giả hy vọng điều gì đó nhưng nó không bao giờ xảy ra.) → Đúng, vì tác giả nói rằng cô ấy luôn mong đợi lịch phát sóng thay đổi, nhưng điều đó không bao giờ xảy ra.\n❌\nthe writer's favourite programmes often disappear.\n(Các chương trình yêu thích của tác giả thường biến mất.) → Sai, vì bài đọc không đề cập đến điều này."
     },
     {
       "id": "question2",
-      "question": "Câu 2: Which of the following appeared before jazz as a popular music for dancing?",
+      "question": "Câu 2: How does the writer describe the current programmes on SuperTV?",
       "options": [
-        "A. Rhythm and blues",
-        "B. Disco",
-        "C. Rock",
-        "D. Ragtime"
+        "A. informative",
+        "B. strange",
+        "C. disappointing",
+        "D. exciting"
       ],
-      "correct_answer": "D. Ragtime",
-      "explanation": "Giải thích:\nWhich of the following appeared before jazz as a popular music for dancing?\n(Thể loại nhạc nào sau đây xuất hiện trước jazz như một dòng nhạc khiêu vũ phổ biến?)\n❌\nDisco\n(Nhạc disco) → Sai vì disco chỉ xuất hiện vào những năm 1970, trong khi jazz đã phổ biến từ những năm 1920.\n❌\nRock\n(Nhạc rock) → Sai vì rock trở nên phổ biến vào những năm 1950, sau jazz.\n❌\nRhythm and blues\n(Nhạc R&B) → Sai vì rhythm and blues xuất hiện vào những năm 1950, muộn hơn jazz rất nhiều.\n✅\nRagtime\n(Nhạc ragtime) → Đúng vì đoạn (A) có đề cập rằng \"In the twenties, jazz became the hottest new thing in dance music, much as ragtime had at the turn of the century.\" (\"Vào những năm 1920, jazz trở thành xu hướng mới trong nhạc khiêu vũ, giống như ragtime vào đầu thế kỷ.\") Điều này chứng tỏ ragtime đã xuất hiện trước jazz như một thể loại nhạc khiêu vũ phổ biến."
+      "correct_answer": "C. disappointing",
+      "explanation": "Giải thích:\nHow does the writer describe the current programmes on SuperTV?\n(Tác giả mô tả các chương trình hiện tại trên SuperTV như thế nào?)\n❌\nexciting.\n(thú vị) → Sai, vì tác giả cảm thấy chương trình rất nhàm chán.\n❌\ninformative.\n(cung cấp nhiều thông tin) → Sai, vì bài đọc không đề cập đến việc các chương trình mang tính giáo dục hay thông tin.\n❌\nstrange.\n(kỳ lạ) → Sai, vì tác giả không gọi chương trình là kỳ lạ.\n✅\ndisappointing.\n(gây thất vọng) → Đúng, vì tác giả cảm thấy lịch phát sóng của SuperTV luôn lặp lại và không có ý tưởng mới."
     },
     {
       "id": "question3",
-      "question": "Câu 3: According to the passage, jazz musicians are able to demonstrate their individual artistry mainly by?",
+      "question": "Câu 3: What does \"They\" in paragraph (A) refer to?",
       "options": [
-        "A. creating musical variations while performing",
-        "B. preparing musical arrangements",
-        "C. reading music with great skill",
-        "D. being able to play all types of popular music"
+        "A. TV viewers",
+        "B. SuperTV",
+        "C. the TV channels",
+        "D. the presenters of VJ-TV"
       ],
-      "correct_answer": "A. creating musical variations while performing",
-      "explanation": "Giải thích:\nAccording to the passage, jazz musicians are able to demonstrate their individual artistry mainly by?\n(Theo bài đọc, các nhạc sĩ jazz có thể thể hiện nghệ thuật cá nhân của họ chủ yếu bằng cách nào?)\n✅\nCreating musical variations while performing\n(Tạo ra các biến tấu âm nhạc trong khi biểu diễn) → Đúng vì đoạn (B) nói rằng \"The first is\nimprovisation\n, the changing of a musical phrase according to the player's inspiration.\" (\"Đặc điểm đầu tiên là\nngẫu hứng\n, tức là thay đổi một cụm nhạc dựa theo cảm hứng của người chơi.\") Điều này chứng tỏ nhạc sĩ jazz thể hiện cá tính nghệ thuật của mình thông qua việc tạo ra các biến tấu trong khi chơi nhạc.\n❌\nPreparing musical arrangements\n(Chuẩn bị bản phối nhạc) → Sai vì bài đọc nhấn mạnh vào khả năng ngẫu hứng khi chơi nhạc chứ không phải việc chuẩn bị bản phối từ trước.\n❌\nReading music with great skill\n(Đọc nhạc một cách điêu luyện) → Sai vì mặc dù kỹ năng đọc nhạc quan trọng, nhưng điều làm cho nhạc jazz đặc biệt là sự ứng biến chứ không phải chỉ đơn thuần đọc nhạc một cách chính xác.\n❌\nBeing able to play all types of popular music\n(Có thể chơi tất cả các thể loại nhạc đại chúng) → Sai vì bài đọc không đề cập đến việc nhạc sĩ jazz phải có khả năng chơi tất cả các thể loại nhạc đại chúng."
+      "correct_answer": "B. SuperTV",
+      "explanation": "Giải thích:\nWhat does \"They\" in paragraph (A) refer to?\n(Từ \"They\" trong đoạn (A) ám chỉ điều gì?)\n✅\nSuperTV.\n→ Đúng, vì câu trước đó nói về lịch phát sóng của SuperTV.\n❌\nthe TV channels.\n(các kênh truyền hình) → Sai, vì từ \"They\" trong ngữ cảnh này chỉ riêng SuperTV, không phải tất cả các kênh truyền hình.\n❌\nthe presenters of VJ-TV.\n(các MC của VJ-TV) → Sai, vì \"They\" không liên quan đến các MC.\n❌\nTV viewers.\n(khán giả truyền hình) → Sai, vì \"They\" không ám chỉ khán giả."
     },
     {
       "id": "question4",
-      "question": "Câu 4: Which of the following was the function of \"get-off\" musicians?",
+      "question": "Câu 4: The writer says that Staff Room will probably _____.",
       "options": [
-        "A. Assist the other band members in packing up after a performance",
-        "B. Teach dance routines created for new music",
-        "C. Provide solo performances in a band or orchestra",
-        "D. Lead the band"
+        "A. be successful",
+        "B. be worse than Train Driver",
+        "C. shock students",
+        "D. be on instead of Life in Aylesford Street"
       ],
-      "correct_answer": "C. Provide solo performances in a band or orchestra",
-      "explanation": "Giải thích:\nWhich of the following was the function of \"get-off\" musicians?\n(Chức năng của các nhạc sĩ \"get-off\" là gì?)\n❌\nAssist the other band members in packing up after a performance\n(Hỗ trợ các thành viên khác trong ban nhạc thu dọn sau buổi biểu diễn) → Sai vì \"get-off\" musicians không liên quan đến công việc hậu cần sau buổi diễn, mà là những nghệ sĩ độc tấu.\n❌\nTeach dance routines created for new music\n(Dạy các động tác nhảy được tạo ra cho nhạc mới) → Sai vì bài đọc không đề cập đến việc những nhạc sĩ này tham gia vào việc dạy nhảy.\n❌\nLead the band\n(Dẫn dắt ban nhạc) → Sai vì \"get-off\" musicians không phải là nhạc trưởng hay người dẫn dắt ban nhạc.\n✅\nProvide solo performances in a band or orchestra\n(Biểu diễn độc tấu trong một ban nhạc hoặc dàn nhạc) → Đúng vì đoạn (B) nói rằng \"Similarly, show orchestras and carnival bands often included one or two such\n‘get-off’ musicians\n.\" (\"Tương tự, các dàn nhạc sân khấu và ban nhạc lễ hội cũng thường có một hoặc hai\nnhạc sĩ 'get-off'\n.\") Điều này cho thấy những nhạc sĩ này có vai trò biểu diễn độc tấu trong ban nhạc hoặc dàn nhạc."
+      "correct_answer": "A. be successful",
+      "explanation": "Giải thích:\nThe writer says that Staff Room will probably _____.\n(Tác giả nói rằng chương trình Staff Room có thể sẽ _____.)\n✅\nbe successful.\n(thành công) → Đúng, vì tác giả tin rằng chương trình này sẽ là \"cú hit của mùa hè\".\n❌\nshock students.\n(gây sốc cho học sinh) → Sai, vì chương trình chỉ đơn giản là theo chân giáo viên, không phải là nội dung gây sốc.\n❌\nbe worse than Train Driver.\n(tệ hơn Train Driver) → Sai, vì bài đọc không nói rằng nó tệ hơn chương trình trước đó.\n❌\nbe on instead of Life in Aylesford Street.\n(thay thế Life in Aylesford Street) → Sai, vì cả hai chương trình sẽ được phát sóng trên Channel 9."
     },
     {
       "id": "question5",
-      "question": "Câu 5: Which two types of music emerged during the same era?",
+      "question": "Câu 5: Characters of the show Staff Room are _____.",
       "options": [
-        "A. Jazz/Rock",
-        "B. Jazz/Dance",
-        "C. Rock/Rhythm & Blues",
-        "D. Dance/Rhythm & Blues"
+        "A. teachers",
+        "B. students",
+        "C. travellers",
+        "D. Channel 9's audience"
       ],
-      "correct_answer": "B. Jazz/Dance",
-      "explanation": "Giải thích:\nWhich two types of music emerged during the same era?\n(Hai thể loại nhạc nào xuất hiện trong cùng một thời kỳ?)\n❌Jazz/Dance\n(Nhạc jazz và nhạc khiêu vũ) → Sai vì đoạn (A) nói rằng \"In the twenties, jazz became the hottest new thing in dance music.\" (\"Vào những năm 1920, jazz trở thành xu hướng mới nhất trong nhạc khiêu vũ.\"). Điều này cho thấy jazz là một nhánh của nhạc khiêu vũ chứ không phải hai thể loại nhạc riêng biệt.\n✅Rock/Rhythm & Blues\n(Nhạc rock và nhạc R&B) → Đúng vì rock và rhythm & blues đều cùng phát triển vào những năm 1950.\n❌\nDance/Rhythm & Blues\n(Nhạc khiêu vũ và nhạc R&B) → Sai vì bài đọc không đề cập đến việc nhạc R&B phát triển cùng thời với nhạc khiêu vũ.\n❌\nJazz/Rock\n(Nhạc jazz và nhạc rock) → Sai vì rock chỉ xuất hiện vào những năm 1950, trong khi jazz đã phổ biến từ những năm 1920."
+      "correct_answer": "A. teachers",
+      "explanation": "Giải thích:\nCharacters of the show Staff Room are _____.\n(Các nhân vật trong chương trình Staff Room là ____.)\n❌\nstudents.\n(học sinh) → Sai, vì chương trình theo chân các giáo viên, không phải học sinh.\n✅\nteachers.\n(giáo viên) → Đúng, vì bài đọc nói rằng chương trình này theo chân các giáo viên cả ngày.\n❌\ntravellers.\n(người đi du lịch) → Sai, vì bài đọc không đề cập đến khách du lịch.\n❌\nChannel 9's audience.\n(khán giả của Channel 9) → Sai, vì câu hỏi hỏi về nhân vật trong chương trình, không phải khán giả."
     },
     {
       "id": "question6",
-      "question": "Câu 6: Louis Armstrong was mentioned as an influential musician in which jazz style?",
+      "question": "Câu 6: The word \"hilarious\" in paragraph (C) can be best replaced by _____?",
       "options": [
-        "A. Structured jazz",
-        "B. Big band jazz",
-        "C. Hot jazz / Swing jazz",
-        "D. Chorus-based jazz"
+        "A. up-to-date",
+        "B. amusing",
+        "C. strange",
+        "D. informative"
       ],
-      "correct_answer": "C. Hot jazz / Swing jazz",
-      "explanation": "Giải thích:\nLouis Armstrong was mentioned as an influential musician in which jazz style?\n(Louis Armstrong được nhắc đến như một nhạc sĩ có ảnh hưởng trong phong cách jazz nào?)\n❌\nHot jazz / Swing jazz\n(Nhạc jazz \"hot\" / Nhạc swing) → Sai vì đoạn (B) không trực tiếp liên hệ Armstrong với phong cách \"hot\" hay \"swing\". Phong cách \"hot\" được giải thích ở đoạn (C) như là đặc điểm nhịp điệu chung của jazz, chứ không gắn với ảnh hưởng của Louis Armstrong.\n✅\nChorus-based jazz\n(Nhạc jazz dựa trên đoạn điệp khúc) → Đúng vì đoạn (B) viết: \"Louis Armstrong's instrumental brilliance, demonstrated through extended solos, was a major influence in this development.\" Câu này theo sau nội dung nói về \"chorus-long or multichorus solo\", cho thấy Armstrong có ảnh hưởng lớn đến việc phát triển phong cách solo kéo dài theo đoạn điệp khúc.\n❌\nStructured jazz\n(Nhạc jazz có cấu trúc chặt chẽ) → Sai vì Armstrong nổi tiếng với khả năng ngẫu hứng, không phải là người tiêu biểu cho phong cách jazz theo cấu trúc cố định.\n❌\nBig band jazz\n(Nhạc jazz dàn nhạc lớn) → Sai vì bài đọc không nhắc đến \"big band\", và Armstrong không được gắn với dòng nhạc dàn nhạc lớn trong ngữ cảnh đoạn văn."
+      "correct_answer": "B. amusing",
+      "explanation": "Giải thích:\nThe word \"hilarious\" in paragraph (C) can be best replaced by _____?\n(Từ \"hilarious\" trong đoạn (C) có thể được thay thế tốt nhất bằng từ nào?)\n✅\namusing.\n(hài hước) → Đúng, vì \"hilarious\" có nghĩa là cực kỳ vui nhộn, hài hước.\n❌\ninformative.\n(cung cấp thông tin) → Sai, vì \"hilarious\" không liên quan đến việc cung cấp thông tin.\n❌\nstrange.\n(kỳ lạ) → Sai, vì \"hilarious\" không mang nghĩa kỳ lạ.\n❌\nup-to-date.\n(cập nhật) → Sai, vì \"hilarious\" không liên quan đến sự cập nhật."
     },
     {
       "id": "question7",
-      "question": "Câu 7: The word \"consciously\" is closest in meaning to",
+      "question": "Câu 7: The writer thinks that <i>Joke-a-Cola is now 3</i> _____",
       "options": [
-        "A. carelessly",
-        "B. periodically",
-        "C. easily",
-        "D. purposely"
+        "A. more popular with viewers",
+        "B. funnier than before.",
+        "C. more difficult to understand.",
+        "D. more like a sitcom."
       ],
-      "correct_answer": "D. purposely",
-      "explanation": "Giải thích:\nThe word \"consciously\" is closest in meaning to:\n(Từ \"consciously\" có nghĩa gần nhất với từ nào?)\n❌\ncarelessly\n(Một cách bất cẩn) → Sai vì \"carelessly\" có nghĩa là làm điều gì đó không cẩn thận, trong khi \"consciously\" có nghĩa là có chủ đích.\n❌\neasily\n(Một cách dễ dàng) → Sai vì \"easily\" chỉ mức độ dễ dàng của hành động, trong khi \"consciously\" liên quan đến ý thức và chủ đích khi thực hiện.\n❌\nperiodically\n(Một cách định kỳ) → Sai vì \"periodically\" đề cập đến điều gì đó xảy ra theo chu kỳ, không liên quan đến ý thức hay sự cố ý của người thực hiện.\n✅\npurposely\n(Một cách có chủ đích) → Đúng vì \"consciously\" có nghĩa là làm điều gì đó với sự nhận thức và chủ đích, đồng nghĩa với \"purposely\". Trong đoạn văn, \"consciously\" được dùng để mô tả cách nhạc sĩ jazz **cố ý** phá vỡ nhịp điệu truyền thống để tạo ra phong cách phrasing độc đáo."
+      "correct_answer": "B. funnier than before.",
+      "explanation": "Giải thích:\nThe writer thinks that\nJoke-a-Cola\nis now _____.\n(Tác giả nghĩ rằng\nJoke-a-Cola\nbây giờ ____.)\n❌\nmore difficult to understand.\n(khó hiểu hơn) → Sai, vì tác giả không đề cập đến sự khó hiểu của chương trình.\n❌\nmore popular with viewers.\n(phổ biến hơn với khán giả) → Sai, vì bài đọc không nói về mức độ phổ biến của chương trình.\n✅\nfunnier than before.\n(hài hước hơn trước) → Đúng, vì tác giả nói rằng phần 1 chỉ hơi hài hước, phần 2 cực kỳ vui nhộn.\n❌\nmore like a sitcom.\n(giống phim sitcom hơn) → Sai, vì chương trình là một show hài, không phải sitcom."
     },
     {
       "id": "question8",
-      "question": "Câu 8: The word \"unadorned\" is closest in meaning to",
+      "question": "Câu 8: Because of the various choices of entertainment, _____?",
       "options": [
-        "A. lovely",
-        "B. plain",
-        "C. inexpensive",
-        "D. disorganized"
+        "A. programmes have to be more exciting.",
+        "B. people watch more television.",
+        "C. programme makers have to tell lies.",
+        "D. people move to areas with more facilities."
       ],
-      "correct_answer": "B. plain",
-      "explanation": "Giải thích:\nThe word \"unadorned\" is closest in meaning to:\n(Từ \"unadorned\" có nghĩa gần nhất với từ nào?)\n❌\nlovely\n(Đẹp, đáng yêu) → Sai vì \"unadorned\" có nghĩa là không được trang trí, trong khi \"lovely\" lại mang nghĩa tích cực về mặt thẩm mỹ.\n✅\nplain\n(Đơn giản, không trang trí) → Đúng vì \"unadorned\" có nghĩa là không được tô điểm hoặc làm đẹp, giống với nghĩa của \"plain\". Trong bài đọc, từ này được dùng để mô tả những bản nhạc jazz đơn giản, không có sự biến tấu phức tạp.\n❌\ndisorganized\n(Lộn xộn, thiếu tổ chức) → Sai vì \"unadorned\" không liên quan đến sự thiếu tổ chức, mà chỉ mô tả sự đơn giản, không có trang trí thêm.\n❌\ninexpensive\n(Không đắt tiền) → Sai vì \"unadorned\" không mang nghĩa về giá trị tiền bạc mà chỉ mô tả sự tối giản trong hình thức."
+      "correct_answer": "A. programmes have to be more exciting.",
+      "explanation": "Giải thích:\nBecause of the various choices of entertainment, _____?\n(Vì có nhiều lựa chọn giải trí, _____?)\n❌\npeople watch more television.\n(mọi người xem TV nhiều hơn) → Sai, vì bài đọc nói rằng TV có thể mất đi khán giả.\n❌\npeople move to areas with more facilities.\n(mọi người chuyển đến khu vực có nhiều tiện ích hơn) → Sai, vì bài đọc không đề cập đến di chuyển chỗ ở.\n❌\nprogramme makers have to tell lies.\n(những người làm chương trình phải nói dối) → Sai, vì không có chi tiết nào đề cập đến việc nói dối.\n✅\nprogrammes have to be more exciting.\n(các chương trình phải thú vị hơn) → Đúng, vì tác giả nói rằng để giữ chân khán giả, các nhà sản xuất phải tạo ra nội dung hấp dẫn hơn."
     },
     {
       "id": "question9",
-      "question": "Câu 9: Which of the following terms is defined in the passage?",
+      "question": "Câu 9: The writer thinks that television _____",
       "options": [
-        "A. polyphony",
-        "B. cornet player",
-        "C. multichorus",
-        "D. improvisation"
+        "A. could lose its popularity in the future.",
+        "B. will never be as popular as the theatre is.",
+        "C. should show more programmes about hobbies.",
+        "D. ought to provide more than just entertainment."
       ],
-      "correct_answer": "D. improvisation",
-      "explanation": "Giải thích:\nWhich of the following terms is defined in the passage?\n(Thuật ngữ nào sau đây được định nghĩa trong bài đọc?)\n✅\nimprovisation\n(Ngẫu hứng) → Đúng vì đoạn (B) định nghĩa rõ ràng thuật ngữ này: \"The first is\nimprovisation\n, the changing of a musical phrase according to the player's inspiration.\" (\"Đặc điểm đầu tiên là\nngẫu hứng\n, tức là thay đổi một cụm nhạc dựa theo cảm hứng của người chơi.\")\n❌\npolyphony\n(Đa âm) → Sai vì bài đọc có nhắc đến từ này nhưng không đưa ra định nghĩa rõ ràng, chỉ mô tả cách nó được sử dụng trong jazz.\n❌\ncornet player\n(Nhạc công kèn cornet) → Sai vì \"cornet player\" được dùng để mô tả nhạc sĩ Buddy Bolden nhưng không có định nghĩa cụ thể trong bài.\n❌\nmultichorus\n(Độc tấu nhiều đoạn) → Sai vì thuật ngữ này được đề cập nhưng không có định nghĩa rõ ràng trong bài đọc."
+      "correct_answer": "A. could lose its popularity in the future.",
+      "explanation": "Giải thích:\nThe writer thinks that television _____.\n(Tác giả nghĩ rằng truyền hình _____.)\n❌\nwill never be as popular as the theatre is.\n(sẽ không bao giờ phổ biến như nhà hát) → Sai, vì tác giả không so sánh trực tiếp giữa TV và nhà hát.\n❌\nshould show more programmes about hobbies.\n(nên chiếu nhiều chương trình về sở thích hơn) → Sai, vì bài đọc không đề cập đến điều này.\n✅\ncould lose its popularity in the future.\n(có thể mất đi sự phổ biến trong tương lai) → Đúng, vì tác giả nói rằng truyền hình đã phổ biến trong 50-60 năm, nhưng có thể không mãi mãi.\n❌\nought to provide more than just entertainment.\n(nên cung cấp nhiều hơn là chỉ giải trí) → Sai, vì bài đọc không đề cập đến việc TV cần có nội dung giáo dục hay xã hội."
     },
     {
       "id": "question10",
-      "question": "Câu 10: The topic of the passage is developed primarily by means of",
+      "question": "Câu 10: Which of the following channels would the author most probably recommend viewers to watch?",
       "options": [
-        "A. describing historical events in sequence",
-        "B. presenting contrasting points of views",
-        "C. dividing the discussion into two major areas",
-        "D. providing biographies of famous musician"
+        "A. Channel 9",
+        "B. BTV1",
+        "C. All of them",
+        "D. SuperTV"
       ],
-      "correct_answer": "C. dividing the discussion into two major areas",
-      "explanation": "Giải thích:\nThe topic of the passage is developed primarily by means of:\n(Chủ đề của bài đọc được phát triển chủ yếu bằng cách nào?)\n✅\ndividing the discussion into two major areas\n(Chia cuộc thảo luận thành hai lĩnh vực chính) → Đúng vì bài đọc chia nội dung thành hai đặc điểm chính giúp phân biệt jazz với các thể loại nhạc khác: **ngẫu hứng (improvisation)** và **nhịp điệu mạnh mẽ (rhythmic drive)**. Mỗi đặc điểm được trình bày trong một đoạn riêng biệt.\n❌\npresenting contrasting points of views\n(Trình bày các quan điểm đối lập) → Sai vì bài đọc không đưa ra các quan điểm trái ngược nhau về jazz mà chỉ mô tả các đặc điểm của thể loại này.\n❌\nproviding biographies of famous musicians\n(Cung cấp tiểu sử của các nhạc sĩ nổi tiếng) → Sai vì bài đọc chỉ đề cập đến một số nhạc sĩ như Louis Armstrong và Buddy Bolden, nhưng không cung cấp tiểu sử đầy đủ của họ.\n❌\ndescribing historical events in sequence\n(Mô tả các sự kiện lịch sử theo trình tự thời gian) → Sai vì bài đọc không tập trung vào việc trình bày lịch sử phát triển của jazz theo trình tự thời gian mà nhấn mạnh vào các đặc điểm chính của thể loại này."
+      "correct_answer": "A. Channel 9",
+      "explanation": "Giải thích:\nWhich of the following channels would the author most probably recommend viewers to watch?\n(Kênh nào sau đây có khả năng được tác giả khuyến nghị người xem nhất?)\n❌\nSuperTV.\n→ Sai, vì tác giả chỉ trích SuperTV vì chương trình nhàm chán.\n✅\nChannel 9.\n→ Đúng, vì tác giả nói rằng Channel 9 có thể là kênh đáng xem nhất mùa hè.\n❌\nBTV1.\n→ Sai, vì tác giả không quá ấn tượng với BTV1.\n❌\nAll of them.\n(Tất cả các kênh) → Sai, vì tác giả không hài lòng với tất cả các kênh."
+    },
+    {
+      "id": "question11",
+      "question": "Câu 11: According to the text, what does Aaron think about his job?",
+      "options": [
+        "A. It brings him many opportunities.",
+        "B. It helps him become famous.",
+        "C. It's a boring job.",
+        "D. It can't make his life change."
+      ],
+      "correct_answer": "D. It can't make his life change.",
+      "explanation": "Giải thích:\nAccording to the text, what does Aaron think about his job?\n(Theo đoạn văn, Aaron nghĩ gì về công việc của anh ấy?)\n❌\nIt helps him become famous.\n(Nó giúp anh ấy trở nên nổi tiếng.) → Sai, vì trong đoạn (A), Aaron nói rằng anh không nghĩ công việc của mình sẽ thay đổi cuộc sống của anh ấy.\n✅\nIt can't make his life change.\n(Nó không thể thay đổi cuộc sống của anh ấy.) → Đúng, vì Aaron tin rằng anh vẫn có thể đi dạo mà không bị làm phiền, và anh hy vọng điều này sẽ tiếp tục.\n❌\nIt's a boring job.\n(Đó là một công việc nhàm chán.) → Sai, vì Aaron nói rằng anh ấy thích công việc của mình.\n❌\nIt brings him many opportunities.\n(Nó mang lại cho anh ấy nhiều cơ hội.) → Sai, vì đoạn văn không đề cập đến việc anh ấy nhận được nhiều cơ hội từ công việc."
+    },
+    {
+      "id": "question12",
+      "question": "Câu 12: The word \"fascinating\" in paragraph (A) can be best replaced by _____?",
+      "options": [
+        "A. modern",
+        "B. frightening",
+        "C. interesting",
+        "D. ordinary"
+      ],
+      "correct_answer": "C. interesting",
+      "explanation": "Giải thích:\nThe word \"fascinating\" in paragraph (A) can be best replaced by _____?\n(Từ \"fascinating\" trong đoạn (A) có thể được thay thế tốt nhất bằng từ nào?)\n❌\nmodern\n(hiện đại) → Sai, vì \"fascinating\" có nghĩa là hấp dẫn, thú vị, không phải hiện đại.\n❌\nordinary\n(bình thường) → Sai, vì \"fascinating\" mang nghĩa ngược lại với \"ordinary\".\n❌\nfrightening\n(đáng sợ) → Sai, vì \"fascinating\" không có nghĩa tiêu cực.\n✅\ninteresting\n(thú vị) → Đúng, vì \"fascinating\" có nghĩa là \"cực kỳ thú vị\", đồng nghĩa với \"interesting\"."
+    },
+    {
+      "id": "question13",
+      "question": "Câu 13: In paragraph (A), the writer suggests that he thinks Aaron _____?",
+      "options": [
+        "A. has unrealistic ideas about what it's like to be famous",
+        "B. seems unaware that he's about to become famous",
+        "C. has a sensible attitude towards fame",
+        "D. seems confident that he can deal with fame"
+      ],
+      "correct_answer": "B. seems unaware that he's about to become famous",
+      "explanation": "Giải thích:\nIn paragraph (A), the writer suggests that he thinks Aaron _____?\n(Trong đoạn (A), tác giả cho thấy rằng anh ấy nghĩ Aaron _____?)\n❌\nhas a sensible attitude towards fame.\n(có thái độ hợp lý đối với sự nổi tiếng.) → Sai, vì Aaron có vẻ không thực sự nhận thức được sự thay đổi mà danh tiếng sẽ mang lại.\n❌\nseems confident that he can deal with fame.\n(có vẻ tự tin rằng anh ấy có thể đối phó với sự nổi tiếng.) → Sai, vì Aaron không nghĩ danh tiếng sẽ ảnh hưởng đến anh ấy.\n✅\nseems unaware that he's about to become famous.\n(có vẻ không nhận thức được rằng anh ấy sắp trở nên nổi tiếng.) → Đúng, vì anh ấy nói rằng anh hy vọng cuộc sống của mình sẽ không thay đổi, nhưng thực tế thì điều đó rất khó xảy ra.\n❌\nhas unrealistic ideas about what it's like to be famous.\n(có những ý tưởng phi thực tế về việc nổi tiếng như thế nào.) → Sai, vì Aaron không hẳn có ý tưởng phi thực tế, mà chỉ là anh ấy chưa thực sự ý thức được điều đó."
+    },
+    {
+      "id": "question14",
+      "question": "Câu 14: According to the text, when will Aaron's latest film probably be released?",
+      "options": [
+        "A. in the next 5 years",
+        "B. in the next 2 years",
+        "C. at the end of this year",
+        "D. next year"
+      ],
+      "correct_answer": "D. next year",
+      "explanation": "Giải thích:\nAccording to the text, when will Aaron's latest film probably be released?\n(Theo đoạn văn, khi nào bộ phim mới nhất của Aaron có thể được phát hành?)\n❌\nat the end of this year.\n(vào cuối năm nay.) → Sai, vì đoạn văn không đề cập đến việc phim sẽ ra mắt vào cuối năm nay.\n✅\nnext year.\n(năm sau.) → Đúng, vì trong đoạn (A), có nói rằng bộ phim mới của Aaron sẽ ra mắt vào năm sau.\n❌\nin the next 2 years.\n(trong 2 năm tới.) → Sai, vì đoạn văn chỉ nhắc đến \"năm sau\", không phải \"2 năm tới\".\n❌\nin the next 5 years.\n(trong 5 năm tới.) → Sai, vì bộ phim dự kiến ra mắt sớm hơn nhiều."
+    },
+    {
+      "id": "question15",
+      "question": "Câu 15: The phrase \"hasn't gone to his head\" in paragraph (B) suggests that Aaron _____?",
+      "options": [
+        "A. is used to receiving so much praise",
+        "B. doesn't think much about his achievements",
+        "C. is doubtful whether he will win an award",
+        "D. would like to receive great attention"
+      ],
+      "correct_answer": "B. doesn't think much about his achievements",
+      "explanation": "Giải thích:\nThe phrase \"hasn't gone to his head\" in paragraph (B) suggests that Aaron _____?\n(Cụm từ \"hasn't gone to his head\" trong đoạn (B) gợi ý rằng Aaron _____?)\n✅\ndoesn't think much about his achievements.\n(không nghĩ nhiều về thành tựu của mình.) → Đúng, vì \"hasn't gone to his head\" có nghĩa là không để danh tiếng làm thay đổi thái độ của mình.\n❌\nis used to receiving so much praise.\n(đã quen với việc nhận được nhiều lời khen ngợi.) → Sai, vì Aaron nói rằng điều này vẫn còn mới mẻ với anh ấy.\n❌\nis doubtful whether he will win an award.\n(nghi ngờ liệu anh ấy có giành được giải thưởng hay không.) → Sai, vì đoạn văn không đề cập đến sự nghi ngờ của Aaron về việc thắng giải.\n❌\nwould like to receive great attention.\n(muốn nhận được sự chú ý lớn.) → Sai, vì Aaron có vẻ không quan tâm đến việc trở nên nổi tiếng."
+    },
+    {
+      "id": "question16",
+      "question": "Câu 16: What does Aaron say about his last film?",
+      "options": [
+        "A. The plot is not as simple as it may appear.",
+        "B. There were often disagreements between the actors.",
+        "C. There are clear heroes in it.",
+        "D. He knows why people liked his character best."
+      ],
+      "correct_answer": "A. The plot is not as simple as it may appear.",
+      "explanation": "Giải thích:\nWhat does Aaron say about his last film?\n(Aaron nói gì về bộ phim trước của anh ấy?)\n❌\nThere are clear heroes in it.\n(Có những nhân vật anh hùng rõ ràng trong đó.) → Sai, vì Aaron nói rằng ai cũng nghĩ mình là người tốt, không có nhân vật phản diện rõ ràng.\n✅\nThe plot is not as simple as it may appear.\n(Cốt truyện không đơn giản như ta tưởng.) → Đúng, vì Aaron nhấn mạnh rằng bộ phim có nhiều sắc thái hơn là chỉ có nhân vật tốt và xấu.\n❌\nHe knows why people liked his character best.\n(Anh ấy biết tại sao nhân vật của anh ấy được yêu thích nhất.) → Sai, vì anh ấy không nói về lý do tại sao nhân vật của mình được khán giả yêu thích.\n❌\nThere were often disagreements between the actors.\n(Có nhiều bất đồng giữa các diễn viên.) → Sai, vì đoạn văn không đề cập đến sự bất đồng giữa các diễn viên."
+    },
+    {
+      "id": "question17",
+      "question": "Câu 17: What makes the writer think that Aaron is a bit of a worrier?",
+      "options": [
+        "A. He thinks carefully before answering a question.",
+        "B. He doesn't like giving interviews.",
+        "C. He feels responsible for the character he plays.",
+        "D. He avoids watching his own films."
+      ],
+      "correct_answer": "D. He avoids watching his own films.",
+      "explanation": "Giải thích:\nWhat makes the writer think that Aaron is a bit of a worrier?\n(Điều gì khiến tác giả nghĩ rằng Aaron là một người hay lo lắng?)\n✅\nHe avoids watching his own films.\n(Anh ấy tránh xem phim của chính mình.) → Đúng, vì đoạn (C) nói rằng Aaron không thích xem lại mình trên màn ảnh.\n❌\nHe doesn't like giving interviews.\n(Anh ấy không thích phỏng vấn.) → Sai, vì mặc dù anh ấy không hứng thú với phỏng vấn, nhưng anh ấy vẫn rất cởi mở khi tham gia.\n❌\nHe feels responsible for the character he plays.\n(Anh ấy cảm thấy có trách nhiệm với nhân vật mà anh ấy đóng.) → Sai, vì đây là dấu hiệu của sự tận tâm, không phải lo lắng.\n❌\nHe thinks carefully before answering a question.\n(Anh ấy suy nghĩ cẩn thận trước khi trả lời câu hỏi.) → Sai, vì điều này không liên quan đến việc anh ấy lo lắng."
+    },
+    {
+      "id": "question18",
+      "question": "Câu 18: How did Aaron feel when playing a real-life person in his last film?",
+      "options": [
+        "A. fantastic",
+        "B. curious",
+        "C. highly responsible",
+        "D. confused"
+      ],
+      "correct_answer": "C. highly responsible",
+      "explanation": "Giải thích:\nHow did Aaron feel when playing a real-life person in his last film?\n(Aaron cảm thấy thế nào khi đóng vai một nhân vật có thật trong bộ phim trước của anh ấy?)\n❌\ncurious\n(tò mò) → Sai, vì anh ấy không nói rằng anh ấy tò mò về nhân vật này.\n❌\nfantastic\n(tuyệt vời) → Sai, vì anh ấy không đề cập đến việc cảm thấy phấn khích hay hào hứng.\n❌\nconfused\n(bối rối) → Sai, vì không có chi tiết nào cho thấy anh ấy bối rối khi đóng vai nhân vật có thật.\n✅\nhighly responsible\n(cảm thấy có trách nhiệm cao) → Đúng, vì Aaron nói rằng anh ấy cảm thấy \"một trách nhiệm cao độ\" khi đóng vai một người thực."
+    },
+    {
+      "id": "question19",
+      "question": "Câu 19: What does Aaron say about playing a real-life person on screen?",
+      "options": [
+        "A. He was concerned that the person might feel angry.",
+        "B. He was pleased that the person approved of the fact he was playing it.",
+        "C. He was disappointed that he never met that person.",
+        "D. He was sure that person wouldn't want to see the film."
+      ],
+      "correct_answer": "A. He was concerned that the person might feel angry.",
+      "explanation": "Giải thích:\nWhat does Aaron say about playing a real-life person on screen?\n(Aaron nói gì về việc đóng vai một nhân vật có thật trên màn ảnh?)\n❌\nHe was disappointed that he never met that person.\n(Anh ấy thất vọng vì chưa bao giờ gặp người đó.) → Sai, vì anh ấy không nói rằng anh ấy muốn gặp người thật.\n❌\nHe was sure that person wouldn't want to see the film.\n(Anh ấy chắc chắn rằng người đó sẽ không muốn xem phim.) → Sai, vì anh ấy không chắc chắn về điều đó.\n✅\nHe was concerned that the person might feel angry.\n(Anh ấy lo lắng rằng người đó có thể cảm thấy tức giận.) → Đúng, vì anh ấy nói rằng anh ấy tự hỏi liệu người đó có tức giận về cách anh ấy thể hiện nhân vật không.\n❌\nHe was pleased that the person approved of the fact he was playing it.\n(Anh ấy vui mừng vì người đó chấp nhận việc anh ấy đóng vai họ.) → Sai, vì anh ấy không biết người đó có đồng ý hay không."
+    },
+    {
+      "id": "question20",
+      "question": "Câu 20: According to paragraph (D), what do Aaron and the directors of films have in common?",
+      "options": [
+        "A. the professionalism",
+        "B. the unwillingness to lose naivety",
+        "C. the appearance",
+        "D. the fame"
+      ],
+      "correct_answer": "B. the unwillingness to lose naivety",
+      "explanation": "Giải thích:\nAccording to paragraph (D), what do Aaron and the directors of films have in common?\n(Theo đoạn (D), Aaron và các đạo diễn phim có điểm chung gì?)\n❌\nthe fame\n(sự nổi tiếng) → Sai, vì không phải tất cả đạo diễn phim đều nổi tiếng.\n❌\nthe professionalism\n(sự chuyên nghiệp) → Sai, vì không có đề cập đến việc Aaron và đạo diễn phim đều chuyên nghiệp.\n❌\nthe appearance\n(ngoại hình) → Sai, vì đoạn văn không nhắc đến ngoại hình của Aaron hoặc đạo diễn.\n✅\nthe unwillingness to lose naivety\n(sự miễn cưỡng trong việc đánh mất sự ngây thơ) → Đúng, vì Aaron nói rằng anh ấy không muốn mất đi cách nhìn thế giới bằng đôi mắt trẻ thơ, điều mà anh ấy tin là có tính phổ quát."
+    },
+    {
+      "id": "question21",
+      "question": "Câu 21: What is the main point of paragraph (A)?",
+      "options": [
+        "A. Advertising has increased in towns and cities.",
+        "B. We see more adverts than we realise.",
+        "C. We do not pay enough attention to adverts.",
+        "D. Many people are annoyed by television advertising."
+      ],
+      "correct_answer": "B. We see more adverts than we realise.",
+      "explanation": "Giải thích:\nWhat is the main point of paragraph (A)?\n(Ý chính của đoạn (A) là gì?)\n✅\nWe see more adverts than we realise.\n(Chúng ta thấy nhiều quảng cáo hơn chúng ta nhận ra.) → Đúng, vì đoạn (A) đề cập rằng nhiều người có thể nhìn thấy từ 2.000 đến 5.000 quảng cáo mỗi ngày, ngay cả khi họ không nhận thức được điều đó.\n❌\nMany people are annoyed by television advertising.\n(Nhiều người cảm thấy phiền phức bởi quảng cáo trên TV.) → Sai, vì đoạn (A) không nhắc đến quảng cáo trên TV hoặc sự khó chịu của người xem.\n❌\nWe do not pay enough attention to adverts.\n(Chúng ta không chú ý đủ đến quảng cáo.) → Sai, vì mặc dù nói rằng chúng ta không nhận thức được tất cả quảng cáo, nhưng không nói rằng chúng ta không chú ý đủ.\n❌\nAdvertising has increased in towns and cities.\n(Quảng cáo đã tăng lên ở các thị trấn và thành phố.) → Sai, vì đoạn (A) không đề cập đến sự gia tăng mà chỉ mô tả sự hiện diện rộng rãi của quảng cáo."
+    },
+    {
+      "id": "question22",
+      "question": "Câu 22: Yankelovich is _____.",
+      "options": [
+        "A. a marketing company",
+        "B. a manufacturing company",
+        "C. a market research company",
+        "D. a consulting firm"
+      ],
+      "correct_answer": "C. a market research company",
+      "explanation": "Giải thích:\nYankelovich is _____?\n(Yankelovich là gì?)\n❌\na marketing company\n(một công ty tiếp thị) → Sai, vì Yankelovich không chỉ làm tiếp thị mà là công ty nghiên cứu thị trường.\n❌\na manufacturing company\n(một công ty sản xuất) → Sai, vì Yankelovich không sản xuất sản phẩm.\n✅\na market research company\n(một công ty nghiên cứu thị trường) → Đúng, vì đoạn văn đề cập rõ ràng rằng Yankelovich là một công ty nghiên cứu thị trường.\n❌\na consulting firm\n(một công ty tư vấn) → Sai, vì Yankelovich không chỉ tập trung vào tư vấn mà chủ yếu nghiên cứu thị trường."
+    },
+    {
+      "id": "question23",
+      "question": "Câu 23: What do we learn about the writer’s opinion of advertising in paragraph (B)?",
+      "options": [
+        "A. It lacks a personal appeal for him.",
+        "B. It seems excessive to him.",
+        "C. He thinks it is Tokyo's main attraction.",
+        "D. He thinks that it is very creative."
+      ],
+      "correct_answer": "B. It seems excessive to him.",
+      "explanation": "Giải thích:\nWhat do we learn about the writer’s opinion of advertising in paragraph (B)?\n(Chúng ta biết được gì về quan điểm của tác giả về quảng cáo trong đoạn (B)?)\n❌\nIt lacks a personal appeal for him.\n(Nó thiếu sự thu hút cá nhân đối với tác giả.) → Sai, vì đoạn (B) không đề cập đến sở thích cá nhân của tác giả với quảng cáo.\n❌\nHe thinks that it is very creative.\n(Tác giả nghĩ rằng nó rất sáng tạo.) → Sai, vì mặc dù có đề cập đến sự sáng tạo, nhưng ý chính không phải là tác giả đánh giá cao điều đó.\n✅\nIt seems excessive to him.\n(Nó có vẻ quá mức đối với tác giả.) → Đúng, vì đoạn văn nói về sự bùng nổ của quảng cáo tại Tokyo, tạo ra cảm giác \"choáng ngợp\" và \"bùng nổ âm thanh và màu sắc.\"\n❌\nHe thinks it is Tokyo's main attraction.\n(Tác giả nghĩ đó là điểm thu hút chính của Tokyo.) → Sai, vì mặc dù nhắc đến Tokyo, nhưng không nói rằng quảng cáo là điểm thu hút chính của thành phố."
+    },
+    {
+      "id": "question24",
+      "question": "Câu 24: Why do advertisers see Tokyo as important?",
+      "options": [
+        "A. Its distinctive style is popular with everyone.",
+        "B. It reflects trends that are popular elsewhere.",
+        "C. It sets trends which are often copied.",
+        "D. Its style is imitated in every city."
+      ],
+      "correct_answer": "C. It sets trends which are often copied.",
+      "explanation": "Giải thích:\nWhy do advertisers see Tokyo as important?\n(Tại sao các nhà quảng cáo coi Tokyo là quan trọng?)\n✅\nIt sets trends which are often copied.\n(Nó tạo ra xu hướng thường được sao chép.) → Đúng, vì đoạn văn nói rằng \"Tokyo dẫn đầu, các thành phố khác nhanh chóng noi theo.\"\n❌\nIts distinctive style is popular with everyone.\n(Phong cách đặc trưng của nó phổ biến với tất cả mọi người.) → Sai, vì không phải ai cũng yêu thích phong cách này, có người cảm thấy choáng ngợp.\n❌\nIt reflects trends that are popular elsewhere.\n(Nó phản ánh các xu hướng phổ biến ở nơi khác.) → Sai, vì đoạn văn nói rằng Tokyo là nơi tiên phong, không phải nơi phản ánh xu hướng từ nơi khác.\n❌\nIts style is imitated in every city.\n(Phong cách của nó được sao chép ở mọi thành phố.) → Sai, vì không phải tất cả các thành phố đều sao chép Tokyo, chỉ một số nơi học theo."
+    },
+    {
+      "id": "question25",
+      "question": "Câu 25: What does the writer mean by \"sets it apart\" in paragraph (D)?",
+      "options": [
+        "A. is something which visitors find very inviting",
+        "B. lends it a highly unattractive appearance",
+        "C. gives it something in common with other cities",
+        "D. makes it seem individual and different"
+      ],
+      "correct_answer": "D. makes it seem individual and different",
+      "explanation": "Giải thích:\nWhat does the writer mean by \"sets it apart\" in paragraph (D)?\n(\"sets it apart\" trong đoạn (D) có nghĩa là gì?)\n✅\nmakes it seem individual and different.\n(Khiến nó có vẻ riêng biệt và khác biệt.) → Đúng, vì đoạn văn nói rằng phong cách của Tokyo là \"độc nhất\" và không nơi nào giống nó.\n❌\nis something which visitors find very inviting.\n(Là thứ mà du khách cảm thấy rất hấp dẫn.) → Sai, vì không phải ai cũng thích phong cách quảng cáo của Tokyo, có người thấy choáng ngợp.\n❌\ngives it something in common with other cities.\n(Khiến nó có điểm chung với các thành phố khác.) → Sai, vì đoạn văn nói rằng Tokyo \"khác biệt,\" không phải \"có điểm chung.\"\n❌\nlends it a highly unattractive appearance.\n(Làm cho nó trông rất kém hấp dẫn.) → Sai, vì đoạn văn không nói Tokyo trông kém hấp dẫn, chỉ nói rằng nó gây ấn tượng mạnh."
+    },
+    {
+      "id": "question26",
+      "question": "Câu 26: In paragraph (D), Roberta Calvino suggests that _____?",
+      "options": [
+        "A. the largest adverts can usually be found in rural areas",
+        "B. outdoor advertising extends beyond urban areas",
+        "C. advertising is a particularly bad problem in Austria",
+        "D. modern adverts are continuing to grow in size"
+      ],
+      "correct_answer": "B. outdoor advertising extends beyond urban areas",
+      "explanation": "Giải thích:\nIn paragraph (D), Roberta Calvino suggests that _____?\n(Trong đoạn (D), Roberta Calvino\ncho thấy\nrằng _____?)\n❌\nthe largest adverts can usually be found in rural areas.\n(Những quảng cáo lớn nhất thường được tìm thấy ở vùng nông thôn.) → Sai, vì Roberta chỉ đề cập đến việc quảng cáo đang mở rộng ra vùng nông thôn, chứ không nói rằng những quảng cáo lớn nhất nằm ở đó.\n❌\nadvertising is a particularly bad problem in Austria.\n(Quảng cáo là một vấn đề đặc biệt nghiêm trọng ở Áo.) → Sai, vì Áo chỉ được đề cập như một ví dụ về quảng cáo lớn, không phải vấn đề chính.\n✅\noutdoor advertising extends beyond urban areas.\n(Quảng cáo ngoài trời đang mở rộng ra ngoài khu vực đô thị.) → Đúng, vì đoạn văn đề cập rằng quảng cáo đang dần xâm chiếm cả vùng quê.\n❌\nmodern adverts are continuing to grow in size.\n(Quảng cáo hiện đại tiếp tục tăng kích thước.) → Sai, vì không có đề cập đến xu hướng tăng kích thước của quảng cáo."
+    },
+    {
+      "id": "question27",
+      "question": "Câu 27: What does Roberta tell us about urban advertising in paragraph (E)?",
+      "options": [
+        "A. It can lower our self-confidence.",
+        "B. It can be rather unconvincing.",
+        "C. It helps us to fulfil our dreams.",
+        "D. It particularly affects women."
+      ],
+      "correct_answer": "A. It can lower our self-confidence.",
+      "explanation": "Giải thích:\nWhat does Roberta tell us about urban advertising in paragraph (E)?\n(Roberta nói gì về quảng cáo đô thị trong đoạn (E)?)\n❌\nIt can be rather unconvincing.\n(Nó có thể khá không thuyết phục.) → Sai, vì Roberta không nói rằng quảng cáo đô thị không thuyết phục.\n❌\nIt helps us to fulfil our dreams.\n(Nó giúp chúng ta hoàn thành ước mơ.) → Sai, vì cô ấy cho rằng quảng cáo chỉ tạo ra ảo tưởng về hạnh phúc.\n❌\nIt particularly affects women.\n(Nó đặc biệt ảnh hưởng đến phụ nữ.) → Sai, vì mặc dù có đề cập đến siêu mẫu nữ trong quảng cáo thời trang, nhưng không nói rằng chỉ phụ nữ bị ảnh hưởng.\n✅\nIt can lower our self-confidence.\n(Nó có thể làm giảm sự tự tin của chúng ta.) → Đúng, vì Roberta nói rằng quảng cáo khiến mọi người cảm thấy không hài lòng với cuộc sống của họ, từ đó thúc đẩy họ chi tiêu nhiều hơn."
+    },
+    {
+      "id": "question28",
+      "question": "Câu 28: What comparison does Roberta make between urban advertising and TV advertising?",
+      "options": [
+        "A. TV advertising is more effective in the long term.",
+        "B. There is greater variety in urban advertising.",
+        "C. It is easier to ignore urban advertising.",
+        "D. Urban advertising can have more impact."
+      ],
+      "correct_answer": "D. Urban advertising can have more impact.",
+      "explanation": "Giải thích:\nWhat comparison does Roberta make between urban advertising and TV advertising?\n(Roberta so sánh quảng cáo đô thị và quảng cáo trên TV như thế nào?)\n❌\nTV advertising is more effective in the long term.\n(Quảng cáo trên TV hiệu quả hơn về lâu dài.) → Sai, vì Roberta không nói rằng quảng cáo trên TV hiệu quả hơn.\n❌\nIt is easier to ignore urban advertising.\n(Dễ dàng bỏ qua quảng cáo đô thị hơn.) → Sai, vì cô ấy cho rằng quảng cáo đô thị có tác động mạnh mẽ hơn.\n✅\nUrban advertising can have more impact.\n(Quảng cáo đô thị có thể có tác động lớn hơn.) → Đúng, vì Roberta cho rằng quảng cáo ngoài trời có thể có ảnh hưởng sâu sắc hơn so với quảng cáo trên TV.\n❌\nThere is greater variety in urban advertising.\n(Quảng cáo đô thị có nhiều hình thức đa dạng hơn.) → Sai, vì không có so sánh nào về mức độ đa dạng của hai loại quảng cáo."
+    },
+    {
+      "id": "question29",
+      "question": "Câu 29: What did the mayor of São Paulo do in 2007?",
+      "options": [
+        "A. He encouraged the establishment of advertising companies in the area.",
+        "B. He was strongly impressed by the development of advertising firms in the area.",
+        "C. He ordered the removal of more than ten thousand adverts.",
+        "D. He wrote an article about urban advertising."
+      ],
+      "correct_answer": "C. He ordered the removal of more than ten thousand adverts.",
+      "explanation": "Giải thích:\nWhat did the mayor of São Paulo do in 2007?\n(Thị trưởng São Paulo đã làm gì vào năm 2007?)\n✅\nHe ordered the removal of more than ten thousand adverts.\n(Ông ấy ra lệnh loại bỏ hơn 10.000 quảng cáo.) → Đúng, vì đoạn văn nói rằng thị trưởng Gilberto Kassab đã ra lệnh gỡ bỏ hơn 15.000 bảng quảng cáo.\n❌\nHe encouraged the establishment of advertising companies in the area.\n(Ông ấy khuyến khích thành lập các công ty quảng cáo trong khu vực.) → Sai, vì ông ấy chống lại quảng cáo đô thị.\n❌\nHe wrote an article about urban advertising.\n(Ông ấy viết một bài báo về quảng cáo đô thị.) → Sai, vì ông ấy không viết bài báo mà thực hiện hành động cụ thể.\n❌\nHe was strongly impressed by the development of advertising firms in the area.\n(Ông ấy rất ấn tượng với sự phát triển của các công ty quảng cáo trong khu vực.) → Sai, vì ông ấy không ủng hộ quảng cáo mà chỉ trích nó."
+    },
+    {
+      "id": "question30",
+      "question": "Câu 30: What response did the mayor get after removing advertising from São Paulo?",
+      "options": [
+        "A. The majority of private individuals and commercial people supported him.",
+        "B. Most of the people who lived in the city welcomed his decision.",
+        "C. Advertisers were willing to display fewer advertisements in the city.",
+        "D. Local artists were unsure how attractive the office blocks would look."
+      ],
+      "correct_answer": "B. Most of the people who lived in the city welcomed his decision.",
+      "explanation": "Giải thích:\nWhat response did the mayor get after removing advertising from São Paulo?\n(Thị trưởng nhận được phản ứng gì sau khi loại bỏ quảng cáo ở São Paulo?)\n❌\nThe majority of private individuals and commercial people supported him.\n(Phần lớn cá nhân và doanh nghiệp ủng hộ ông ấy.) → Sai, vì nhiều doanh nghiệp địa phương phản đối quyết định này.\n❌\nAdvertisers were willing to display fewer advertisements in the city.\n(Các nhà quảng cáo sẵn sàng giảm số lượng quảng cáo trong thành phố.) → Sai, vì không có bằng chứng cho thấy các nhà quảng cáo đồng ý với lệnh cấm.\n❌\nLocal artists were unsure how attractive the office blocks would look.\n(Các nghệ sĩ địa phương không chắc các tòa nhà văn phòng sẽ trông như thế nào.) → Sai, vì đây không phải là phản hồi chính từ người dân.\n✅\nMost of the people who lived in the city welcomed his decision.\n(Hầu hết người dân sống trong thành phố hoan nghênh quyết định của ông ấy.) → Đúng, vì một cư dân được trích dẫn nói rằng họ cảm thấy thành phố trông đẹp hơn khi không có quảng cáo."
+    },
+    {
+      "id": "question31",
+      "question": "Câu 31: According to the text, Aborigines arrived in Australia _____.",
+      "options": [
+        "A. 400 years ago",
+        "B. 8,0000 years ago",
+        "C. 23,000 years ago",
+        "D. more than 45,000 years ago"
+      ],
+      "correct_answer": "D. more than 45,000 years ago",
+      "explanation": "Giải thích:\nAccording to the text, Aborigines arrived in Australia _____?\n(Theo văn bản, người thổ dân Úc đến Úc khi nào?)\n❌\n400 years ago\n(400 năm trước) → Sai, vì vào đầu thế kỷ XX, người ta tin rằng thổ dân Úc chỉ mới đến đây trong khoảng thời gian này, nhưng điều đó đã bị chứng minh là không đúng.\n❌\n8,000 years ago\n(8.000 năm trước) → Sai, vì vào những năm 1960, ước tính về thời gian xuất hiện của thổ dân Úc chỉ khoảng 8.000 năm, nhưng các khám phá sau này đã đẩy mốc thời gian xa hơn nhiều.\n❌\n23,000 years ago\n(23.000 năm trước) → Sai, vì bộ xương được tìm thấy ở hồ Mungo có niên đại khoảng 23.000 năm, nhưng những bằng chứng khác cho thấy người Úc đã đến đây sớm hơn.\n✅\nmore than 45,000 years ago\n(hơn 45.000 năm trước) → Đúng, vì bài đọc nói rằng bằng chứng cho thấy người Úc có thể đã đặt chân đến đây ít nhất 45.000 năm trước, nhưng có thể lên đến 60.000 năm."
+    },
+    {
+      "id": "question32",
+      "question": "Câu 32: What did the discovery of the skeleton show?",
+      "options": [
+        "A. Aborigines have been in Australia far longer than previously thought.",
+        "B. The Aborigine population was larger than originally thought.",
+        "C. The area called Mungo, now dry, was once a lake.",
+        "D. Aborigines used to live in very remote parts of Australia."
+      ],
+      "correct_answer": "A. Aborigines have been in Australia far longer than previously thought.",
+      "explanation": "Giải thích:\nWhat did the discovery of the skeleton show?\n(Phát hiện về bộ xương đã cho thấy điều gì?)\n❌\nAborigines used to live in very remote parts of Australia.\n(Người thổ dân Úc từng sống ở những vùng hẻo lánh của Úc.) → Sai, vì phát hiện này không chỉ ra nơi sinh sống của họ, mà chỉ cung cấp thông tin về thời gian họ có mặt ở Úc.\n❌\nThe area called Mungo, now dry, was once a lake.\n(Khu vực gọi là Mungo, hiện đã khô cạn, từng là một hồ nước.) → Sai, vì mặc dù thông tin này đúng trong bài đọc, nó không phải là phát hiện chính của bộ xương.\n✅\nAborigines have been in Australia far longer than previously thought.\n(Người thổ dân Úc đã có mặt ở Úc lâu hơn nhiều so với suy nghĩ trước đây.) → Đúng, vì bộ xương có niên đại 23.000 năm đã làm thay đổi hoàn toàn nhận thức về thời điểm con người đến Úc.\n❌\nThe Aborigine population was larger than originally thought.\n(Dân số thổ dân Úc lớn hơn so với suy nghĩ ban đầu.) → Sai, vì bài đọc không cung cấp thông tin về quy mô dân số."
+    },
+    {
+      "id": "question33",
+      "question": "Câu 33: Which of the following statements is NOT true, according to the text?",
+      "options": [
+        "A. Aborigines must have arrived in Australia by sea.",
+        "B. Aborigines probably originated in Timor or Indonesia.",
+        "C. Australia has always been an island since people existed.",
+        "D. Australian apes became extinct before human times."
+      ],
+      "correct_answer": "D. Australian apes became extinct before human times.",
+      "explanation": "Giải thích:\nWhich of the following statements is NOT true, according to the text?\n(Câu nào dưới đây KHÔNG đúng theo bài đọc?)\n❌\nAustralia has always been an island since people existed.\n(Úc luôn là một hòn đảo kể từ khi con người xuất hiện.) → Sai, vì bài đọc xác nhận điều này là đúng.\n✅\nAustralian apes became extinct before human times.\n(Loài vượn Úc đã tuyệt chủng trước thời đại con người.) → Đúng, vì bài đọc chỉ ra rằng Úc không có loài linh trưởng nào để con người có thể tiến hóa từ đó.\n❌\nAborigines probably originated in Timor or Indonesia.\n(Người thổ dân Úc có thể có nguồn gốc từ Timor hoặc Indonesia.) → Sai, vì bài đọc cho thấy đây là giả thuyết phổ biến về nguồn gốc của họ.\n❌\nAborigines must have arrived in Australia by sea.\n(Người thổ dân Úc chắc chắn đã đến Úc bằng đường biển.) → Sai, vì bài đọc khẳng định rằng đây là cách duy nhất để họ đến Úc."
+    },
+    {
+      "id": "question34",
+      "question": "Câu 34: Why is it so surprising that Homo sapiens got to Australia?",
+      "options": [
+        "A. Only much smaller boats have been found elsewhere from this period.",
+        "B. People in that area were less advanced than other peoples at this time.",
+        "C. It required skills that people generally developed very much later.",
+        "D. Aborigines are not particularly known for their sailing skills."
+      ],
+      "correct_answer": "C. It required skills that people generally developed very much later.",
+      "explanation": "Giải thích:\nWhy is it so surprising that Homo sapiens got to Australia?\n(Tại sao việc Homo sapiens đến Úc lại đáng ngạc nhiên như vậy?)\n✅\nIt required skills that people generally developed very much later.\n(Điều này đòi hỏi các kỹ năng mà con người chỉ phát triển rất lâu sau đó.) → Đúng, vì bài đọc chỉ ra rằng khả năng hàng hải vào thời điểm đó chưa được ghi nhận trong hồ sơ khảo cổ.\n❌\nPeople in that area were less advanced than other peoples at this time.\n(Người ở khu vực đó kém phát triển hơn các dân tộc khác vào thời điểm đó.) → Sai, vì bài đọc không đề cập đến sự phát triển xã hội của họ so với các dân tộc khác.\n❌\nOnly much smaller boats have been found elsewhere from this period.\n(Chỉ những con thuyền nhỏ hơn nhiều được tìm thấy từ thời kỳ này.) → Sai, vì không có bằng chứng nào về thuyền hoặc tàu thuyền tồn tại vào thời điểm đó.\n❌\nAborigines are not particularly known for their sailing skills.\n(Người thổ dân Úc không đặc biệt nổi tiếng về kỹ năng hàng hải.) → Sai, vì vấn đề chính không phải là kỹ năng của họ, mà là việc họ đến Úc vào thời điểm sớm như vậy."
+    },
+    {
+      "id": "question35",
+      "question": "Câu 35: What usually provides the explanation for the Aborigines' arrival in Australia?",
+      "options": [
+        "A. their curiosity",
+        "B. a desire for better fishing",
+        "C. bad weather",
+        "D. hunger for land"
+      ],
+      "correct_answer": "C. bad weather",
+      "explanation": "Giải thích:\nWhat usually provides the explanation for the Aborigines' arrival in Australia?\n(Giả thuyết nào thường được đưa ra để giải thích việc người thổ dân Úc đến Úc?)\n❌\ntheir curiosity\n(sự tò mò của họ) → Sai, vì bài đọc không đề cập đến việc họ tự nguyện khám phá vùng đất mới.\n✅\nbad weather\n(thời tiết xấu) → Đúng, vì bài đọc đưa ra giả thuyết phổ biến rằng một cơn bão mạnh có thể đã cuốn một chiếc bè đơn giản ra biển và đưa họ đến Úc.\n❌\na desire for better fishing\n(mong muốn có vùng đánh cá tốt hơn) → Sai, vì bài đọc không đề cập đến động cơ kinh tế hoặc tìm kiếm tài nguyên.\n❌\nhunger for land\n(khát khao mở rộng đất đai) → Sai, vì không có bằng chứng nào cho thấy họ tìm kiếm đất để định cư theo cách có kế hoạch."
+    },
+    {
+      "id": "question36",
+      "question": "Câu 36: The author is puzzled by how _____?",
+      "options": [
+        "A. enough people got there to found a settlement",
+        "B. the Aborigines chose not to return to their homeland",
+        "C. the aborigines got enough food and water to survive the crossing",
+        "D. the boat managed to travel across such dangerous seas"
+      ],
+      "correct_answer": "A. enough people got there to found a settlement",
+      "explanation": "Giải thích:\nThe author is puzzled by how _____?\n(Tác giả bối rối về điều gì?)\n❌\nthe boat managed to travel across such dangerous seas\n(con thuyền có thể di chuyển qua vùng biển nguy hiểm như thế nào) → Sai, vì tác giả không tập trung vào việc làm sao họ vượt qua biển, mà là điều gì xảy ra sau đó.\n❌\nthe aborigines got enough food and water to survive the crossing\n(người thổ dân Úc lấy đủ thức ăn và nước uống để sống sót qua chuyến đi như thế nào) → Sai, vì bài đọc không đặt câu hỏi về điều này.\n✅\nenough people got there to found a settlement\n(làm thế nào đủ số người đến đó để thành lập một cộng đồng) → Đúng, vì tác giả nhấn mạnh rằng một cá nhân bị trôi dạt đến Úc không thể tự mình thành lập một cộng đồng, trừ khi họ có khả năng quay trở lại và thuyết phục nhiều người hơn.\n❌\nthe Aborigines chose not to return to their homeland\n(người thổ dân Úc chọn không quay về quê hương của họ) → Sai, vì bài đọc không đề cập đến việc họ có ý định quay trở lại hay không."
+    },
+    {
+      "id": "question37",
+      "question": "Câu 37: Which word could replace \"staggeringly\" in paragraph (F) without changing the meaning?",
+      "options": [
+        "A. shockingly",
+        "B. extraordinarily",
+        "C. desperately",
+        "D. wonderfully"
+      ],
+      "correct_answer": "B. extraordinarily",
+      "explanation": "Giải thích:\nWhich word could replace \"staggeringly\" in paragraph (F) without changing the meaning?\n(Từ nào có thể thay thế \"staggeringly\" trong đoạn (F) mà không làm thay đổi nghĩa?)\n✅\nextraordinarily\n(cực kỳ, phi thường) → Đúng, vì \"staggeringly\" có nghĩa là \"một cách đáng kinh ngạc, phi thường\", tương đồng với \"extraordinarily\".\n❌\nshockingly\n(một cách gây sốc) → Sai, vì \"shockingly\" mang nghĩa tiêu cực hơn, không phù hợp với ngữ cảnh.\n❌\nwonderfully\n(một cách tuyệt vời) → Sai, vì \"staggeringly\" nhấn mạnh mức độ đáng kinh ngạc chứ không phải sự tuyệt vời.\n❌\ndesperately\n(một cách tuyệt vọng) → Sai, vì nghĩa của \"desperately\" không liên quan đến mức độ kinh ngạc hay phi thường."
+    },
+    {
+      "id": "question38",
+      "question": "Câu 38: What does the writer seem most surprised by at the end of this passage?",
+      "options": [
+        "A. how badly European settlers treated Australian Aborigines",
+        "B. the fact that so little attention is paid to this aspect of human history",
+        "C. the way that Aborigines managed to establish themselves in Australia",
+        "D. how long Australian Aborigines have lived on the continent"
+      ],
+      "correct_answer": "B. the fact that so little attention is paid to this aspect of human history",
+      "explanation": "Giải thích:\nWhat does the writer seem most surprised by at the end of this passage?\n(Điều gì khiến tác giả ngạc nhiên nhất vào cuối bài viết?)\n❌\nthe way that Aborigines managed to establish themselves in Australia\n(cách mà người thổ dân Úc định cư tại Úc) → Sai, vì đây là điều đã được bàn luận trước đó trong bài đọc.\n❌\nhow badly European settlers treated Australian Aborigines\n(người định cư châu Âu đã đối xử tệ với người thổ dân Úc như thế nào) → Sai, vì bài đọc không tập trung vào sự đối xử mà người châu Âu dành cho người thổ dân Úc.\n❌\nhow long Australian Aborigines have lived on the continent\n(người thổ dân Úc đã sống trên lục địa này bao lâu) → Sai, vì điều này đã được đề cập xuyên suốt bài đọc, nhưng không phải điều khiến tác giả ngạc nhiên nhất.\n✅\nthe fact that so little attention is paid to this aspect of human history\n(thực tế rằng khía cạnh này của lịch sử nhân loại ít được chú ý) → Đúng, vì tác giả bày tỏ sự ngạc nhiên rằng rất ít người nói về vai trò của người thổ dân Úc trong lịch sử loài người."
+    },
+    {
+      "id": "question39",
+      "question": "Câu 39: Where would this sentence fit in the passage? \"For 99.7% of its inhabited history, the Aborigines had Australia to themselves.\"",
+      "options": [
+        "A. (C)",
+        "B. (B)",
+        "C. (D)",
+        "D. (A)"
+      ],
+      "correct_answer": "C. (D)",
+      "explanation": "Giải thích:\nWhere would this sentence fit in the passage? \"For 99.7% of its inhabited history, the Aborigines had Australia to themselves.\"\n(Câu này nên được đặt ở đâu trong bài đọc?)\n❌\n(A)\n→ Sai, vì đoạn (A) chủ yếu tập trung vào các mốc thời gian về sự xuất hiện của con người tại Úc.\n❌\n(B)\n→ Sai, vì đoạn (B) bàn về cách người thổ dân Úc có thể đã đến lục địa này.\n❌\n(C)\n→ Sai, vì đoạn (C) tập trung vào thách thức của việc di cư đến Úc.\n✅\n(D)\n→ Đúng, vì đoạn (D) bắt đầu giải thích về sự hiện diện lâu dài của người thổ dân Úc và tác động của họ trong suốt lịch sử."
+    },
+    {
+      "id": "question40",
+      "question": "Câu 40: What is the main point the writer is making in the last paragraph?",
+      "options": [
+        "A. The Aborigines have inhabited Australia for much longer than the Europeans have Europe.",
+        "B. The Europeans had no right to take over Aborigine land in Australia.",
+        "C. No one can be exactly certain as to when the Aborigines first arrived in Australia.",
+        "D. The Aborigines were the only people in Australia for most of the time since it was settled."
+      ],
+      "correct_answer": "D. The Aborigines were the only people in Australia for most of the time since it was settled.",
+      "explanation": "Giải thích:\nWhat is the main point the writer is making in the last paragraph?\n(Ý chính mà tác giả muốn nhấn mạnh trong đoạn cuối là gì?)\n❌\nThe Europeans had no right to take over Aborigine land in Australia.\n(Người châu Âu không có quyền chiếm đất của người thổ dân Úc.) → Sai, vì bài đọc không đề cập đến vấn đề quyền sở hữu đất.\n❌\nNo one can be exactly certain as to when the Aborigines first arrived in Australia.\n(Không ai có thể chắc chắn chính xác khi nào người thổ dân Úc lần đầu tiên đến Úc.) → Sai, vì bài đọc đã cung cấp bằng chứng khoa học về niên đại của họ.\n❌\nThe Aborigines have inhabited Australia for much longer than the Europeans have Europe.\n(Người thổ dân Úc đã sống ở Úc lâu hơn nhiều so với thời gian người châu Âu sống ở châu Âu.) → Sai, vì bài đọc không so sánh lịch sử định cư giữa người Úc bản địa và người châu Âu.\n✅\nThe Aborigines were the only people in Australia for most of the time since it was settled.\n(Người thổ dân Úc là những người duy nhất sống ở Úc trong phần lớn lịch sử của nó.) → Đúng, vì bài đọc nhấn mạnh rằng trong 99.7% lịch sử có người sinh sống của Úc, chỉ có người thổ dân Úc ở đó."
     }
   ],
   "test_id": 6,
-  "results_url": "https://luyenthivstep.vn/luyen-de/ket-qua-doc/2354"
+  "results_url": "https://luyenthivstep.vn/luyen-de/ket-qua-doc/265765",
+  "results_urls": [
+    "https://luyenthivstep.vn/luyen-de/ket-qua-doc/265765",
+    "https://luyenthivstep.vn/luyen-de/ket-qua-doc/265766",
+    "https://luyenthivstep.vn/luyen-de/ket-qua-doc/265767",
+    "https://luyenthivstep.vn/luyen-de/ket-qua-doc/265768"
+  ]
 }

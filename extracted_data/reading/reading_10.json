@@ -1,129 +1,1015 @@
 {
-  "title": "📖 Xem lại đề đọc mã số 10 - Part 2",
-  "passage": "Bài đọc\n(A)\nThe word 'laser' was\ncoined\nas an acronym for 'Light Amplification by the Stimulated Emission of Radiation'. Ordinary light, from the Sun or a light bulb, is emitted spontaneously when atoms or molecules get rid of excess energy by themselves, without any outside\nintervention\n. Stimulated emission is different because it occurs when an atom or molecule holding onto excess energy has been stimulated to emit\nit\nas light.\nAlbert Einstein was the first to suggest the existence of stimulated emission in a paper published in 1917. However, for many years, physicists thought that atoms and molecules were always much more likely to emit light spontaneously and that stimulated emission thus would always be much weaker. It was not until after the Second World War that physicists began trying to make stimulated emission dominate. They sought ways by which one atom or molecule could stimulate many others to emit light, amplifying it to much higher powers.\nThe first to succeed was Charles H. Townes, then at Columbia University in New York. Instead of working with light, however, he worked with microwaves, which have a much longer wavelength, and built a device he called a \"maser\" for Microwave Amplification by the Stimulated Emission of Radiation. Although he conceived the key idea in 1951, the first maser was not completed until a few years later. Before long, many other physicists were building masers and trying to discover how to produce stimulated emission at even shorter wavelengths.\n(B)\nThe key concepts\nemerged\nabout 1957. Townes and Arthur Schawlow, then at Bell Telephone Laboratories, wrote a long paper\noutlining\nthe conditions needed to amplify stimulated emission of visible light waves. At around the same time, similar ideas crystallized in the mind of Gordon Gould, then a 37-year-old graduate student at Columbia, who documented them in a series of notebooks. Townes and Schawlow published their ideas in a scientific journal,\nPhysical Review Letters\n, but Gould filed a patent application. Even three decades later, the debate continues over who deserves credit for the invention of the laser.",
-  "translation": "(A)\nTừ \"laser\" được\nđặt ra\nnhư một từ viết tắt của \"Light Amplification by the Stimulated Emission of Radiation\" (Khuếch đại ánh sáng bằng phát xạ kích thích). Ánh sáng thông thường, từ Mặt Trời hoặc bóng đèn, được phát ra một cách tự nhiên khi các nguyên tử hoặc phân tử tự giải phóng năng lượng dư thừa mà không cần có bất kỳ sự\ncan thiệp\nnào từ bên ngoài. Phát xạ kích thích khác biệt ở chỗ nguyên tử hoặc phân tử đang giữ năng lượng dư thừa sẽ phát\nchúng\nthành ánh sáng khi được kích thích.\nAlbert Einstein là người đầu tiên đề xuất sự tồn tại của phát xạ kích thích trong một nghiên cứu xuất bản năm 1917. Tuy nhiên, trong nhiều năm, các nhà vật lý tin rằng nguyên tử và phân tử có xu hướng phát ra ánh sáng một cách tự nhiên hơn nhiều, do đó phát xạ kích thích sẽ luôn yếu hơn. Mãi đến sau Thế chiến II, các nhà vật lý mới bắt đầu cố gắng khiến phát xạ kích thích chiếm ưu thế. Họ tìm cách để một nguyên tử hoặc phân tử có thể kích thích nhiều nguyên tử khác phát ra ánh sáng, khuếch đại nó lên mức công suất cao hơn.\nNgười đầu tiên thành công là Charles H. Townes, khi đó đang làm việc tại Đại học Columbia ở New York. Tuy nhiên, thay vì làm việc với ánh sáng, ông nghiên cứu về sóng vi ba, loại sóng có bước sóng dài hơn nhiều, và chế tạo ra một thiết bị mà ông gọi là \"maser\" (Microwave Amplification by the Stimulated Emission of Radiation - Khuếch đại sóng vi ba bằng phát xạ kích thích). Mặc dù ông nảy ra ý tưởng quan trọng này vào năm 1951, nhưng phải mất vài năm sau đó, chiếc maser đầu tiên mới được hoàn thành. Chẳng bao lâu sau, nhiều nhà vật lý khác cũng bắt đầu chế tạo maser và tìm cách tạo ra phát xạ kích thích ở bước sóng ngắn hơn nữa.\n(B)\nNhững khái niệm quan trọng bắt đầu\nxuất hiện\nvào khoảng năm 1957. Townes và Arthur Schawlow, khi đó đang làm việc tại Bell Telephone Laboratories, đã viết một nghiên cứu dài\nvạch ra\ncác điều kiện cần thiết để khuếch đại phát xạ kích thích của sóng ánh sáng khả kiến. Cùng thời gian đó, những ý tưởng tương tự cũng được hình thành trong tâm trí Gordon Gould, khi đó là một nghiên cứu sinh 37 tuổi tại Đại học Columbia, người đã ghi chép chúng vào một loạt sổ tay. Townes và Schawlow công bố ý tưởng của họ trên tạp chí khoa học\nPhysical Review Letters\n, trong khi Gould nộp đơn xin cấp bằng sáng chế. Ngay cả ba thập kỷ sau đó, cuộc tranh luận về ai là người thực sự xứng đáng được ghi nhận với phát minh ra laser vẫn chưa kết thúc.",
+  "title": "📖 Đề đọc mã số 10",
+  "parts": [
+    {
+      "part_number": 1,
+      "title": "📖 Xem lại đề đọc mã số 37 - Part 1",
+      "passage": "Bài đọc\nSocial Networks\nDo the names MySpace, Facebook, and Orkut ring a bell? They probably do because they are some of the most popular sites on the internet today. These sites are all called \"social networking\" sites because they help people meet and discuss things online.\n(A)\nEach of these social networking sites has its own strengths: MySpace is especially popular among teenagers, Facebook is popular among college-age people, Orkut is especially loved in Brazil, and\nCyWorld\nis the site to visit in South Korea. The common thread between all of these social networks is that they provide a place for people to interact, rather than a place to go to read or listen to content.\nWeb 2.0\nSocial networks are considered to be web 2.0. What does this mean? To understand this, it's important to understand what the original web did (often called web 1.0). Back in the 1990s, the internet—or web—was primarily a place to read articles, listen to music, and get information.\n(B)\nMost people didn't contribute to the sites.\nThey\njust \"browsed\" the sites and took advantage of the information or resources provided. Of course, some people did create their own sites. However, creating a site was difficult. You needed to know basic HTML coding (the original language the internet uses to \"code\" pages). It certainly wasn't something most people wanted to do, as even a basic page could take hours to get just right.\nThings began to get easier when blogs (short for \"web logs\") were introduced. With blogs, many more people began writing \"posts,\" as well as commenting on other people's blogs.\nMySpace Surprises Everybody\n(C)\nIn 2003, a site named MySpace took the internet by storm. It was trying to\nmimic\nthe most popular features of Friendster, the first social networking site. It quickly became popular among young users, and the rest was history. Soon, everyone was trying to develop a social networking site. The sites didn't provide content for people to enjoy; they helped people create, communicate, and share what they loved, including music, images, and videos.\nKey to Success\nRelying on users to create content is the key to the success of web 2.0 companies. Besides the social networking sites discussed here, other huge success stories include: Wikipedia, Digg.com, and the latest success—Twitter. All of these companies rely on the desire of users to communicate with each other, thereby creating the content that others want to consume.",
+      "translation": "Mạng Xã Hội\nBạn có thấy những cái tên MySpace, Facebook và Orkut quen thuộc không? Chắc hẳn có, vì chúng là một trong những trang web phổ biến nhất trên internet hiện nay. Những trang web này được gọi là \"mạng xã hội\" vì chúng giúp mọi người gặp gỡ và thảo luận trực tuyến.\n(A)\nMỗi mạng xã hội này đều có thế mạnh riêng: MySpace đặc biệt phổ biến trong giới thanh thiếu niên, Facebook phổ biến với những người trong độ tuổi đại học, Orkut được yêu thích nhất ở Brazil, và\nCyWorld\nlà trang web được ưa chuộng tại Hàn Quốc. Điểm chung giữa tất cả các mạng xã hội này là chúng cung cấp một nơi để mọi người tương tác, thay vì chỉ đơn thuần là nơi đọc hoặc nghe nội dung.\nWeb 2.0\nCác mạng xã hội được coi là một phần của web 2.0. Điều này có nghĩa là gì? Để hiểu điều này, trước tiên chúng ta cần hiểu về phiên bản web ban đầu (thường được gọi là web 1.0). Vào những năm 1990, internet—hay web—chủ yếu là một nơi để đọc bài viết, nghe nhạc và tìm kiếm thông tin.\n(B)\nHầu hết mọi người không đóng góp nội dung cho các trang web.\nHọ\nchỉ đơn giản \"duyệt web\" và tận dụng thông tin hoặc tài nguyên có sẵn. Tất nhiên, cũng có một số người tạo trang web của riêng mình. Tuy nhiên, việc tạo một trang web không hề dễ dàng. Bạn cần biết các kiến thức cơ bản về HTML (ngôn ngữ lập trình mà internet sử dụng để \"mã hóa\" các trang). Chắc chắn đây không phải là việc mà đa số mọi người muốn làm, vì ngay cả một trang web đơn giản cũng có thể mất hàng giờ để hoàn thiện.\nMọi thứ bắt đầu trở nên dễ dàng hơn khi blog (viết tắt của \"web logs\") ra đời. Với blog, nhiều người hơn bắt đầu viết các \"bài đăng\" cũng như bình luận trên blog của người khác.\nMySpace Gây Bất Ngờ Cho Mọi Người\n(C)\nNăm 2003, một trang web có tên MySpace đã làm bùng nổ internet. Trang web này cố gắng\nbắt chước\ncác tính năng phổ biến nhất của Friendster, mạng xã hội đầu tiên. Nó nhanh chóng trở nên phổ biến trong giới trẻ, và phần còn lại đã trở thành lịch sử. Không lâu sau, ai cũng cố gắng phát triển một mạng xã hội riêng. Những trang web này không cung cấp nội dung cho người dùng thưởng thức; thay vào đó, chúng giúp người dùng tạo nội dung, giao tiếp và chia sẻ những gì họ yêu thích, bao gồm âm nhạc, hình ảnh và video.\nChìa Khóa Thành Công\nViệc dựa vào người dùng để tạo nội dung chính là chìa khóa thành công của các công ty web 2.0. Bên cạnh các mạng xã hội được đề cập ở trên, những câu chuyện thành công lớn khác bao gồm: Wikipedia, Digg.com và thành công mới nhất—Twitter. Tất cả các công ty này đều dựa vào mong muốn của người dùng để giao tiếp với nhau, qua đó tạo ra nội dung mà những người khác muốn thưởng thức.",
+      "questions": [
+        {
+          "id": "question1",
+          "question": "Câu 1: Which social networking site is NOT mentioned in the passage?",
+          "options": [
+            "A. MySpace",
+            "B. Friendster",
+            "C. Facebook",
+            "D. LinkedIn"
+          ],
+          "correct_answer": "D. LinkedIn",
+          "explanation": "Giải thích:\nWhich social networking site is NOT mentioned in the passage?\n(Trang mạng xã hội nào KHÔNG được đề cập trong bài đọc?)\n❌\nMySpace\n→ Sai, vì MySpace được nhắc đến nhiều lần trong bài.\n✅\nLinkedIn\n→ Đúng, vì LinkedIn không được đề cập trong bài đọc.\n❌\nFacebook\n→ Sai, vì Facebook cũng được nhắc đến.\n❌\nFriendster\n→ Sai, vì Friendster được đề cập như một mạng xã hội đầu tiên."
+        },
+        {
+          "id": "question2",
+          "question": "Câu 2: Where is Orkut especially popular?",
+          "options": [
+            "A. In Japan",
+            "B. In the United States",
+            "C. In Brazil",
+            "D. In South Korea"
+          ],
+          "correct_answer": "C. In Brazil",
+          "explanation": "Giải thích:\nWhere is Orkut especially popular?\n(Orkut đặc biệt phổ biến ở đâu?)\n❌\nIn Japan\n(Ở Nhật Bản) → Sai, vì bài đọc không nhắc đến Orkut ở Nhật Bản.\n❌\nIn South Korea\n(Ở Hàn Quốc) → Sai, vì CyWorld mới là mạng xã hội phổ biến ở Hàn Quốc.\n❌\nIn the United States\n(Ở Hoa Kỳ) → Sai, vì Orkut không phổ biến ở Mỹ.\n✅\nIn Brazil\n(Ở Brazil) → Đúng, vì bài đọc nói rằng Orkut rất được yêu thích ở Brazil."
+        },
+        {
+          "id": "question3",
+          "question": "Câu 3: Why does the writer mention CyWorld in paragraph (A)?",
+          "options": [
+            "A. to give an example of a strong point of a social networking site",
+            "B. to express the common feature of social networking sites",
+            "C. to emphasize the importance social networking sites",
+            "D. to demonstrate the popularity of social networking sites"
+          ],
+          "correct_answer": "A. to give an example of a strong point of a social networking site",
+          "explanation": "Giải thích:\nWhy does the writer mention CyWorld in paragraph (A)?\n(Tại sao tác giả đề cập đến CyWorld trong đoạn (A)?)\n✅\nTo give an example of a strong point of a social networking site\n(Để đưa ra ví dụ về điểm mạnh của một mạng xã hội) → Đúng, vì bài đọc liệt kê CyWorld như một ví dụ về mạng xã hội phổ biến ở Hàn Quốc.\n❌\nTo emphasize the importance of social networking sites\n(Để nhấn mạnh tầm quan trọng của mạng xã hội) → Sai, vì bài đọc không tập trung vào tầm quan trọng mà chỉ mô tả các đặc điểm của chúng.\n❌\nTo demonstrate the popularity of social networking sites\n(Để chứng minh sự phổ biến của mạng xã hội) → Sai, vì câu này không nói về mức độ phổ biến chung mà về điểm mạnh của từng mạng.\n❌\nTo express the common feature of social networking sites\n(Để thể hiện đặc điểm chung của mạng xã hội) → Sai, vì câu này không nhằm mục đích nêu ra điểm chung của tất cả các mạng xã hội."
+        },
+        {
+          "id": "question4",
+          "question": "Câu 4: Which phrase best describes what users do on social networking sites?",
+          "options": [
+            "A. They interact with other people.",
+            "B. They browse articles and other content.",
+            "C. They comment other people's blog.",
+            "D. They code pages in HTML."
+          ],
+          "correct_answer": "A. They interact with other people.",
+          "explanation": "Giải thích:\nWhich phrase best describes what users do on social networking sites?\n(Cụm từ nào mô tả chính xác nhất những gì người dùng làm trên mạng xã hội?)\n❌\nThey comment on other people's blogs.\n(Họ bình luận trên blog của người khác.) → Sai, vì bình luận trên blog phổ biến trên blog cá nhân, không phải mạng xã hội.\n❌\nThey code pages in HTML.\n(Họ lập trình trang web bằng HTML.) → Sai, vì mạng xã hội không yêu cầu người dùng phải lập trình.\n❌\nThey browse articles and other content.\n(Họ duyệt bài viết và nội dung khác.) → Sai, vì đây là đặc điểm của web 1.0 chứ không phải web 2.0.\n✅\nThey interact with other people.\n(Họ tương tác với những người khác.) → Đúng, vì mạng xã hội giúp người dùng kết nối và giao tiếp với nhau."
+        },
+        {
+          "id": "question5",
+          "question": "Câu 5: What was the primary purpose of the original web?",
+          "options": [
+            "A. Browsing content",
+            "B. Writing on blogs",
+            "C. Creating pages in HTML",
+            "D. Interacting with other people"
+          ],
+          "correct_answer": "A. Browsing content",
+          "explanation": "Giải thích:\nWhat was the primary purpose of the original web?\n(Mục đích chính của web ban đầu là gì?)\n❌\nInteracting with other people\n(Tương tác với người khác) → Sai, vì web ban đầu chủ yếu là nơi cung cấp thông tin, không phải để giao tiếp.\n✅\nBrowsing content\n(Duyệt nội dung) → Đúng, vì web 1.0 chủ yếu là nơi để đọc bài viết, nghe nhạc và tìm kiếm thông tin.\n❌\nCreating pages in HTML\n(Tạo trang web bằng HTML) → Sai, vì rất ít người dùng có khả năng tạo trang web HTML.\n❌\nWriting on blogs\n(Viết blog) → Sai, vì blog chỉ trở nên phổ biến sau này, không phải trong giai đoạn web 1.0."
+        },
+        {
+          "id": "question6",
+          "question": "Câu 6: In paragraph (B), what does the word 'they' refer to?",
+          "options": [
+            "A. the sites",
+            "B. social networks",
+            "C. resources",
+            "D. most people"
+          ],
+          "correct_answer": "D. most people",
+          "explanation": "Giải thích:\nIn paragraph (B), what does the word \"they\" refer to?\n(Trong đoạn (B), từ \"they\" dùng để chỉ điều gì?)\n❌\nresources\n(tài nguyên) → Sai, vì từ \"they\" không đề cập đến tài nguyên trên web.\n❌\nthe sites\n(các trang web) → Sai, vì từ \"they\" không nhắc đến trang web cụ thể nào.\n✅\nmost people\n(đa số mọi người) → Đúng, vì từ \"they\" dùng để chỉ đa số người dùng internet, những người chỉ duyệt nội dung mà không tạo trang web.\n❌\nsocial networks\n(mạng xã hội) → Sai, vì từ \"they\" trong đoạn văn không đề cập đến mạng xã hội."
+        },
+        {
+          "id": "question7",
+          "question": "Câu 7: In paragraph (C), the word 'mimic' is closest in meaning to...?",
+          "options": [
+            "A. imitate",
+            "B. eliminate",
+            "C. utilize",
+            "D. imagine"
+          ],
+          "correct_answer": "A. imitate",
+          "explanation": "Giải thích:\nIn paragraph (C), the word \"mimic\" is closest in meaning to...?\n(Trong đoạn (C), từ \"mimic\" có nghĩa gần nhất với từ nào?)\n✅\nimitate\n(bắt chước) → Đúng, vì bài đọc nói rằng MySpace đã bắt chước các tính năng của Friendster.\n❌\nimagine\n(tưởng tượng) → Sai, vì \"mimic\" có nghĩa là làm theo, không phải tưởng tượng.\n❌\neliminate\n(loại bỏ) → Sai, vì \"mimic\" không có nghĩa là loại bỏ điều gì.\n❌\nutilize\n(sử dụng) → Sai, vì \"mimic\" không có nghĩa là tận dụng hay sử dụng."
+        },
+        {
+          "id": "question8",
+          "question": "Câu 8: What does the writer imply about MySpace?",
+          "options": [
+            "A. People could enjoy the content it provided.",
+            "B. It was successful.",
+            "C. It destroyed the internet like a storm.",
+            "D. It was the first social networking site."
+          ],
+          "correct_answer": "B. It was successful.",
+          "explanation": "Giải thích:\nWhat does the writer imply about MySpace?\n(Tác giả ngụ ý điều gì về MySpace?)\n❌\nIt was the first social networking site.\n(Nó là mạng xã hội đầu tiên.) → Sai, vì Friendster mới là mạng xã hội đầu tiên.\n✅\nIt was successful.\n(Nó đã thành công.) → Đúng, vì bài đọc nói rằng MySpace phát triển mạnh mẽ sau khi ra mắt.\n❌\nPeople could enjoy the content it provided.\n(Người dùng có thể thưởng thức nội dung mà nó cung cấp.) → Sai, vì MySpace không tự tạo nội dung, mà dựa vào người dùng tạo nội dung.\n❌\nIt destroyed the internet like a storm.\n(Nó phá hủy internet như một cơn bão.) → Sai, vì mặc dù bài đọc nói rằng MySpace \"took the internet by storm\" (làm bùng nổ internet), nhưng đó là theo nghĩa tích cực, không phải phá hủy."
+        },
+        {
+          "id": "question9",
+          "question": "Câu 9: What is the most important factor for Web 2.0 companies to succeed?",
+          "options": [
+            "A. Users' desire to learn coding",
+            "B. Users' desire to read interesting content written by professionals",
+            "C. Users' intelligence",
+            "D. Users' desire to communicate with each other"
+          ],
+          "correct_answer": "D. Users' desire to communicate with each other",
+          "explanation": "Giải thích:\nWhat is the most important factor for Web 2.0 companies to succeed?\n(Yếu tố quan trọng nhất để các công ty Web 2.0 thành công là gì?)\n✅\nUsers' desire to communicate with each other\n(Mong muốn của người dùng để giao tiếp với nhau) → Đúng, vì bài đọc nói rằng Web 2.0 dựa vào người dùng để tạo nội dung và giao tiếp.\n❌\nUsers' desire to read interesting content written by professionals\n(Mong muốn của người dùng đọc nội dung thú vị do chuyên gia viết) → Sai, vì Web 2.0 tập trung vào nội dung do người dùng tạo ra, không phải nội dung từ chuyên gia.\n❌\nUsers' desire to learn coding\n(Mong muốn của người dùng học lập trình) → Sai, vì Web 2.0 giúp người dùng dễ dàng tạo nội dung mà không cần biết lập trình.\n❌\nUsers' intelligence\n(Trí thông minh của người dùng) → Sai, vì trí thông minh không phải là yếu tố quan trọng giúp Web 2.0 thành công."
+        },
+        {
+          "id": "question10",
+          "question": "Câu 10: What is the writer's purpose?",
+          "options": [
+            "A. to criticize social networking sites",
+            "B. to advertise for web 2.0 companies",
+            "C. to persuade people to develop social networking sites",
+            "D. to give information about social networking sites"
+          ],
+          "correct_answer": "D. to give information about social networking sites",
+          "explanation": "Giải thích:\nWhat is the writer's purpose?\n(Mục đích của tác giả là gì?)\n❌\nTo advertise for Web 2.0 companies\n(Quảng cáo cho các công ty Web 2.0) → Sai, vì bài đọc không mang tính quảng cáo mà chỉ cung cấp thông tin.\n❌\nTo persuade people to develop social networking sites\n(Thuyết phục mọi người phát triển mạng xã hội) → Sai, vì bài đọc không kêu gọi phát triển mạng xã hội mà chỉ mô tả sự phát triển của chúng.\n✅\nTo give information about social networking sites\n(Cung cấp thông tin về mạng xã hội) → Đúng, vì bài đọc chủ yếu nói về sự phát triển và đặc điểm của các mạng xã hội.\n❌\nTo criticize social networking sites\n(Chỉ trích mạng xã hội) → Sai, vì bài đọc không chỉ trích mà chỉ cung cấp thông tin trung lập."
+        }
+      ],
+      "original_test_id": 37,
+      "original_results_url": "https://luyenthivstep.vn/luyen-de/ket-qua-doc/265783"
+    },
+    {
+      "part_number": 2,
+      "title": "📖 Xem lại đề đọc mã số 38 - Part 2",
+      "passage": "Bài đọc\n(A)\nFloods are second only to fire as the most common of all natural disasters.\nThey\noccur almost everywhere in the world, resulting in widespread damage and even death. Consequently, scientists have long tried to perfect their ability to predict floods. So far, the best that scientists can do is to recognize the potential for flooding in certain conditions. There are several conditions, from deep snow on the ground to human error, which can cause flooding.\n(B)\nThe first cause of flooding is deep snow on the ground. When deep snow melts, it creates a large amount of water. Although deep snow alone rarely causes floods, when it occurs together with heavy rain and sudden warmer weather, it can lead to serious flooding. If there is a fast snow melting on top of frozen or very wet ground, flooding is more likely to occur than when the ground is not frozen. Frozen ground or ground that is very wet and already saturated with water cannot absorb the additional water created by the melting snow. Melting snow also contributes to high water levels in rivers and streams. Whenever rivers are already at their full capacity of water, heavy rains will result in the rivers overflowing and flooding the surrounding land.\n(C)\nSecondly, rivers that are covered in ice can also lead to flooding. When ice begins to melt, the surface of the ice cracks and breaks into large pieces. These pieces of ice move and float down the river. They can form a dam in the river, causing the water behind the dam to rise and flood the land upstream. If the dam breaks suddenly, then the large amount of water held behind the dam can flood the areas downstream too.\n(D)\nBroken ice dams are not the only dam problems that can cause flooding. Those carelessly constructed by humans can also result in floods. When a large human-made dam breaks or fails to hold the water collected behind it, the results can be\ndevastating\n. Dams hold such massive amounts of water that when they suddenly break, the destructive force is similar to that of a great\ntidal wave\n. Unleashed dam waters can travel tens of kilometres, cover the ground in metres of mud and debris, and drown and crush everything and every creature in their path.\n(E)\nAlthough scientists cannot always predict exactly when floods will occur, they have a good understanding of the conditions that make flooding likely. Deep snow, ice-covered rivers, and weak dams are all strong conditions for potential flooding. Hopefully, this knowledge of why floods happen can help us reduce the damage they cause.",
+      "translation": "(A)\nLũ lụt chỉ đứng sau hỏa hoạn trong danh sách các thảm họa thiên nhiên phổ biến nhất.\nChúng\nxảy ra ở hầu hết mọi nơi trên thế giới, gây ra thiệt hại nghiêm trọng và thậm chí cả thương vong. Do đó, các nhà khoa học từ lâu đã cố gắng hoàn thiện khả năng dự đoán lũ lụt. Cho đến nay, điều tốt nhất mà họ có thể làm là nhận diện khả năng xảy ra lũ lụt trong những điều kiện nhất định. Có nhiều yếu tố có thể gây ra lũ lụt, từ lớp tuyết dày trên mặt đất đến những sai lầm của con người.\n(B)\nNguyên nhân đầu tiên của lũ lụt là lớp tuyết dày trên mặt đất. Khi tuyết tan, nó tạo ra một lượng nước lớn. Mặc dù tuyết dày hiếm khi gây lũ lụt, nhưng khi nó tan chảy cùng với mưa lớn và thời tiết đột ngột ấm lên, nó có thể dẫn đến tình trạng lũ nghiêm trọng. Nếu tuyết tan nhanh trên mặt đất bị đóng băng hoặc đã quá ẩm ướt, nguy cơ lũ lụt sẽ cao hơn so với khi mặt đất khô ráo. Mặt đất đóng băng hoặc quá ẩm và đã bão hòa nước không thể hấp thụ thêm lượng nước từ tuyết tan. Tuyết tan cũng góp phần làm tăng mực nước trong sông và suối. Khi mực nước sông đã đạt mức tối đa, mưa lớn sẽ khiến sông tràn bờ và gây lũ lụt cho các vùng đất xung quanh.\n(C)\nThứ hai, những con sông bị phủ băng cũng có thể dẫn đến lũ lụt. Khi băng bắt đầu tan, bề mặt băng nứt vỡ thành từng mảng lớn. Những tảng băng này di chuyển và trôi theo dòng sông. Chúng có thể tạo thành một con đập băng, khiến nước phía sau dâng cao và làm ngập các vùng đất ở thượng nguồn. Nếu con đập băng này vỡ đột ngột, một lượng nước lớn tích tụ phía sau có thể gây lũ lụt nghiêm trọng cho khu vực hạ lưu.\n(D)\nCác con đập băng bị vỡ không phải là vấn đề duy nhất có thể gây ra lũ lụt. Những con đập do con người xây dựng một cách cẩu thả cũng có thể dẫn đến thảm họa. Khi một con đập nhân tạo lớn bị vỡ hoặc không thể giữ được lượng nước tích tụ phía sau nó, hậu quả có thể vô cùng\ntàn khốc\n. Các con đập chứa một lượng nước khổng lồ, vì vậy khi chúng đột ngột vỡ, sức tàn phá của nó tương đương với một cơn\nsóng thần\nkhổng lồ. Lượng nước từ đập tràn ra có thể di chuyển hàng chục km, nhấn chìm mặt đất dưới nhiều mét bùn và mảnh vỡ, cuốn trôi và phá hủy tất cả mọi thứ trên đường đi của nó.\n(E)\nMặc dù các nhà khoa học không phải lúc nào cũng có thể dự đoán chính xác thời điểm xảy ra lũ lụt, nhưng họ có sự hiểu biết rõ ràng về các điều kiện có thể dẫn đến lũ lụt. Tuyết dày, sông bị đóng băng và những con đập yếu đều là những yếu tố nguy hiểm có thể gây lũ lụt. Hy vọng rằng hiểu biết về nguyên nhân gây lũ lụt sẽ giúp chúng ta giảm thiểu thiệt hại mà chúng gây ra.",
+      "questions": [
+        {
+          "id": "question11",
+          "question": "Câu 11: What is the second most common natural disaster?",
+          "options": [
+            "A. fire",
+            "B. flood",
+            "C. tidal wave",
+            "D. rain"
+          ],
+          "correct_answer": "B. flood",
+          "explanation": "Giải thích:\nWhat is the second most common natural disaster?\n(Thảm họa thiên nhiên phổ biến thứ hai là gì?)\n✅\nflood (Lũ lụt)\n→ Đúng. Theo đoạn (A), \"Floods are second only to fire as the most common of all natural disasters.\" (Lũ lụt chỉ đứng sau hỏa hoạn trong danh sách các thảm họa thiên nhiên phổ biến nhất).\n❌\nfire (Hỏa hoạn)\n→ Sai. Hỏa hoạn là thảm họa phổ biến nhất chứ không phải thứ hai.\n❌\ntidal wave (Sóng thần)\n→ Sai. Sóng thần không được đề cập là thảm họa phổ biến thứ hai.\n❌\nrain (Mưa)\n→ Sai. Mưa không phải là một thảm họa thiên nhiên mà chỉ là một hiện tượng thời tiết."
+        },
+        {
+          "id": "question12",
+          "question": "Câu 12: In paragraph (A), what does the word 'they' refer to?",
+          "options": [
+            "A. conditions",
+            "B. scientists",
+            "C. disasters",
+            "D. floods"
+          ],
+          "correct_answer": "D. floods",
+          "explanation": "Giải thích:\nIn paragraph (A), what does the word \"they\" refer to?\n(Trong đoạn (A), từ \"they\" ám chỉ điều gì?)\n✅\nfloods (Lũ lụt)\n→ Đúng. Trong câu đầu tiên của đoạn (A), từ \"they\" được sử dụng để chỉ \"Floods\" trong câu trước đó.\n❌\ndisasters (Thảm họa)\n→ Sai. \"They\" không ám chỉ tất cả các thảm họa mà chỉ nói riêng về lũ lụt.\n❌\nscientists (Các nhà khoa học)\n→ Sai. Không có bằng chứng nào trong đoạn (A) cho thấy từ \"they\" ám chỉ các nhà khoa học.\n❌\nconditions (Điều kiện)\n→ Sai. Từ \"they\" không liên quan đến các điều kiện gây lũ lụt."
+        },
+        {
+          "id": "question13",
+          "question": "Câu 13: How does deep snow contribute to flooding?",
+          "options": [
+            "A. freezing water causes flooding.",
+            "B. snow that melts in wet weather causes flooding.",
+            "C. melting snow combining with considerable amount of rain and sudden increase in temperature leads to flooding.",
+            "D. melting snow that creates a large amount of water causes flooding."
+          ],
+          "correct_answer": "C. melting snow combining with considerable amount of rain and sudden increase in temperature leads to flooding.",
+          "explanation": "Giải thích:\nHow does deep snow contribute to flooding?\n(Tuyết dày góp phần gây ra lũ lụt như thế nào?)\n❌\nmelting snow that creates a large amount of water causes flooding.\n(Tuyết tan tạo ra một lượng nước lớn gây lũ lụt.) → Sai. Chỉ tuyết tan không đủ để gây lũ lụt mà cần kết hợp với các yếu tố khác.\n❌\nfreezing water causes flooding.\n(Nước đóng băng gây lũ lụt.) → Sai. Nước đóng băng không phải là nguyên nhân gây lũ.\n✅\nmelting snow combining with considerable amount of rain and sudden increase in temperature leads to flooding.\n(Tuyết tan kết hợp với lượng mưa lớn và sự tăng nhiệt độ đột ngột dẫn đến lũ lụt.) → Đúng. Theo đoạn (B), khi tuyết tan nhanh cùng với mưa lớn và nhiệt độ tăng, nó có thể gây ra lũ nghiêm trọng.\n❌\nsnow that melts in wet weather causes flooding.\n(Tuyết tan trong thời tiết ẩm gây lũ lụt.) → Sai. Điều này không đầy đủ, vì phải có mưa lớn và nhiệt độ tăng."
+        },
+        {
+          "id": "question14",
+          "question": "Câu 14: Why does saturated ground contribute to flooding problems?",
+          "options": [
+            "A. the ground cannot absorb more water",
+            "B. the ground forms a kind of dam",
+            "C. it remains frozen",
+            "D. the ground is too hard, so the water runs off"
+          ],
+          "correct_answer": "A. the ground cannot absorb more water",
+          "explanation": "Giải thích:\nWhy does saturated ground contribute to flooding problems?\n(Tại sao mặt đất bão hòa nước lại góp phần gây ra lũ lụt?)\n✅\nThe ground cannot absorb more water.\n(Mặt đất không thể hấp thụ thêm nước.) → Đúng. Theo đoạn (B), khi mặt đất đã bão hòa nước, nó không thể hấp thụ thêm nước từ tuyết tan, khiến nước dồn vào sông suối và gây lũ.\n❌\nThe ground is too hard, so the water runs off.\n(Mặt đất quá cứng, khiến nước chảy tràn.) → Sai. Mặt đất bị bão hòa nước chứ không phải quá cứng.\n❌\nThe ground forms a kind of dam.\n(Mặt đất tạo thành một con đập tự nhiên.) → Sai. Không có thông tin nào trong bài đọc đề cập đến điều này.\n❌\nIt remains frozen.\n(Nó vẫn đóng băng.) → Sai. Lũ lụt xảy ra khi tuyết tan, không phải khi mặt đất đóng băng."
+        },
+        {
+          "id": "question15",
+          "question": "Câu 15: How does a frozen river contribute to flooding?",
+          "options": [
+            "A. The ice in the river cracks causing the water to overflow.",
+            "B. The ice in the river melts too quickly and causes a flood.",
+            "C. The water behind the ice dam collects and when the dam breaks, it causes flooding upstream.",
+            "D. The ice in the river cracks into pieces that eventually create a dam causing the water to overflow."
+          ],
+          "correct_answer": "D. The ice in the river cracks into pieces that eventually create a dam causing the water to overflow.",
+          "explanation": "Giải thích:\nHow does a frozen river contribute to flooding?\n(Sông bị đóng băng góp phần gây ra lũ lụt như thế nào?)\n❌\nThe ice in the river melts too quickly and causes a flood.\n(Băng trong sông tan quá nhanh và gây lũ lụt.) → Sai. Không phải tốc độ tan chảy của băng mà là các tảng băng vỡ mới gây ra lũ.\n❌\nThe ice in the river cracks causing the water to overflow.\n(Băng trong sông nứt khiến nước tràn bờ.) → Sai. Chỉ riêng việc băng nứt không đủ để gây lũ.\n✅\nThe ice in the river cracks into pieces that eventually create a dam causing the water to overflow.\n(Băng trong sông nứt thành các mảng tạo thành một con đập băng, khiến nước tràn bờ.) → Đúng. Theo đoạn (C), khi băng vỡ thành từng tảng lớn và tạo thành con đập băng, nước sẽ bị giữ lại và có thể gây lũ.\n❌\nThe water behind the ice dam collects and when the dam breaks, it causes flooding upstream.\n(Nước tích tụ phía sau đập băng và khi đập vỡ, nó gây lũ ngược dòng.) → Sai. Khi đập băng vỡ, nó thường gây lũ hạ lưu chứ không phải ngược dòng."
+        },
+        {
+          "id": "question16",
+          "question": "Câu 16: Why does the writer mention 'tidal wave' in paragraph (D)?",
+          "options": [
+            "A. to compare the force of a broken human-made dam",
+            "B. to criticize dam designers",
+            "C. to emphasize the effects of natural disasters",
+            "D. to introduce another natural disaster"
+          ],
+          "correct_answer": "A. to compare the force of a broken human-made dam",
+          "explanation": "Giải thích:\nWhy does the writer mention \"tidal wave\" in paragraph (D)?\n(Tại sao tác giả đề cập đến \"sóng thần\" trong đoạn (D)?)\n✅\nto compare the force of a broken human-made dam (để so sánh sức mạnh của một con đập nhân tạo bị vỡ)\n→ Đúng. Theo đoạn (D), tác giả so sánh nước từ một con đập bị vỡ có thể có sức tàn phá như một cơn sóng thần khổng lồ.\n❌\nto introduce another natural disaster (để giới thiệu một thảm họa thiên nhiên khác)\n→ Sai. Tác giả không đề cập đến sóng thần như một thảm họa riêng biệt.\n❌\nto emphasize the effects of natural disasters (để nhấn mạnh tác động của các thảm họa thiên nhiên)\n→ Sai. Tác giả chỉ tập trung vào tác động của con đập bị vỡ, không phải tất cả các thảm họa.\n❌\nto criticize dam designers (để chỉ trích các nhà thiết kế đập)\n→ Sai. Không có thông tin nào trong bài đọc cho thấy tác giả đang chỉ trích các nhà thiết kế đập."
+        },
+        {
+          "id": "question17",
+          "question": "Câu 17: How far can dam water travel when it is unleashed from a broken dam?",
+          "options": [
+            "A. tens of kilometres",
+            "B. tens of thousands of kilometres downstream",
+            "C. thousands of kilometres",
+            "D. less than 10 kilometres"
+          ],
+          "correct_answer": "A. tens of kilometres",
+          "explanation": "Giải thích:\nHow far can dam water travel when it is unleashed from a broken dam?\n(Nước từ một con đập bị vỡ có thể di chuyển bao xa?)\n❌\nless than 10 kilometres (dưới 10 km)\n→ Sai. Nước từ đập bị vỡ có thể di chuyển xa hơn 10 km.\n✅\ntens of kilometres (hàng chục km)\n→ Đúng. Theo đoạn (D), nước từ một con đập bị vỡ có thể di chuyển hàng chục km.\n❌\nthousands of kilometres (hàng nghìn km)\n→ Sai. Không có thông tin nào cho thấy nước có thể di chuyển xa như vậy.\n❌\ntens of thousands of kilometres downstream (hàng chục nghìn km về phía hạ lưu)\n→ Sai. Điều này không hợp lý và không được đề cập trong bài."
+        },
+        {
+          "id": "question18",
+          "question": "Câu 18: In paragraph (D), the word 'devastating' is closest in meaning to...?",
+          "options": [
+            "A. uncountable",
+            "B. fabulous",
+            "C. disastrous",
+            "D. priceless"
+          ],
+          "correct_answer": "C. disastrous",
+          "explanation": "Giải thích:\nIn paragraph (D), the word \"devastating\" is closest in meaning to...?\n(Trong đoạn (D), từ \"devastating\" có nghĩa gần nhất với từ nào?)\n❌\nfabulous (tuyệt vời)\n→ Sai. \"Devastating\" có nghĩa là tàn phá, không phải tuyệt vời.\n❌\nuncountable (không thể đếm được)\n→ Sai. \"Devastating\" không liên quan đến số lượng.\n❌\npriceless (vô giá)\n→ Sai. \"Devastating\" không có nghĩa là vô giá.\n✅\ndisastrous (thảm khốc, tàn phá)\n→ Đúng. \"Devastating\" có nghĩa là gây ra hậu quả nghiêm trọng, tương tự như \"disastrous\"."
+        },
+        {
+          "id": "question19",
+          "question": "Câu 19: According to the passage, which of the following is NOT mentioned as a cause of flooding?",
+          "options": [
+            "A. melting snow",
+            "B. broken dams",
+            "C. poorly built roads",
+            "D. ice-covered rivers"
+          ],
+          "correct_answer": "C. poorly built roads",
+          "explanation": "Giải thích:\nAccording to the passage, which of the following is NOT mentioned as a cause of flooding?\n(Theo bài đọc, điều nào sau đây KHÔNG được đề cập là nguyên nhân gây lũ lụt?)\n❌\nmelting snow (tuyết tan)\n→ Sai. Đoạn (B) nói rằng tuyết tan có thể góp phần gây ra lũ lụt.\n❌\nice-covered rivers (sông bị đóng băng)\n→ Sai. Đoạn (C) giải thích cách các con sông bị đóng băng có thể dẫn đến lũ lụt.\n❌\nbroken dams (đập bị vỡ)\n→ Sai. Đoạn (D) mô tả cách các con đập nhân tạo bị vỡ có thể gây ra lũ lụt.\n✅\npoorly built roads (đường được xây dựng kém chất lượng)\n→ Đúng. Không có thông tin nào trong bài đề cập đến đường sá là nguyên nhân gây lũ lụt."
+        },
+        {
+          "id": "question20",
+          "question": "Câu 20: What can be inferred from paragraph (E)?",
+          "options": [
+            "A. The impact of floods can be minimized if their causes are understood.",
+            "B. There are only three conditions that contribute to flooding.",
+            "C. Scientists have limited knowledge about floods.",
+            "D. Potential flooding cannot be accurately predicted."
+          ],
+          "correct_answer": "A. The impact of floods can be minimized if their causes are understood.",
+          "explanation": "Giải thích:\nWhat can be inferred from paragraph (E)?\n(Điều gì có thể suy ra từ đoạn (E)?)\n❌\nScientists have limited knowledge about floods. (Các nhà khoa học có kiến thức hạn chế về lũ lụt.)\n→ Sai. Đoạn (E) cho thấy các nhà khoa học có sự hiểu biết tốt về nguyên nhân gây lũ lụt.\n❌\nPotential flooding cannot be accurately predicted. (Không thể dự đoán chính xác khả năng xảy ra lũ lụt.)\n→ Sai. Mặc dù không thể dự đoán chính xác thời điểm xảy ra lũ, nhưng các điều kiện gây lũ có thể được xác định.\n✅\nThe impact of floods can be minimized if their causes are understood. (Tác động của lũ lụt có thể giảm thiểu nếu chúng ta hiểu rõ nguyên nhân của chúng.)\n→ Đúng. Đoạn (E) nhấn mạnh rằng hiểu biết về nguyên nhân gây lũ có thể giúp giảm thiểu thiệt hại.\n❌\nThere are only three conditions that contribute to flooding. (Chỉ có ba điều kiện gây ra lũ lụt.)\n→ Sai. Mặc dù bài đọc đề cập đến ba yếu tố chính, nhưng không khẳng định rằng chỉ có ba nguyên nhân này."
+        }
+      ],
+      "original_test_id": 38,
+      "original_results_url": "https://luyenthivstep.vn/luyen-de/ket-qua-doc/265784"
+    },
+    {
+      "part_number": 3,
+      "title": "📖 Xem lại đề đọc mã số 39 - Part 3",
+      "passage": "Bài đọc\nMusical Talents\n(A)\nAmong all the abilities with which an individual may be endowed, musical talent appears earliest in life. Very young children can exhibit musical\nprecocity\nfor different reasons. Some develop exceptional skill as a result of a well-designed instructional regime, such as the Suzuki method for the violin. Some have the good fortune to be born into a musical family in a household filled with music. In a number of interesting cases, musical talent is part of an otherwise disabling condition such as autism or mental retardation. A musically gifted child has an inborn talent; however, the extent to which the talent is expressed publicly will depend upon the environment in which the child lives.\n(B)\nMusically gifted children master at an early age the principal elements of music, including pitch and rhythm. Pitch—or melody—is more central in certain cultures, for example, in Eastern societies that make use of tiny quarter-tone intervals. Rhythm, sounds produced at certain auditory frequencies and grouped according to a prescribed system, is emphasized in sub-Saharan Africa, where the rhythm ratios can be very complex.\n(C)\nAll children have some aptitude for making music. During infancy, normal children sing as well as babble, and they can produce individual sounds and sound patterns. However, individual differences begin to emerge in young children as they learn to sing. Some children can match large segments of a song by the age of two or three. Many\nothers\ncan only approximate pitch at this age and may still have difficulty in producing accurate melodies by the age of five or six. However, by the time they reach school age, most develop a reasonably accurate imitation of the songs commonly heard in their environment.\n(D)\nThe early appearance of superior musical ability in some children provides evidence that musical talent may be a separate and unique form of intelligence. There are numerous tales of young artists who have a remarkable ear or extraordinary memory for music and a natural understanding of musical structure. In many of these cases, the child is average in every other way but displays an exceptional ability in music. Even the most gifted child, however, takes about ten years to achieve the levels of performance or composition that would constitute mastery of the musical sphere.\n(E)\nEvery generation in music history has had its famous prodigies—individuals with exceptional musical powers that emerge at a young age. In the eighteenth century, Wolfgang Amadeus Mozart began composing and performing at the age of six. As a child, Mozart could play the piano like an adult. He had perfect pitch, and at age nine he was also a master of the art of modulation—transitions from one key to another—which became one of the hallmarks of his style. By the age of eleven, he had composed three symphonies and 30 other major works. Mozart's well-developed talent was preserved into adulthood.",
+      "translation": "Tài Năng Âm Nhạc\n(A)\nTrong số tất cả các khả năng mà một cá nhân có thể được ban tặng, tài năng âm nhạc dường như xuất hiện sớm nhất trong cuộc đời. Trẻ nhỏ có thể thể hiện sự\nphi thường\ntrong âm nhạc vì nhiều lý do khác nhau. Một số phát triển kỹ năng đặc biệt nhờ vào một chương trình giảng dạy được thiết kế bài bản, chẳng hạn như phương pháp Suzuki dành cho violin. Một số khác may mắn sinh ra trong một gia đình có truyền thống âm nhạc, nơi tràn ngập những giai điệu. Trong một số trường hợp đặc biệt, tài năng âm nhạc lại xuất hiện như một phần của các hội chứng khác, chẳng hạn như tự kỷ hoặc chậm phát triển trí tuệ. Một đứa trẻ có năng khiếu âm nhạc là do tài năng bẩm sinh; tuy nhiên, mức độ thể hiện tài năng đó ra bên ngoài phụ thuộc vào môi trường mà trẻ lớn lên.\n(B)\nNhững đứa trẻ có năng khiếu âm nhạc có thể nắm bắt từ rất sớm các yếu tố quan trọng của âm nhạc, bao gồm cao độ và nhịp điệu. Cao độ—hay giai điệu—đóng vai trò trung tâm hơn trong một số nền văn hóa, chẳng hạn như các xã hội phương Đông, nơi sử dụng những khoảng âm rất nhỏ, chỉ bằng một phần tư nốt nhạc. Nhịp điệu—âm thanh được tạo ra ở các tần số âm thanh nhất định và được nhóm lại theo một hệ thống quy định—được nhấn mạnh ở châu Phi cận Sahara, nơi các tỷ lệ nhịp điệu có thể rất phức tạp.\n(C)\nMọi đứa trẻ đều có một mức độ nhất định về khả năng tạo ra âm nhạc. Khi còn sơ sinh, trẻ bình thường có thể ngân nga bên cạnh việc bập bẹ, và chúng có thể tạo ra các âm thanh riêng lẻ cũng như các mẫu âm thanh. Tuy nhiên, sự khác biệt giữa các cá nhân bắt đầu xuất hiện khi trẻ học hát. Một số trẻ có thể hát đúng từng đoạn dài của một bài hát khi mới hai hoặc ba tuổi. Trong khi đó,\nnhiều trẻ khác\nchỉ có thể mô phỏng gần đúng cao độ ở độ tuổi này và vẫn gặp khó khăn trong việc tạo ra giai điệu chính xác ngay cả khi đã năm hoặc sáu tuổi. Tuy nhiên, khi đến tuổi đi học, hầu hết trẻ em có thể bắt chước khá chính xác các bài hát phổ biến trong môi trường xung quanh chúng.\n(D)\nSự xuất hiện sớm của năng khiếu âm nhạc vượt trội ở một số trẻ là bằng chứng cho thấy tài năng âm nhạc có thể là một dạng trí thông minh riêng biệt và độc lập. Có rất nhiều câu chuyện về những nghệ sĩ trẻ tuổi có tai nghe tuyệt vời hoặc trí nhớ âm nhạc phi thường và khả năng hiểu cấu trúc âm nhạc một cách tự nhiên. Trong nhiều trường hợp, những đứa trẻ này có chỉ số thông minh trung bình ở mọi mặt khác, nhưng lại thể hiện khả năng xuất sắc trong âm nhạc. Tuy nhiên, ngay cả những đứa trẻ có năng khiếu nhất cũng cần khoảng mười năm để đạt đến trình độ biểu diễn hoặc sáng tác có thể được coi là bậc thầy trong lĩnh vực âm nhạc.\n(E)\nMỗi thế hệ trong lịch sử âm nhạc đều có những thần đồng—những cá nhân sở hữu tài năng âm nhạc phi thường xuất hiện từ khi còn nhỏ. Vào thế kỷ XVIII, Wolfgang Amadeus Mozart đã bắt đầu sáng tác và biểu diễn từ năm sáu tuổi. Khi còn là một đứa trẻ, Mozart có thể chơi piano như một người lớn. Ông có khả năng xác định cao độ hoàn hảo, và đến chín tuổi, ông đã thành thạo nghệ thuật chuyển đổi tông điệu—một trong những đặc điểm đặc trưng trong phong cách của ông. Đến năm mười một tuổi, Mozart đã sáng tác ba bản giao hưởng và 30 tác phẩm lớn khác. Tài năng âm nhạc của Mozart tiếp tục phát triển và duy trì đến khi trưởng thành.",
+      "questions": [
+        {
+          "id": "question21",
+          "question": "Câu 21: In paragraph (A), the word 'precocity' is closest in meaning to...?",
+          "options": [
+            "A. good luck",
+            "B. strong interest",
+            "C. personal style",
+            "D. advanced skill"
+          ],
+          "correct_answer": "D. advanced skill",
+          "explanation": "Giải thích:\nIn paragraph (A), the word \"precocity\" is closest in meaning to...?\n(Trong đoạn (A), từ \"precocity\" gần nhất với nghĩa nào?)\n❌\nStrong interest (Sự quan tâm mạnh mẽ)\n→ Sai. \"Precocity\" không chỉ đề cập đến sự quan tâm mà còn thể hiện khả năng vượt trội từ sớm.\n❌\nGood luck (May mắn)\n→ Sai. Từ này không liên quan đến may mắn mà nói về tài năng xuất hiện sớm.\n✅\nAdvanced skill (Kỹ năng phát triển sớm)\n→ Đúng. \"Precocity\" mô tả khả năng bẩm sinh xuất hiện sớm trong cuộc sống.\n❌\nPersonal style (Phong cách cá nhân)\n→ Sai. \"Precocity\" không nói về phong cách mà về tài năng xuất hiện sớm."
+        },
+        {
+          "id": "question22",
+          "question": "Câu 22: Which sentence best expresses the essential information in the highlighted sentence in paragraph (A)?",
+          "options": [
+            "A. Children with exceptional musical talent will look for the best way to express themselves through music - making.",
+            "B. Every child is naturally gifted, and it is the the responsibility of the public schools to recognize and develop these talent.",
+            "C. Children may be born with superior musical ability, but their environment will determine how this ability is developed.",
+            "D. Some musically talented children live in an environment surrounded by music, while others have little exposure to music."
+          ],
+          "correct_answer": "C. Children may be born with superior musical ability, but their environment will determine how this ability is developed.",
+          "explanation": "Giải thích:\nWhich sentence best expresses the essential information in the highlighted sentence in paragraph (A)?\n(Câu nào thể hiện thông tin cốt lõi trong câu được làm nổi bật ở đoạn (A)?)\n✅\nChildren may be born with superior musical ability, but their environment will determine how this ability is developed. (Trẻ có thể sinh ra với năng khiếu âm nhạc, nhưng môi trường sẽ quyết định sự phát triển của khả năng này.)\n→ Đúng. Câu này thể hiện rõ nhất nội dung của câu gốc.\n❌\nEvery child is naturally gifted, and it is the responsibility of the public schools to recognize and develop these talents. (Mọi đứa trẻ đều có tài năng bẩm sinh, và trách nhiệm của trường học là nhận ra và phát triển tài năng đó.)\n→ Sai. Không phải tất cả trẻ em đều có năng khiếu âm nhạc.\n❌\nChildren with exceptional musical talent will look for the best way to express themselves through music-making. (Trẻ có tài năng đặc biệt sẽ tìm cách thể hiện bản thân qua âm nhạc.)\n→ Sai. Câu này không nhắc đến vai trò của môi trường.\n❌\nSome musically talented children live in an environment surrounded by music, while others have little exposure to music. (Một số trẻ có năng khiếu sống trong môi trường âm nhạc, trong khi số khác có ít cơ hội tiếp xúc.)\n→ Sai. Câu này không đề cập đến ảnh hưởng của môi trường đến sự phát triển tài năng."
+        },
+        {
+          "id": "question23",
+          "question": "Câu 23: What is pitch?",
+          "options": [
+            "A. a principal element of music",
+            "B. rhythm",
+            "C. frequency",
+            "D. tone"
+          ],
+          "correct_answer": "A. a principal element of music",
+          "explanation": "Giải thích:\nWhat is pitch?\n(Cao độ là gì?)\n❌\nRhythm (Nhịp điệu)\n→ Sai. Nhịp điệu là sự lặp lại của âm thanh trong một chuỗi thời gian nhất định.\n✅\nA principal element of music (Một yếu tố chính của âm nhạc)\n→ Đúng. Cao độ là một trong những yếu tố quan trọng của âm nhạc.\n❌\nTone (Âm sắc)\n→ Sai. Âm sắc là chất lượng âm thanh giúp phân biệt nhạc cụ hoặc giọng nói khác nhau.\n❌\nFrequency (Tần số)\n→ Sai. Tần số là khía cạnh khoa học của cao độ nhưng không phải định nghĩa chính xác về cao độ trong âm nhạc."
+        },
+        {
+          "id": "question24",
+          "question": "Câu 24: In paragraph (B), how are the principal elements of music emphasized in Sub-Saharan Africa?",
+          "options": [
+            "A. These elements are totally ignored.",
+            "B. Melody is the most important element.",
+            "C. Rhythm with complicated ratios is emphasized.",
+            "D. Rhythm is not significant."
+          ],
+          "correct_answer": "C. Rhythm with complicated ratios is emphasized.",
+          "explanation": "Giải thích:\nIn paragraph (B), how are the principal elements of music emphasized in Sub-Saharan Africa?\n(Trong đoạn (B), các yếu tố chính của âm nhạc được nhấn mạnh như thế nào ở vùng cận Sahara, châu Phi?)\n❌\nMelody is the most important element. (Giai điệu là yếu tố quan trọng nhất.)\n→ Sai. Đoạn văn nhấn mạnh nhịp điệu, không phải giai điệu.\n✅\nRhythm with complicated ratios is emphasized. (Nhịp điệu với tỷ lệ phức tạp được nhấn mạnh.)\n→ Đúng. Đoạn văn đề cập đến cách các nền văn hóa cận Sahara có những tỷ lệ nhịp điệu rất phức tạp.\n❌\nRhythm is not significant. (Nhịp điệu không quan trọng.)\n→ Sai. Nhịp điệu đóng vai trò quan trọng trong âm nhạc của vùng này.\n❌\nThese elements are totally ignored. (Các yếu tố này hoàn toàn bị bỏ qua.)\n→ Sai. Nhịp điệu là yếu tố chính trong âm nhạc của khu vực này."
+        },
+        {
+          "id": "question25",
+          "question": "Câu 25: According to the passage, at what age does musical talent typically emerge?",
+          "options": [
+            "A. When children learn to sing at two or three years old.",
+            "B. When infants start to babble and produce sound patterns.",
+            "C. Between ten years old and adolescence.",
+            "D. Between the ages of two and four months."
+          ],
+          "correct_answer": "A. When children learn to sing at two or three years old.",
+          "explanation": "Giải thích:\nAccording to the passage, at what age does musical talent typically emerge?\n(Theo bài đọc, tài năng âm nhạc thường xuất hiện ở độ tuổi nào?)\n❌\nWhen infants start to babble and produce sound patterns. (Khi trẻ sơ sinh bắt đầu bập bẹ và tạo mẫu âm thanh.)\n→ Sai. Đây là sự phát triển ngôn ngữ, không phải tài năng âm nhạc rõ ràng.\n❌\nBetween the ages of two and four months. (Giữa 2 và 4 tháng tuổi.)\n→ Sai. Trẻ chưa thể hát hay thể hiện tài năng âm nhạc ở độ tuổi này.\n✅\nWhen children learn to sing at two or three years old. (Khi trẻ bắt đầu học hát ở 2 hoặc 3 tuổi.)\n→ Đúng. Bài đọc đề cập rằng một số trẻ có thể hát cả đoạn dài khi mới hai hoặc ba tuổi.\n❌\nBetween ten years old and adolescence. (Từ 10 tuổi đến tuổi dậy thì.)\n→ Sai. Ở độ tuổi này, tài năng có thể đã phát triển nhưng không phải thời điểm bắt đầu xuất hiện."
+        },
+        {
+          "id": "question26",
+          "question": "Câu 26: In paragraph (C), what does the word 'others' refer to?",
+          "options": [
+            "A. segments",
+            "B. differences",
+            "C. melodies",
+            "D. children"
+          ],
+          "correct_answer": "D. children",
+          "explanation": "Giải thích:\nIn paragraph (C), what does the word \"others\" refer to?\n(Trong đoạn (C), từ \"others\" đề cập đến điều gì?)\n✅\nChildren (Trẻ em)\n→ Đúng. Trong ngữ cảnh, \"others\" đề cập đến những đứa trẻ khác không thể hát chính xác giai điệu khi còn nhỏ.\n❌\nDifferences (Sự khác biệt)\n→ Sai. \"Others\" không chỉ đến sự khác biệt mà đến các đối tượng cụ thể (trẻ em).\n❌\nSegments (Các đoạn)\n→ Sai. Từ này không phù hợp với nghĩa của câu.\n❌\nMelodies (Giai điệu)\n→ Sai. \"Others\" không đề cập đến giai điệu mà đến trẻ em."
+        },
+        {
+          "id": "question27",
+          "question": "Câu 27: What evidence suggests that musical talent is a distinct form of intelligence?",
+          "options": [
+            "A. The ability of all babies to acquire core elements of music.",
+            "B. Exceptional musical ability in an otherwise average child.",
+            "C. Differences between learning music and learning language.",
+            "D. Recognition of the emotional power of music."
+          ],
+          "correct_answer": "B. Exceptional musical ability in an otherwise average child.",
+          "explanation": "Giải thích:\nWhat evidence suggests that musical talent is a distinct form of intelligence?\n(Bằng chứng nào cho thấy tài năng âm nhạc là một dạng trí thông minh riêng biệt?)\n✅\nExceptional musical ability in an otherwise average child. (Khả năng âm nhạc xuất sắc ở một đứa trẻ bình thường.)\n→ Đúng. Bài đọc đề cập rằng có nhiều trẻ có chỉ số IQ trung bình nhưng lại có tài năng âm nhạc vượt trội.\n❌\nRecognition of the emotional power of music. (Nhận thức về sức mạnh cảm xúc của âm nhạc.)\n→ Sai. Điều này không phải là bằng chứng cho thấy tài năng âm nhạc là một trí thông minh riêng biệt.\n❌\nThe ability of all babies to acquire core elements of music. (Khả năng của mọi trẻ sơ sinh trong việc tiếp thu các yếu tố cơ bản của âm nhạc.)\n→ Sai. Đây là sự phát triển bình thường, không phải bằng chứng về trí thông minh riêng biệt.\n❌\nDifferences between learning music and learning language. (Sự khác biệt giữa việc học nhạc và học ngôn ngữ.)\n→ Sai. Mặc dù có thể có sự khác biệt, nhưng đây không phải là bằng chứng về trí thông minh riêng biệt."
+        },
+        {
+          "id": "question28",
+          "question": "Câu 28: Why does the author mention Mozart in paragraph (E)?",
+          "options": [
+            "A. To compare past and present views of musical talent",
+            "B. To give an example of a well - known musical prodigy",
+            "C. To describe the development of individual musical skill",
+            "D. To list musical accomplishment of the eighteenth century"
+          ],
+          "correct_answer": "B. To give an example of a well - known musical prodigy",
+          "explanation": "Giải thích:\nWhy does the author mention Mozart in paragraph (E)?\n(Tại sao tác giả nhắc đến Mozart trong đoạn (E)?)\n❌\nTo compare past and present views of musical talent. (Để so sánh quan điểm về tài năng âm nhạc giữa quá khứ và hiện tại.)\n→ Sai. Bài đọc không thực hiện so sánh giữa hai thời kỳ.\n✅\nTo give an example of a well-known musical prodigy. (Để đưa ra ví dụ về một thần đồng âm nhạc nổi tiếng.)\n→ Đúng. Mozart được nhắc đến như một thần đồng âm nhạc với tài năng xuất sắc từ khi còn nhỏ.\n❌\nTo list musical accomplishments of the eighteenth century. (Để liệt kê các thành tựu âm nhạc của thế kỷ XVIII.)\n→ Sai. Tác giả không tập trung vào thành tựu âm nhạc của cả thời kỳ mà chỉ đề cập đến Mozart.\n❌\nTo describe the development of individual musical skill. (Để mô tả sự phát triển của kỹ năng âm nhạc cá nhân.)\n→ Sai. Bài đọc không mô tả quá trình phát triển chung mà tập trung vào Mozart."
+        },
+        {
+          "id": "question29",
+          "question": "Câu 29: In music, what is the term for changing from one key to another?",
+          "options": [
+            "A. modulation",
+            "B. rhythm",
+            "C. perfect pitch",
+            "D. prodigy"
+          ],
+          "correct_answer": "A. modulation",
+          "explanation": "Giải thích:\nIn music, what is the term for changing from one key to another?\n(Trong âm nhạc, thuật ngữ nào chỉ việc chuyển từ một tông nhạc này sang tông nhạc khác?)\n❌\nRhythm (Nhịp điệu)\n→ Sai. Nhịp điệu liên quan đến cấu trúc thời gian của âm nhạc chứ không phải sự thay đổi tông.\n❌\nProdigy (Thần đồng)\n→ Sai. Thần đồng là một người có tài năng đặc biệt, không phải một thuật ngữ âm nhạc.\n❌\nPerfect pitch (Cao độ tuyệt đối)\n→ Sai. Đây là khả năng nhận diện chính xác cao độ của âm thanh, không liên quan đến việc thay đổi tông.\n✅\nModulation (Chuyển tông)\n→ Đúng. Modulation là thuật ngữ dùng để chỉ quá trình chuyển từ một tông nhạc sang tông nhạc khác."
+        },
+        {
+          "id": "question30",
+          "question": "Câu 30: What can be inferred from the passage about exceptional musical ability?",
+          "options": [
+            "A. It is evidence of a superior level of intelligence in other areas.",
+            "B. It is the result of natural talent and a supportive environment.",
+            "C. It has been documented and studied but is little understood.",
+            "D. It occurs more frequently in some cultures than in others."
+          ],
+          "correct_answer": "B. It is the result of natural talent and a supportive environment.",
+          "explanation": "Giải thích:\nWhat can be inferred from the passage about exceptional musical ability?\n(Điều gì có thể suy ra từ bài đọc về tài năng âm nhạc xuất sắc?)\n❌\nIt occurs more frequently in some cultures than in others. (Nó xuất hiện thường xuyên hơn ở một số nền văn hóa so với những nền văn hóa khác.)\n→ Sai. Bài đọc không đề cập đến tần suất tài năng âm nhạc xuất hiện theo văn hóa.\n❌\nIt is evidence of a superior level of intelligence in other areas. (Nó là bằng chứng của một mức độ thông minh vượt trội trong các lĩnh vực khác.)\n→ Sai. Bài đọc nhấn mạnh rằng nhiều trẻ có chỉ số IQ trung bình nhưng có tài năng âm nhạc đặc biệt.\n❌ It has been documented and studied but is little understood. (Nó đã được ghi nhận và nghiên cứu nhưng vẫn chưa được hiểu rõ.)\n→ Sai. Bài đọc không đề cập đến việc tài năng âm nhạc vẫn chưa được hiểu rõ cơ chế.\n✅ It is the result of natural talent and a supportive environment. (Nó là kết quả của tài năng bẩm sinh và môi trường hỗ trợ.)\n→ Đúng. Vì đoạn (A), (C), (D), và (E) hướng đến việc mô tả tài năng âm nhạc xuất sắc là do tài năng bẩm sinh kết hợp cùng với môi trường sống xung quanh."
+        }
+      ],
+      "original_test_id": 39,
+      "original_results_url": "https://luyenthivstep.vn/luyen-de/ket-qua-doc/265786"
+    },
+    {
+      "part_number": 4,
+      "title": "📖 Xem lại đề đọc mã số 40 - Part 4",
+      "passage": "Bài đọc\nThe UH-1 Helicopter: Icon of the Vietnam War\n(A)\nEvery modern war has its\nicon\n, the technological development essential to the conflict, the one that changes the course of battle and becomes, ever after, symbolic of the time. The Civil War's\ncannon\n, World War I's\nmachine gun\n, World War II's\ntank\n—each left its mark on the landscape and the soldier. Vietnam's icon was the helicopter, specifically the UH-1 utility helicopter soldiers referred to as the Huey.\n(B)\nThe geographic and political realities of Vietnam called for a new kind of warfare, one the U.S. Army termed Airmobile. Remote battle zones, mountains topped in old-growth hardwood jungles, and poorly developed roads eliminated motor vehicles as a means of quickly moving masses of troops and supplies. Helicopters took over. In Airmobile warfare, flocks of helicopters transported troops and supplies to strategic locations, monitored operations from the air, engaged in battle, and evacuated forces. The famed U.S. Army 1st Cavalry joined aviation units already in Vietnam to pioneer Airmobile operations, trading its horses for helicopters and creating an archetype followed by the 101st Airborne, the 1st Aviation Brigade, and several other aviation units and smaller detachments.\n(C)\nMany helicopters were used in Vietnam, but none was as widely employed as the Huey. The UH-1 Iroquois—popularly dubbed the Huey—is known as the workhorse of the Vietnam War, used by all military forces for troop transport, medical\nevacuation\n, and combat assault. Hueys transported soldiers and supplies to the lines as the horses for a modern cavalry. The U.S. Army and Marine Corps made them into gunships, modifying them with machine guns and air-to-ground rocket pods and putting them to work in frontal assaults. Hueys carried officers to develop battle plans, soldiers to battle, nurses to orphanages, and Donut Dollies to entertain troops. Outfitted with broadcasting systems, they ferried Psychological Operations (PSYOPS) messengers.\n(D)\nAnd, perhaps most significantly, Hueys were the technology behind Dustoffs—evacuations of the wounded—so named by a pilot who gave his life doing it. The ability to swoop into the battle, load the Huey with wounded, and fly to evacuation hospitals, started in Korea and refined in Vietnam, has been called one of the major medical innovations of the Vietnam War. This quick transport meant that more than 90 percent of wounded soldiers who reached a medical facility survived. The medical evacuation technology gained in the Huey experience of Vietnam came home to become the air rescue operations we today take for granted.\n(E)\nThe Huey is an enormously versatile helicopter, easily modified for various missions. The interchangeable interiors of the Huey allowed for easy conversion from troop carrier to ambulance. It was also an amazing machine, capable of flying under extreme stress and relatively easy to get in and out of quickly—a feature crucial in troop extraction and rescue missions. Those who flew and maintained them—the pilots and crew chiefs—are fiercely loyal to the Huey, even though many have flown other aircraft.\n(F)\nMore than 7,000 Huey helicopters served in Vietnam, and nearly half were lost. A total of 2,177 Huey crew members were killed in action. Because the Huey was always there for them, for soldiers on the ground, the distinctive WHOP WHOP of the Huey's 48-foot rotor blades slapping the air was the sound of their lifeline.",
+      "translation": "Trực Thăng UH-1: Biểu Tượng của Chiến Tranh Việt Nam\n(A)\nMỗi cuộc chiến tranh hiện đại đều có một\nbiểu tượng\n—một phát triển công nghệ thiết yếu cho cuộc xung đột, thứ làm thay đổi cục diện chiến trường và mãi mãi trở thành hình ảnh mang tính biểu trưng cho thời kỳ đó.\nĐại bác\ncủa Nội chiến Hoa Kỳ,\nsúng máy\ncủa Thế chiến I,\nxe tăng\ncủa Thế chiến II—mỗi thứ đều để lại dấu ấn trên chiến trường và trong lòng binh sĩ. Biểu tượng của Chiến tranh Việt Nam chính là trực thăng, đặc biệt là trực thăng đa dụng UH-1, mà binh lính thường gọi là Huey.\n(B)\nĐịa hình và thực tế chính trị của Việt Nam đòi hỏi một kiểu chiến tranh mới, mà Quân đội Hoa Kỳ gọi là chiến tranh Cơ động Đường không (Airmobile). Những chiến trường xa xôi, các ngọn núi phủ rừng già và hệ thống đường sá kém phát triển khiến xe cơ giới không thể nhanh chóng vận chuyển quân đội và tiếp tế. Khi đó, trực thăng đã đảm nhiệm vai trò này. Trong chiến tranh Cơ động Đường không, từng đàn trực thăng chở quân và hàng tiếp tế đến các vị trí chiến lược, giám sát chiến trường từ trên không, tham gia chiến đấu và sơ tán lực lượng. Sư đoàn Kỵ binh số 1 (1st Cavalry) của Quân đội Hoa Kỳ gia nhập các đơn vị không quân đã có mặt tại Việt Nam, tiên phong trong các chiến dịch Cơ động Đường không, thay thế ngựa bằng trực thăng, tạo nên mô hình tác chiến được Sư đoàn Nhảy dù 101 (101st Airborne), Lữ đoàn Hàng không số 1 (1st Aviation Brigade) và nhiều đơn vị không quân khác tiếp bước.\n(C)\nNhiều loại trực thăng được sử dụng trong Chiến tranh Việt Nam, nhưng không có loại nào phổ biến như Huey. Trực thăng UH-1 Iroquois—thường được gọi là Huey—được xem là “ngựa thồ” của cuộc chiến, được tất cả các lực lượng quân sự sử dụng để vận chuyển quân,\nsơ tán\nthương binh và tấn công chiến đấu. Huey vận chuyển binh sĩ và tiếp tế đến chiến tuyến, đóng vai trò như những con ngựa chiến của kỵ binh hiện đại. Quân đội Hoa Kỳ và Thủy quân Lục chiến đã biến chúng thành trực thăng chiến đấu, trang bị súng máy và dàn tên lửa không đối đất, đưa chúng vào các cuộc tấn công trực diện. Huey còn chở sĩ quan chỉ huy để lập kế hoạch tác chiến, đưa binh lính ra trận, vận chuyển y tá đến trại trẻ mồ côi và đưa các nữ tình nguyện viên Donut Dollies đến để giải trí cho quân đội. Với hệ thống phát thanh, Huey còn phục vụ cho các chiến dịch Tâm lý chiến (PSYOPS).\n(D)\nVà có lẽ quan trọng nhất, Huey là công nghệ đứng sau Dustoffs—sơ tán thương binh—được đặt tên theo một phi công đã hy sinh khi thực hiện nhiệm vụ này. Khả năng bay vào chiến trường, đưa thương binh lên máy bay và nhanh chóng chở đến bệnh viện dã chiến, bắt đầu từ Chiến tranh Triều Tiên và được hoàn thiện tại Việt Nam, đã được coi là một trong những tiến bộ y tế quan trọng nhất của Chiến tranh Việt Nam. Nhờ vào phương pháp vận chuyển nhanh này, hơn 90% số binh sĩ bị thương được đưa đến bệnh viện đã sống sót. Công nghệ sơ tán y tế từ trải nghiệm Huey ở Việt Nam sau này đã được áp dụng rộng rãi trong các chiến dịch cứu hộ hàng không mà ngày nay chúng ta coi là điều hiển nhiên.\n(E)\nHuey là một trực thăng vô cùng linh hoạt, dễ dàng được điều chỉnh để phục vụ nhiều nhiệm vụ khác nhau. Thiết kế nội thất có thể thay đổi giúp Huey dễ dàng chuyển đổi từ vận tải quân sang cứu thương. Nó cũng là một cỗ máy tuyệt vời, có thể hoạt động trong điều kiện căng thẳng khắc nghiệt và rất dễ dàng để lên xuống nhanh chóng—một tính năng quan trọng trong các nhiệm vụ rút quân và cứu hộ. Những phi công và kỹ thuật viên bảo trì từng gắn bó với Huey rất trung thành với nó, ngay cả khi họ đã lái nhiều loại máy bay khác.\n(F)\nHơn 7.000 chiếc Huey đã phục vụ tại Việt Nam, và gần một nửa trong số đó đã bị mất. Tổng cộng, 2.177 thành viên phi hành đoàn Huey đã hy sinh trong chiến đấu. Vì Huey luôn có mặt khi họ cần, nên đối với những binh sĩ trên mặt đất, tiếng WHOP WHOP đặc trưng của cánh quạt dài 48 foot của Huey vỗ vào không khí chính là âm thanh của sự sống còn.",
+      "questions": [
+        {
+          "id": "question31",
+          "question": "Câu 31: In paragraph (A), what is the best synonym for the word 'icon'?",
+          "options": [
+            "A. helicopter",
+            "B. aircraft",
+            "C. tool",
+            "D. symbol"
+          ],
+          "correct_answer": "D. symbol",
+          "explanation": "Giải thích:\nIn paragraph (A), what is the best synonym for the word \"icon\"?\n(Trong đoạn (A), từ đồng nghĩa tốt nhất với \"icon\" là gì?)\n❌\nhelicopter (trực thăng)\n→ Sai. \"Icon\" có nghĩa là một biểu tượng hoặc đại diện tiêu biểu, không nhất thiết là một loại phương tiện cụ thể.\n✅\nsymbol (biểu tượng)\n→ Đúng. Đoạn (A) nói rằng mỗi cuộc chiến tranh đều có một biểu tượng đại diện cho công nghệ quan trọng của thời đại đó, và trong Chiến tranh Việt Nam, đó chính là Huey.\n❌\naircraft (máy bay)\n→ Sai. \"Icon\" không phải là từ chỉ một phương tiện chung như máy bay.\n❌\ntool (công cụ)\n→ Sai. \"Icon\" mang ý nghĩa biểu tượng hơn là một công cụ đơn thuần."
+        },
+        {
+          "id": "question32",
+          "question": "Câu 32: Why does the writer mention 'cannon, machine gun, and tank' in paragraph (A)?",
+          "options": [
+            "A. to emphasize the power of U.S Army",
+            "B. to compare different weapons",
+            "C. to express the variety of U.S weapons and military equipment",
+            "D. to give examples of war symbols"
+          ],
+          "correct_answer": "D. to give examples of war symbols",
+          "explanation": "Giải thích:\nWhy does the writer mention \"cannon, machine gun, and tank\" in paragraph (A)?\n(Tại sao tác giả đề cập đến \"đại bác, súng máy, và xe tăng\" trong đoạn (A)?)\n✅\nto give examples of war symbols (để đưa ra ví dụ về biểu tượng chiến tranh)\n→ Đúng. Đoạn văn liệt kê các biểu tượng công nghệ chiến tranh của các thời kỳ khác nhau để làm nổi bật vai trò của Huey trong Chiến tranh Việt Nam.\n❌\nto emphasize the power of U.S Army (để nhấn mạnh sức mạnh của Quân đội Hoa Kỳ)\n→ Sai. Mục đích không phải là để ca ngợi quân đội mà là để nói về biểu tượng chiến tranh.\n❌\nto express the variety of U.S weapons and military equipment (để thể hiện sự đa dạng của vũ khí và trang bị quân sự Hoa Kỳ)\n→ Sai. Tác giả chỉ đề cập đến một số loại vũ khí mang tính biểu tượng chứ không nói về sự đa dạng.\n❌\nto compare different weapons (để so sánh các loại vũ khí khác nhau)\n→ Sai. Tác giả không so sánh tính hiệu quả của các loại vũ khí này."
+        },
+        {
+          "id": "question33",
+          "question": "Câu 33: Which factors made helicopters essential in the Vietnam War?",
+          "options": [
+            "A. rapid transport, medical evacuation, soldier resupply",
+            "B. strategic operations, supply routes, troop movements",
+            "C. dense jungles, remote battle sites, bad roads",
+            "D. large rivers, vast shoreline, marshy rice paddies"
+          ],
+          "correct_answer": "C. dense jungles, remote battle sites, bad roads",
+          "explanation": "Giải thích:\nWhich factors made helicopters essential in the Vietnam War?\n(Những yếu tố nào khiến trực thăng trở thành phương tiện không thể thiếu trong Chiến tranh Việt Nam?)\n❌\nstrategic operations, supply routes, troop movements (hoạt động chiến lược, tuyến tiếp tế, di chuyển quân)\n→ Sai. Đây là chức năng của trực thăng nhưng không phải là lý do chính khiến chúng quan trọng.\n❌\nlarge rivers, vast shoreline, marshy rice paddies (sông lớn, bờ biển rộng, ruộng lúa ngập nước)\n→ Sai. Đây không phải là yếu tố chính khiến trực thăng trở nên quan trọng.\n✅\ndense jungles, remote battle sites, bad roads (rừng rậm, chiến trường xa xôi, đường sá kém phát triển)\n→ Đúng. Địa hình rừng rậm và hệ thống đường sá kém khiến xe cơ giới không hiệu quả, trực thăng trở thành lựa chọn tối ưu.\n❌\nrapid transport, medical evacuation, soldier resupply (vận chuyển nhanh, sơ tán y tế, tiếp tế quân)\n→ Sai. Đây là những vai trò của trực thăng chứ không phải là yếu tố khiến chúng quan trọng."
+        },
+        {
+          "id": "question34",
+          "question": "Câu 34: In paragraph (B), which of the following was first introduced in the Vietnam War?",
+          "options": [
+            "A. 1st Cavalry",
+            "B. 101st Airborne",
+            "C. UH-1 —Iroquois",
+            "D. 1st Aviation Brigade"
+          ],
+          "correct_answer": "A. 1st Cavalry",
+          "explanation": "Giải thích:\nIn paragraph (B), which of the following was first introduced in the Vietnam War?\n(Trong đoạn (B), yếu tố nào dưới đây lần đầu tiên được giới thiệu trong Chiến tranh Việt Nam?)\n❌\n101st Airborne (Sư đoàn Nhảy dù 101)\n→ Sai. Đơn vị này đã tồn tại từ trước và tham gia nhiều chiến dịch khác.\n✅\n1st Cavalry (Sư đoàn Kỵ binh số 1)\n→ Đúng. Đây là đơn vị tiên phong trong chiến tranh Cơ động Đường không tại Việt Nam.\n❌\n1st Aviation Brigade (Lữ đoàn Hàng không số 1)\n→ Sai. Mặc dù tham gia chiến đấu nhưng không phải là đơn vị tiên phong.\n❌\nUH-1 —Iroquois (UH-1 Huey)\n→ Sai. Trực thăng UH-1 đã được phát triển từ trước, không phải là điều mới mẻ trong Chiến tranh Việt Nam."
+        },
+        {
+          "id": "question35",
+          "question": "Câu 35: Which of the sentences below best expresses the information in the highlighted statement in the passage?",
+          "options": [
+            "A. Many helicopters were used in Vietnam, but none was helpful.",
+            "B. The Huey was the most widely used helicopter in Vietnam.",
+            "C. No helicopter was as big as the Huey.",
+            "D. The Huey was the least efficient among helicopters used in Vietnam."
+          ],
+          "correct_answer": "B. The Huey was the most widely used helicopter in Vietnam.",
+          "explanation": "Giải thích:\nWhich of the sentences below best expresses the information in the highlighted statement in the passage?\n(Câu nào dưới đây thể hiện tốt nhất nội dung của câu được đánh dấu trong bài?)\n❌\nThe Huey was the least efficient among helicopters used in Vietnam. (Huey là trực thăng kém hiệu quả nhất được sử dụng ở Việt Nam.)\n→ Sai. Huey là trực thăng được sử dụng nhiều nhất, không phải kém hiệu quả nhất.\n❌\nNo helicopter was as big as the Huey. (Không có trực thăng nào lớn bằng Huey.)\n→ Sai. Bài đọc không nói đến kích thước của Huey.\n✅\nThe Huey was the most widely used helicopter in Vietnam. (Huey là trực thăng được sử dụng rộng rãi nhất ở Việt Nam.)\n→ Đúng. Huey được gọi là \"ngựa thồ\" của cuộc chiến vì nó đóng vai trò quan trọng trong nhiều nhiệm vụ.\n❌\nMany helicopters were used in Vietnam, but none was helpful. (Nhiều trực thăng đã được sử dụng ở Việt Nam, nhưng không cái nào hữu ích.)\n→ Sai. Bài đọc nhấn mạnh tầm quan trọng của trực thăng trong chiến tranh."
+        },
+        {
+          "id": "question36",
+          "question": "Câu 36: In paragraph (C), which of the following was NOT transported by the Huey?",
+          "options": [
+            "A. orphans",
+            "B. supplies",
+            "C. officers",
+            "D. soldiers"
+          ],
+          "correct_answer": "A. orphans",
+          "explanation": "Giải thích:\nIn paragraph (C), which of the following was NOT transported by the Huey?\n(Trong đoạn (C), đối tượng nào dưới đây KHÔNG được vận chuyển bởi Huey?)\n❌\nsoldiers (binh sĩ)\n→ Sai. Huey được sử dụng rộng rãi để chở binh sĩ đến chiến trường.\n❌\nofficers (sĩ quan)\n→ Sai. Các sĩ quan chỉ huy thường được chở trên Huey để lập kế hoạch tác chiến.\n❌\nsupplies (vật tư tiếp tế)\n→ Sai. Huey được sử dụng để vận chuyển nhu yếu phẩm và thiết bị quân sự.\n✅\norphans (trẻ mồ côi)\n→ Đúng. Huey vận chuyển y tá đến trại trẻ mồ côi nhưng không chở trẻ em."
+        },
+        {
+          "id": "question37",
+          "question": "Câu 37: What was the name for helicopter ambulance missions?",
+          "options": [
+            "A. Cavalry",
+            "B. Donut Dollies",
+            "C. PSYOP",
+            "D. Dustoff"
+          ],
+          "correct_answer": "D. Dustoff",
+          "explanation": "Giải thích:\nWhat was the name for helicopter ambulance missions?\n(Tên gọi của các nhiệm vụ trực thăng cứu thương là gì?)\n✅\nDustoff\n→ Đúng. Đây là thuật ngữ được đặt theo tên một phi công đã hy sinh trong nhiệm vụ sơ tán thương binh.\n❌\nPSYOP\n→ Sai. PSYOP là các chiến dịch tâm lý chiến, không liên quan đến cứu thương.\n❌\nDonut Dollies\n→ Sai. Đây là các nữ tình nguyện viên đến để giải trí cho binh sĩ.\n❌\nCavalry\n→ Sai. Đây là thuật ngữ chỉ Sư đoàn Kỵ binh Số 1, không phải nhiệm vụ cứu thương."
+        },
+        {
+          "id": "question38",
+          "question": "Câu 38: In paragraph (C), the word 'evacuation' is closest in meaning to...?",
+          "options": [
+            "A. increase",
+            "B. treatment",
+            "C. hospitalization",
+            "D. removal"
+          ],
+          "correct_answer": "D. removal",
+          "explanation": "Giải thích:\nIn paragraph (C), the word \"evacuation\" is closest in meaning to...?\n(Trong đoạn (C), từ \"evacuation\" gần nghĩa nhất với...?)\n❌\nhospitalization (nhập viện)\n→ Sai. \"Evacuation\" không có nghĩa là nhập viện mà chỉ quá trình sơ tán thương binh.\n❌\nincrease (gia tăng)\n→ Sai. Từ này không liên quan đến ngữ cảnh của bài đọc.\n❌\ntreatment (điều trị)\n→ Sai. \"Evacuation\" là quá trình đưa thương binh đi, không phải điều trị.\n✅\nremoval (di chuyển, sơ tán)\n→ Đúng. \"Evacuation\" trong ngữ cảnh này có nghĩa là di tản thương binh khỏi chiến trường."
+        },
+        {
+          "id": "question39",
+          "question": "Câu 39: In paragraph (E), which category best describes the following sentence?",
+          "options": [
+            "A. Versatility of the Huey",
+            "B. Huey crew members",
+            "C. Effects of the Huey on the enemy force",
+            "D. Safety features of the Huey"
+          ],
+          "correct_answer": "A. Versatility of the Huey",
+          "explanation": "Giải thích:\nIn paragraph (E), which category best describes the following sentence?\n(Trong đoạn (E), câu dưới đây thuộc danh mục nào?)\n❌\nSafety features of the Huey (Tính năng an toàn của Huey)\n→ Sai. Đoạn (E) không tập trung vào các tính năng an toàn.\n❌\nHuey crew members (Thành viên phi hành đoàn Huey)\n→ Sai. Đoạn văn không nói riêng về phi công hay kỹ thuật viên.\n✅\nVersatility of the Huey (Sự linh hoạt của Huey)\n→ Đúng. Đoạn (E) mô tả khả năng điều chỉnh Huey cho nhiều nhiệm vụ khác nhau.\n❌\nEffects of the Huey on the enemy force (Ảnh hưởng của Huey đến quân địch)\n→ Sai. Đoạn này không đề cập đến tác động lên đối phương."
+        },
+        {
+          "id": "question40",
+          "question": "Câu 40: What can be inferred from paragraph (F)?",
+          "options": [
+            "A. Other helicopters were safer than the Huey.",
+            "B. Most military personnel preferred a motor vehicle to a Huey.",
+            "C. The Huey helicopter was extremely versatile.",
+            "D. Flying a Huey in Vietnam was dangerous work."
+          ],
+          "correct_answer": "D. Flying a Huey in Vietnam was dangerous work.",
+          "explanation": "Giải thích:\nWhat can be inferred from paragraph (F)?\n(Điều gì có thể suy ra từ đoạn (F)?)\n✅\nFlying a Huey in Vietnam was dangerous work. (Lái Huey ở Việt Nam là một công việc nguy hiểm.)\n→ Đúng. Đoạn (F) nói rằng gần một nửa trong số 7.000 trực thăng Huey bị mất và 2.177 phi hành đoàn đã hy sinh.\n❌\nThe Huey helicopter was extremely versatile. (Trực thăng Huey cực kỳ linh hoạt.)\n→ Sai. Mặc dù đúng nhưng đoạn (F) tập trung vào sự nguy hiểm của việc lái Huey.\n❌\nOther helicopters were safer than the Huey. (Các trực thăng khác an toàn hơn Huey.)\n→ Sai. Không có so sánh nào giữa Huey và các trực thăng khác.\n❌\nMost military personnel preferred a motor vehicle to a Huey. (Hầu hết quân nhân thích phương tiện cơ giới hơn Huey.)\n→ Sai. Huey là phương tiện chủ chốt trong chiến tranh, không phải bị thay thế bởi phương tiện khác."
+        }
+      ],
+      "original_test_id": 40,
+      "original_results_url": "https://luyenthivstep.vn/luyen-de/ket-qua-doc/265787"
+    }
+  ],
   "questions": [
     {
       "id": "question1",
-      "question": "Câu 1: The word \"coined\" in paragraph (A) could best be replaced by?",
+      "question": "Câu 1: Which social networking site is NOT mentioned in the passage?",
       "options": [
-        "A. mentioned",
-        "B. understood",
-        "C. created",
-        "D. discovered"
+        "A. MySpace",
+        "B. Friendster",
+        "C. Facebook",
+        "D. LinkedIn"
       ],
-      "correct_answer": "C. created",
-      "explanation": "Giải thích:\nThe word \"coined\" in paragraph (A) could best be replaced by?\n(Từ \"coined\" trong đoạn (A) có thể được thay thế tốt nhất bằng từ nào?)\n✅\ncreated\n(Tạo ra) → Đúng vì đoạn (A) viết: \"The word 'laser' was\ncoined\nas an acronym for 'Light Amplification by the Stimulated Emission of Radiation'.\" (\"Từ 'laser' được\nđặt ra\nnhư một từ viết tắt của 'Light Amplification by the Stimulated Emission of Radiation'.\") Trong ngữ cảnh này, \"coined\" có nghĩa là \"tạo ra một từ mới\", đồng nghĩa với \"created\".\n❌\nmentioned\n(Đề cập đến) → Sai vì \"coined\" có nghĩa là đặt ra một thuật ngữ mới, không chỉ đơn thuần là đề cập đến nó.\n❌\nunderstood\n(Được hiểu) → Sai vì \"coined\" không có nghĩa là hiểu một khái niệm nào đó.\n❌\ndiscovered\n(Khám phá) → Sai vì \"coined\" không mang nghĩa khám phá ra một thứ có sẵn, mà là tạo ra một thuật ngữ mới."
+      "correct_answer": "D. LinkedIn",
+      "explanation": "Giải thích:\nWhich social networking site is NOT mentioned in the passage?\n(Trang mạng xã hội nào KHÔNG được đề cập trong bài đọc?)\n❌\nMySpace\n→ Sai, vì MySpace được nhắc đến nhiều lần trong bài.\n✅\nLinkedIn\n→ Đúng, vì LinkedIn không được đề cập trong bài đọc.\n❌\nFacebook\n→ Sai, vì Facebook cũng được nhắc đến.\n❌\nFriendster\n→ Sai, vì Friendster được đề cập như một mạng xã hội đầu tiên."
     },
     {
       "id": "question2",
-      "question": "Câu 2: The word \"intervention\" in paragraph (A) can best be replaced by?",
+      "question": "Câu 2: Where is Orkut especially popular?",
       "options": [
-        "A. source",
-        "B. influence",
-        "C. device",
-        "D. need"
+        "A. In Japan",
+        "B. In the United States",
+        "C. In Brazil",
+        "D. In South Korea"
       ],
-      "correct_answer": "B. influence",
-      "explanation": "Giải thích:\nThe word \"intervention\" in paragraph (A) can best be replaced by?\n(Từ \"intervention\" trong đoạn (A) có thể được thay thế tốt nhất bằng từ nào?)\n❌\nneed\n(Nhu cầu) → Sai vì \"intervention\" có nghĩa là sự can thiệp hoặc tác động, không phải là nhu cầu.\n❌\ndevice\n(Thiết bị) → Sai vì \"intervention\" không có nghĩa là một thiết bị hay công cụ nào đó.\n✅\ninfluence\n(Ảnh hưởng, tác động) → Đúng vì đoạn (A) viết: \"Ordinary light, from the Sun or a light bulb, is emitted spontaneously when atoms or molecules get rid of excess energy by themselves, without any outside\nintervention\n.\" (\"Ánh sáng thông thường, từ Mặt Trời hoặc bóng đèn, được phát ra một cách tự nhiên khi các nguyên tử hoặc phân tử tự giải phóng năng lượng dư thừa mà không cần có bất kỳ sự\ncan thiệp\nnào từ bên ngoài.\") Trong ngữ cảnh này, \"intervention\" có nghĩa là sự tác động hoặc can thiệp từ bên ngoài, đồng nghĩa với \"influence\".\n❌\nsource\n(Nguồn) → Sai vì \"intervention\" không có nghĩa là nguồn phát sáng mà chỉ sự tác động từ bên ngoài."
+      "correct_answer": "C. In Brazil",
+      "explanation": "Giải thích:\nWhere is Orkut especially popular?\n(Orkut đặc biệt phổ biến ở đâu?)\n❌\nIn Japan\n(Ở Nhật Bản) → Sai, vì bài đọc không nhắc đến Orkut ở Nhật Bản.\n❌\nIn South Korea\n(Ở Hàn Quốc) → Sai, vì CyWorld mới là mạng xã hội phổ biến ở Hàn Quốc.\n❌\nIn the United States\n(Ở Hoa Kỳ) → Sai, vì Orkut không phổ biến ở Mỹ.\n✅\nIn Brazil\n(Ở Brazil) → Đúng, vì bài đọc nói rằng Orkut rất được yêu thích ở Brazil."
     },
     {
       "id": "question3",
-      "question": "Câu 3: The word \"it\" in paragraph (A) refers to?",
+      "question": "Câu 3: Why does the writer mention CyWorld in paragraph (A)?",
       "options": [
-        "A. energy",
-        "B. molecule",
-        "C. light bulb",
-        "D. atom"
+        "A. to give an example of a strong point of a social networking site",
+        "B. to express the common feature of social networking sites",
+        "C. to emphasize the importance social networking sites",
+        "D. to demonstrate the popularity of social networking sites"
       ],
-      "correct_answer": "A. energy",
-      "explanation": "Giải thích:\nThe word \"it\" in paragraph (A) refers to?\n(Từ \"it\" trong đoạn (A) ám chỉ đến điều gì?)\n❌\nlight bulb\n(Bóng đèn) → Sai vì \"it\" không đề cập đến bóng đèn mà liên quan đến quá trình phát ra ánh sáng.\n✅\nenergy\n(Năng lượng) → Đúng vì đoạn (A) viết: \"Stimulated emission is different because\nit\noccurs when an atom or molecule holding onto excess\nenergy\nhas been stimulated to emit\nit\nas light.\" (\"Phát xạ kích thích khác biệt ở chỗ\nnó\nxảy ra khi một nguyên tử hoặc phân tử chứa năng lượng dư thừa được kích thích để phát ra\nnó\ndưới dạng ánh sáng.\") Trong ngữ cảnh này, \"it\" ám chỉ đến \"energy\" (năng lượng) mà nguyên tử hoặc phân tử đang giữ.\n❌\nmolecule\n(Phân tử) → Sai vì \"it\" không ám chỉ đến một phân tử mà đề cập đến năng lượng mà phân tử hoặc nguyên tử phát ra.\n❌\natom\n(Nguyên tử) → Sai vì \"it\" không đại diện cho nguyên tử mà cho năng lượng mà nguyên tử hoặc phân tử đang giữ."
+      "correct_answer": "A. to give an example of a strong point of a social networking site",
+      "explanation": "Giải thích:\nWhy does the writer mention CyWorld in paragraph (A)?\n(Tại sao tác giả đề cập đến CyWorld trong đoạn (A)?)\n✅\nTo give an example of a strong point of a social networking site\n(Để đưa ra ví dụ về điểm mạnh của một mạng xã hội) → Đúng, vì bài đọc liệt kê CyWorld như một ví dụ về mạng xã hội phổ biến ở Hàn Quốc.\n❌\nTo emphasize the importance of social networking sites\n(Để nhấn mạnh tầm quan trọng của mạng xã hội) → Sai, vì bài đọc không tập trung vào tầm quan trọng mà chỉ mô tả các đặc điểm của chúng.\n❌\nTo demonstrate the popularity of social networking sites\n(Để chứng minh sự phổ biến của mạng xã hội) → Sai, vì câu này không nói về mức độ phổ biến chung mà về điểm mạnh của từng mạng.\n❌\nTo express the common feature of social networking sites\n(Để thể hiện đặc điểm chung của mạng xã hội) → Sai, vì câu này không nhằm mục đích nêu ra điểm chung của tất cả các mạng xã hội."
     },
     {
       "id": "question4",
-      "question": "Câu 4: Which of the following statements best describes a laser?",
+      "question": "Câu 4: Which phrase best describes what users do on social networking sites?",
       "options": [
-        "A. An atom in a high-energy state",
-        "B. A technique for destroying atoms or molecules",
-        "C. An instrument for measuring light waves",
-        "D. A device for stimulating atoms and molecules to emit light"
+        "A. They interact with other people.",
+        "B. They browse articles and other content.",
+        "C. They comment other people's blog.",
+        "D. They code pages in HTML."
       ],
-      "correct_answer": "D. A device for stimulating atoms and molecules to emit light",
-      "explanation": "Giải thích:\nWhich of the following statements best describes a laser?\n(Phát biểu nào sau đây mô tả chính xác nhất về laser?)\n✅\nA device for stimulating atoms and molecules to emit light\n(Một thiết bị kích thích nguyên tử và phân tử phát ra ánh sáng) → Đúng vì đoạn (A) viết: \"The word 'laser' was coined as an acronym for 'Light Amplification by the Stimulated Emission of Radiation'.\" (\"Từ 'laser' được đặt ra như một từ viết tắt của 'Khuếch đại ánh sáng bằng phát xạ kích thích'.\") Điều này cho thấy laser là một thiết bị dùng để kích thích nguyên tử và phân tử phát ra ánh sáng.\n❌\nAn atom in a high-energy state\n(Một nguyên tử ở trạng thái năng lượng cao) → Sai vì laser là một thiết bị, không phải là một nguyên tử riêng lẻ.\n❌\nA technique for destroying atoms or molecules\n(Một kỹ thuật để phá hủy nguyên tử hoặc phân tử) → Sai vì laser không dùng để phá hủy nguyên tử hoặc phân tử mà để khuếch đại ánh sáng bằng phát xạ kích thích.\n❌\nAn instrument for measuring light waves\n(Một công cụ để đo sóng ánh sáng) → Sai vì laser không phải là thiết bị đo lường mà là một thiết bị phát ra ánh sáng khuếch đại."
+      "correct_answer": "A. They interact with other people.",
+      "explanation": "Giải thích:\nWhich phrase best describes what users do on social networking sites?\n(Cụm từ nào mô tả chính xác nhất những gì người dùng làm trên mạng xã hội?)\n❌\nThey comment on other people's blogs.\n(Họ bình luận trên blog của người khác.) → Sai, vì bình luận trên blog phổ biến trên blog cá nhân, không phải mạng xã hội.\n❌\nThey code pages in HTML.\n(Họ lập trình trang web bằng HTML.) → Sai, vì mạng xã hội không yêu cầu người dùng phải lập trình.\n❌\nThey browse articles and other content.\n(Họ duyệt bài viết và nội dung khác.) → Sai, vì đây là đặc điểm của web 1.0 chứ không phải web 2.0.\n✅\nThey interact with other people.\n(Họ tương tác với những người khác.) → Đúng, vì mạng xã hội giúp người dùng kết nối và giao tiếp với nhau."
     },
     {
       "id": "question5",
-      "question": "Câu 5: Why was Towne's early work with stimulated emission done with microwaves?",
+      "question": "Câu 5: What was the primary purpose of the original web?",
       "options": [
-        "A. His partner Schawlow had already begun work on the laser.",
-        "B. He was not concerned with light amplification.",
-        "C. It was easier to work with longer wavelengths.",
-        "D. The laser had already been developed."
+        "A. Browsing content",
+        "B. Writing on blogs",
+        "C. Creating pages in HTML",
+        "D. Interacting with other people"
       ],
-      "correct_answer": "C. It was easier to work with longer wavelengths.",
-      "explanation": "Giải thích:\nWhy was Towne's early work with stimulated emission done with microwaves?\n(Tại sao công trình ban đầu của Townes về phát xạ kích thích lại được thực hiện với sóng vi ba?)\n❌\nHe was not concerned with light amplification.\n(Ông không quan tâm đến việc khuếch đại ánh sáng.) → Sai vì mục tiêu của Townes là nghiên cứu phát xạ kích thích và cách khuếch đại nó, chỉ là ông bắt đầu với sóng vi ba trước khi chuyển sang ánh sáng.\n✅\nIt was easier to work with longer wavelengths.\n(Làm việc với bước sóng dài hơn dễ dàng hơn.) → Đúng vì đoạn (A) viết: \"Instead of working with light, however, he worked with microwaves, which have a much longer wavelength, and built a device he called a 'maser'.\" (\"Thay vì làm việc với ánh sáng, ông đã nghiên cứu về sóng vi ba, loại sóng có bước sóng dài hơn nhiều, và chế tạo ra một thiết bị mà ông gọi là 'maser'.\") Điều này cho thấy bước sóng dài hơn của sóng vi ba giúp nghiên cứu dễ dàng hơn.\n❌\nHis partner Schawlow had already begun work on the laser.\n(Đối tác của ông, Schawlow, đã bắt đầu nghiên cứu về laser.) → Sai vì tại thời điểm đó, Schawlow chưa bắt đầu làm việc với laser, và Townes chủ động chọn nghiên cứu sóng vi ba trước.\n❌\nThe laser had already been developed.\n(Laser đã được phát triển.) → Sai vì tại thời điểm đó, laser chưa được phát minh, Townes mới chỉ đang nghiên cứu về phát xạ kích thích với sóng vi ba."
+      "correct_answer": "A. Browsing content",
+      "explanation": "Giải thích:\nWhat was the primary purpose of the original web?\n(Mục đích chính của web ban đầu là gì?)\n❌\nInteracting with other people\n(Tương tác với người khác) → Sai, vì web ban đầu chủ yếu là nơi cung cấp thông tin, không phải để giao tiếp.\n✅\nBrowsing content\n(Duyệt nội dung) → Đúng, vì web 1.0 chủ yếu là nơi để đọc bài viết, nghe nhạc và tìm kiếm thông tin.\n❌\nCreating pages in HTML\n(Tạo trang web bằng HTML) → Sai, vì rất ít người dùng có khả năng tạo trang web HTML.\n❌\nWriting on blogs\n(Viết blog) → Sai, vì blog chỉ trở nên phổ biến sau này, không phải trong giai đoạn web 1.0."
     },
     {
       "id": "question6",
-      "question": "Câu 6: In his research at Columbia University, Charles Townes worked with all of the following EXCEPT?",
+      "question": "Câu 6: In paragraph (B), what does the word 'they' refer to?",
       "options": [
-        "A. microwaves",
-        "B. stimulated emission",
-        "C. a maser",
-        "D. light waves"
+        "A. the sites",
+        "B. social networks",
+        "C. resources",
+        "D. most people"
       ],
-      "correct_answer": "D. light waves",
-      "explanation": "Giải thích:\nIn his research at Columbia University, Charles Townes worked with all of the following EXCEPT?\n(Trong nghiên cứu của mình tại Đại học Columbia, Charles Townes đã làm việc với tất cả những yếu tố sau đây NGOẠI TRỪ?)\n✅\nlight waves\n(Sóng ánh sáng) → Đúng vì đoạn (A) viết: \"Instead of working with light, however, he worked with microwaves, which have a much longer wavelength, and built a device he called a 'maser'.\" (\"Thay vì làm việc với ánh sáng, ông đã nghiên cứu về sóng vi ba, loại sóng có bước sóng dài hơn nhiều, và chế tạo ra một thiết bị mà ông gọi là 'maser'.\") Điều này cho thấy Townes đã không làm việc với sóng ánh sáng trong nghiên cứu ban đầu của mình.\n❌\nstimulated emission\n(Phát xạ kích thích) → Sai vì Townes nghiên cứu cách khuếch đại phát xạ kích thích bằng sóng vi ba, đây là phần cốt lõi trong công trình của ông.\n❌\nmicrowaves\n(Sóng vi ba) → Sai vì đoạn văn nêu rõ rằng ông đã làm việc với sóng vi ba thay vì sóng ánh sáng.\n❌\na maser\n(Một maser) → Sai vì Townes đã phát minh ra maser, một thiết bị hoạt động trên nguyên tắc phát xạ kích thích nhưng với sóng vi ba thay vì ánh sáng."
+      "correct_answer": "D. most people",
+      "explanation": "Giải thích:\nIn paragraph (B), what does the word \"they\" refer to?\n(Trong đoạn (B), từ \"they\" dùng để chỉ điều gì?)\n❌\nresources\n(tài nguyên) → Sai, vì từ \"they\" không đề cập đến tài nguyên trên web.\n❌\nthe sites\n(các trang web) → Sai, vì từ \"they\" không nhắc đến trang web cụ thể nào.\n✅\nmost people\n(đa số mọi người) → Đúng, vì từ \"they\" dùng để chỉ đa số người dùng internet, những người chỉ duyệt nội dung mà không tạo trang web.\n❌\nsocial networks\n(mạng xã hội) → Sai, vì từ \"they\" trong đoạn văn không đề cập đến mạng xã hội."
     },
     {
       "id": "question7",
-      "question": "Câu 7: In approximately what year was the first maser built?",
+      "question": "Câu 7: In paragraph (C), the word 'mimic' is closest in meaning to...?",
       "options": [
-        "A. 1917",
-        "B. 1953",
-        "C. 1951",
-        "D. 1957"
+        "A. imitate",
+        "B. eliminate",
+        "C. utilize",
+        "D. imagine"
       ],
-      "correct_answer": "B. 1953",
-      "explanation": "Giải thích:\nIn approximately what year was the first maser built?\n(Khoảng năm nào chiếc maser đầu tiên được chế tạo?)\n❌\n1917\n→ Sai vì năm 1917 là khi Albert Einstein đề xuất sự tồn tại của phát xạ kích thích, không phải thời điểm chiếc maser đầu tiên được chế tạo.\n❌\n1951\n→ Sai vì năm 1951 là khi Charles Townes nảy ra ý tưởng về maser, nhưng thiết bị chưa được chế tạo vào thời điểm đó.\n✅\n1953\n→ Đúng vì đoạn (A) viết: \"Although he conceived the key idea in 1951, the first maser was not completed until a few years later.\" (\"Mặc dù ông nảy ra ý tưởng quan trọng này vào năm 1951, nhưng phải mất vài năm sau đó, chiếc maser đầu tiên mới được hoàn thành.\") Dựa vào ngữ cảnh \"a few years later\", năm hoàn thành chiếc maser đầu tiên rơi vào khoảng năm **1953**.\n❌\n1957\n→ Sai vì năm 1957 là khi những khái niệm quan trọng về laser bắt đầu xuất hiện, nhưng maser đã được chế tạo trước đó."
+      "correct_answer": "A. imitate",
+      "explanation": "Giải thích:\nIn paragraph (C), the word \"mimic\" is closest in meaning to...?\n(Trong đoạn (C), từ \"mimic\" có nghĩa gần nhất với từ nào?)\n✅\nimitate\n(bắt chước) → Đúng, vì bài đọc nói rằng MySpace đã bắt chước các tính năng của Friendster.\n❌\nimagine\n(tưởng tượng) → Sai, vì \"mimic\" có nghĩa là làm theo, không phải tưởng tượng.\n❌\neliminate\n(loại bỏ) → Sai, vì \"mimic\" không có nghĩa là loại bỏ điều gì.\n❌\nutilize\n(sử dụng) → Sai, vì \"mimic\" không có nghĩa là tận dụng hay sử dụng."
     },
     {
       "id": "question8",
-      "question": "Câu 8: The word \"emerged\" in paragraph (B) is closest in meaning to?",
+      "question": "Câu 8: What does the writer imply about MySpace?",
       "options": [
-        "A. increased",
-        "B. concluded",
-        "C. appeared",
-        "D. succeeded"
+        "A. People could enjoy the content it provided.",
+        "B. It was successful.",
+        "C. It destroyed the internet like a storm.",
+        "D. It was the first social networking site."
       ],
-      "correct_answer": "C. appeared",
-      "explanation": "Giải thích:\nThe word \"emerged\" in paragraph (B) is closest in meaning to?\n(Từ \"emerged\" trong đoạn (B) có nghĩa gần nhất với từ nào?)\n❌\nincreased\n(Tăng lên) → Sai vì \"emerged\" có nghĩa là xuất hiện hoặc lộ diện, không có nghĩa là tăng lên về số lượng hay mức độ.\n❌\nconcluded\n(Kết luận) → Sai vì \"emerged\" không mang nghĩa kết luận hay chấm dứt điều gì.\n❌\nsucceeded\n(Thành công) → Sai vì \"emerged\" không có nghĩa là đạt được thành công, mà chỉ đơn giản là một điều gì đó xuất hiện hoặc trở nên rõ ràng.\n✅\nappeared\n(Xuất hiện) → Đúng vì đoạn (B) viết: \"The key concepts\nemerged\nabout 1957.\" (\"Những khái niệm quan trọng\nxuất hiện\nvào khoảng năm 1957.\") Trong ngữ cảnh này, \"emerged\" có nghĩa là xuất hiện hoặc bắt đầu trở nên rõ ràng, đồng nghĩa với \"appeared\"."
+      "correct_answer": "B. It was successful.",
+      "explanation": "Giải thích:\nWhat does the writer imply about MySpace?\n(Tác giả ngụ ý điều gì về MySpace?)\n❌\nIt was the first social networking site.\n(Nó là mạng xã hội đầu tiên.) → Sai, vì Friendster mới là mạng xã hội đầu tiên.\n✅\nIt was successful.\n(Nó đã thành công.) → Đúng, vì bài đọc nói rằng MySpace phát triển mạnh mẽ sau khi ra mắt.\n❌\nPeople could enjoy the content it provided.\n(Người dùng có thể thưởng thức nội dung mà nó cung cấp.) → Sai, vì MySpace không tự tạo nội dung, mà dựa vào người dùng tạo nội dung.\n❌\nIt destroyed the internet like a storm.\n(Nó phá hủy internet như một cơn bão.) → Sai, vì mặc dù bài đọc nói rằng MySpace \"took the internet by storm\" (làm bùng nổ internet), nhưng đó là theo nghĩa tích cực, không phải phá hủy."
     },
     {
       "id": "question9",
-      "question": "Câu 9: The word \"outlining\" in paragraph (B) is closest in meaning to?",
+      "question": "Câu 9: What is the most important factor for Web 2.0 companies to succeed?",
       "options": [
-        "A. studying",
-        "B. checking",
-        "C. summarizing",
-        "D. assigning"
+        "A. Users' desire to learn coding",
+        "B. Users' desire to read interesting content written by professionals",
+        "C. Users' intelligence",
+        "D. Users' desire to communicate with each other"
       ],
-      "correct_answer": "C. summarizing",
-      "explanation": "Giải thích:\nThe word \"outlining\" in paragraph (B) is closest in meaning to?\n(Từ \"outlining\" trong đoạn (B) có nghĩa gần nhất với từ nào?)\n❌\nassigning\n(Phân công) → Sai vì \"outlining\" có nghĩa là phác thảo hoặc tóm tắt một ý tưởng, không phải là giao nhiệm vụ hay phân công công việc.\n❌\nstudying\n(Nghiên cứu) → Sai vì \"outlining\" không có nghĩa là nghiên cứu một chủ đề, mà là trình bày các điểm chính của nó.\n❌\nchecking\n(Kiểm tra) → Sai vì \"outlining\" không liên quan đến việc kiểm tra hay xác nhận điều gì.\n✅\nsummarizing\n(Tóm tắt) → Đúng vì đoạn (B) viết: \"Townes and Arthur Schawlow, then at Bell Telephone Laboratories, wrote a long paper\noutlining\nthe conditions needed to amplify stimulated emission of visible light waves.\" (\"Townes và Arthur Schawlow, khi đó đang làm việc tại Bell Telephone Laboratories, đã viết một bài báo dài\nvạch ra\ncác điều kiện cần thiết để khuếch đại phát xạ kích thích của sóng ánh sáng khả kiến.\") Trong ngữ cảnh này, \"outlining\" có nghĩa là tóm tắt hoặc trình bày các điểm chính, đồng nghĩa với \"summarizing\"."
+      "correct_answer": "D. Users' desire to communicate with each other",
+      "explanation": "Giải thích:\nWhat is the most important factor for Web 2.0 companies to succeed?\n(Yếu tố quan trọng nhất để các công ty Web 2.0 thành công là gì?)\n✅\nUsers' desire to communicate with each other\n(Mong muốn của người dùng để giao tiếp với nhau) → Đúng, vì bài đọc nói rằng Web 2.0 dựa vào người dùng để tạo nội dung và giao tiếp.\n❌\nUsers' desire to read interesting content written by professionals\n(Mong muốn của người dùng đọc nội dung thú vị do chuyên gia viết) → Sai, vì Web 2.0 tập trung vào nội dung do người dùng tạo ra, không phải nội dung từ chuyên gia.\n❌\nUsers' desire to learn coding\n(Mong muốn của người dùng học lập trình) → Sai, vì Web 2.0 giúp người dùng dễ dàng tạo nội dung mà không cần biết lập trình.\n❌\nUsers' intelligence\n(Trí thông minh của người dùng) → Sai, vì trí thông minh không phải là yếu tố quan trọng giúp Web 2.0 thành công."
     },
     {
       "id": "question10",
-      "question": "Câu 10: Why do people still argue about who deserves the credit for the concept of the laser?",
+      "question": "Câu 10: What is the writer's purpose?",
       "options": [
-        "A. No one claimed credit for the development until recently.",
-        "B. Multiple researchers were independently working on the concept at the same time.",
-        "C. The work is still incomplete.",
-        "D. The researchers' notebooks were lost."
+        "A. to criticize social networking sites",
+        "B. to advertise for web 2.0 companies",
+        "C. to persuade people to develop social networking sites",
+        "D. to give information about social networking sites"
       ],
-      "correct_answer": "B. Multiple researchers were independently working on the concept at the same time.",
-      "explanation": "Giải thích:\nWhy do people still argue about who deserves the credit for the concept of the laser?\n(Tại sao mọi người vẫn tranh cãi về việc ai xứng đáng được công nhận là người phát minh ra laser?)\n❌\nThe researchers' notebooks were lost.\n(Sổ tay nghiên cứu đã bị mất.) → Sai vì không có thông tin nào trong bài đọc đề cập đến việc sổ tay nghiên cứu bị mất.\n✅\nMultiple researchers were independently working on the concept at the same time.\n(Nhiều nhà nghiên cứu đã làm việc độc lập trên cùng một ý tưởng vào cùng thời điểm.) → Đúng vì đoạn (B) viết: \"Townes and Schawlow published their ideas in a scientific journal,\nPhysical Review Letters\n, but Gould filed a patent application. Even three decades later, the debate continues over who deserves credit for the invention of the laser.\" (\"Townes và Schawlow công bố ý tưởng của họ trên tạp chí khoa học\nPhysical Review Letters\n, trong khi Gould nộp đơn xin cấp bằng sáng chế. Ngay cả ba thập kỷ sau đó, cuộc tranh luận về ai là người thực sự xứng đáng được ghi nhận với phát minh ra laser vẫn chưa kết thúc.\") Điều này cho thấy nhiều nhà nghiên cứu đã làm việc độc lập về cùng một ý tưởng, dẫn đến tranh cãi về việc ai là người phát minh thực sự.\n❌\nNo one claimed credit for the development until recently.\n(Không ai nhận công lao cho sự phát triển này cho đến gần đây.) → Sai vì ngay từ đầu, Gordon Gould đã nộp đơn xin cấp bằng sáng chế trong khi Townes và Schawlow công bố nghiên cứu trên tạp chí khoa học.\n❌\nThe work is still incomplete.\n(Công trình nghiên cứu vẫn chưa hoàn thành.) → Sai vì laser đã được phát triển và ứng dụng rộng rãi, tranh cãi chỉ xoay quanh việc ai xứng đáng được ghi nhận công lao."
+      "correct_answer": "D. to give information about social networking sites",
+      "explanation": "Giải thích:\nWhat is the writer's purpose?\n(Mục đích của tác giả là gì?)\n❌\nTo advertise for Web 2.0 companies\n(Quảng cáo cho các công ty Web 2.0) → Sai, vì bài đọc không mang tính quảng cáo mà chỉ cung cấp thông tin.\n❌\nTo persuade people to develop social networking sites\n(Thuyết phục mọi người phát triển mạng xã hội) → Sai, vì bài đọc không kêu gọi phát triển mạng xã hội mà chỉ mô tả sự phát triển của chúng.\n✅\nTo give information about social networking sites\n(Cung cấp thông tin về mạng xã hội) → Đúng, vì bài đọc chủ yếu nói về sự phát triển và đặc điểm của các mạng xã hội.\n❌\nTo criticize social networking sites\n(Chỉ trích mạng xã hội) → Sai, vì bài đọc không chỉ trích mà chỉ cung cấp thông tin trung lập."
+    },
+    {
+      "id": "question11",
+      "question": "Câu 11: What is the second most common natural disaster?",
+      "options": [
+        "A. fire",
+        "B. flood",
+        "C. tidal wave",
+        "D. rain"
+      ],
+      "correct_answer": "B. flood",
+      "explanation": "Giải thích:\nWhat is the second most common natural disaster?\n(Thảm họa thiên nhiên phổ biến thứ hai là gì?)\n✅\nflood (Lũ lụt)\n→ Đúng. Theo đoạn (A), \"Floods are second only to fire as the most common of all natural disasters.\" (Lũ lụt chỉ đứng sau hỏa hoạn trong danh sách các thảm họa thiên nhiên phổ biến nhất).\n❌\nfire (Hỏa hoạn)\n→ Sai. Hỏa hoạn là thảm họa phổ biến nhất chứ không phải thứ hai.\n❌\ntidal wave (Sóng thần)\n→ Sai. Sóng thần không được đề cập là thảm họa phổ biến thứ hai.\n❌\nrain (Mưa)\n→ Sai. Mưa không phải là một thảm họa thiên nhiên mà chỉ là một hiện tượng thời tiết."
+    },
+    {
+      "id": "question12",
+      "question": "Câu 12: In paragraph (A), what does the word 'they' refer to?",
+      "options": [
+        "A. conditions",
+        "B. scientists",
+        "C. disasters",
+        "D. floods"
+      ],
+      "correct_answer": "D. floods",
+      "explanation": "Giải thích:\nIn paragraph (A), what does the word \"they\" refer to?\n(Trong đoạn (A), từ \"they\" ám chỉ điều gì?)\n✅\nfloods (Lũ lụt)\n→ Đúng. Trong câu đầu tiên của đoạn (A), từ \"they\" được sử dụng để chỉ \"Floods\" trong câu trước đó.\n❌\ndisasters (Thảm họa)\n→ Sai. \"They\" không ám chỉ tất cả các thảm họa mà chỉ nói riêng về lũ lụt.\n❌\nscientists (Các nhà khoa học)\n→ Sai. Không có bằng chứng nào trong đoạn (A) cho thấy từ \"they\" ám chỉ các nhà khoa học.\n❌\nconditions (Điều kiện)\n→ Sai. Từ \"they\" không liên quan đến các điều kiện gây lũ lụt."
+    },
+    {
+      "id": "question13",
+      "question": "Câu 13: How does deep snow contribute to flooding?",
+      "options": [
+        "A. freezing water causes flooding.",
+        "B. snow that melts in wet weather causes flooding.",
+        "C. melting snow combining with considerable amount of rain and sudden increase in temperature leads to flooding.",
+        "D. melting snow that creates a large amount of water causes flooding."
+      ],
+      "correct_answer": "C. melting snow combining with considerable amount of rain and sudden increase in temperature leads to flooding.",
+      "explanation": "Giải thích:\nHow does deep snow contribute to flooding?\n(Tuyết dày góp phần gây ra lũ lụt như thế nào?)\n❌\nmelting snow that creates a large amount of water causes flooding.\n(Tuyết tan tạo ra một lượng nước lớn gây lũ lụt.) → Sai. Chỉ tuyết tan không đủ để gây lũ lụt mà cần kết hợp với các yếu tố khác.\n❌\nfreezing water causes flooding.\n(Nước đóng băng gây lũ lụt.) → Sai. Nước đóng băng không phải là nguyên nhân gây lũ.\n✅\nmelting snow combining with considerable amount of rain and sudden increase in temperature leads to flooding.\n(Tuyết tan kết hợp với lượng mưa lớn và sự tăng nhiệt độ đột ngột dẫn đến lũ lụt.) → Đúng. Theo đoạn (B), khi tuyết tan nhanh cùng với mưa lớn và nhiệt độ tăng, nó có thể gây ra lũ nghiêm trọng.\n❌\nsnow that melts in wet weather causes flooding.\n(Tuyết tan trong thời tiết ẩm gây lũ lụt.) → Sai. Điều này không đầy đủ, vì phải có mưa lớn và nhiệt độ tăng."
+    },
+    {
+      "id": "question14",
+      "question": "Câu 14: Why does saturated ground contribute to flooding problems?",
+      "options": [
+        "A. the ground cannot absorb more water",
+        "B. the ground forms a kind of dam",
+        "C. it remains frozen",
+        "D. the ground is too hard, so the water runs off"
+      ],
+      "correct_answer": "A. the ground cannot absorb more water",
+      "explanation": "Giải thích:\nWhy does saturated ground contribute to flooding problems?\n(Tại sao mặt đất bão hòa nước lại góp phần gây ra lũ lụt?)\n✅\nThe ground cannot absorb more water.\n(Mặt đất không thể hấp thụ thêm nước.) → Đúng. Theo đoạn (B), khi mặt đất đã bão hòa nước, nó không thể hấp thụ thêm nước từ tuyết tan, khiến nước dồn vào sông suối và gây lũ.\n❌\nThe ground is too hard, so the water runs off.\n(Mặt đất quá cứng, khiến nước chảy tràn.) → Sai. Mặt đất bị bão hòa nước chứ không phải quá cứng.\n❌\nThe ground forms a kind of dam.\n(Mặt đất tạo thành một con đập tự nhiên.) → Sai. Không có thông tin nào trong bài đọc đề cập đến điều này.\n❌\nIt remains frozen.\n(Nó vẫn đóng băng.) → Sai. Lũ lụt xảy ra khi tuyết tan, không phải khi mặt đất đóng băng."
+    },
+    {
+      "id": "question15",
+      "question": "Câu 15: How does a frozen river contribute to flooding?",
+      "options": [
+        "A. The ice in the river cracks causing the water to overflow.",
+        "B. The ice in the river melts too quickly and causes a flood.",
+        "C. The water behind the ice dam collects and when the dam breaks, it causes flooding upstream.",
+        "D. The ice in the river cracks into pieces that eventually create a dam causing the water to overflow."
+      ],
+      "correct_answer": "D. The ice in the river cracks into pieces that eventually create a dam causing the water to overflow.",
+      "explanation": "Giải thích:\nHow does a frozen river contribute to flooding?\n(Sông bị đóng băng góp phần gây ra lũ lụt như thế nào?)\n❌\nThe ice in the river melts too quickly and causes a flood.\n(Băng trong sông tan quá nhanh và gây lũ lụt.) → Sai. Không phải tốc độ tan chảy của băng mà là các tảng băng vỡ mới gây ra lũ.\n❌\nThe ice in the river cracks causing the water to overflow.\n(Băng trong sông nứt khiến nước tràn bờ.) → Sai. Chỉ riêng việc băng nứt không đủ để gây lũ.\n✅\nThe ice in the river cracks into pieces that eventually create a dam causing the water to overflow.\n(Băng trong sông nứt thành các mảng tạo thành một con đập băng, khiến nước tràn bờ.) → Đúng. Theo đoạn (C), khi băng vỡ thành từng tảng lớn và tạo thành con đập băng, nước sẽ bị giữ lại và có thể gây lũ.\n❌\nThe water behind the ice dam collects and when the dam breaks, it causes flooding upstream.\n(Nước tích tụ phía sau đập băng và khi đập vỡ, nó gây lũ ngược dòng.) → Sai. Khi đập băng vỡ, nó thường gây lũ hạ lưu chứ không phải ngược dòng."
+    },
+    {
+      "id": "question16",
+      "question": "Câu 16: Why does the writer mention 'tidal wave' in paragraph (D)?",
+      "options": [
+        "A. to compare the force of a broken human-made dam",
+        "B. to criticize dam designers",
+        "C. to emphasize the effects of natural disasters",
+        "D. to introduce another natural disaster"
+      ],
+      "correct_answer": "A. to compare the force of a broken human-made dam",
+      "explanation": "Giải thích:\nWhy does the writer mention \"tidal wave\" in paragraph (D)?\n(Tại sao tác giả đề cập đến \"sóng thần\" trong đoạn (D)?)\n✅\nto compare the force of a broken human-made dam (để so sánh sức mạnh của một con đập nhân tạo bị vỡ)\n→ Đúng. Theo đoạn (D), tác giả so sánh nước từ một con đập bị vỡ có thể có sức tàn phá như một cơn sóng thần khổng lồ.\n❌\nto introduce another natural disaster (để giới thiệu một thảm họa thiên nhiên khác)\n→ Sai. Tác giả không đề cập đến sóng thần như một thảm họa riêng biệt.\n❌\nto emphasize the effects of natural disasters (để nhấn mạnh tác động của các thảm họa thiên nhiên)\n→ Sai. Tác giả chỉ tập trung vào tác động của con đập bị vỡ, không phải tất cả các thảm họa.\n❌\nto criticize dam designers (để chỉ trích các nhà thiết kế đập)\n→ Sai. Không có thông tin nào trong bài đọc cho thấy tác giả đang chỉ trích các nhà thiết kế đập."
+    },
+    {
+      "id": "question17",
+      "question": "Câu 17: How far can dam water travel when it is unleashed from a broken dam?",
+      "options": [
+        "A. tens of kilometres",
+        "B. tens of thousands of kilometres downstream",
+        "C. thousands of kilometres",
+        "D. less than 10 kilometres"
+      ],
+      "correct_answer": "A. tens of kilometres",
+      "explanation": "Giải thích:\nHow far can dam water travel when it is unleashed from a broken dam?\n(Nước từ một con đập bị vỡ có thể di chuyển bao xa?)\n❌\nless than 10 kilometres (dưới 10 km)\n→ Sai. Nước từ đập bị vỡ có thể di chuyển xa hơn 10 km.\n✅\ntens of kilometres (hàng chục km)\n→ Đúng. Theo đoạn (D), nước từ một con đập bị vỡ có thể di chuyển hàng chục km.\n❌\nthousands of kilometres (hàng nghìn km)\n→ Sai. Không có thông tin nào cho thấy nước có thể di chuyển xa như vậy.\n❌\ntens of thousands of kilometres downstream (hàng chục nghìn km về phía hạ lưu)\n→ Sai. Điều này không hợp lý và không được đề cập trong bài."
+    },
+    {
+      "id": "question18",
+      "question": "Câu 18: In paragraph (D), the word 'devastating' is closest in meaning to...?",
+      "options": [
+        "A. uncountable",
+        "B. fabulous",
+        "C. disastrous",
+        "D. priceless"
+      ],
+      "correct_answer": "C. disastrous",
+      "explanation": "Giải thích:\nIn paragraph (D), the word \"devastating\" is closest in meaning to...?\n(Trong đoạn (D), từ \"devastating\" có nghĩa gần nhất với từ nào?)\n❌\nfabulous (tuyệt vời)\n→ Sai. \"Devastating\" có nghĩa là tàn phá, không phải tuyệt vời.\n❌\nuncountable (không thể đếm được)\n→ Sai. \"Devastating\" không liên quan đến số lượng.\n❌\npriceless (vô giá)\n→ Sai. \"Devastating\" không có nghĩa là vô giá.\n✅\ndisastrous (thảm khốc, tàn phá)\n→ Đúng. \"Devastating\" có nghĩa là gây ra hậu quả nghiêm trọng, tương tự như \"disastrous\"."
+    },
+    {
+      "id": "question19",
+      "question": "Câu 19: According to the passage, which of the following is NOT mentioned as a cause of flooding?",
+      "options": [
+        "A. melting snow",
+        "B. broken dams",
+        "C. poorly built roads",
+        "D. ice-covered rivers"
+      ],
+      "correct_answer": "C. poorly built roads",
+      "explanation": "Giải thích:\nAccording to the passage, which of the following is NOT mentioned as a cause of flooding?\n(Theo bài đọc, điều nào sau đây KHÔNG được đề cập là nguyên nhân gây lũ lụt?)\n❌\nmelting snow (tuyết tan)\n→ Sai. Đoạn (B) nói rằng tuyết tan có thể góp phần gây ra lũ lụt.\n❌\nice-covered rivers (sông bị đóng băng)\n→ Sai. Đoạn (C) giải thích cách các con sông bị đóng băng có thể dẫn đến lũ lụt.\n❌\nbroken dams (đập bị vỡ)\n→ Sai. Đoạn (D) mô tả cách các con đập nhân tạo bị vỡ có thể gây ra lũ lụt.\n✅\npoorly built roads (đường được xây dựng kém chất lượng)\n→ Đúng. Không có thông tin nào trong bài đề cập đến đường sá là nguyên nhân gây lũ lụt."
+    },
+    {
+      "id": "question20",
+      "question": "Câu 20: What can be inferred from paragraph (E)?",
+      "options": [
+        "A. The impact of floods can be minimized if their causes are understood.",
+        "B. There are only three conditions that contribute to flooding.",
+        "C. Scientists have limited knowledge about floods.",
+        "D. Potential flooding cannot be accurately predicted."
+      ],
+      "correct_answer": "A. The impact of floods can be minimized if their causes are understood.",
+      "explanation": "Giải thích:\nWhat can be inferred from paragraph (E)?\n(Điều gì có thể suy ra từ đoạn (E)?)\n❌\nScientists have limited knowledge about floods. (Các nhà khoa học có kiến thức hạn chế về lũ lụt.)\n→ Sai. Đoạn (E) cho thấy các nhà khoa học có sự hiểu biết tốt về nguyên nhân gây lũ lụt.\n❌\nPotential flooding cannot be accurately predicted. (Không thể dự đoán chính xác khả năng xảy ra lũ lụt.)\n→ Sai. Mặc dù không thể dự đoán chính xác thời điểm xảy ra lũ, nhưng các điều kiện gây lũ có thể được xác định.\n✅\nThe impact of floods can be minimized if their causes are understood. (Tác động của lũ lụt có thể giảm thiểu nếu chúng ta hiểu rõ nguyên nhân của chúng.)\n→ Đúng. Đoạn (E) nhấn mạnh rằng hiểu biết về nguyên nhân gây lũ có thể giúp giảm thiểu thiệt hại.\n❌\nThere are only three conditions that contribute to flooding. (Chỉ có ba điều kiện gây ra lũ lụt.)\n→ Sai. Mặc dù bài đọc đề cập đến ba yếu tố chính, nhưng không khẳng định rằng chỉ có ba nguyên nhân này."
+    },
+    {
+      "id": "question21",
+      "question": "Câu 21: In paragraph (A), the word 'precocity' is closest in meaning to...?",
+      "options": [
+        "A. good luck",
+        "B. strong interest",
+        "C. personal style",
+        "D. advanced skill"
+      ],
+      "correct_answer": "D. advanced skill",
+      "explanation": "Giải thích:\nIn paragraph (A), the word \"precocity\" is closest in meaning to...?\n(Trong đoạn (A), từ \"precocity\" gần nhất với nghĩa nào?)\n❌\nStrong interest (Sự quan tâm mạnh mẽ)\n→ Sai. \"Precocity\" không chỉ đề cập đến sự quan tâm mà còn thể hiện khả năng vượt trội từ sớm.\n❌\nGood luck (May mắn)\n→ Sai. Từ này không liên quan đến may mắn mà nói về tài năng xuất hiện sớm.\n✅\nAdvanced skill (Kỹ năng phát triển sớm)\n→ Đúng. \"Precocity\" mô tả khả năng bẩm sinh xuất hiện sớm trong cuộc sống.\n❌\nPersonal style (Phong cách cá nhân)\n→ Sai. \"Precocity\" không nói về phong cách mà về tài năng xuất hiện sớm."
+    },
+    {
+      "id": "question22",
+      "question": "Câu 22: Which sentence best expresses the essential information in the highlighted sentence in paragraph (A)?",
+      "options": [
+        "A. Children with exceptional musical talent will look for the best way to express themselves through music - making.",
+        "B. Every child is naturally gifted, and it is the the responsibility of the public schools to recognize and develop these talent.",
+        "C. Children may be born with superior musical ability, but their environment will determine how this ability is developed.",
+        "D. Some musically talented children live in an environment surrounded by music, while others have little exposure to music."
+      ],
+      "correct_answer": "C. Children may be born with superior musical ability, but their environment will determine how this ability is developed.",
+      "explanation": "Giải thích:\nWhich sentence best expresses the essential information in the highlighted sentence in paragraph (A)?\n(Câu nào thể hiện thông tin cốt lõi trong câu được làm nổi bật ở đoạn (A)?)\n✅\nChildren may be born with superior musical ability, but their environment will determine how this ability is developed. (Trẻ có thể sinh ra với năng khiếu âm nhạc, nhưng môi trường sẽ quyết định sự phát triển của khả năng này.)\n→ Đúng. Câu này thể hiện rõ nhất nội dung của câu gốc.\n❌\nEvery child is naturally gifted, and it is the responsibility of the public schools to recognize and develop these talents. (Mọi đứa trẻ đều có tài năng bẩm sinh, và trách nhiệm của trường học là nhận ra và phát triển tài năng đó.)\n→ Sai. Không phải tất cả trẻ em đều có năng khiếu âm nhạc.\n❌\nChildren with exceptional musical talent will look for the best way to express themselves through music-making. (Trẻ có tài năng đặc biệt sẽ tìm cách thể hiện bản thân qua âm nhạc.)\n→ Sai. Câu này không nhắc đến vai trò của môi trường.\n❌\nSome musically talented children live in an environment surrounded by music, while others have little exposure to music. (Một số trẻ có năng khiếu sống trong môi trường âm nhạc, trong khi số khác có ít cơ hội tiếp xúc.)\n→ Sai. Câu này không đề cập đến ảnh hưởng của môi trường đến sự phát triển tài năng."
+    },
+    {
+      "id": "question23",
+      "question": "Câu 23: What is pitch?",
+      "options": [
+        "A. a principal element of music",
+        "B. rhythm",
+        "C. frequency",
+        "D. tone"
+      ],
+      "correct_answer": "A. a principal element of music",
+      "explanation": "Giải thích:\nWhat is pitch?\n(Cao độ là gì?)\n❌\nRhythm (Nhịp điệu)\n→ Sai. Nhịp điệu là sự lặp lại của âm thanh trong một chuỗi thời gian nhất định.\n✅\nA principal element of music (Một yếu tố chính của âm nhạc)\n→ Đúng. Cao độ là một trong những yếu tố quan trọng của âm nhạc.\n❌\nTone (Âm sắc)\n→ Sai. Âm sắc là chất lượng âm thanh giúp phân biệt nhạc cụ hoặc giọng nói khác nhau.\n❌\nFrequency (Tần số)\n→ Sai. Tần số là khía cạnh khoa học của cao độ nhưng không phải định nghĩa chính xác về cao độ trong âm nhạc."
+    },
+    {
+      "id": "question24",
+      "question": "Câu 24: In paragraph (B), how are the principal elements of music emphasized in Sub-Saharan Africa?",
+      "options": [
+        "A. These elements are totally ignored.",
+        "B. Melody is the most important element.",
+        "C. Rhythm with complicated ratios is emphasized.",
+        "D. Rhythm is not significant."
+      ],
+      "correct_answer": "C. Rhythm with complicated ratios is emphasized.",
+      "explanation": "Giải thích:\nIn paragraph (B), how are the principal elements of music emphasized in Sub-Saharan Africa?\n(Trong đoạn (B), các yếu tố chính của âm nhạc được nhấn mạnh như thế nào ở vùng cận Sahara, châu Phi?)\n❌\nMelody is the most important element. (Giai điệu là yếu tố quan trọng nhất.)\n→ Sai. Đoạn văn nhấn mạnh nhịp điệu, không phải giai điệu.\n✅\nRhythm with complicated ratios is emphasized. (Nhịp điệu với tỷ lệ phức tạp được nhấn mạnh.)\n→ Đúng. Đoạn văn đề cập đến cách các nền văn hóa cận Sahara có những tỷ lệ nhịp điệu rất phức tạp.\n❌\nRhythm is not significant. (Nhịp điệu không quan trọng.)\n→ Sai. Nhịp điệu đóng vai trò quan trọng trong âm nhạc của vùng này.\n❌\nThese elements are totally ignored. (Các yếu tố này hoàn toàn bị bỏ qua.)\n→ Sai. Nhịp điệu là yếu tố chính trong âm nhạc của khu vực này."
+    },
+    {
+      "id": "question25",
+      "question": "Câu 25: According to the passage, at what age does musical talent typically emerge?",
+      "options": [
+        "A. When children learn to sing at two or three years old.",
+        "B. When infants start to babble and produce sound patterns.",
+        "C. Between ten years old and adolescence.",
+        "D. Between the ages of two and four months."
+      ],
+      "correct_answer": "A. When children learn to sing at two or three years old.",
+      "explanation": "Giải thích:\nAccording to the passage, at what age does musical talent typically emerge?\n(Theo bài đọc, tài năng âm nhạc thường xuất hiện ở độ tuổi nào?)\n❌\nWhen infants start to babble and produce sound patterns. (Khi trẻ sơ sinh bắt đầu bập bẹ và tạo mẫu âm thanh.)\n→ Sai. Đây là sự phát triển ngôn ngữ, không phải tài năng âm nhạc rõ ràng.\n❌\nBetween the ages of two and four months. (Giữa 2 và 4 tháng tuổi.)\n→ Sai. Trẻ chưa thể hát hay thể hiện tài năng âm nhạc ở độ tuổi này.\n✅\nWhen children learn to sing at two or three years old. (Khi trẻ bắt đầu học hát ở 2 hoặc 3 tuổi.)\n→ Đúng. Bài đọc đề cập rằng một số trẻ có thể hát cả đoạn dài khi mới hai hoặc ba tuổi.\n❌\nBetween ten years old and adolescence. (Từ 10 tuổi đến tuổi dậy thì.)\n→ Sai. Ở độ tuổi này, tài năng có thể đã phát triển nhưng không phải thời điểm bắt đầu xuất hiện."
+    },
+    {
+      "id": "question26",
+      "question": "Câu 26: In paragraph (C), what does the word 'others' refer to?",
+      "options": [
+        "A. segments",
+        "B. differences",
+        "C. melodies",
+        "D. children"
+      ],
+      "correct_answer": "D. children",
+      "explanation": "Giải thích:\nIn paragraph (C), what does the word \"others\" refer to?\n(Trong đoạn (C), từ \"others\" đề cập đến điều gì?)\n✅\nChildren (Trẻ em)\n→ Đúng. Trong ngữ cảnh, \"others\" đề cập đến những đứa trẻ khác không thể hát chính xác giai điệu khi còn nhỏ.\n❌\nDifferences (Sự khác biệt)\n→ Sai. \"Others\" không chỉ đến sự khác biệt mà đến các đối tượng cụ thể (trẻ em).\n❌\nSegments (Các đoạn)\n→ Sai. Từ này không phù hợp với nghĩa của câu.\n❌\nMelodies (Giai điệu)\n→ Sai. \"Others\" không đề cập đến giai điệu mà đến trẻ em."
+    },
+    {
+      "id": "question27",
+      "question": "Câu 27: What evidence suggests that musical talent is a distinct form of intelligence?",
+      "options": [
+        "A. The ability of all babies to acquire core elements of music.",
+        "B. Exceptional musical ability in an otherwise average child.",
+        "C. Differences between learning music and learning language.",
+        "D. Recognition of the emotional power of music."
+      ],
+      "correct_answer": "B. Exceptional musical ability in an otherwise average child.",
+      "explanation": "Giải thích:\nWhat evidence suggests that musical talent is a distinct form of intelligence?\n(Bằng chứng nào cho thấy tài năng âm nhạc là một dạng trí thông minh riêng biệt?)\n✅\nExceptional musical ability in an otherwise average child. (Khả năng âm nhạc xuất sắc ở một đứa trẻ bình thường.)\n→ Đúng. Bài đọc đề cập rằng có nhiều trẻ có chỉ số IQ trung bình nhưng lại có tài năng âm nhạc vượt trội.\n❌\nRecognition of the emotional power of music. (Nhận thức về sức mạnh cảm xúc của âm nhạc.)\n→ Sai. Điều này không phải là bằng chứng cho thấy tài năng âm nhạc là một trí thông minh riêng biệt.\n❌\nThe ability of all babies to acquire core elements of music. (Khả năng của mọi trẻ sơ sinh trong việc tiếp thu các yếu tố cơ bản của âm nhạc.)\n→ Sai. Đây là sự phát triển bình thường, không phải bằng chứng về trí thông minh riêng biệt.\n❌\nDifferences between learning music and learning language. (Sự khác biệt giữa việc học nhạc và học ngôn ngữ.)\n→ Sai. Mặc dù có thể có sự khác biệt, nhưng đây không phải là bằng chứng về trí thông minh riêng biệt."
+    },
+    {
+      "id": "question28",
+      "question": "Câu 28: Why does the author mention Mozart in paragraph (E)?",
+      "options": [
+        "A. To compare past and present views of musical talent",
+        "B. To give an example of a well - known musical prodigy",
+        "C. To describe the development of individual musical skill",
+        "D. To list musical accomplishment of the eighteenth century"
+      ],
+      "correct_answer": "B. To give an example of a well - known musical prodigy",
+      "explanation": "Giải thích:\nWhy does the author mention Mozart in paragraph (E)?\n(Tại sao tác giả nhắc đến Mozart trong đoạn (E)?)\n❌\nTo compare past and present views of musical talent. (Để so sánh quan điểm về tài năng âm nhạc giữa quá khứ và hiện tại.)\n→ Sai. Bài đọc không thực hiện so sánh giữa hai thời kỳ.\n✅\nTo give an example of a well-known musical prodigy. (Để đưa ra ví dụ về một thần đồng âm nhạc nổi tiếng.)\n→ Đúng. Mozart được nhắc đến như một thần đồng âm nhạc với tài năng xuất sắc từ khi còn nhỏ.\n❌\nTo list musical accomplishments of the eighteenth century. (Để liệt kê các thành tựu âm nhạc của thế kỷ XVIII.)\n→ Sai. Tác giả không tập trung vào thành tựu âm nhạc của cả thời kỳ mà chỉ đề cập đến Mozart.\n❌\nTo describe the development of individual musical skill. (Để mô tả sự phát triển của kỹ năng âm nhạc cá nhân.)\n→ Sai. Bài đọc không mô tả quá trình phát triển chung mà tập trung vào Mozart."
+    },
+    {
+      "id": "question29",
+      "question": "Câu 29: In music, what is the term for changing from one key to another?",
+      "options": [
+        "A. modulation",
+        "B. rhythm",
+        "C. perfect pitch",
+        "D. prodigy"
+      ],
+      "correct_answer": "A. modulation",
+      "explanation": "Giải thích:\nIn music, what is the term for changing from one key to another?\n(Trong âm nhạc, thuật ngữ nào chỉ việc chuyển từ một tông nhạc này sang tông nhạc khác?)\n❌\nRhythm (Nhịp điệu)\n→ Sai. Nhịp điệu liên quan đến cấu trúc thời gian của âm nhạc chứ không phải sự thay đổi tông.\n❌\nProdigy (Thần đồng)\n→ Sai. Thần đồng là một người có tài năng đặc biệt, không phải một thuật ngữ âm nhạc.\n❌\nPerfect pitch (Cao độ tuyệt đối)\n→ Sai. Đây là khả năng nhận diện chính xác cao độ của âm thanh, không liên quan đến việc thay đổi tông.\n✅\nModulation (Chuyển tông)\n→ Đúng. Modulation là thuật ngữ dùng để chỉ quá trình chuyển từ một tông nhạc sang tông nhạc khác."
+    },
+    {
+      "id": "question30",
+      "question": "Câu 30: What can be inferred from the passage about exceptional musical ability?",
+      "options": [
+        "A. It is evidence of a superior level of intelligence in other areas.",
+        "B. It is the result of natural talent and a supportive environment.",
+        "C. It has been documented and studied but is little understood.",
+        "D. It occurs more frequently in some cultures than in others."
+      ],
+      "correct_answer": "B. It is the result of natural talent and a supportive environment.",
+      "explanation": "Giải thích:\nWhat can be inferred from the passage about exceptional musical ability?\n(Điều gì có thể suy ra từ bài đọc về tài năng âm nhạc xuất sắc?)\n❌\nIt occurs more frequently in some cultures than in others. (Nó xuất hiện thường xuyên hơn ở một số nền văn hóa so với những nền văn hóa khác.)\n→ Sai. Bài đọc không đề cập đến tần suất tài năng âm nhạc xuất hiện theo văn hóa.\n❌\nIt is evidence of a superior level of intelligence in other areas. (Nó là bằng chứng của một mức độ thông minh vượt trội trong các lĩnh vực khác.)\n→ Sai. Bài đọc nhấn mạnh rằng nhiều trẻ có chỉ số IQ trung bình nhưng có tài năng âm nhạc đặc biệt.\n❌ It has been documented and studied but is little understood. (Nó đã được ghi nhận và nghiên cứu nhưng vẫn chưa được hiểu rõ.)\n→ Sai. Bài đọc không đề cập đến việc tài năng âm nhạc vẫn chưa được hiểu rõ cơ chế.\n✅ It is the result of natural talent and a supportive environment. (Nó là kết quả của tài năng bẩm sinh và môi trường hỗ trợ.)\n→ Đúng. Vì đoạn (A), (C), (D), và (E) hướng đến việc mô tả tài năng âm nhạc xuất sắc là do tài năng bẩm sinh kết hợp cùng với môi trường sống xung quanh."
+    },
+    {
+      "id": "question31",
+      "question": "Câu 31: In paragraph (A), what is the best synonym for the word 'icon'?",
+      "options": [
+        "A. helicopter",
+        "B. aircraft",
+        "C. tool",
+        "D. symbol"
+      ],
+      "correct_answer": "D. symbol",
+      "explanation": "Giải thích:\nIn paragraph (A), what is the best synonym for the word \"icon\"?\n(Trong đoạn (A), từ đồng nghĩa tốt nhất với \"icon\" là gì?)\n❌\nhelicopter (trực thăng)\n→ Sai. \"Icon\" có nghĩa là một biểu tượng hoặc đại diện tiêu biểu, không nhất thiết là một loại phương tiện cụ thể.\n✅\nsymbol (biểu tượng)\n→ Đúng. Đoạn (A) nói rằng mỗi cuộc chiến tranh đều có một biểu tượng đại diện cho công nghệ quan trọng của thời đại đó, và trong Chiến tranh Việt Nam, đó chính là Huey.\n❌\naircraft (máy bay)\n→ Sai. \"Icon\" không phải là từ chỉ một phương tiện chung như máy bay.\n❌\ntool (công cụ)\n→ Sai. \"Icon\" mang ý nghĩa biểu tượng hơn là một công cụ đơn thuần."
+    },
+    {
+      "id": "question32",
+      "question": "Câu 32: Why does the writer mention 'cannon, machine gun, and tank' in paragraph (A)?",
+      "options": [
+        "A. to emphasize the power of U.S Army",
+        "B. to compare different weapons",
+        "C. to express the variety of U.S weapons and military equipment",
+        "D. to give examples of war symbols"
+      ],
+      "correct_answer": "D. to give examples of war symbols",
+      "explanation": "Giải thích:\nWhy does the writer mention \"cannon, machine gun, and tank\" in paragraph (A)?\n(Tại sao tác giả đề cập đến \"đại bác, súng máy, và xe tăng\" trong đoạn (A)?)\n✅\nto give examples of war symbols (để đưa ra ví dụ về biểu tượng chiến tranh)\n→ Đúng. Đoạn văn liệt kê các biểu tượng công nghệ chiến tranh của các thời kỳ khác nhau để làm nổi bật vai trò của Huey trong Chiến tranh Việt Nam.\n❌\nto emphasize the power of U.S Army (để nhấn mạnh sức mạnh của Quân đội Hoa Kỳ)\n→ Sai. Mục đích không phải là để ca ngợi quân đội mà là để nói về biểu tượng chiến tranh.\n❌\nto express the variety of U.S weapons and military equipment (để thể hiện sự đa dạng của vũ khí và trang bị quân sự Hoa Kỳ)\n→ Sai. Tác giả chỉ đề cập đến một số loại vũ khí mang tính biểu tượng chứ không nói về sự đa dạng.\n❌\nto compare different weapons (để so sánh các loại vũ khí khác nhau)\n→ Sai. Tác giả không so sánh tính hiệu quả của các loại vũ khí này."
+    },
+    {
+      "id": "question33",
+      "question": "Câu 33: Which factors made helicopters essential in the Vietnam War?",
+      "options": [
+        "A. rapid transport, medical evacuation, soldier resupply",
+        "B. strategic operations, supply routes, troop movements",
+        "C. dense jungles, remote battle sites, bad roads",
+        "D. large rivers, vast shoreline, marshy rice paddies"
+      ],
+      "correct_answer": "C. dense jungles, remote battle sites, bad roads",
+      "explanation": "Giải thích:\nWhich factors made helicopters essential in the Vietnam War?\n(Những yếu tố nào khiến trực thăng trở thành phương tiện không thể thiếu trong Chiến tranh Việt Nam?)\n❌\nstrategic operations, supply routes, troop movements (hoạt động chiến lược, tuyến tiếp tế, di chuyển quân)\n→ Sai. Đây là chức năng của trực thăng nhưng không phải là lý do chính khiến chúng quan trọng.\n❌\nlarge rivers, vast shoreline, marshy rice paddies (sông lớn, bờ biển rộng, ruộng lúa ngập nước)\n→ Sai. Đây không phải là yếu tố chính khiến trực thăng trở nên quan trọng.\n✅\ndense jungles, remote battle sites, bad roads (rừng rậm, chiến trường xa xôi, đường sá kém phát triển)\n→ Đúng. Địa hình rừng rậm và hệ thống đường sá kém khiến xe cơ giới không hiệu quả, trực thăng trở thành lựa chọn tối ưu.\n❌\nrapid transport, medical evacuation, soldier resupply (vận chuyển nhanh, sơ tán y tế, tiếp tế quân)\n→ Sai. Đây là những vai trò của trực thăng chứ không phải là yếu tố khiến chúng quan trọng."
+    },
+    {
+      "id": "question34",
+      "question": "Câu 34: In paragraph (B), which of the following was first introduced in the Vietnam War?",
+      "options": [
+        "A. 1st Cavalry",
+        "B. 101st Airborne",
+        "C. UH-1 —Iroquois",
+        "D. 1st Aviation Brigade"
+      ],
+      "correct_answer": "A. 1st Cavalry",
+      "explanation": "Giải thích:\nIn paragraph (B), which of the following was first introduced in the Vietnam War?\n(Trong đoạn (B), yếu tố nào dưới đây lần đầu tiên được giới thiệu trong Chiến tranh Việt Nam?)\n❌\n101st Airborne (Sư đoàn Nhảy dù 101)\n→ Sai. Đơn vị này đã tồn tại từ trước và tham gia nhiều chiến dịch khác.\n✅\n1st Cavalry (Sư đoàn Kỵ binh số 1)\n→ Đúng. Đây là đơn vị tiên phong trong chiến tranh Cơ động Đường không tại Việt Nam.\n❌\n1st Aviation Brigade (Lữ đoàn Hàng không số 1)\n→ Sai. Mặc dù tham gia chiến đấu nhưng không phải là đơn vị tiên phong.\n❌\nUH-1 —Iroquois (UH-1 Huey)\n→ Sai. Trực thăng UH-1 đã được phát triển từ trước, không phải là điều mới mẻ trong Chiến tranh Việt Nam."
+    },
+    {
+      "id": "question35",
+      "question": "Câu 35: Which of the sentences below best expresses the information in the highlighted statement in the passage?",
+      "options": [
+        "A. Many helicopters were used in Vietnam, but none was helpful.",
+        "B. The Huey was the most widely used helicopter in Vietnam.",
+        "C. No helicopter was as big as the Huey.",
+        "D. The Huey was the least efficient among helicopters used in Vietnam."
+      ],
+      "correct_answer": "B. The Huey was the most widely used helicopter in Vietnam.",
+      "explanation": "Giải thích:\nWhich of the sentences below best expresses the information in the highlighted statement in the passage?\n(Câu nào dưới đây thể hiện tốt nhất nội dung của câu được đánh dấu trong bài?)\n❌\nThe Huey was the least efficient among helicopters used in Vietnam. (Huey là trực thăng kém hiệu quả nhất được sử dụng ở Việt Nam.)\n→ Sai. Huey là trực thăng được sử dụng nhiều nhất, không phải kém hiệu quả nhất.\n❌\nNo helicopter was as big as the Huey. (Không có trực thăng nào lớn bằng Huey.)\n→ Sai. Bài đọc không nói đến kích thước của Huey.\n✅\nThe Huey was the most widely used helicopter in Vietnam. (Huey là trực thăng được sử dụng rộng rãi nhất ở Việt Nam.)\n→ Đúng. Huey được gọi là \"ngựa thồ\" của cuộc chiến vì nó đóng vai trò quan trọng trong nhiều nhiệm vụ.\n❌\nMany helicopters were used in Vietnam, but none was helpful. (Nhiều trực thăng đã được sử dụng ở Việt Nam, nhưng không cái nào hữu ích.)\n→ Sai. Bài đọc nhấn mạnh tầm quan trọng của trực thăng trong chiến tranh."
+    },
+    {
+      "id": "question36",
+      "question": "Câu 36: In paragraph (C), which of the following was NOT transported by the Huey?",
+      "options": [
+        "A. orphans",
+        "B. supplies",
+        "C. officers",
+        "D. soldiers"
+      ],
+      "correct_answer": "A. orphans",
+      "explanation": "Giải thích:\nIn paragraph (C), which of the following was NOT transported by the Huey?\n(Trong đoạn (C), đối tượng nào dưới đây KHÔNG được vận chuyển bởi Huey?)\n❌\nsoldiers (binh sĩ)\n→ Sai. Huey được sử dụng rộng rãi để chở binh sĩ đến chiến trường.\n❌\nofficers (sĩ quan)\n→ Sai. Các sĩ quan chỉ huy thường được chở trên Huey để lập kế hoạch tác chiến.\n❌\nsupplies (vật tư tiếp tế)\n→ Sai. Huey được sử dụng để vận chuyển nhu yếu phẩm và thiết bị quân sự.\n✅\norphans (trẻ mồ côi)\n→ Đúng. Huey vận chuyển y tá đến trại trẻ mồ côi nhưng không chở trẻ em."
+    },
+    {
+      "id": "question37",
+      "question": "Câu 37: What was the name for helicopter ambulance missions?",
+      "options": [
+        "A. Cavalry",
+        "B. Donut Dollies",
+        "C. PSYOP",
+        "D. Dustoff"
+      ],
+      "correct_answer": "D. Dustoff",
+      "explanation": "Giải thích:\nWhat was the name for helicopter ambulance missions?\n(Tên gọi của các nhiệm vụ trực thăng cứu thương là gì?)\n✅\nDustoff\n→ Đúng. Đây là thuật ngữ được đặt theo tên một phi công đã hy sinh trong nhiệm vụ sơ tán thương binh.\n❌\nPSYOP\n→ Sai. PSYOP là các chiến dịch tâm lý chiến, không liên quan đến cứu thương.\n❌\nDonut Dollies\n→ Sai. Đây là các nữ tình nguyện viên đến để giải trí cho binh sĩ.\n❌\nCavalry\n→ Sai. Đây là thuật ngữ chỉ Sư đoàn Kỵ binh Số 1, không phải nhiệm vụ cứu thương."
+    },
+    {
+      "id": "question38",
+      "question": "Câu 38: In paragraph (C), the word 'evacuation' is closest in meaning to...?",
+      "options": [
+        "A. increase",
+        "B. treatment",
+        "C. hospitalization",
+        "D. removal"
+      ],
+      "correct_answer": "D. removal",
+      "explanation": "Giải thích:\nIn paragraph (C), the word \"evacuation\" is closest in meaning to...?\n(Trong đoạn (C), từ \"evacuation\" gần nghĩa nhất với...?)\n❌\nhospitalization (nhập viện)\n→ Sai. \"Evacuation\" không có nghĩa là nhập viện mà chỉ quá trình sơ tán thương binh.\n❌\nincrease (gia tăng)\n→ Sai. Từ này không liên quan đến ngữ cảnh của bài đọc.\n❌\ntreatment (điều trị)\n→ Sai. \"Evacuation\" là quá trình đưa thương binh đi, không phải điều trị.\n✅\nremoval (di chuyển, sơ tán)\n→ Đúng. \"Evacuation\" trong ngữ cảnh này có nghĩa là di tản thương binh khỏi chiến trường."
+    },
+    {
+      "id": "question39",
+      "question": "Câu 39: In paragraph (E), which category best describes the following sentence?",
+      "options": [
+        "A. Versatility of the Huey",
+        "B. Huey crew members",
+        "C. Effects of the Huey on the enemy force",
+        "D. Safety features of the Huey"
+      ],
+      "correct_answer": "A. Versatility of the Huey",
+      "explanation": "Giải thích:\nIn paragraph (E), which category best describes the following sentence?\n(Trong đoạn (E), câu dưới đây thuộc danh mục nào?)\n❌\nSafety features of the Huey (Tính năng an toàn của Huey)\n→ Sai. Đoạn (E) không tập trung vào các tính năng an toàn.\n❌\nHuey crew members (Thành viên phi hành đoàn Huey)\n→ Sai. Đoạn văn không nói riêng về phi công hay kỹ thuật viên.\n✅\nVersatility of the Huey (Sự linh hoạt của Huey)\n→ Đúng. Đoạn (E) mô tả khả năng điều chỉnh Huey cho nhiều nhiệm vụ khác nhau.\n❌\nEffects of the Huey on the enemy force (Ảnh hưởng của Huey đến quân địch)\n→ Sai. Đoạn này không đề cập đến tác động lên đối phương."
+    },
+    {
+      "id": "question40",
+      "question": "Câu 40: What can be inferred from paragraph (F)?",
+      "options": [
+        "A. Other helicopters were safer than the Huey.",
+        "B. Most military personnel preferred a motor vehicle to a Huey.",
+        "C. The Huey helicopter was extremely versatile.",
+        "D. Flying a Huey in Vietnam was dangerous work."
+      ],
+      "correct_answer": "D. Flying a Huey in Vietnam was dangerous work.",
+      "explanation": "Giải thích:\nWhat can be inferred from paragraph (F)?\n(Điều gì có thể suy ra từ đoạn (F)?)\n✅\nFlying a Huey in Vietnam was dangerous work. (Lái Huey ở Việt Nam là một công việc nguy hiểm.)\n→ Đúng. Đoạn (F) nói rằng gần một nửa trong số 7.000 trực thăng Huey bị mất và 2.177 phi hành đoàn đã hy sinh.\n❌\nThe Huey helicopter was extremely versatile. (Trực thăng Huey cực kỳ linh hoạt.)\n→ Sai. Mặc dù đúng nhưng đoạn (F) tập trung vào sự nguy hiểm của việc lái Huey.\n❌\nOther helicopters were safer than the Huey. (Các trực thăng khác an toàn hơn Huey.)\n→ Sai. Không có so sánh nào giữa Huey và các trực thăng khác.\n❌\nMost military personnel preferred a motor vehicle to a Huey. (Hầu hết quân nhân thích phương tiện cơ giới hơn Huey.)\n→ Sai. Huey là phương tiện chủ chốt trong chiến tranh, không phải bị thay thế bởi phương tiện khác."
     }
   ],
   "test_id": 10,
-  "results_url": "https://luyenthivstep.vn/luyen-de/ket-qua-doc/2358"
+  "results_url": "https://luyenthivstep.vn/luyen-de/ket-qua-doc/265783",
+  "results_urls": [
+    "https://luyenthivstep.vn/luyen-de/ket-qua-doc/265783",
+    "https://luyenthivstep.vn/luyen-de/ket-qua-doc/265784",
+    "https://luyenthivstep.vn/luyen-de/ket-qua-doc/265786",
+    "https://luyenthivstep.vn/luyen-de/ket-qua-doc/265787"
+  ]
 }

@@ -210,6 +210,8 @@ document.addEventListener("DOMContentLoaded", () => {
             state.userAnswers = {};
             state.isSubmitted = false;
             state.currentExamId = id;
+            state.userWritingAnswers = {};
+            state.speakingRecordings = {};
             
             const response = await fetch(`extracted_data/${category}/${category}_${id}.json`);
             if (!response.ok) throw new Error("Failed to load exam details");
@@ -242,13 +244,14 @@ document.addEventListener("DOMContentLoaded", () => {
         elements.examWorkspace.innerHTML = "";
         
         if (category === "reading") {
+            state.currentReadingPartIdx = 0;
+            state.hoverTransActive = false;
+            
             // Header Toggle buttons: Hover Translation Toggle
             const btnTranslation = document.createElement("button");
             btnTranslation.className = "btn-toggle-tool";
             btnTranslation.id = "btn-toggle-translation";
             btnTranslation.innerHTML = `<i data-lucide="languages"></i> Dịch tiếng Việt`;
-            
-            state.hoverTransActive = false;
             
             btnTranslation.onclick = () => {
                 state.hoverTransActive = !state.hoverTransActive;
@@ -279,19 +282,41 @@ document.addEventListener("DOMContentLoaded", () => {
             };
             elements.examActionButtons.appendChild(btnTranslation);
             
-            // Reading Workspace (Left: Passage, Right: Questions)
+            // Build the tabs for Parts
+            const tabsHtml = `
+                <div class="reading-parts-tabs">
+                    <button class="reading-part-tab-btn active" data-part-idx="0">Part 1</button>
+                    <button class="reading-part-tab-btn" data-part-idx="1">Part 2</button>
+                    <button class="reading-part-tab-btn" data-part-idx="2">Part 3</button>
+                    <button class="reading-part-tab-btn" data-part-idx="3">Part 4</button>
+                </div>
+            `;
+            
+            // Reading Workspace (Left: Passage with tabs, Right: Questions grouped by part)
             elements.examWorkspace.innerHTML = `
                 <div class="workspace-panel" id="passage-panel">
                     <h3 class="panel-title">Bài Đọc</h3>
-                    <div class="passage-text">
-                        ${preparePassageHTML(data.passage, data.translation)}
+                    ${tabsHtml}
+                    <div class="passage-text" id="passage-text-content">
+                        ${preparePassageHTML(data.parts[0].passage, data.parts[0].translation)}
                     </div>
                 </div>
                 
                 <div class="workspace-panel" id="questions-panel">
                     <h3 class="panel-title">Câu Hỏi & Trả Lời</h3>
                     <div id="questions-container">
-                        ${renderQuestions(data.questions)}
+                        <div class="reading-part-questions-block" id="part-reading-questions-0" style="display: block;">
+                            ${renderQuestions(data.parts[0].questions, 0)}
+                        </div>
+                        <div class="reading-part-questions-block" id="part-reading-questions-1" style="display: none;">
+                            ${renderQuestions(data.parts[1].questions, 10)}
+                        </div>
+                        <div class="reading-part-questions-block" id="part-reading-questions-2" style="display: none;">
+                            ${renderQuestions(data.parts[2].questions, 20)}
+                        </div>
+                        <div class="reading-part-questions-block" id="part-reading-questions-3" style="display: none;">
+                            ${renderQuestions(data.parts[3].questions, 30)}
+                        </div>
                     </div>
                     
                     <div class="exam-submit-area">
@@ -305,12 +330,45 @@ document.addEventListener("DOMContentLoaded", () => {
                 </div>
             `;
             
+            state.switchReadingPart = function(partIdx) {
+                if (state.currentReadingPartIdx === partIdx) return;
+                state.currentReadingPartIdx = partIdx;
+                
+                // Update active tab styling
+                document.querySelectorAll(".reading-part-tab-btn").forEach(btn => {
+                    const btnIdx = parseInt(btn.getAttribute("data-part-idx"));
+                    btn.classList.toggle("active", btnIdx === partIdx);
+                });
+                
+                // Update passage content
+                const passageTextContent = document.getElementById("passage-text-content");
+                if (passageTextContent) {
+                    passageTextContent.innerHTML = preparePassageHTML(data.parts[partIdx].passage, data.parts[partIdx].translation);
+                }
+                
+                // Toggle visible question block
+                for (let i = 0; i < 4; i++) {
+                    const block = document.getElementById(`part-reading-questions-${i}`);
+                    if (block) {
+                        block.style.display = (i === partIdx) ? "block" : "none";
+                    }
+                }
+            };
+            
+            // Set up click listeners for the tabs
+            document.querySelectorAll(".reading-part-tab-btn").forEach(btn => {
+                btn.addEventListener("click", () => {
+                    const idx = parseInt(btn.getAttribute("data-part-idx"));
+                    state.switchReadingPart(idx);
+                });
+            });
+            
             // Setup quiz submit listener
             document.getElementById("submit-quiz-btn").onclick = submitQuiz;
             setupAnswerListeners();
             addWorkspaceTabs("reading");
             
-            // Setup hover events for sentences
+            // Setup hover events for sentences using event delegation on #passage-panel
             const passagePanel = document.getElementById("passage-panel");
             const tooltip = document.getElementById("sentence-tooltip");
             
@@ -360,43 +418,72 @@ document.addEventListener("DOMContentLoaded", () => {
             }
             
         } else if (category === "listening") {
+            state.currentListeningPartIdx = 0;
+            
             // Header Toggle buttons: Transcript & Translation
             const btnTranscript = document.createElement("button");
             btnTranscript.className = "btn-toggle-tool";
             btnTranscript.innerHTML = `<i data-lucide="file-text"></i> Xem Transcript`;
-            btnTranscript.onclick = () => showTranslation(data.transcript, "Bản Transcript tiếng Anh");
+            btnTranscript.onclick = () => {
+                const partIdx = state.currentListeningPartIdx || 0;
+                showTranslation(data.parts[partIdx].transcript, "Bản Transcript tiếng Anh");
+            };
             elements.examActionButtons.appendChild(btnTranscript);
             
             const btnTranslation = document.createElement("button");
             btnTranslation.className = "btn-toggle-tool";
             btnTranslation.innerHTML = `<i data-lucide="languages"></i> Dịch tiếng Việt`;
-            btnTranslation.onclick = () => showTranslation(data.translation);
+            btnTranslation.onclick = () => {
+                const partIdx = state.currentListeningPartIdx || 0;
+                showTranslation(data.parts[partIdx].translation);
+            };
             elements.examActionButtons.appendChild(btnTranslation);
             
-            // Audio player prefix domain
-            const finalAudioUrl = data.audio_url.startsWith("http") 
-                ? data.audio_url 
-                : `https://luyenthivstep.vn${data.audio_url}`;
-                
-            // Listening Workspace (Left column is blank or short instructions, contains player. Right is questions)
+            // Build the tabs for Parts
+            const tabsHtml = `
+                <div class="reading-parts-tabs">
+                    <button class="listening-part-tab-btn active" data-part-idx="0">Part 1</button>
+                    <button class="listening-part-tab-btn" data-part-idx="1">Part 2</button>
+                    <button class="listening-part-tab-btn" data-part-idx="2">Part 3</button>
+                </div>
+            `;
+            
+            // Get final audio URL for a part
+            const getAudioUrlForPart = (partIdx) => {
+                const partAudio = data.parts[partIdx].audio_url;
+                return partAudio.startsWith("http") 
+                    ? partAudio 
+                    : `https://luyenthivstep.vn${partAudio}`;
+            };
+            
+            // Listening Workspace (Left: Audio player with tabs, Right: Questions grouped by part)
             elements.examWorkspace.innerHTML = `
                 <div class="workspace-panel" id="listening-left-panel" style="flex: 0.4;">
                     <h3 class="panel-title">Nghe Audio</h3>
+                    ${tabsHtml}
                     <div class="audio-player-wrapper">
                         <div class="audio-label">
                             <i data-lucide="volume-2" class="text-primary"></i> <span>Audio bài nghe:</span>
                         </div>
-                        <audio controls src="${finalAudioUrl}"></audio>
+                        <audio id="listening-audio-element" controls src="${getAudioUrlForPart(0)}"></audio>
                     </div>
-                    <p style="color:var(--text-secondary); font-size:0.925rem;">
-                        Hãy nhấn nút phát âm thanh bên trên và nghe kỹ để hoàn thành các câu hỏi trắc nghiệm ở cột bên phải. Bạn có thể mở <strong>Transcript</strong> hoặc <strong>Bản dịch</strong> ở góc trên bên phải để hỗ trợ trong quá trình luyện tập.
+                    <p style="color:var(--text-secondary); font-size:0.925rem; margin-top: 1rem;">
+                        Hãy chọn Part tương ứng, nhấn nút phát âm thanh bên trên và nghe kỹ để hoàn thành các câu hỏi trắc nghiệm ở cột bên phải. Bạn có thể mở <strong>Transcript</strong> hoặc <strong>Bản dịch</strong> ở góc trên bên phải để hỗ trợ trong quá trình luyện tập.
                     </p>
                 </div>
                 
                 <div class="workspace-panel" id="questions-panel" style="flex: 0.6;">
                     <h3 class="panel-title">Câu Hỏi & Trả Lời</h3>
                     <div id="questions-container">
-                        ${renderQuestions(data.questions)}
+                        <div class="listening-part-questions-block" id="part-listening-questions-0" style="display: block;">
+                            ${renderQuestions(data.parts[0].questions, 0)}
+                        </div>
+                        <div class="listening-part-questions-block" id="part-listening-questions-1" style="display: none;">
+                            ${renderQuestions(data.parts[1].questions, 8)}
+                        </div>
+                        <div class="listening-part-questions-block" id="part-listening-questions-2" style="display: none;">
+                            ${renderQuestions(data.parts[2].questions, 20)}
+                        </div>
                     </div>
                     
                     <div class="exam-submit-area">
@@ -410,32 +497,388 @@ document.addEventListener("DOMContentLoaded", () => {
                 </div>
             `;
             
+            // Define switchListeningPart
+            state.switchListeningPart = function(partIdx) {
+                if (state.currentListeningPartIdx === partIdx) return;
+                state.currentListeningPartIdx = partIdx;
+                
+                // Update active tab styling
+                document.querySelectorAll(".listening-part-tab-btn").forEach(btn => {
+                    const btnIdx = parseInt(btn.getAttribute("data-part-idx"));
+                    btn.classList.toggle("active", btnIdx === partIdx);
+                });
+                
+                // Update audio player source
+                const audioElement = document.getElementById("listening-audio-element");
+                if (audioElement) {
+                    audioElement.src = getAudioUrlForPart(partIdx);
+                    audioElement.pause();
+                    audioElement.load();
+                }
+                
+                // Toggle visible question block
+                for (let i = 0; i < 3; i++) {
+                    const block = document.getElementById(`part-listening-questions-${i}`);
+                    if (block) {
+                        block.style.display = (i === partIdx) ? "block" : "none";
+                    }
+                }
+            };
+            
+            // Set up click listeners for the tabs
+            document.querySelectorAll(".listening-part-tab-btn").forEach(btn => {
+                btn.addEventListener("click", () => {
+                    const idx = parseInt(btn.getAttribute("data-part-idx"));
+                    state.switchListeningPart(idx);
+                });
+            });
+            
             document.getElementById("submit-quiz-btn").onclick = submitQuiz;
             setupAnswerListeners();
             addWorkspaceTabs("listening");
             
         } else if (category === "writing") {
+            state.currentWritingTaskIdx = 0;
+            state.userWritingAnswers = {};
+            
             // Header: Translation
             const btnTranslation = document.createElement("button");
             btnTranslation.className = "btn-toggle-tool";
             btnTranslation.innerHTML = `<i data-lucide="languages"></i> Dịch tiếng Việt`;
-            btnTranslation.onclick = () => showTranslation(data.translation);
             elements.examActionButtons.appendChild(btnTranslation);
             
-            // Extract the B2 sample paragraph
-            const sampleParagraph = extractSampleWriting(data.question);
+            let sampleParagraph = "";
             
-            // Writing Workspace (Left: Prompt, Right: Tab selection + Textarea / Model Practice)
+            // Build the tabs for Tasks
+            const tabsHtml = `
+                <div class="reading-parts-tabs">
+                    <button class="writing-task-tab-btn active" data-task-idx="0">Task 1</button>
+                    <button class="writing-task-tab-btn" data-task-idx="1">Task 2</button>
+                </div>
+            `;
+            
+            // Render workspace layout container
             elements.examWorkspace.innerHTML = `
                 <div class="workspace-panel" id="writing-prompt-panel" style="flex: 0.45;">
                     <h3 class="panel-title">Yêu Cầu Đề Bài</h3>
-                    <div class="writing-prompt-card">
-                        ${formatParagraphs(data.question)}
+                    ${tabsHtml}
+                    <div class="writing-prompt-card" id="writing-prompt-content">
                     </div>
                 </div>
                 
                 <div class="workspace-panel" id="writing-sheet-panel" style="flex: 0.55;">
-                    <h3 class="panel-title">Bài Làm Của Bạn</h3>
+                </div>
+            `;
+            
+            // Helper B2 Mode functions (cloze & sentence recall)
+            const keyPhrases = [
+                "In recent years", "This problem has affected", "The rise of",
+                "resulted from", "The challenge, therefore, is", "discussing the possible causes",
+                "proposing solutions", "address this issue", "Give reasons", "relevant examples",
+                "It is commonly believed", "On the one hand", "On the other hand", "First and foremost",
+                "In addition", "For instance", "As a result", "In conclusion", "I would argue that",
+                "take steps", "First of all", "Furthermore", "To begin with", "Last but not least",
+                "Personally", "In my opinion", "From my perspective", "Consequently", "Therefore",
+                "However", "Nevertheless", "Although", "Despite", "In contrast", "Conversely",
+                "Lots of love", "Dear", "Sincerely", "Best regards", "I am writing to",
+                "I look forward to", "Thank you for", "Please let me know if", "I hope you are doing well",
+                "leave for Dubai", "be back", "experience looking after", "care for your pet", "household duties"
+            ];
+            
+            function initClozePractice() {
+                const phrases = [...keyPhrases].sort((a, b) => b.length - a.length);
+                let processedText = sampleParagraph;
+                const matches = [];
+                let matchIndex = 0;
+                
+                phrases.forEach(phrase => {
+                    const regex = new RegExp(`\\b${phrase}\\b`, 'gi');
+                    processedText = processedText.replace(regex, (match) => {
+                        const idx = matchIndex++;
+                        matches.push({
+                            index: idx,
+                            originalText: match,
+                            phrase: phrase
+                        });
+                        return `[INPUT_${idx}]`;
+                    });
+                });
+                
+                let html = processedText;
+                matches.forEach(item => {
+                    const inputWidth = Math.max(90, item.originalText.length * 8.5);
+                    html = html.replace(`[INPUT_${item.index}]`, `<input type="text" class="cloze-input" data-idx="${item.index}" style="width: ${inputWidth}px;" placeholder="..."><span class="cloze-correct-hint" id="cloze-hint-${item.index}" style="display:none;"></span>`);
+                });
+                
+                const area = document.getElementById("cloze-practice-area");
+                if (area) {
+                    area.innerHTML = html.split("\n").map(para => `<p>${para}</p>`).join("");
+                }
+                
+                const btnCheck = document.getElementById("btn-check-cloze");
+                const scoreDisplay = document.getElementById("cloze-score-display");
+                
+                if (btnCheck) {
+                    btnCheck.onclick = () => {
+                        let score = 0;
+                        const inputs = area.querySelectorAll(".cloze-input");
+                        inputs.forEach(input => {
+                            const idx = parseInt(input.getAttribute("data-idx"));
+                            const item = matches.find(m => m.index === idx);
+                            const userVal = input.value.trim().toLowerCase();
+                            const expectedVal = item.originalText.trim().toLowerCase();
+                            
+                            const cleanVal = (s) => s.replace(/[.,\/#!$%\^&\*;:{}=\-_`~()?"']/g, "");
+                            
+                            if (cleanVal(userVal) === cleanVal(expectedVal)) {
+                                input.className = "cloze-input correct";
+                                score++;
+                            } else {
+                                input.className = "cloze-input incorrect";
+                                const hint = document.getElementById(`cloze-hint-${idx}`);
+                                if (hint) {
+                                    hint.textContent = ` (${item.originalText})`;
+                                    hint.style.display = "inline";
+                                }
+                            }
+                        });
+                        
+                        if (scoreDisplay) {
+                            scoreDisplay.innerHTML = `Độ chính xác: <strong>${score}/${inputs.length}</strong> cụm từ.`;
+                        }
+                    };
+                }
+            }
+            
+            function initRecallPractice() {
+                const sentences = sampleParagraph.split(/[.!?]+/).map(s => s.trim()).filter(s => s.length > 5);
+                const area = document.getElementById("recall-practice-area");
+                if (!area) return;
+                
+                const getPreviewText = (sentence) => {
+                    const words = sentence.split(/\s+/);
+                    if (words.length <= 3) return sentence;
+                    return words.slice(0, 3).join(" ") + "...";
+                };
+                
+                let recallHtml = "";
+                sentences.forEach((sentence, idx) => {
+                    const wordCount = sentence.split(/\s+/).filter(w => w.length > 0).length;
+                    recallHtml += `
+                        <div class="sentence-recall-card" id="recall-card-${idx}">
+                            <div class="sentence-recall-header" data-idx="${idx}">
+                                <div class="sentence-title-area">
+                                    <span class="sentence-number-badge">${idx + 1}</span>
+                                    <span class="sentence-text-preview" id="sentence-preview-${idx}">
+                                        ${getPreviewText(sentence)}
+                                    </span>
+                                </div>
+                                <div class="sentence-meta-area">
+                                    <span>${wordCount} từ</span>
+                                    <span class="sentence-status-icon" id="recall-status-${idx}"><i data-lucide="circle" style="width:14px;height:14px;"></i></span>
+                                </div>
+                            </div>
+                            
+                            <div class="sentence-recall-body">
+                                <textarea class="sentence-recall-textarea" id="recall-textarea-${idx}" placeholder="Viết lại câu này tại đây..."></textarea>
+                                
+                                <div class="sentence-recall-controls">
+                                    <button class="btn-recall-check" data-idx="${idx}"><i data-lucide="check"></i> Kiểm tra</button>
+                                    <button class="btn-recall-hint btn-hint-letters" data-idx="${idx}"><i data-lucide="type"></i> Ký tự đầu</button>
+                                    <button class="btn-recall-hint btn-hint-scrambled" data-idx="${idx}"><i data-lucide="shuffle"></i> Từ xáo trộn</button>
+                                </div>
+                                
+                                <div class="hint-display-box" id="hint-box-${idx}"></div>
+                                <div class="diff-output-box" id="diff-box-${idx}"></div>
+                            </div>
+                        </div>
+                    `;
+                });
+                
+                area.innerHTML = recallHtml;
+                
+                // Accordion click handlers
+                const headers = area.querySelectorAll(".sentence-recall-header");
+                headers.forEach(header => {
+                    header.onclick = () => {
+                        const idx = parseInt(header.getAttribute("data-idx"));
+                        const card = document.getElementById(`recall-card-${idx}`);
+                        const isActive = card.classList.contains("active-card");
+                        
+                        area.querySelectorAll(".sentence-recall-card").forEach(c => c.classList.remove("active-card"));
+                        
+                        if (!isActive) {
+                            card.classList.add("active-card");
+                            setTimeout(() => {
+                                const textarea = document.getElementById(`recall-textarea-${idx}`);
+                                if (textarea) textarea.focus();
+                            }, 50);
+                        }
+                    };
+                });
+                
+                // Hint letter handlers
+                const btnLetters = area.querySelectorAll(".btn-hint-letters");
+                btnLetters.forEach(btn => {
+                    btn.onclick = (e) => {
+                        e.stopPropagation(); // prevent accordion toggle
+                        const idx = parseInt(btn.getAttribute("data-idx"));
+                        const hintBox = document.getElementById(`hint-box-${idx}`);
+                        const sentence = sentences[idx];
+                        const hintText = getFirstLetterHint(sentence);
+                        
+                        hintBox.className = "hint-display-box active";
+                        hintBox.innerHTML = `
+                            <div class="hint-title">Gợi ý chữ cái đầu</div>
+                            <div class="first-letter-text">${hintText}</div>
+                        `;
+                    };
+                });
+                
+                // Hint scrambled handlers
+                const btnScrambled = area.querySelectorAll(".btn-hint-scrambled");
+                btnScrambled.forEach(btn => {
+                    btn.onclick = (e) => {
+                        e.stopPropagation(); // prevent accordion toggle
+                        const idx = parseInt(btn.getAttribute("data-idx"));
+                        const hintBox = document.getElementById(`hint-box-${idx}`);
+                        const sentence = sentences[idx];
+                        const scrambled = getScrambledWords(sentence);
+                        
+                        const badgesHtml = scrambled.map(word => `<span class="scrambled-word-badge">${word}</span>`).join("");
+                        
+                        hintBox.className = "hint-display-box active";
+                        hintBox.innerHTML = `
+                            <div class="hint-title">Gợi ý từ xáo trộn</div>
+                            <div class="scrambled-words-list">${badgesHtml}</div>
+                        `;
+                    };
+                });
+                
+                // Check answers handlers
+                const btnCheck = area.querySelectorAll(".btn-recall-check");
+                btnCheck.forEach(btn => {
+                    btn.onclick = (e) => {
+                        e.stopPropagation(); // prevent accordion toggle
+                        const idx = parseInt(btn.getAttribute("data-idx"));
+                        const sentence = sentences[idx];
+                        const textarea = document.getElementById(`recall-textarea-${idx}`);
+                        const userText = textarea.value.trim();
+                        
+                        if (!userText) {
+                            alert("Vui lòng nhập câu trả lời trước khi kiểm tra!");
+                            return;
+                        }
+                        
+                        const score = calculateSimilarity(userText.toLowerCase(), sentence.toLowerCase());
+                        const diff = diffWords(sentence, userText);
+                        
+                        const diffBox = document.getElementById(`diff-box-${idx}`);
+                        diffBox.className = "diff-output-box active";
+                        
+                        const pct = Math.round(score * 100);
+                        let badgeClass = "poor-match";
+                        if (pct >= 90) badgeClass = "match";
+                        else if (pct >= 60) badgeClass = "near-match";
+                        
+                        const diffHtml = diff.map(item => {
+                            let itemClass = "correct";
+                            if (item.type === "missing") itemClass = "missing";
+                            else if (item.type === "inserted") itemClass = "inserted";
+                            return `<span class="diff-w ${itemClass}">${item.word}</span>`;
+                        }).join("");
+                        
+                        diffBox.innerHTML = `
+                            <div class="diff-header">
+                                <span class="diff-title">So khớp</span>
+                                <span class="diff-score-badge ${badgeClass}">Khớp: ${pct}%</span>
+                            </div>
+                            <div class="diff-content">
+                                ${diffHtml}
+                            </div>
+                        `;
+                        
+                        const card = document.getElementById(`recall-card-${idx}`);
+                        const statusIcon = document.getElementById(`recall-status-${idx}`);
+                        
+                        if (pct >= 90) {
+                            card.classList.add("completed-card");
+                            statusIcon.className = "sentence-status-icon completed";
+                            statusIcon.innerHTML = `<i data-lucide="check-circle" style="width:14px;height:14px;"></i>`;
+                        } else {
+                            card.classList.remove("completed-card");
+                            statusIcon.className = "sentence-status-icon";
+                            statusIcon.innerHTML = `<i data-lucide="circle" style="width:14px;height:14px;"></i>`;
+                        }
+                        lucide.createIcons();
+                    };
+                });
+            }
+            
+            const switchWritingTask = (taskIdx) => {
+                // Save current writing answer if textarea exists
+                const oldTextarea = document.getElementById("user-writing-area");
+                if (oldTextarea) {
+                    state.userWritingAnswers[state.currentWritingTaskIdx] = oldTextarea.value;
+                }
+                
+                state.currentWritingTaskIdx = taskIdx;
+                
+                // Update active tab styling
+                document.querySelectorAll(".writing-task-tab-btn").forEach(btn => {
+                    const btnIdx = parseInt(btn.getAttribute("data-task-idx"));
+                    btn.classList.toggle("active", btnIdx === taskIdx);
+                });
+                
+                // Update prompt text
+                const promptContent = document.getElementById("writing-prompt-content");
+                if (promptContent) {
+                    promptContent.innerHTML = formatParagraphs(cleanQuestionText(data.parts[taskIdx].question));
+                }
+                
+                // Extract the sample B2 paragraph for the active task
+                sampleParagraph = extractSampleWriting(data.parts[taskIdx].question);
+                
+                const minWords = taskIdx === 0 ? 120 : 250;
+                const savedText = state.userWritingAnswers[taskIdx] || "";
+                
+                // Update translation action
+                btnTranslation.onclick = () => showTranslation(data.parts[taskIdx].translation);
+                
+                // Render modelPracticeHtml
+                let modelPracticeHtml = "";
+                if (sampleParagraph) {
+                    modelPracticeHtml = `
+                        <div class="practice-mode-selector">
+                            <button class="mode-select-btn active" id="btn-mode-cloze">Điền cụm từ B2</button>
+                            <button class="mode-select-btn" id="btn-mode-recall">Gợi nhớ từng câu</button>
+                        </div>
+                        <div class="practice-mode-container active" id="mode-container-cloze">
+                            <div class="cloze-instruction"><strong>Hướng dẫn:</strong> Điền các liên từ hoặc cụm từ B2 thích hợp vào ô trống dưới đây để hoàn thiện đoạn văn mẫu.</div>
+                            <div class="cloze-paragraph" id="cloze-practice-area"></div>
+                            <div class="cloze-actions">
+                                <button class="btn-cloze-check" id="btn-check-cloze"><i data-lucide="check-circle"></i> Kiểm tra đáp án</button>
+                                <div id="cloze-score-display"></div>
+                            </div>
+                        </div>
+                        <div class="practice-mode-container" id="mode-container-recall">
+                            <div class="cloze-instruction"><strong>Hướng dẫn:</strong> Bấm vào từng câu để tập luyện viết gợi nhớ. Bạn có thể sử dụng các gợi ý để hỗ trợ viết lại chính xác từng câu.</div>
+                            <div class="sentence-recall-list" id="recall-practice-area"></div>
+                        </div>
+                    `;
+                } else {
+                    modelPracticeHtml = `
+                        <div class="empty-model-warning">
+                            <i data-lucide="alert-circle"></i>
+                            <p>Đề thi này hiện chưa có bài mẫu B2 để thực hành. Bạn hãy luyện tập viết tự do ở tab bên cạnh.</p>
+                        </div>
+                    `;
+                }
+                
+                // Re-render sheet panel content
+                const sheetPanel = document.getElementById("writing-sheet-panel");
+                sheetPanel.innerHTML = `
+                    <h3 class="panel-title">Bài Làm Của Bạn (Part ${taskIdx + 1})</h3>
                     
                     <div class="writing-tabs">
                         <button class="writing-tab-btn active" id="tab-btn-free"><i data-lucide="pen-tool"></i> Tự do viết</button>
@@ -444,7 +887,7 @@ document.addEventListener("DOMContentLoaded", () => {
                     
                     <div class="writing-tab-content active" id="tab-content-free">
                         <div class="writing-sheet-card">
-                            <textarea class="writing-textarea" id="user-writing-area" placeholder="Nhập bài viết của bạn tại đây (ít nhất 120 từ)..."></textarea>
+                            <textarea class="writing-textarea" id="user-writing-area" placeholder="Nhập bài viết của bạn tại đây (ít nhất ${minWords} từ)...">${savedText}</textarea>
                             
                             <div class="writing-footer">
                                 <span>Kéo góc dưới bên phải để mở rộng khung viết</span>
@@ -454,380 +897,122 @@ document.addEventListener("DOMContentLoaded", () => {
                     </div>
                     
                     <div class="writing-tab-content" id="tab-content-model">
-                        ${sampleParagraph ? `
-                            <div class="practice-mode-selector">
-                                <button class="mode-select-btn active" id="btn-mode-cloze">Điền cụm từ B2</button>
-                                <button class="mode-select-btn" id="btn-mode-recall">Gợi nhớ từng câu</button>
-                            </div>
-                            
-                            <div class="practice-mode-container active" id="mode-container-cloze">
-                                <div class="cloze-instruction">
-                                    <strong>Hướng dẫn:</strong> Điền các liên từ hoặc cụm từ B2 thích hợp vào ô trống dưới đây để hoàn thiện đoạn văn mẫu.
-                                </div>
-                                <div class="cloze-paragraph" id="cloze-practice-area"></div>
-                                <div class="cloze-actions">
-                                    <button class="btn-cloze-check" id="btn-check-cloze"><i data-lucide="check-circle"></i> Kiểm tra đáp án</button>
-                                    <div id="cloze-score-display"></div>
-                                </div>
-                            </div>
-                            
-                            <div class="practice-mode-container" id="mode-container-recall">
-                                <div class="cloze-instruction">
-                                    <strong>Hướng dẫn:</strong> Bấm vào từng câu để tập luyện viết gợi nhớ. Bạn có thể sử dụng các gợi ý để hỗ trợ viết lại chính xác từng câu.
-                                </div>
-                                <div class="sentence-recall-list" id="recall-practice-area"></div>
-                            </div>
-                        ` : `
-                            <div class="empty-model-warning">
-                                <i data-lucide="alert-circle"></i>
-                                <p>Đề thi này hiện chưa có bài mẫu B2 để thực hành. Bạn hãy luyện tập viết tự do ở tab bên cạnh.</p>
-                            </div>
-                        `}
+                        ${modelPracticeHtml}
                     </div>
-                </div>
-            `;
-            
-            // Tab switching logic
-            const tabBtnFree = document.getElementById("tab-btn-free");
-            const tabBtnModel = document.getElementById("tab-btn-model");
-            const tabContentFree = document.getElementById("tab-content-free");
-            const tabContentModel = document.getElementById("tab-content-model");
-            
-            if (tabBtnFree && tabBtnModel) {
-                tabBtnFree.onclick = () => {
-                    tabBtnFree.classList.add("active");
-                    tabBtnModel.classList.remove("active");
-                    tabContentFree.classList.add("active");
-                    tabContentModel.classList.remove("active");
-                };
+                `;
                 
-                tabBtnModel.onclick = () => {
-                    tabBtnModel.classList.add("active");
-                    tabBtnFree.classList.remove("active");
-                    tabContentModel.classList.add("active");
-                    tabContentFree.classList.remove("active");
-                    lucide.createIcons();
-                };
-            }
-            
-            // Live word counting logic for free writing
-            const textarea = document.getElementById("user-writing-area");
-            const wordCounter = document.getElementById("word-count-display");
-            textarea.addEventListener("input", () => {
-                const text = textarea.value.trim();
-                const words = text === "" ? 0 : text.split(/\s+/).length;
-                wordCounter.textContent = `${words} từ`;
-                if (words >= 120) {
-                    wordCounter.classList.add("sufficient");
-                } else {
-                    wordCounter.classList.remove("sufficient");
-                }
-            });
-            
-            // If sample B2 paragraph is available, initialize practice modes
-            if (sampleParagraph) {
-                // Selector buttons
-                const btnModeCloze = document.getElementById("btn-mode-cloze");
-                const btnModeRecall = document.getElementById("btn-mode-recall");
-                const containerCloze = document.getElementById("mode-container-cloze");
-                const containerRecall = document.getElementById("mode-container-recall");
+                // Set up tab click listeners for the sheet panel
+                const tabBtnFree = document.getElementById("tab-btn-free");
+                const tabBtnModel = document.getElementById("tab-btn-model");
+                const tabContentFree = document.getElementById("tab-content-free");
+                const tabContentModel = document.getElementById("tab-content-model");
                 
-                btnModeCloze.onclick = () => {
-                    btnModeCloze.classList.add("active");
-                    btnModeRecall.classList.remove("active");
-                    containerCloze.classList.add("active");
-                    containerRecall.classList.remove("active");
-                    lucide.createIcons();
-                };
-                
-                btnModeRecall.onclick = () => {
-                    btnModeRecall.classList.add("active");
-                    btnModeCloze.classList.remove("active");
-                    containerRecall.classList.add("active");
-                    containerCloze.classList.remove("active");
-                    lucide.createIcons();
-                };
-                
-                // Initialize Cloze Practice
-                const keyPhrases = [
-                    "thank you for",
-                    "looking forward to",
-                    "leave for",
-                    "Since you do not",
-                    "here are some",
-                    "once in the morning",
-                    "once in the evening",
-                    "As for the",
-                    "once every two days",
-                    "thank you so much",
-                    "agreeing to",
-                    "look after",
-                    "away on holiday",
-                    "much experience",
-                    "take him for",
-                    "your help"
-                ];
-                
-                function initClozePractice() {
-                    const phrases = [...keyPhrases].sort((a, b) => b.length - a.length);
-                    let processedText = sampleParagraph;
-                    const matches = [];
-                    let matchIndex = 0;
-                    
-                    phrases.forEach(phrase => {
-                        const regex = new RegExp(`\\b${phrase}\\b`, 'gi');
-                        processedText = processedText.replace(regex, (match) => {
-                            const idx = matchIndex++;
-                            matches.push({
-                                index: idx,
-                                originalText: match,
-                                phrase: phrase
-                            });
-                            return `[INPUT_${idx}]`;
-                        });
-                    });
-                    
-                    let html = processedText;
-                    matches.forEach(item => {
-                        const inputWidth = Math.max(90, item.originalText.length * 8.5);
-                        html = html.replace(`[INPUT_${item.index}]`, `<input type="text" class="cloze-input" data-idx="${item.index}" style="width: ${inputWidth}px;" placeholder="..."><span class="cloze-correct-hint" id="cloze-hint-${item.index}" style="display:none;"></span>`);
-                    });
-                    
-                    const area = document.getElementById("cloze-practice-area");
-                    if (area) {
-                        area.innerHTML = html.split("\n").map(para => `<p>${para}</p>`).join("");
-                    }
-                    
-                    const btnCheck = document.getElementById("btn-check-cloze");
-                    const scoreDisplay = document.getElementById("cloze-score-display");
-                    
-                    if (btnCheck) {
-                        btnCheck.onclick = () => {
-                            let score = 0;
-                            const inputs = area.querySelectorAll(".cloze-input");
-                            inputs.forEach(input => {
-                                const idx = parseInt(input.getAttribute("data-idx"));
-                                const item = matches.find(m => m.index === idx);
-                                const userVal = input.value.trim().toLowerCase();
-                                const expectedVal = item.originalText.trim().toLowerCase();
-                                
-                                const cleanVal = (s) => s.replace(/[.,\/#!$%\^&\*;:{}=\-_`~()?"']/g, "");
-                                const isCorrect = cleanVal(userVal) === cleanVal(expectedVal);
-                                const hintSpan = document.getElementById(`cloze-hint-${idx}`);
-                                
-                                if (isCorrect) {
-                                    score++;
-                                    input.className = "cloze-input correct";
-                                    if (hintSpan) hintSpan.style.display = "none";
-                                } else {
-                                    input.className = "cloze-input incorrect";
-                                    if (hintSpan) {
-                                        hintSpan.textContent = `(${item.originalText})`;
-                                        hintSpan.style.display = "inline";
-                                    }
-                                }
-                            });
-                            
-                            if (scoreDisplay) {
-                                scoreDisplay.className = `cloze-score-banner ${score === inputs.length ? 'success' : 'info'}`;
-                                scoreDisplay.innerHTML = `<i data-lucide="${score === inputs.length ? 'check' : 'help-circle'}"></i> <span>Chính xác: ${score}/${inputs.length} cụm từ.</span>`;
-                                lucide.createIcons();
-                            }
-                        };
-                    }
-                }
-                
-                // Initialize Sentence Recall Practice
-                function initRecallPractice() {
-                    const sentences = splitSentences(sampleParagraph);
-                    const area = document.getElementById("recall-practice-area");
-                    if (!area) return;
-                    
-                    const getPreviewText = (sentence) => {
-                        const words = sentence.split(/\s+/);
-                        if (words.length <= 3) return sentence;
-                        return words.slice(0, 3).join(" ") + "...";
+                if (tabBtnFree && tabBtnModel) {
+                    tabBtnFree.onclick = () => {
+                        tabBtnFree.classList.add("active");
+                        tabBtnModel.classList.remove("active");
+                        tabContentFree.classList.add("active");
+                        tabContentModel.classList.remove("active");
                     };
                     
-                    let recallHtml = "";
-                    sentences.forEach((sentence, idx) => {
-                        const wordCount = sentence.split(/\s+/).filter(w => w.length > 0).length;
-                        recallHtml += `
-                            <div class="sentence-recall-card" id="recall-card-${idx}">
-                                <div class="sentence-recall-header" data-idx="${idx}">
-                                    <div class="sentence-title-area">
-                                        <span class="sentence-number-badge">${idx + 1}</span>
-                                        <span class="sentence-text-preview" id="sentence-preview-${idx}">
-                                            ${getPreviewText(sentence)}
-                                        </span>
-                                    </div>
-                                    <div class="sentence-meta-area">
-                                        <span>${wordCount} từ</span>
-                                        <span class="sentence-status-icon" id="recall-status-${idx}"><i data-lucide="circle" style="width:14px;height:14px;"></i></span>
-                                    </div>
-                                </div>
-                                
-                                <div class="sentence-recall-body">
-                                    <textarea class="sentence-recall-textarea" id="recall-textarea-${idx}" placeholder="Viết lại câu này tại đây..."></textarea>
-                                    
-                                    <div class="sentence-recall-controls">
-                                        <button class="btn-recall-check" data-idx="${idx}"><i data-lucide="check"></i> Kiểm tra</button>
-                                        <button class="btn-recall-hint btn-hint-letters" data-idx="${idx}"><i data-lucide="type"></i> Ký tự đầu</button>
-                                        <button class="btn-recall-hint btn-hint-scrambled" data-idx="${idx}"><i data-lucide="shuffle"></i> Từ xáo trộn</button>
-                                    </div>
-                                    
-                                    <div class="hint-display-box" id="hint-box-${idx}"></div>
-                                    <div class="diff-output-box" id="diff-box-${idx}"></div>
-                                </div>
-                            </div>
-                        `;
-                    });
-                    
-                    area.innerHTML = recallHtml;
-                    
-                    // Accordion click handlers
-                    const headers = area.querySelectorAll(".sentence-recall-header");
-                    headers.forEach(header => {
-                        header.onclick = () => {
-                            const idx = parseInt(header.getAttribute("data-idx"));
-                            const card = document.getElementById(`recall-card-${idx}`);
-                            const isActive = card.classList.contains("active-card");
-                            
-                            area.querySelectorAll(".sentence-recall-card").forEach(c => c.classList.remove("active-card"));
-                            
-                            if (!isActive) {
-                                card.classList.add("active-card");
-                                setTimeout(() => {
-                                    const textarea = document.getElementById(`recall-textarea-${idx}`);
-                                    if (textarea) textarea.focus();
-                                }, 50);
-                            }
-                        };
-                    });
-                    
-                    // Hint letter handlers
-                    const btnLetters = area.querySelectorAll(".btn-hint-letters");
-                    btnLetters.forEach(btn => {
-                        btn.onclick = (e) => {
-                            e.stopPropagation(); // prevent accordion toggle
-                            const idx = parseInt(btn.getAttribute("data-idx"));
-                            const hintBox = document.getElementById(`hint-box-${idx}`);
-                            const sentence = sentences[idx];
-                            const hintText = getFirstLetterHint(sentence);
-                            
-                            hintBox.className = "hint-display-box active";
-                            hintBox.innerHTML = `
-                                <div class="hint-title">Gợi ý chữ cái đầu</div>
-                                <div class="first-letter-text">${hintText}</div>
-                            `;
-                        };
-                    });
-                    
-                    // Hint scrambled handlers
-                    const btnScrambled = area.querySelectorAll(".btn-hint-scrambled");
-                    btnScrambled.forEach(btn => {
-                        btn.onclick = (e) => {
-                            e.stopPropagation(); // prevent accordion toggle
-                            const idx = parseInt(btn.getAttribute("data-idx"));
-                            const hintBox = document.getElementById(`hint-box-${idx}`);
-                            const sentence = sentences[idx];
-                            const scrambled = getScrambledWords(sentence);
-                            
-                            const badgesHtml = scrambled.map(word => `<span class="scrambled-word-badge">${word}</span>`).join("");
-                            
-                            hintBox.className = "hint-display-box active";
-                            hintBox.innerHTML = `
-                                <div class="hint-title">Gợi ý từ xáo trộn</div>
-                                <div class="scrambled-words-list">${badgesHtml}</div>
-                            `;
-                        };
-                    });
-                    
-                    // Check answers handlers
-                    const btnCheck = area.querySelectorAll(".btn-recall-check");
-                    btnCheck.forEach(btn => {
-                        btn.onclick = (e) => {
-                            e.stopPropagation(); // prevent accordion toggle
-                            const idx = parseInt(btn.getAttribute("data-idx"));
-                            const sentence = sentences[idx];
-                            const textarea = document.getElementById(`recall-textarea-${idx}`);
-                            const userText = textarea.value.trim();
-                            
-                            if (!userText) {
-                                alert("Vui lòng nhập câu trả lời trước khi kiểm tra!");
-                                return;
-                            }
-                            
-                            const score = getSimilarityScore(sentence, userText);
-                            const diff = diffWords(sentence, userText);
-                            
-                            const diffBox = document.getElementById(`diff-box-${idx}`);
-                            diffBox.className = "diff-output-box active";
-                            
-                            const pct = Math.round(score * 100);
-                            let badgeClass = "poor-match";
-                            if (pct >= 90) badgeClass = "match";
-                            else if (pct >= 60) badgeClass = "near-match";
-                            
-                            const diffHtml = diff.map(item => {
-                                let itemClass = "correct";
-                                if (item.type === "missing") itemClass = "missing";
-                                else if (item.type === "inserted") itemClass = "inserted";
-                                return `<span class="diff-w ${itemClass}">${item.word}</span>`;
-                            }).join("");
-                            
-                            diffBox.innerHTML = `
-                                <div class="diff-header">
-                                    <span class="diff-title">So khớp</span>
-                                    <span class="diff-score-badge ${badgeClass}">Khớp: ${pct}%</span>
-                                </div>
-                                <div class="diff-content">
-                                    ${diffHtml}
-                                </div>
-                            `;
-                            
-                            const card = document.getElementById(`recall-card-${idx}`);
-                            const statusIcon = document.getElementById(`recall-status-${idx}`);
-                            
-                            if (pct >= 90) {
-                                card.classList.add("completed-card");
-                                statusIcon.className = "sentence-status-icon completed";
-                                statusIcon.innerHTML = `<i data-lucide="check-circle" style="width:14px;height:14px;"></i>`;
-                            } else {
-                                card.classList.remove("completed-card");
-                                statusIcon.className = "sentence-status-icon";
-                                statusIcon.innerHTML = `<i data-lucide="circle" style="width:14px;height:14px;"></i>`;
-                            }
-                            lucide.createIcons();
-                        };
-                    });
+                    tabBtnModel.onclick = () => {
+                        tabBtnModel.classList.add("active");
+                        tabBtnFree.classList.remove("active");
+                        tabContentModel.classList.add("active");
+                        tabContentFree.classList.remove("active");
+                        lucide.createIcons();
+                    };
                 }
                 
-                initClozePractice();
-                initRecallPractice();
-            }
+                // Live word counting logic
+                const textarea = document.getElementById("user-writing-area");
+                const wordCounter = document.getElementById("word-count-display");
+                
+                const updateWordCount = () => {
+                    const text = textarea.value.trim();
+                    const words = text === "" ? 0 : text.split(/\s+/).length;
+                    wordCounter.textContent = `${words} từ`;
+                    if (words >= minWords) {
+                        wordCounter.classList.add("sufficient");
+                    } else {
+                        wordCounter.classList.remove("sufficient");
+                    }
+                };
+                
+                textarea.addEventListener("input", updateWordCount);
+                updateWordCount();
+                
+                // Re-bind B2 model practice paragraphs if sampleParagraph exists
+                if (sampleParagraph) {
+                    const btnModeCloze = document.getElementById("btn-mode-cloze");
+                    const btnModeRecall = document.getElementById("btn-mode-recall");
+                    const containerCloze = document.getElementById("mode-container-cloze");
+                    const containerRecall = document.getElementById("mode-container-recall");
+                    
+                    btnModeCloze.onclick = () => {
+                        btnModeCloze.classList.add("active");
+                        btnModeRecall.classList.remove("active");
+                        containerCloze.classList.add("active");
+                        containerRecall.classList.remove("active");
+                    };
+                    
+                    btnModeRecall.onclick = () => {
+                        btnModeRecall.classList.add("active");
+                        btnModeCloze.classList.remove("active");
+                        containerRecall.classList.add("active");
+                        containerCloze.classList.remove("active");
+                    };
+                    
+                    initClozePractice();
+                    initRecallPractice();
+                }
+                
+                lucide.createIcons();
+            };
+
+            // Set up click listeners for the tasks tabs
+            setTimeout(() => {
+                document.querySelectorAll(".writing-task-tab-btn").forEach(btn => {
+                    btn.addEventListener("click", () => {
+                        const idx = parseInt(btn.getAttribute("data-task-idx"));
+                        switchWritingTask(idx);
+                    });
+                });
+            }, 0);
+            
+            switchWritingTask(0);
             addWorkspaceTabs("writing");
             
         } else if (category === "speaking") {
+            state.currentSpeakingPartIdx = 0;
+            
             // Header: Translation
             const btnTranslation = document.createElement("button");
             btnTranslation.className = "btn-toggle-tool";
             btnTranslation.innerHTML = `<i data-lucide="languages"></i> Dịch tiếng Việt`;
-            btnTranslation.onclick = () => showTranslation(data.translation);
             elements.examActionButtons.appendChild(btnTranslation);
+            
+            // Build the tabs for Parts
+            const tabsHtml = `
+                <div class="reading-parts-tabs">
+                    <button class="speaking-part-tab-btn active" data-part-idx="0">Part 1</button>
+                    <button class="speaking-part-tab-btn" data-part-idx="1">Part 2</button>
+                    <button class="speaking-part-tab-btn" data-part-idx="2">Part 3</button>
+                </div>
+            `;
             
             // Speaking Workspace
             elements.examWorkspace.innerHTML = `
-                <div class="speaking-workspace" style="width: 100%;">
-                    
-                    <div class="speaking-prompt-panel">
-                        <h3 class="panel-title">Chủ Đề Nói (Prompts)</h3>
-                        <div class="speaking-prompt-text">
-                            ${formatParagraphs(data.question)}
-                        </div>
+                <div class="workspace-panel" id="speaking-prompt-panel" style="flex: 0.55;">
+                    <h3 class="panel-title">Chủ Đề Nói (Prompts)</h3>
+                    ${tabsHtml}
+                    <div class="speaking-prompt-text" id="speaking-prompt-content">
                     </div>
-                    
-                    <div class="recorder-card">
+                </div>
+                
+                <div class="workspace-panel" id="speaking-recorder-panel" style="flex: 0.45; align-items: center; justify-content: center;">
+                    <h3 class="panel-title" style="width: 100%; align-self: flex-start;">Ghi Âm Bài Nói</h3>
+                    <div class="recorder-card" style="background: transparent; border: none; box-shadow: none; padding: 0; flex: 1; display: flex; flex-direction: column; justify-content: center; width: 100%;">
                         <div class="recording-mic-visualizer" id="mic-visualizer">
                             <i data-lucide="mic"></i>
                         </div>
@@ -845,41 +1030,129 @@ document.addEventListener("DOMContentLoaded", () => {
                         </div>
                         
                         <div id="playback-container" style="width:100%; display:flex; justify-content:center;">
-                            <!-- audio element when stopped recording -->
                         </div>
                     </div>
-                    
                 </div>
             `;
+            
+            const switchSpeakingPart = (partIdx) => {
+                // Stop current recording if any active recorder exists
+                stopSpeakingRecording();
+                
+                state.currentSpeakingPartIdx = partIdx;
+                
+                // Update tabs active styling
+                document.querySelectorAll(".speaking-part-tab-btn").forEach(btn => {
+                    const btnIdx = parseInt(btn.getAttribute("data-part-idx"));
+                    btn.classList.toggle("active", btnIdx === partIdx);
+                });
+                
+                // Update prompt text
+                const promptContent = document.getElementById("speaking-prompt-content");
+                if (promptContent) {
+                    promptContent.innerHTML = formatParagraphs(cleanQuestionText(data.parts[partIdx].question));
+                }
+                
+                // Update translation action
+                btnTranslation.onclick = () => showTranslation(data.parts[partIdx].translation);
+                
+                // Update recorder card state from saved recording if any
+                const savedRec = state.speakingRecordings[partIdx];
+                const statusText = document.getElementById("record-status");
+                const timerDisplay = document.getElementById("record-timer");
+                const playbackContainer = document.getElementById("playback-container");
+                
+                if (savedRec) {
+                    statusText.textContent = "Đã dừng thu âm. Bạn có thể nghe lại bên dưới.";
+                    statusText.style.color = "var(--text-primary)";
+                    
+                    const mins = String(Math.floor(savedRec.recordingSeconds / 60)).padStart(2, '0');
+                    const secs = String(savedRec.recordingSeconds % 60).padStart(2, '0');
+                    timerDisplay.textContent = `${mins}:${secs}`;
+                    
+                    playbackContainer.innerHTML = `
+                        <div class="playback-card" style="width: 100%;">
+                            <div class="playback-header">
+                                <h5>Bài thu âm của bạn (Part ${partIdx + 1}):</h5>
+                                <button class="btn-download-recording" id="btn-download-audio">
+                                    <i data-lucide="download" style="width:12px;height:12px;"></i> Tải về (.webm)
+                                </button>
+                            </div>
+                            <audio controls src="${savedRec.audioUrl}"></audio>
+                        </div>
+                    `;
+                    
+                    document.getElementById("btn-download-audio").onclick = () => {
+                        const a = document.createElement("a");
+                        a.href = savedRec.audioUrl;
+                        a.download = `Speaking_Exam_${state.currentExamId}_Part_${partIdx + 1}.webm`;
+                        document.body.appendChild(a);
+                        a.click();
+                        document.body.removeChild(a);
+                    };
+                } else {
+                    statusText.textContent = "Sẵn sàng thu âm";
+                    statusText.style.color = "var(--text-primary)";
+                    timerDisplay.textContent = "00:00";
+                    playbackContainer.innerHTML = "";
+                }
+                
+                lucide.createIcons();
+            };
+            
+            // Set up click listeners for speaking part tabs
+            setTimeout(() => {
+                document.querySelectorAll(".speaking-part-tab-btn").forEach(btn => {
+                    btn.addEventListener("click", () => {
+                        const idx = parseInt(btn.getAttribute("data-part-idx"));
+                        switchSpeakingPart(idx);
+                    });
+                });
+            }, 0);
             
             // Audio recording event hookup
             document.getElementById("btn-start-record").onclick = startSpeakingRecording;
             document.getElementById("btn-stop-record").onclick = stopSpeakingRecording;
+            
+            // Load Part 1 initially
+            switchSpeakingPart(0);
+            addWorkspaceTabs("speaking");
         }
         
         function addWorkspaceTabs(category) {
             let leftLabel = "Nội dung";
             let rightLabel = "Bài làm";
+            let leftIcon = "file-text";
+            let rightIcon = "check-circle-2";
             
             if (category === "reading") {
                 leftLabel = "Bài Đọc";
+                leftIcon = "book-open";
                 rightLabel = "Câu Hỏi";
             } else if (category === "listening") {
                 leftLabel = "Nghe Audio";
+                leftIcon = "headphones";
                 rightLabel = "Câu Hỏi";
             } else if (category === "writing") {
                 leftLabel = "Đề Bài";
+                leftIcon = "file-text";
                 rightLabel = "Bài Viết";
+                rightIcon = "pen-tool";
+            } else if (category === "speaking") {
+                leftLabel = "Đề Bài";
+                leftIcon = "file-text";
+                rightLabel = "Ghi Âm";
+                rightIcon = "mic";
             }
             
             const tabsContainer = document.createElement("div");
             tabsContainer.className = "workspace-tabs";
             tabsContainer.innerHTML = `
                 <button class="workspace-tab-btn active" id="w-tab-left">
-                    <i data-lucide="${category === 'reading' ? 'book-open' : category === 'listening' ? 'headphones' : 'file-text'}"></i> ${leftLabel}
+                    <i data-lucide="${leftIcon}"></i> ${leftLabel}
                 </button>
                 <button class="workspace-tab-btn" id="w-tab-right">
-                    <i data-lucide="${category === 'writing' ? 'pen-tool' : 'check-circle-2'}"></i> ${rightLabel}
+                    <i data-lucide="${rightIcon}"></i> ${rightLabel}
                 </button>
             `;
             
@@ -995,6 +1268,11 @@ document.addEventListener("DOMContentLoaded", () => {
         return 1.0 - distance / Math.max(m, n);
     }
 
+    // Levenshtein similarity wrapper for sentence recall validation
+    function calculateSimilarity(s1, s2) {
+        return getSimilarityScore(s1, s2);
+    }
+
     function diffWords(expected, actual) {
         const cleanWords = (text) => text.trim().split(/\s+/).filter(w => w.length > 0);
         const expWords = cleanWords(expected);
@@ -1088,6 +1366,32 @@ document.addEventListener("DOMContentLoaded", () => {
         return mergedText;
     }
 
+    // Clean scraped portal junk from question prompt texts
+    function cleanQuestionText(questionText) {
+        if (!questionText) return "";
+        
+        const stopMarkers = [
+            "✍", "🎤", "Trình duyệt của bạn", "🎫", "🧾", "⚠️", "💳", "🚀", "📜",
+            "Bài viết của bạn", "Bài thu âm của bạn", "Bạn còn", "Cần", "lượt chấm"
+        ];
+        
+        const lines = questionText.split("\n");
+        const cleanLines = [];
+        for (const line of lines) {
+            const trimmed = line.trim();
+            let shouldStop = false;
+            for (const sm of stopMarkers) {
+                if (trimmed.includes(sm)) {
+                    shouldStop = true;
+                    break;
+                }
+            }
+            if (shouldStop) break;
+            cleanLines.push(line);
+        }
+        return cleanLines.join("\n").trim();
+    }
+
     // Split paragraphs or text block into sentences, ignoring common abbreviations
     function splitSentences(text) {
         if (!text) return [];
@@ -1153,10 +1457,11 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     // Render list of questions
-    function renderQuestions(questions) {
+    function renderQuestions(questions, startIndex = 0) {
         if (!questions || questions.length === 0) return "<p>Không có câu hỏi nào.</p>";
         
-        return questions.map((q, qIndex) => {
+        return questions.map((q, localIndex) => {
+            const qIndex = startIndex + localIndex;
             const choicesHtml = q.options.map((opt, oIndex) => {
                 const optionLetter = String.fromCharCode(65 + oIndex); // A, B, C, D
                 return `
@@ -1225,7 +1530,31 @@ document.addEventListener("DOMContentLoaded", () => {
         // Progress dots navigation scrolling click behavior
         document.querySelectorAll(".progress-dot").forEach(dot => {
             dot.addEventListener("click", () => {
-                const qIndex = dot.getAttribute("data-qindex");
+                const qIndex = parseInt(dot.getAttribute("data-qindex"));
+                
+                // Auto switch parts for Reading
+                if (state.currentCategory === "reading") {
+                    let targetPart = 0;
+                    if (qIndex >= 30) targetPart = 3;
+                    else if (qIndex >= 20) targetPart = 2;
+                    else if (qIndex >= 10) targetPart = 1;
+                    
+                    if (state.currentReadingPartIdx !== targetPart) {
+                        state.switchReadingPart(targetPart);
+                    }
+                }
+                
+                // Auto switch parts for Listening
+                if (state.currentCategory === "listening") {
+                    let targetPart = 0;
+                    if (qIndex >= 20) targetPart = 2;
+                    else if (qIndex >= 8) targetPart = 1;
+                    
+                    if (state.currentListeningPartIdx !== targetPart) {
+                        state.switchListeningPart(targetPart);
+                    }
+                }
+                
                 const block = document.getElementById(`block-q-${qIndex}`);
                 if (block) {
                     // Remove active from other dots
@@ -1391,11 +1720,18 @@ document.addEventListener("DOMContentLoaded", () => {
                 const audioBlob = new Blob(state.audioChunks, { type: 'audio/webm' });
                 const audioUrl = URL.createObjectURL(audioBlob);
                 
+                const partIdx = state.currentSpeakingPartIdx || 0;
+                state.speakingRecordings[partIdx] = {
+                    audioBlob: audioBlob,
+                    audioUrl: audioUrl,
+                    recordingSeconds: state.recordingSeconds
+                };
+                
                 // Render playback panel
                 playbackContainer.innerHTML = `
-                    <div class="playback-card">
+                    <div class="playback-card" style="width: 100%;">
                         <div class="playback-header">
-                            <h5>Bài thu âm của bạn:</h5>
+                            <h5>Bài thu âm của bạn (Part ${partIdx + 1}):</h5>
                             <button class="btn-download-recording" id="btn-download-audio">
                                 <i data-lucide="download" style="width:12px;height:12px;"></i> Tải về (.webm)
                             </button>
@@ -1408,7 +1744,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 document.getElementById("btn-download-audio").onclick = () => {
                     const a = document.createElement("a");
                     a.href = audioUrl;
-                    a.download = `Speaking_Exam_${state.currentExamId}.webm`;
+                    a.download = `Speaking_Exam_${state.currentExamId}_Part_${partIdx + 1}.webm`;
                     document.body.appendChild(a);
                     a.click();
                     document.body.removeChild(a);

@@ -1,129 +1,1015 @@
 {
-  "title": "📖 Xem lại đề đọc mã số 05 - Part 1",
-  "passage": "Bài đọc\n(A)\nIt is estimated that over 99 percent of all species that ever existed have become extinct. What causes extinction? When a species is no longer adapted to a changed environment,\nit\nmay perish. The exact causes of a species' death vary from situation to situation. Rapid ecological change may render an environment hostile to a species. For example, temperatures may change and a species may not be able to adapt. Food resources may be affected by environmental changes, which will then cause problems for a species requiring these resources. Other species may become better adapted to an environment, resulting in competition and,\nultimately\n, in the death of a species. The fossil record reveals that extinction has occurred throughout the history of Earth. Recent analyses have also revealed that on some occasions many species became extinct at the same time—a mass extinction. One of the best-known examples of mass extinction occurred 65 million years ago with the\ndemise\nof dinosaurs and many other forms of life.\n(B)\nPerhaps the largest mass extinction was the one that occurred 225 million years ago, when approximately 95 percent of all species died. Mass extinctions can be caused by a relatively rapid change in the environment and can be worsened by the close interrelationship of many species. If, for example, something was to happen to destroy much of the\nplankton\nin the oceans, then the oxygen content of Earth would drop, affecting even organisms not living in the oceans. Such a change would probably lead to a mass extinction.\n(C)\nOne interesting, and controversial,\nfinding\nis that extinctions during the past 250 million years have tended to be more intense every 26 million years. This periodic extinction might be due to the intersection of the Earth's orbit with a cloud of comets, but this theory is purely speculative. Some researchers have also speculated that extinction may often be random. That is, certain species may be eliminated and others may survive for no particular reason. A species' survival may have nothing to do with its ability or inability to adapt. If so, some of evolutionary history may reflect a sequence of essentially random events.",
-  "translation": "(A)\nƯớc tính hơn 99% tất cả các loài từng tồn tại đã bị tuyệt chủng. Điều gì gây ra sự tuyệt chủng? Khi một loài không còn thích nghi được với môi trường đã thay đổi,\nnó\ncó thể bị diệt vong. Nguyên nhân chính xác dẫn đến sự biến mất của một loài khác nhau tùy từng trường hợp. Những thay đổi sinh thái nhanh chóng có thể khiến môi trường trở nên không thể sống được đối với một loài. Ví dụ, nhiệt độ có thể thay đổi, và một loài có thể không kịp thích nghi. Nguồn thức ăn cũng có thể bị ảnh hưởng bởi các biến đổi môi trường, gây khó khăn cho những loài phụ thuộc vào nguồn tài nguyên này. Những loài khác có thể thích nghi tốt hơn với môi trường, dẫn đến sự cạnh tranh và,\ncuối cùng\n, là sự diệt vong của một loài. Hồ sơ hóa thạch cho thấy sự tuyệt chủng đã xảy ra xuyên suốt lịch sử Trái Đất. Các phân tích gần đây cũng tiết lộ rằng, vào một số thời điểm, nhiều loài đã tuyệt chủng cùng một lúc—một sự tuyệt chủng hàng loạt. Một trong những ví dụ nổi tiếng nhất về sự tuyệt chủng hàng loạt xảy ra cách đây 65 triệu năm với\nsự biến mất\ncủa khủng long và nhiều dạng sống khác.\n(B)\nCó lẽ sự tuyệt chủng hàng loạt lớn nhất xảy ra cách đây 225 triệu năm, khi khoảng 95% tất cả các loài bị diệt vong. Sự tuyệt chủng hàng loạt có thể do những thay đổi tương đối nhanh chóng trong môi trường và có thể trở nên nghiêm trọng hơn do mối quan hệ mật thiết giữa nhiều loài. Ví dụ, nếu một sự kiện nào đó khiến phần lớn\nsinh vật phù du\ntrong đại dương bị hủy diệt, thì lượng oxy trên Trái Đất sẽ giảm xuống, gây ảnh hưởng đến cả những sinh vật không sống trong đại dương. Một sự thay đổi như vậy có thể dẫn đến một sự tuyệt chủng hàng loạt.\n(C)\nMột\nphát hiện\nthú vị và còn nhiều tranh cãi là các sự kiện tuyệt chủng trong 250 triệu năm qua có xu hướng trở nên dữ dội hơn theo chu kỳ 26 triệu năm. Sự tuyệt chủng theo chu kỳ này có thể liên quan đến việc quỹ đạo của Trái Đất giao với một đám mây sao chổi, nhưng lý thuyết này chỉ là suy đoán. Một số nhà nghiên cứu cũng cho rằng sự tuyệt chủng thường có thể mang tính ngẫu nhiên. Nghĩa là, một số loài có thể bị loại bỏ, trong khi những loài khác sống sót mà không có lý do cụ thể. Sự sống sót của một loài có thể không liên quan gì đến khả năng thích nghi của nó hay không. Nếu vậy, một phần của lịch sử tiến hóa có thể phản ánh một chuỗi các sự kiện ngẫu nhiên về bản chất.",
+  "title": "📖 Đề đọc mã số 05",
+  "parts": [
+    {
+      "part_number": 1,
+      "title": "📖 Xem lại đề đọc mã số 17 - Part 1",
+      "passage": "Bài đọc\n(A)\nIn the last third of the nineteenth century, a new housing form was quietly being developed. In 1869, the Stuyvesant, considered New York's first apartment house, was built on East Eighteenth Street. The building was financed by developer Rutherfurd Stuyvesant and designed by Richard Morris Hunt, the first American architect to graduate from the École des Beaux-Arts in Paris. Both men had lived in Paris and understood the economic and social potential of this Parisian housing style. However, the Stuyvesant was, at best, only a limited success. Despite Hunt's\ninviting\nfaçade, the living spaces were awkwardly arranged. Those who could afford such housing preferred to remain in more\nsumptuous\nsingle-family homes, leaving the Stuyvesant to young married couples and bachelors.\n(B)\nThe fundamental problem with the Stuyvesant, as well as other early apartment buildings that quickly followed in the 1870s and early 1880s, was that they were confined to the typical New York building lot. This lot was a rectangular area measuring 25 feet wide by 100 feet deep—a shape ideally suited for a row house. While the lot could accommodate a rectangular tenement, it could not\nyield\nthe spacious, well-lit, and logically arranged rooms that great apartment buildings require. Despite the awkward interior layouts of these early apartment buildings, the idea gained popularity. It addressed the needs of a large and growing population that sought better housing than tenements but either could not afford or did not want row houses.\n(C)\nAs the city’s newly emerging social elite commissioned their mansions, apartment houses and hotels began to emerge on multiple lots, breaking the initial space constraints. In the final decades of the nineteenth century, large apartment houses started appearing in the developed areas of New York City. By the early twentieth century, spacious buildings such as the Dakota and the Ansonia finally overcame the tight limitations of row house lots. From there, it was only a small step to constructing luxury apartment houses along the newly created Park Avenue, right next to the fashionable Fifth Avenue shopping district.",
+      "translation": "(A)\nTrong khoảng 30 năm cuối thế kỷ XIX, một kiểu nhà ở mới đã âm thầm được phát triển. Năm 1869, tòa nhà Stuyvesant, được coi là chung cư đầu tiên của New York, được xây dựng trên Phố Eighteenth Đông. Công trình này được tài trợ bởi nhà phát triển bất động sản Rutherfurd Stuyvesant và do Richard Morris Hunt thiết kế—ông là kiến trúc sư Mỹ đầu tiên tốt nghiệp từ École des Beaux-Arts ở Paris. Cả hai người đàn ông này đều đã từng sống ở Paris và hiểu rõ tiềm năng kinh tế cũng như xã hội của phong cách nhà ở Paris này. Tuy nhiên, Stuyvesant chỉ đạt được thành công ở mức hạn chế. Dù mặt tiền của tòa nhà do Hunt thiết kế khá\nthu hút\n, nhưng cách bố trí không gian sống bên trong lại khá bất tiện. Những người có đủ khả năng tài chính để mua nhà vẫn thích sống trong những ngôi nhà đơn lập\nxa hoa\nhơn, khiến cho Stuyvesant trở thành nơi ở chủ yếu của các cặp vợ chồng trẻ và những người độc thân.\n(B)\nVấn đề cốt lõi của Stuyvesant, cũng như các tòa chung cư đầu tiên khác nhanh chóng xuất hiện trong những năm 1870 và đầu 1880, là chúng bị giới hạn trong diện tích lô đất điển hình của New York. Mảnh đất này có hình chữ nhật với kích thước 25 feet (khoảng 7,6m) chiều rộng và 100 feet (khoảng 30,5m) chiều sâu—một hình dạng lý tưởng cho nhà phố liền kề. Dù có thể xây dựng được một khu nhà tập thể hình chữ nhật trên lô đất này, nhưng nó không thể\ntạo ra\nnhững căn hộ rộng rãi, sáng sủa và bố trí hợp lý như các tòa chung cư cao cấp yêu cầu. Mặc dù bố cục bên trong của những tòa chung cư đầu tiên này vẫn còn bất tiện, nhưng ý tưởng này đã dần trở nên phổ biến. Nó đáp ứng nhu cầu của một bộ phận dân số lớn và ngày càng gia tăng—những người muốn có chỗ ở tốt hơn so với các khu nhà tập thể chật chội, nhưng lại không đủ khả năng mua cũng như không muốn sống trong những căn nhà phố.\n(C)\nKhi tầng lớp thượng lưu mới nổi của thành phố bắt đầu xây dựng biệt thự riêng, các tòa chung cư và khách sạn cũng bắt đầu xuất hiện trên nhiều lô đất liền kề, giúp phá vỡ những hạn chế ban đầu về không gian. Trong những thập kỷ cuối thế kỷ XIX, các tòa chung cư lớn bắt đầu xuất hiện tại những khu vực phát triển của Thành phố New York. Đến đầu thế kỷ XX, những tòa nhà rộng rãi như Dakota và Ansonia cuối cùng đã vượt qua những giới hạn chật hẹp của các lô nhà phố. Từ đó, chỉ còn một bước nhỏ để các chung cư cao cấp mọc lên dọc theo Đại lộ Park mới được quy hoạch, ngay bên cạnh khu mua sắm sầm uất của Đại lộ Fifth.",
+      "questions": [
+        {
+          "id": "question1",
+          "question": "Câu 1: The new housing form discussed in the passage refers to?",
+          "options": [
+            "A. row houses",
+            "B. hotels",
+            "C. apartment buildings",
+            "D. single-family homes"
+          ],
+          "correct_answer": "C. apartment buildings",
+          "explanation": "Giải thích:\nThe new housing form discussed in the passage refers to?\n(Loại hình nhà ở mới được đề cập trong bài đọc là gì?)\n❌\nsingle-family homes\n(Nhà đơn lập) → Sai, vì bài đọc nói rằng \"những người có đủ khả năng tài chính vẫn thích nhà đơn lập hơn\", nhưng đây không phải là loại hình nhà ở mới được phát triển.\n✅\napartment buildings\n(Tòa chung cư) → Đúng, vì bài đọc tập trung vào \"sự ra đời của các tòa chung cư ở New York vào cuối thế kỷ XIX\", bắt đầu với tòa nhà Stuyvesant.\n❌\nrow houses\n(Nhà phố liền kề) → Sai, vì bài đọc đề cập rằng \"những căn nhà phố liền kề đã tồn tại từ trước\", và các tòa chung cư được phát triển để thay thế chúng.\n❌\nhotels\n(Khách sạn) → Sai, vì mặc dù bài đọc có đề cập đến khách sạn, nhưng không phải là \"loại hình nhà ở mới được phát triển\"."
+        },
+        {
+          "id": "question2",
+          "question": "Câu 2: The word \"inviting\" in paragraph (A) is closest in meaning to which of the following?",
+          "options": [
+            "A. attractive",
+            "B. asking",
+            "C. open",
+            "D. encouraging"
+          ],
+          "correct_answer": "A. attractive",
+          "explanation": "Giải thích:\nThe word \"inviting\" in paragraph (A) is closest in meaning to which of the following?\n(Từ \"inviting\" trong đoạn (A) có nghĩa gần nhất với từ nào sau đây?)\n❌\nopen\n(mở) → Sai, vì \"inviting\" trong ngữ cảnh của bài đọc mô tả vẻ ngoài thu hút của mặt tiền tòa nhà, không mang nghĩa \"mở\".\n❌\nencouraging\n(khuyến khích) → Sai, vì \"inviting\" không có nghĩa là khuyến khích hay động viên.\n✅\nattractive\n(hấp dẫn, thu hút) → Đúng, vì trong bài đọc, \"inviting façade\" mô tả \"mặt tiền hấp dẫn của tòa nhà\", nghĩa của từ này gần nhất với \"attractive\".\n❌\nasking\n(hỏi) → Sai, vì \"inviting\" không mang nghĩa liên quan đến việc đặt câu hỏi."
+        },
+        {
+          "id": "question3",
+          "question": "Câu 3: Why was the Stuyvesant a limited success?",
+          "options": [
+            "A. The arrangement of the rooms was not convenient.",
+            "B. Most people could not afford to live there.",
+            "C. It was in a crowded neighborhood.",
+            "D. There were no shopping areas nearby."
+          ],
+          "correct_answer": "A. The arrangement of the rooms was not convenient.",
+          "explanation": "Giải thích:\nWhy was the Stuyvesant a limited success?\n(Tại sao tòa nhà Stuyvesant chỉ đạt được thành công ở mức hạn chế?)\n✅\nThe arrangement of the rooms was not convenient.\n(Cách bố trí các phòng không thuận tiện.) → Đúng, vì bài đọc đề cập rằng \"mặc dù mặt tiền tòa nhà Stuyvesant rất thu hút, nhưng cách bố trí bên trong lại bất tiện\", khiến những người giàu có không thích sống ở đây.\n❌\nMost people could not afford to live there.\n(Hầu hết mọi người không đủ khả năng sống ở đó.) → Sai, vì vấn đề không nằm ở giá cả, mà là do thiết kế nội thất không phù hợp với những người giàu có.\n❌\nThere were no shopping areas nearby.\n(Không có khu mua sắm gần đó.) → Sai, vì bài đọc không đề cập đến việc thiếu khu mua sắm là một lý do khiến tòa nhà không thành công.\n❌\nIt was in a crowded neighborhood.\n(Nó nằm trong một khu vực đông đúc.) → Sai, vì bài đọc không nhắc đến sự đông đúc của khu vực xung quanh như một vấn đề."
+        },
+        {
+          "id": "question4",
+          "question": "Câu 4: The word \"sumptuous\" in paragraph (A) is closest in meaning to which of the following?",
+          "options": [
+            "A. distant",
+            "B. unique",
+            "C. luxurious",
+            "D. modern"
+          ],
+          "correct_answer": "C. luxurious",
+          "explanation": "Giải thích:\nThe word \"sumptuous\" in paragraph (A) is closest in meaning to which of the following?\n(Từ \"sumptuous\" trong đoạn (A) có nghĩa gần nhất với từ nào sau đây?)\n✅\nluxurious\n(sang trọng, xa hoa) → Đúng, vì trong bài đọc, từ \"sumptuous\" mô tả \"những ngôi nhà đơn lập xa hoa\", và nghĩa gần nhất với \"luxurious\".\n❌\nunique\n(độc đáo) → Sai, vì \"sumptuous\" không có nghĩa là độc đáo, mà nhấn mạnh sự xa hoa và đắt tiền.\n❌\nmodern\n(hiện đại) → Sai, vì \"sumptuous\" không mang nghĩa liên quan đến hiện đại.\n❌\ndistant\n(xa xôi) → Sai, vì \"sumptuous\" không có nghĩa là xa xôi hay cách biệt."
+        },
+        {
+          "id": "question5",
+          "question": "Câu 5: It can be inferred that the majority of people who lived in New York's first apartments were most likely _____?",
+          "options": [
+            "A. unemployed",
+            "B. young",
+            "C. wealthy",
+            "D. highly educated"
+          ],
+          "correct_answer": "B. young",
+          "explanation": "Giải thích:\nIt can be inferred that the majority of people who lived in New York's first apartments were most likely _____?\n(Có thể suy ra rằng phần lớn những người sống trong các căn hộ đầu tiên ở New York có khả năng là _____?)\n❌\nhighly educated\n(có trình độ học vấn cao) → Sai, vì bài đọc không đề cập đến trình độ học vấn của những cư dân trong các căn hộ đầu tiên.\n❌\nunemployed\n(thất nghiệp) → Sai, vì bài đọc không nói rằng những người sống ở đây bị thất nghiệp.\n❌\nwealthy\n(giàu có) → Sai, vì bài đọc nói rằng \"những người giàu có thích sống trong các ngôi nhà đơn lập xa hoa hơn, thay vì các căn hộ\".\n✅\nyoung\n(trẻ) → Đúng, vì bài đọc đề cập rằng \"tòa nhà Stuyvesant chủ yếu được cư trú bởi các cặp vợ chồng trẻ và những người độc thân\"."
+        },
+        {
+          "id": "question6",
+          "question": "Câu 6: It can be inferred that the typical New York building lot of the 1870s and 1880s was shaped MOST like a _____?",
+          "options": [
+            "A. Rectangle",
+            "B. Hexagon",
+            "C. Square",
+            "D. Circular"
+          ],
+          "correct_answer": "A. Rectangle",
+          "explanation": "Giải thích:\nIt can be inferred that the typical New York building lot of the 1870s and 1880s was shaped MOST like a _____?\n(Có thể suy ra rằng lô đất xây dựng điển hình ở New York vào những năm 1870 và 1880 có hình dạng giống nhất với _____?)\n❌\nHexagon\n(hình lục giác) → Sai, vì bài đọc không mô tả lô đất có hình lục giác.\n❌\nSquare\n(hình vuông) → Sai, vì bài đọc nói rõ rằng lô đất có chiều dài lớn hơn chiều rộng, không phải hình vuông.\n✅\nRectangle\n(hình chữ nhật) → Đúng, vì bài đọc mô tả\nlô đất điển hình của New York có kích thước 25 feet chiều rộng và 100 feet chiều sâu\n, đây là hình chữ nhật.\n❌\nCircular\n(hình tròn) → Sai, vì bài đọc không đề cập đến lô đất có hình tròn."
+        },
+        {
+          "id": "question7",
+          "question": "Câu 7: It can be inferred that a New York apartment building in the 1870s and 1880s had all of the following characteristics EXCEPT?",
+          "options": [
+            "A. It had limited light.",
+            "B. It was rectangular.",
+            "C. It provided ample interior space.",
+            "D. Its room arrangement was not logical."
+          ],
+          "correct_answer": "C. It provided ample interior space.",
+          "explanation": "Giải thích:\nIt can be inferred that a New York apartment building in the 1870s and 1880s had all of the following characteristics EXCEPT?\n(Có thể suy ra rằng một tòa chung cư ở New York vào những năm 1870 và 1880 có tất cả các đặc điểm sau, NGOẠI TRỪ?)\n❌\nIts room arrangement was not logical.\n(Cách bố trí phòng không hợp lý.) → Sai, vì bài đọc nhấn mạnh rằng\ncác chung cư đầu tiên có cách bố trí nội thất bất tiện\n.\n❌\nIt was rectangular.\n(Nó có hình chữ nhật.) → Sai, vì bài đọc nói rằng\ncác tòa chung cư được xây trên các lô đất hình chữ nhật điển hình của New York\n.\n❌\nIt had limited light.\n(Nó có ánh sáng hạn chế.) → Sai, vì bài đọc đề cập rằng\ncác chung cư thời kỳ đầu có vấn đề về ánh sáng\ndo bị giới hạn về diện tích.\n✅\nIt provided ample interior space.\n(Nó cung cấp không gian nội thất rộng rãi.) → Đúng, vì bài đọc nói rằng\ncác tòa chung cư thời kỳ đầu không thể tạo ra những căn hộ rộng rãi\ndo bị giới hạn bởi kích thước lô đất."
+        },
+        {
+          "id": "question8",
+          "question": "Câu 8: The word \"yield\" in paragraph (B) is closest in meaning to which of the following?",
+          "options": [
+            "A. surrender",
+            "B. harvest",
+            "C. amount",
+            "D. provide"
+          ],
+          "correct_answer": "D. provide",
+          "explanation": "Giải thích:\nThe word \"yield\" in paragraph (B) is closest in meaning to which of the following?\n(Từ \"yield\" trong đoạn (B) có nghĩa gần nhất với từ nào sau đây?)\n❌\nharvest\n(thu hoạch) → Sai, vì \"yield\" trong ngữ cảnh bài đọc không liên quan đến việc thu hoạch nông sản.\n❌\nsurrender\n(đầu hàng) → Sai, vì \"yield\" không mang nghĩa từ bỏ hay đầu hàng trong trường hợp này.\n❌\namount\n(số lượng) → Sai, vì \"yield\" không có nghĩa là số lượng mà nghiêng về nghĩa cung cấp.\n✅\nprovide\n(cung cấp) → Đúng, vì trong bài đọc, \"yield\" được dùng với nghĩa\ntạo ra, cung cấp không gian cho căn hộ\n, phù hợp nhất với nghĩa của \"provide\"."
+        },
+        {
+          "id": "question9",
+          "question": "Câu 9: Why did the idea of living in an apartment become popular in the late 1800s?",
+          "options": [
+            "A. The city officials of New York wanted housing that was centrally located.",
+            "B. Apartments were a better alternative to tenements and more affordable than row houses.",
+            "C. The shape of early apartments could accommodate a variety of interior designs.",
+            "D. Large families needed housing with sufficient space."
+          ],
+          "correct_answer": "B. Apartments were a better alternative to tenements and more affordable than row houses.",
+          "explanation": "Giải thích:\nWhy did the idea of living in an apartment become popular in the late 1800s?\n(Tại sao ý tưởng sống trong căn hộ trở nên phổ biến vào cuối những năm 1800?)\n❌\nLarge families needed housing with sufficient space.\n(Các gia đình lớn cần nhà ở có đủ không gian.) → Sai, vì bài đọc không đề cập đến việc các gia đình lớn là lý do khiến căn hộ trở nên phổ biến.\n✅\nApartments were a better alternative to tenements and more affordable than row houses.\n(Căn hộ là một lựa chọn tốt hơn so với khu nhà tập thể và rẻ hơn so với nhà phố liền kề.) → Đúng, vì bài đọc nhấn mạnh rằng\ncăn hộ đáp ứng nhu cầu của những người muốn có chỗ ở tốt hơn so với khu nhà tập thể nhưng không đủ khả năng hoặc không muốn mua nhà phố\n.\n❌\nThe city officials of New York wanted housing that was centrally located.\n(Các quan chức thành phố New York muốn có nhà ở nằm ở vị trí trung tâm.) → Sai, vì bài đọc không đề cập đến mong muốn của chính quyền thành phố về vị trí nhà ở.\n❌\nThe shape of early apartments could accommodate a variety of interior designs.\n(Hình dạng của các căn hộ ban đầu có thể phù hợp với nhiều thiết kế nội thất khác nhau.) → Sai, vì bài đọc nói rằng\ncác căn hộ đầu tiên có cách bố trí nội thất bất tiện, không đa dạng\n."
+        },
+        {
+          "id": "question10",
+          "question": "Câu 10: The author mentions the Dakota and the Ansonia in paragraph (B) because _____?",
+          "options": [
+            "A. They are famous hotels.",
+            "B. They were built on a single building lot.",
+            "C. They are examples of large, well-designed apartment buildings.",
+            "D. Their design is similar to that of row houses."
+          ],
+          "correct_answer": "C. They are examples of large, well-designed apartment buildings.",
+          "explanation": "Giải thích:\nThe author mentions the Dakota and the Ansonia in paragraph (B) because _____?\n(Tác giả đề cập đến Dakota và Ansonia trong đoạn (B) vì _____?)\n✅\nThey are examples of large, well-designed apartment buildings.\n(Chúng là những ví dụ về các tòa chung cư lớn, được thiết kế tốt.) → Đúng, vì bài đọc nói rằng\nvào đầu thế kỷ XX, các tòa chung cư rộng rãi như Dakota và Ansonia cuối cùng đã vượt qua những giới hạn chật hẹp của các lô nhà phố\n, cho thấy chúng là đại diện cho các tòa chung cư cao cấp.\n❌\nTheir design is similar to that of row houses.\n(Thiết kế của chúng tương tự như nhà phố liền kề.) → Sai, vì bài đọc đề cập rằng\ncác tòa chung cư lớn giúp phá vỡ giới hạn không gian của nhà phố liền kề\n, chứ không phải có thiết kế tương tự.\n❌\nThey were built on a single building lot.\n(Chúng được xây trên một lô đất duy nhất.) → Sai, vì bài đọc nói rằng\ncác chung cư lớn được xây trên nhiều lô đất liền kề\nđể khắc phục hạn chế không gian.\n❌\nThey are famous hotels.\n(Chúng là những khách sạn nổi tiếng.) → Sai, vì Dakota và Ansonia là những tòa chung cư lớn, không phải khách sạn."
+        }
+      ],
+      "original_test_id": 17,
+      "original_results_url": "https://luyenthivstep.vn/luyen-de/ket-qua-doc/265761"
+    },
+    {
+      "part_number": 2,
+      "title": "📖 Xem lại đề đọc mã số 18 - Part 2",
+      "passage": "Bài đọc\n(A)\nA snowfall consists of countless\nminute\nice crystals that descend to the ground as frozen precipitation. The formation of snow begins with these ice crystals in the subfreezing strata of the middle and upper atmosphere when an adequate supply of moisture is present. At the core of every ice crystal is a minuscule nucleus—a solid particle of matter around which moisture condenses and freezes.\nLiquid water droplets floating in the supercooled atmosphere and free ice crystals cannot coexist within the same cloud, since the vapor pressure of ice is lower than that of water. This allows the ice crystals to absorb moisture from the liquid droplets and continue growing. The process can occur rapidly, quickly forming sizable ice crystals, some of which\nadhere\nto each other to create clusters of ice crystals or snowflakes. Simple flakes exhibit a variety of beautiful forms, typically hexagonal, although the symmetrical shapes commonly seen in microscope photography of snowflakes are rarely observed in actual snowfall. Typically, snowflakes in real snowfall consist of broken fragments and clusters of adhering ice crystals.\n(B)\nFor a snowfall to continue once\nit\nstarts, there must be a constant inflow of moisture to supply the nuclei - known as the lake effect. During this process, the moisture is provided by an airstream passing over a water surface and subsequently rising to higher regions of the atmosphere. The Pacific Ocean is the primary source of moisture for most snowfalls west of the Rocky Mountains, while the Gulf of Mexico and the Atlantic Ocean supply water vapor to the air currents over the central and eastern sections of the United States.\nOther geographical features can also contribute moisture to certain snowstorms. For example, areas adjacent to the Great Lakes experience unique lake-effect storms, driven by a localized variation of this process. Additionally, mountainous regions or rising terrain can\ninitiate\nsnowfalls through the geographical lifting of moist airstreams.",
+      "translation": "(A)\nMột trận tuyết rơi bao gồm vô số tinh thể băng\nnhỏ bé\nrơi xuống mặt đất dưới dạng mưa tuyết. Sự hình thành tuyết bắt đầu với các tinh thể băng này trong các tầng khí quyển trung và thượng tầng có nhiệt độ dưới mức đóng băng, khi có đủ độ ẩm. Ở lõi của mỗi tinh thể băng là một hạt nhân cực nhỏ—một hạt vật chất rắn xung quanh đó hơi ẩm ngưng tụ và đóng băng.\nNhững giọt nước lơ lửng trong bầu khí quyển siêu lạnh và các tinh thể băng tự do không thể cùng tồn tại trong cùng một đám mây, vì áp suất hơi của băng thấp hơn so với nước. Điều này cho phép các tinh thể băng hấp thụ hơi ẩm từ những giọt nước và tiếp tục phát triển. Quá trình này có thể diễn ra nhanh chóng, hình thành nhanh các tinh thể băng có kích thước đáng kể, một số trong đó\ndính chặt\nvào nhau để tạo thành các cụm tinh thể băng hoặc bông tuyết. Những bông tuyết đơn giản có nhiều hình dạng đẹp mắt, thường là hình lục giác, mặc dù những cấu trúc đối xứng được quan sát dưới kính hiển vi hiếm khi xuất hiện trong tuyết rơi thực tế. Thông thường, các bông tuyết trong một trận tuyết rơi thực tế bao gồm những mảnh vỡ và các cụm tinh thể băng kết dính lại với nhau.\n(B)\nĐể một trận tuyết có thể tiếp tục rơi sau khi\nnó\nbắt đầu, cần có một dòng cung cấp độ ẩm liên tục để bổ sung cho các hạt nhân tuyết - được gọi là hiệu ứng hồ. Trong quá trình này, độ ẩm được cung cấp bởi luồng không khí di chuyển qua bề mặt nước và sau đó bay lên các vùng cao hơn của khí quyển. Thái Bình Dương là nguồn cung cấp độ ẩm chính cho hầu hết các trận tuyết rơi ở phía tây dãy Rocky, trong khi Vịnh Mexico và Đại Tây Dương cung cấp hơi nước cho các luồng không khí trên các khu vực miền trung và miền đông Hoa Kỳ.\nCác đặc điểm địa lý khác cũng có thể đóng góp độ ẩm cho một số cơn bão tuyết nhất định. Ví dụ, các khu vực gần Ngũ Đại Hồ thường trải qua các cơn bão tuyết đặc biệt do hiệu ứng hồ, được thúc đẩy bởi một biến thể địa phương của quá trình này. Ngoài ra, các vùng núi hoặc địa hình dốc có thể\nkhởi phát\ncác trận tuyết rơi thông qua việc nâng luồng không khí ẩm lên cao.",
+      "questions": [
+        {
+          "id": "question11",
+          "question": "Câu 11: Which of the following questions is answered in paragraph (A)?",
+          "options": [
+            "A. How are snowflakes formed?",
+            "B. In which months does most snow fall?",
+            "C. Why are snowflakes hexagonal?",
+            "D. What is the optimum temperature for snow?"
+          ],
+          "correct_answer": "A. How are snowflakes formed?",
+          "explanation": "Giải thích:\nWhich of the following questions is answered in paragraph (A)?\n(Câu hỏi nào sau đây được trả lời trong đoạn (A)?)\n❌\nWhy are snowflakes hexagonal?\n(Tại sao bông tuyết có hình lục giác?) → Sai, vì mặc dù đoạn (A) có nhắc đến hình dạng lục giác của bông tuyết, nhưng không giải thích lý do tại sao chúng có hình dạng này.\n❌\nWhat is the optimum temperature for snow?\n(Nhiệt độ tối ưu để có tuyết là bao nhiêu?) → Sai, vì bài đọc không đề cập đến nhiệt độ cụ thể để hình thành tuyết.\n❌\nIn which months does most snow fall?\n(Tuyết rơi nhiều nhất vào những tháng nào?) → Sai, vì bài đọc không nói về thời điểm tuyết rơi nhiều nhất.\n✅\nHow are snowflakes formed?\n(Bông tuyết được hình thành như thế nào?) → Đúng, vì đoạn (A) mô tả quá trình hình thành bông tuyết, từ việc\ntinh thể băng nhỏ phát triển và kết dính lại\nđể tạo thành bông tuyết."
+        },
+        {
+          "id": "question12",
+          "question": "Câu 12: The word \"minute\" in paragraph (A) is closest in meaning to which of the following?",
+          "options": [
+            "A. quick",
+            "B. sharp",
+            "C. clear",
+            "D. tiny"
+          ],
+          "correct_answer": "D. tiny",
+          "explanation": "Giải thích:\nThe word \"minute\" in paragraph (A) is closest in meaning to which of the following?\n(Từ \"minute\" trong đoạn (A) có nghĩa gần nhất với từ nào sau đây?)\n✅\ntiny\n(nhỏ bé) → Đúng, vì trong ngữ cảnh bài đọc, \"minute ice crystals\" mô tả\nnhững tinh thể băng cực nhỏ\n, đồng nghĩa với \"tiny\".\n❌\nquick\n(nhanh chóng) → Sai, vì \"minute\" trong ngữ cảnh này không mang nghĩa về tốc độ.\n❌\nclear\n(rõ ràng) → Sai, vì \"minute\" không có nghĩa là rõ ràng hay dễ hiểu.\n❌\nsharp\n(sắc nét) → Sai, vì \"minute\" không mô tả độ sắc nét của vật thể."
+        },
+        {
+          "id": "question13",
+          "question": "Câu 13: What is at the center of an ice crystal?",
+          "options": [
+            "A. a small snowflake",
+            "B. a drop of water",
+            "C. a hexagon",
+            "D. a nucleus"
+          ],
+          "correct_answer": "D. a nucleus",
+          "explanation": "Giải thích:\nWhat is at the center of an ice crystal?\n(Ở trung tâm của một tinh thể băng có gì?)\n❌\na small snowflake\n(một bông tuyết nhỏ) → Sai, vì bông tuyết là tập hợp nhiều tinh thể băng, không phải lõi của một tinh thể đơn lẻ.\n✅\na nucleus\n(một hạt nhân) → Đúng, vì bài đọc nói rằng\nmỗi tinh thể băng có một hạt nhân cực nhỏ\nđóng vai trò làm trung tâm để hơi ẩm ngưng tụ và đóng băng.\n❌\na drop of water\n(một giọt nước) → Sai, vì bài đọc nói rằng\nhơi nước ngưng tụ quanh hạt nhân\n, chứ không phải giọt nước là trung tâm.\n❌\na hexagon\n(một hình lục giác) → Sai, vì hình lục giác là hình dạng của bông tuyết, không phải phần trung tâm."
+        },
+        {
+          "id": "question14",
+          "question": "Câu 14: The word \"adhere\" in paragraph (A) is closest in meaning to which of the following?",
+          "options": [
+            "A. belong",
+            "B. stick",
+            "C. relate",
+            "D. speed"
+          ],
+          "correct_answer": "B. stick",
+          "explanation": "Giải thích:\nThe word \"adhere\" in paragraph (A) is closest in meaning to which of the following?\n(Từ \"adhere\" trong đoạn (A) có nghĩa gần nhất với từ nào?)\n❌\nbelong\n(thuộc về) → Sai, vì \"adhere\" không có nghĩa là thuộc về cái gì đó.\n❌\nrelate\n(liên quan) → Sai, vì \"adhere\" không có nghĩa là có mối quan hệ.\n✅\nstick\n(dính vào) → Đúng, vì trong bài đọc, \"adhere\" được dùng để mô tả\ntinh thể băng dính vào nhau để tạo thành bông tuyết\n.\n❌\nspeed\n(tốc độ) → Sai, vì \"adhere\" không liên quan đến tốc độ."
+        },
+        {
+          "id": "question15",
+          "question": "Câu 15: What is the main idea of paragraph (B)?",
+          "options": [
+            "A. How ice crystals form",
+            "B. Where the moisture to supply the nuclei comes from",
+            "C. How moisture affects temperature",
+            "D. What happens when ice crystals melt"
+          ],
+          "correct_answer": "B. Where the moisture to supply the nuclei comes from",
+          "explanation": "Giải thích:\nWhat is the main idea of paragraph (B)?\n(Ý chính của đoạn (B) là gì?)\n❌\nHow ice crystals form\n(Cách tinh thể băng hình thành) → Sai, vì đoạn (A) mới nói về quá trình hình thành tinh thể băng.\n❌\nHow moisture affects temperature\n(Hơi ẩm ảnh hưởng đến nhiệt độ như thế nào) → Sai, vì đoạn (B) không tập trung vào mối quan hệ giữa hơi ẩm và nhiệt độ.\n❌\nWhat happens when ice crystals melt\n(Điều gì xảy ra khi tinh thể băng tan chảy) → Sai, vì đoạn (B) không nói về sự tan chảy.\n✅\nWhere the moisture to supply the nuclei comes from\n(Nguồn cung cấp hơi ẩm cho các hạt nhân đến từ đâu) → Đúng, vì đoạn (B) giải thích rằng\nhơi ẩm đến từ các luồng không khí di chuyển qua đại dương\n, như Thái Bình Dương, Vịnh Mexico và Đại Tây Dương."
+        },
+        {
+          "id": "question16",
+          "question": "Câu 16: The word \"it\" in paragraph (B) refers to which of the following?",
+          "options": [
+            "A. cluster",
+            "B. snowfall",
+            "C. snowflake",
+            "D. moisture"
+          ],
+          "correct_answer": "B. snowfall",
+          "explanation": "Giải thích:\nThe word \"it\" in paragraph (B) refers to which of the following?\n(Từ \"it\" trong đoạn (B) ám chỉ đến điều gì?)\n✅\nsnowfall\n(trận tuyết rơi) → Đúng, vì trong câu văn, \"it\" ám chỉ đến\ntrận tuyết rơi đang diễn ra\n, cần có nguồn cung cấp độ ẩm liên tục để tiếp tục.\n❌\nsnowflake\n(bông tuyết) → Sai, vì \"it\" không nói về một bông tuyết riêng lẻ mà về trận tuyết.\n❌\ncluster\n(cụm tinh thể) → Sai, vì \"it\" không ám chỉ các cụm tinh thể mà là toàn bộ trận tuyết.\n❌\nmoisture\n(hơi ẩm) → Sai, vì hơi ẩm là yếu tố cần thiết để trận tuyết tiếp tục, nhưng \"it\" không đề cập đến hơi ẩm."
+        },
+        {
+          "id": "question17",
+          "question": "Câu 17: What is required for a snowfall to continue?",
+          "options": [
+            "A. A decrease in the number of snowflakes",
+            "B. A continuous infusion of moisture",
+            "C. A change in the direction of the airstream",
+            "D. Lowered vapor pressure in ice crystals"
+          ],
+          "correct_answer": "B. A continuous infusion of moisture",
+          "explanation": "Giải thích:\nWhat is required for a snowfall to continue?\n(Điều kiện cần thiết để tuyết rơi tiếp tục là gì?)\n❌\nA decrease in the number of snowflakes\n(Giảm số lượng bông tuyết) → Sai, vì điều này không liên quan đến việc trận tuyết có tiếp tục hay không.\n❌\nLowered vapor pressure in ice crystals\n(Giảm áp suất hơi trong tinh thể băng) → Sai, vì điều này ảnh hưởng đến sự hình thành băng, không quyết định việc tuyết rơi có tiếp tục hay không.\n✅\nA continuous infusion of moisture\n(Nguồn cung cấp độ ẩm liên tục) → Đúng, vì bài đọc nói rằng\nmột trận tuyết rơi cần có luồng cung cấp hơi ẩm liên tục\ntừ các khối không khí ẩm để tiếp tục.\n❌\nA change in the direction of the airstream\n(Sự thay đổi hướng của luồng không khí) → Sai, vì bài đọc không nói rằng hướng gió thay đổi sẽ quyết định trận tuyết có tiếp tục hay không."
+        },
+        {
+          "id": "question18",
+          "question": "Câu 18: How do lake-effect snowstorms typically form?",
+          "options": [
+            "A. Millions of ice crystals form on the surface of a large lake.",
+            "B. Large quantities of wet air come off a nearby mountain.",
+            "C. Water temperature drop below freezing.",
+            "D. Moisture rises from a lake into the airstream."
+          ],
+          "correct_answer": "D. Moisture rises from a lake into the airstream.",
+          "explanation": "Giải thích:\nHow do lake-effect snowstorms typically form?\n(Các trận bão tuyết do hiệu ứng hồ thường hình thành như thế nào?)\n❌\nWater temperature drop below freezing.\n(Nhiệt độ nước giảm xuống dưới mức đóng băng.) → Sai, vì bài đọc không đề cập đến nhiệt độ nước đóng vai trò chính trong việc tạo ra bão tuyết do hiệu ứng hồ.\n✅\nMoisture rises from a lake into the airstream.\n(Hơi ẩm bốc lên từ một hồ nước vào luồng không khí.) → Đúng, vì bài đọc nói rằng\ncác khu vực gần Ngũ Đại Hồ thường trải qua các trận bão tuyết do hơi ẩm bốc lên từ mặt hồ\n, dẫn đến hiệu ứng hồ.\n❌\nLarge quantities of wet air come off a nearby mountain.\n(Một lượng lớn không khí ẩm từ một ngọn núi gần đó.) → Sai, vì bài đọc nói rằng bão tuyết do hiệu ứng hồ\nhình thành từ hơi ẩm của hồ nước\n, không phải từ núi.\n❌\nMillions of ice crystals form on the surface of a large lake.\n(Hàng triệu tinh thể băng hình thành trên bề mặt một hồ lớn.) → Sai, vì bài đọc không nói rằng bão tuyết do hiệu ứng hồ bắt đầu từ tinh thể băng trên bề mặt hồ."
+        },
+        {
+          "id": "question19",
+          "question": "Câu 19: The word \"initiate\" in paragraph (B) is closest in meaning to which of the following?",
+          "options": [
+            "A. begin",
+            "B. increase",
+            "C. enhance",
+            "D. alter"
+          ],
+          "correct_answer": "A. begin",
+          "explanation": "Giải thích:\nThe word \"initiate\" in paragraph (B) is closest in meaning to which of the following?\n(Từ \"initiate\" trong đoạn (B) có nghĩa gần nhất với từ nào?)\n❌\nenhance\n(tăng cường) → Sai, vì \"initiate\" không có nghĩa là làm cho mạnh hơn hay tăng cường.\n❌\nalter\n(thay đổi) → Sai, vì \"initiate\" không có nghĩa là thay đổi điều gì đã tồn tại.\n❌\nincrease\n(tăng lên) → Sai, vì \"initiate\" không có nghĩa là làm tăng.\n✅\nbegin\n(bắt đầu) → Đúng, vì trong bài đọc, \"initiate\" được dùng để mô tả\nquá trình bắt đầu của một trận tuyết rơi\n, đồng nghĩa với \"begin\"."
+        },
+        {
+          "id": "question20",
+          "question": "Câu 20: Which of the following best explains why a place near mountains and a water source might not receive snowfall?",
+          "options": [
+            "A. Too much moisture in the air",
+            "B. Too much wind off the mountains",
+            "C. Atmospheric temperatures above the freezing point",
+            "D. Ground temperatures below the freezing point"
+          ],
+          "correct_answer": "C. Atmospheric temperatures above the freezing point",
+          "explanation": "Giải thích:\nWhich of the following best explains why a place near mountains and a water source might not receive snowfall?\n(Điều nào sau đây giải thích tốt nhất tại sao một khu vực gần núi và nguồn nước có thể không có tuyết rơi?)\n❌\nGround temperatures below the freezing point.\n(Nhiệt độ mặt đất dưới mức đóng băng.) → Sai, vì bài đọc nói rằng\nnhiệt độ không khí\nchứ không phải nhiệt độ mặt đất quyết định sự hình thành tuyết.\n❌\nToo much moisture in the air.\n(Quá nhiều hơi ẩm trong không khí.) → Sai, vì bài đọc không nói rằng quá nhiều hơi ẩm sẽ ngăn chặn tuyết rơi.\n❌\nToo much wind off the mountains.\n(Quá nhiều gió từ núi.) → Sai, vì bài đọc không đề cập đến gió mạnh từ núi là nguyên nhân ngăn cản tuyết rơi.\n✅\nAtmospheric temperatures above the freezing point.\n(Nhiệt độ khí quyển cao hơn mức đóng băng.) → Đúng, vì bài đọc nói rằng\nnhiệt độ khí quyển cần phải dưới mức đóng băng để tuyết hình thành\n. Nếu nhiệt độ quá cao, tuyết sẽ không thể tồn tại."
+        }
+      ],
+      "original_test_id": 18,
+      "original_results_url": "https://luyenthivstep.vn/luyen-de/ket-qua-doc/265762"
+    },
+    {
+      "part_number": 3,
+      "title": "📖 Xem lại đề đọc mã số 19 - Part 3",
+      "passage": "Bài đọc\n(A)\nSocial parasitism involves one species relying on another to\nraise\nits young. Among vertebrates, the best-known social parasites are birds such as cuckoos and cowbirds. The female lays an egg in a nest belonging to another species and leaves\nit\nfor the host to rear.\nThe dulotic species of ants, however, are the supreme social parasites.\nConsider, for example, the unusual behavior of ants belonging to the genus Polyergus. All species of this ant have lost their ability to care for themselves. The workers do not forage for food, feed their brood or queen, or even clean their own nest. To compensate for these deficits, Polyergus ants have become highly specialized in obtaining workers from the related genus Formica to perform these essential tasks.\n(B)\nDuring a raid, several thousand Polyergus workers will travel up to 500 feet in search of a Formica nest. They invade the nest, drive away the queen and her workers, capture the pupal brood, and carry it back to their own colony. The captured brood is then nurtured by the resident Formica workers until the pupae develop and emerge, increasing the Formica population and sustaining the mixed-species nest. The Formica workers forage for food and share it with colony members of both species. They also remove waste and\nexcavate\nnew chambers as the population grows.\n(C)\nThe full extent of the Polyergus ants' dependence on Formica workers becomes evident when the colony outgrows its current nest. Formica scouts locate a new nesting site, return to the mixed-species colony, and\nrecruit\nadditional Formica nestmates. Over a period of up to seven days, the Formica workers transport all the Polyergus eggs, larvae, pupae, every Polyergus adult, and even the Polyergus queen to the new nest.\nOf the approximately 8,000 species of ants in the world, all five species of Polyergus and about 200 species in other genera have evolved some degree of parasitic relationship with other ants.",
+      "translation": "(A)\nKý sinh xã hội là hiện tượng một loài phụ thuộc vào loài khác để\nnuôi dưỡng\ncon non của mình. Trong số các loài động vật có xương sống, những loài ký sinh xã hội nổi tiếng nhất là các loài chim như chim cu gáy và chim bò. Con cái đẻ trứng vào tổ của một loài khác và để\nnó\ncho vật chủ chăm sóc.\nTuy nhiên, các loài kiến thuộc nhóm dulotic mới thực sự là những kẻ ký sinh xã hội bậc thầy.\nHãy xem xét hành vi đặc biệt của loài kiến thuộc chi\nPolyergus\n. Tất cả các loài kiến trong chi này đã mất khả năng tự chăm sóc bản thân. Những con kiến thợ không tìm kiếm thức ăn, không nuôi ấu trùng hoặc chăm sóc kiến chúa, thậm chí không tự dọn dẹp tổ của mình. Để bù đắp cho những thiếu sót này, kiến\nPolyergus\nđã phát triển khả năng chuyên biệt trong việc thu thập kiến thợ từ chi kiến\nFormica\ncó họ hàng gần để thực hiện các nhiệm vụ thiết yếu này.\n(B)\nTrong một cuộc tấn công, hàng nghìn con kiến\nPolyergus\ncó thể di chuyển tới 500 feet (khoảng 150 mét) để tìm kiếm một tổ kiến\nFormica\n. Chúng xâm nhập tổ, đuổi kiến chúa và kiến thợ của loài này đi, bắt cóc các con nhộng đang phát triển rồi mang về tổ của chúng. Những con nhộng bị bắt cóc sau đó được những con kiến\nFormica\ncư trú trong tổ nuôi dưỡng cho đến khi chúng phát triển và nở ra, làm tăng dân số loài\nFormica\nvà duy trì tổ chung giữa hai loài. Các kiến\nFormica\ntìm kiếm thức ăn và chia sẻ với các thành viên của cả hai loài. Chúng cũng dọn dẹp chất thải và\nđào\nthêm các khoang mới khi dân số tăng lên.\n(C)\nMức độ phụ thuộc hoàn toàn của kiến\nPolyergus\nvào kiến\nFormica\ntrở nên rõ ràng nhất khi tổ phát triển vượt quá sức chứa. Những con kiến\nFormica\ntrinh sát tìm kiếm một vị trí làm tổ mới, quay trở lại tổ chung và\ntuyển mộ\nthêm đồng loại của mình. Trong khoảng thời gian lên đến bảy ngày, kiến\nFormica\nvận chuyển tất cả trứng, ấu trùng, nhộng, toàn bộ kiến trưởng thành\nPolyergus\n, và thậm chí cả kiến chúa\nPolyergus\nđến tổ mới.\nTrong số khoảng 8.000 loài kiến trên thế giới, tất cả 5 loài thuộc chi\nPolyergus\nvà khoảng 200 loài khác thuộc các chi khác đã tiến hóa để hình thành mối quan hệ ký sinh xã hội ở mức độ nhất định với các loài kiến khác.",
+      "questions": [
+        {
+          "id": "question21",
+          "question": "Câu 21: Which of the following statements best represents the main idea of the passage?",
+          "options": [
+            "A. Ants belonging to the genus Polyergus have an unusual relationship with ants belonging to the genus Formica.",
+            "B. Polyergus ants frequently leave their nests to build new colonies.",
+            "C. Ants belonging to the genus Formica are incapable of performing certain tasks.",
+            "D. The genus Polyergus is quite similar to the genus Formica."
+          ],
+          "correct_answer": "A. Ants belonging to the genus Polyergus have an unusual relationship with ants belonging to the genus Formica.",
+          "explanation": "Giải thích:\nWhich of the following statements best represents the main idea of the passage?\n(Câu nào sau đây thể hiện rõ nhất ý chính của bài đọc?)\n❌\nAnts belonging to the genus Formica are incapable of performing certain tasks.\n(Loài kiến thuộc chi Formica không thể thực hiện một số nhiệm vụ.) → Sai, vì kiến Formica có thể thực hiện nhiều nhiệm vụ và thậm chí còn hỗ trợ kiến Polyergus.\n❌\nThe genus Polyergus is quite similar to the genus Formica.\n(Chi Polyergus khá giống chi Formica.) → Sai, vì hai loài có sự khác biệt lớn, đặc biệt là Polyergus hoàn toàn phụ thuộc vào Formica.\n✅\nAnts belonging to the genus Polyergus have an unusual relationship with ants belonging to the genus Formica.\n(Kiến Polyergus có mối quan hệ bất thường với kiến Formica.) → Đúng, vì bài đọc tập trung vào cách kiến Polyergus phụ thuộc vào Formica để sinh tồn.\n❌\nPolyergus ants frequently leave their nests to build new colonies.\n(Kiến Polyergus thường rời tổ để xây dựng thuộc địa mới.) → Sai, vì chúng không tự xây dựng tổ mà dựa vào kiến Formica để di dời tổ."
+        },
+        {
+          "id": "question22",
+          "question": "Câu 22: The word \"raise\" in paragraph (A) is closest in meaning to which of the following?",
+          "options": [
+            "A. rear",
+            "B. lift",
+            "C. increase",
+            "D. collect"
+          ],
+          "correct_answer": "A. rear",
+          "explanation": "Giải thích:\nThe word \"raise\" in paragraph (A) is closest in meaning to which of the following?\n(Từ \"raise\" trong đoạn (A) có nghĩa gần nhất với từ nào?)\n✅\nrear\n(nuôi dưỡng) → Đúng, vì trong bài đọc, từ \"raise\" được dùng với nghĩa\nnuôi dưỡng con non\n, giống như \"rear\".\n❌\nlift\n(nâng lên) → Sai, vì \"raise\" trong ngữ cảnh này không có nghĩa là nâng một vật lên.\n❌\ncollect\n(thu thập) → Sai, vì \"raise\" không có nghĩa là thu thập thứ gì đó.\n❌\nincrease\n(tăng lên) → Sai, vì \"raise\" trong ngữ cảnh này không có nghĩa là làm tăng số lượng."
+        },
+        {
+          "id": "question23",
+          "question": "Câu 23: The author mentions cuckoos and cowbirds in paragraph (A) because they _____.",
+          "options": [
+            "A. share their nests with each other",
+            "B. are closely related species",
+            "C. are social parasites",
+            "D. raise the young of other birds"
+          ],
+          "correct_answer": "C. are social parasites",
+          "explanation": "Giải thích:\nThe author mentions cuckoos and cowbirds in paragraph (A) because they _____?\n(Tác giả đề cập đến chim cu gáy và chim bò trong đoạn (A) vì chúng _____?)\n❌\nshare their nests with each other.\n(Chúng chia sẻ tổ với nhau.) → Sai, vì chim cu gáy và chim bò không chia sẻ tổ mà đẻ trứng vào tổ của loài khác.\n❌\nare closely related species.\n(Chúng là những loài có quan hệ gần gũi.) → Sai, vì bài đọc không đề cập đến quan hệ tiến hóa của hai loài này.\n❌\nraise the young of other birds.\n(Chúng nuôi con non của loài chim khác.) → Sai, vì chúng không nuôi con non của loài khác mà gửi trứng cho loài khác nuôi.\n✅\nare social parasites.\n(Là loài ký sinh xã hội.) → Đúng, vì bài đọc đề cập đến chim cu gáy và chim bò như ví dụ điển hình của ký sinh xã hội."
+        },
+        {
+          "id": "question24",
+          "question": "Câu 24: The word \"it\" in paragraph (A) refers to which of the following?",
+          "options": [
+            "A. female",
+            "B. species",
+            "C. egg",
+            "D. nest"
+          ],
+          "correct_answer": "C. egg",
+          "explanation": "Giải thích:\nThe word \"it\" in paragraph (A) refers to which of the following?\n(Từ \"it\" trong đoạn (A) ám chỉ điều gì?)\n❌\nspecies\n(loài) → Sai, vì \"it\" không ám chỉ một loài động vật.\n❌\nnest\n(tổ) → Sai, vì bài đọc không nói rằng tổ bị bỏ lại cho vật chủ nuôi.\n✅\negg\n(trứng) → Đúng, vì bài đọc nói rằng con chim cái\nđẻ trứng vào tổ của loài khác và để \"nó\" cho vật chủ chăm sóc\n. Từ \"it\" ám chỉ quả trứng.\n❌\nfemale\n(chim cái) → Sai, vì \"it\" không ám chỉ con chim cái."
+        },
+        {
+          "id": "question25",
+          "question": "Câu 25: What does the author mean by stating that \"The dulotic species of ants are the supreme social parasites\" in paragraph (A)?",
+          "options": [
+            "A. The Polyergus are heavily dependent on the Formica.",
+            "B. The Formica do not reproduce rapidly enough to care for themselves.",
+            "C. The Polyergus are more highly developed than die Formica.",
+            "D. The Formica have developed specialized roles."
+          ],
+          "correct_answer": "A. The Polyergus are heavily dependent on the Formica.",
+          "explanation": "Giải thích:\nWhat does the author mean by stating that \"The dulotic species of ants are the supreme social parasites\" in paragraph (A)?\n(Tác giả có ý gì khi nói rằng \"Các loài kiến dulotic là những kẻ ký sinh xã hội bậc thầy\" trong đoạn (A)?)\n❌\nThe Polyergus are more highly developed than the Formica.\n(Kiến Polyergus phát triển hơn kiến Formica.) → Sai, vì bài đọc không nói rằng Polyergus tiến hóa cao hơn.\n❌\nThe Formica have developed specialized roles.\n(Kiến Formica đã phát triển các vai trò chuyên biệt.) → Sai, vì bài đọc tập trung vào sự phụ thuộc của Polyergus, không phải vai trò của Formica.\n✅\nThe Polyergus are heavily dependent on the Formica.\n(Kiến Polyergus phụ thuộc rất nhiều vào kiến Formica.) → Đúng, vì bài đọc mô tả\nkiến Polyergus không thể tự kiếm ăn hay chăm sóc tổ\nmà hoàn toàn dựa vào Formica.\n❌\nThe Formica do not reproduce rapidly enough to care for themselves.\n(Kiến Formica không sinh sản đủ nhanh để tự chăm sóc bản thân.) → Sai, vì bài đọc không đề cập đến tốc độ sinh sản của Formica."
+        },
+        {
+          "id": "question26",
+          "question": "Câu 26: Which of the following is a task that an ant of the genus Polyergus might do?",
+          "options": [
+            "A. Raid another nest.",
+            "B. Clean its own nest.",
+            "C. Care for the young.",
+            "D. Look for food."
+          ],
+          "correct_answer": "A. Raid another nest.",
+          "explanation": "Giải thích:\nWhich of the following is a task that an ant of the genus Polyergus might do?\n(Nhiệm vụ nào sau đây có thể do một con kiến thuộc chi Polyergus thực hiện?)\n❌\nLook for food.\n(Tìm kiếm thức ăn.) → Sai, vì bài đọc nói rằng\nkiến Polyergus không tự kiếm ăn\nmà phụ thuộc vào kiến Formica.\n✅\nRaid another nest.\n(Tấn công tổ khác.) → Đúng, vì bài đọc mô tả\nkiến Polyergus thực hiện các cuộc tấn công vào tổ kiến Formica\nđể bắt cóc nhộng.\n❌\nCare for the young.\n(Chăm sóc con non.) → Sai, vì bài đọc nói rằng\nkiến Polyergus không nuôi dưỡng ấu trùng\n, mà kiến Formica làm việc này.\n❌\nClean its own nest.\n(Dọn dẹp tổ của chính nó.) → Sai, vì bài đọc nói rằng\nkiến Formica đảm nhiệm việc dọn dẹp tổ\n, không phải Polyergus."
+        },
+        {
+          "id": "question27",
+          "question": "Câu 27: The word \"excavate\" in paragraph (B) is closest in meaning to which of the following?",
+          "options": [
+            "A. clean",
+            "B. repair",
+            "C. find",
+            "D. dig"
+          ],
+          "correct_answer": "D. dig",
+          "explanation": "Giải thích:\nThe word \"excavate\" in paragraph (B) is closest in meaning to which of the following?\n(Từ \"excavate\" trong đoạn (B) có nghĩa gần nhất với từ nào?)\n❌\nfind\n(tìm thấy) → Sai, vì \"excavate\" không có nghĩa là tìm kiếm thứ gì đó.\n❌\nclean\n(làm sạch) → Sai, vì \"excavate\" không có nghĩa là làm sạch mà là hành động đào bới.\n❌\nrepair\n(sửa chữa) → Sai, vì \"excavate\" không có nghĩa là sửa chữa thứ gì đó.\n✅\ndig\n(đào) → Đúng, vì trong bài đọc, từ \"excavate\" được dùng để mô tả\nkiến Formica đào thêm các khoang mới\nkhi dân số tăng."
+        },
+        {
+          "id": "question28",
+          "question": "Câu 28: The word \"recruit\" in paragraph (C) is closest in meaning to which of the following?",
+          "options": [
+            "A. create",
+            "B. enlist",
+            "C. capture",
+            "D. endure"
+          ],
+          "correct_answer": "B. enlist",
+          "explanation": "Giải thích:\nThe word \"recruit\" in paragraph (C) is closest in meaning to which of the following?\n(Từ \"recruit\" trong đoạn (C) có nghĩa gần nhất với từ nào?)\n❌\ncreate\n(tạo ra) → Sai, vì \"recruit\" không có nghĩa là tạo ra thứ gì đó.\n✅\nenlist\n(chiêu mộ) → Đúng, vì trong bài đọc, \"recruit\" được dùng để mô tả\nkiến Formica tuyển mộ đồng loại của mình để di dời tổ\n.\n❌\nendure\n(chịu đựng) → Sai, vì \"recruit\" không liên quan đến việc chịu đựng.\n❌\ncapture\n(bắt giữ) → Sai, vì \"recruit\" không có nghĩa là bắt giữ."
+        },
+        {
+          "id": "question29",
+          "question": "Câu 29: What happens when a mixed colony of Polyergus and Formica ants becomes too large?",
+          "options": [
+            "A. The Polyergus and the Formica move to a new nest.",
+            "B. The Polyergus workers enlarge the existing nest.",
+            "C. The Polyergus and the Formica build separate nests.",
+            "D. The captured Formica workers return to their original nest."
+          ],
+          "correct_answer": "A. The Polyergus and the Formica move to a new nest.",
+          "explanation": "Giải thích:\nWhat happens when a mixed colony of Polyergus and Formica ants becomes too large?\n(Điều gì xảy ra khi một tổ chung của kiến Polyergus và Formica trở nên quá lớn?)\n❌\nThe Polyergus workers enlarge the existing nest.\n(Kiến Polyergus mở rộng tổ hiện tại.) → Sai, vì bài đọc nói rằng\nkiến Polyergus không tự xây dựng hay mở rộng tổ\n.\n❌\nThe captured Formica workers return to their original nest.\n(Kiến Formica bị bắt trở về tổ ban đầu của chúng.) → Sai, vì kiến Formica không quay lại tổ cũ.\n❌\nThe Polyergus and the Formica build separate nests.\n(Kiến Polyergus và Formica xây dựng tổ riêng biệt.) → Sai, vì hai loài này luôn sống chung trong một tổ.\n✅\nThe Polyergus and the Formica move to a new nest.\n(Kiến Polyergus và Formica di chuyển đến tổ mới.) → Đúng, vì bài đọc nói rằng\nkhi tổ trở nên quá tải, kiến Formica tìm kiếm một vị trí mới và di dời toàn bộ tổ\n."
+        },
+        {
+          "id": "question30",
+          "question": "Câu 30: According to the information in the passage, all of the following terms refer to ants belonging to the genus Formica EXCEPT?",
+          "options": [
+            "A. the dulotic species of ants",
+            "B. the developing pupae",
+            "C. the worker population",
+            "D. the captured brood"
+          ],
+          "correct_answer": "A. the dulotic species of ants",
+          "explanation": "Giải thích:\nAccording to the information in the passage, all of the following terms refer to ants belonging to the genus Formica EXCEPT?\n(Theo thông tin trong bài đọc, tất cả các thuật ngữ sau đây đề cập đến kiến thuộc chi Formica NGOẠI TRỪ?)\n✅\nthe dulotic species of ants\n(các loài kiến dulotic) → Đúng, vì thuật ngữ này đề cập đến kiến Polyergus, không phải Formica.\n❌\nthe captured brood\n(lứa nhộng bị bắt) → Sai, vì bài đọc nói rằng\nkiến Polyergus bắt cóc nhộng Formica\n, nên thuật ngữ này chỉ nhộng Formica.\n❌\nthe developing pupae\n(nhộng đang phát triển) → Sai, vì bài đọc nói rằng\nnhộng bị bắt cóc là của kiến Formica\n.\n❌\nthe worker population\n(dân số kiến thợ) → Sai, vì bài đọc nói rằng\nkiến thợ Formica thực hiện tất cả nhiệm vụ trong tổ\n."
+        }
+      ],
+      "original_test_id": 19,
+      "original_results_url": "https://luyenthivstep.vn/luyen-de/ket-qua-doc/265763"
+    },
+    {
+      "part_number": 4,
+      "title": "📖 Xem lại đề đọc mã số 20 - Part 4",
+      "passage": "Bài đọc\n(A)\nThe Winterthur Museum is both a collection and a house. There are many museums\ndevoted to\nthe decorative arts and many house museums, but it is rare in the United States to find a great collection displayed in a grand country house. Passed down through successive generations of a single family, Winterthur has been a private estate for more than a century. Even after extensive renovations between 1929 and 1931, the house remained a family residence.\nThis fact is significant to the museum’s atmosphere and impact.\nThe impression of a lived-in house is apparent to the visitor\n; the rooms appear as if they were vacated only a short while ago. Whether by the original owners of the furniture or the most recent residents of the house is a matter of personal interpretation. Winterthur remains, then, a house in which a collection of furniture and architectural elements has been\nassembled\n. Like an English country house,\nit\nis an organic structure; the house itself, as well as the collection and the manner in which it is displayed to visitors, has evolved over the years.\nThese changes have coincided with\ndeveloping\nconcepts of American art, increased knowledge among collectors and scholars, and a growing effort to achieve historical authenticity in period-room displays. The rooms at Winterthur have followed this trend while still maintaining the character of a private home.\n(B)\nThe concept of a period room as a display technique has gradually developed over the years in an effort to present works of art in a setting that enhances their visual impact and provides deeper meaning for viewers. Comparable to the habitat group in a natural history museum, the period room brings the decorative arts to life in an engaging and dynamic way, allowing for the arrangement of objects related by style, date, or place of manufacture.",
+      "translation": "(A)\nBảo tàng Winterthur vừa là một bộ sưu tập vừa là một ngôi nhà. Có nhiều bảo tàng\nchuyên về\nnghệ thuật trang trí và nhiều bảo tàng nhà ở, nhưng rất hiếm khi ở Hoa Kỳ có một bộ sưu tập vĩ đại được trưng bày trong một dinh thự đồng quê tráng lệ. Được truyền qua nhiều thế hệ trong cùng một gia đình, Winterthur đã là một điền trang tư nhân trong hơn một thế kỷ. Ngay cả sau khi trải qua quá trình cải tạo lớn từ năm 1929 đến 1931, tòa nhà vẫn duy trì vai trò là nơi ở của gia đình.\nĐiều này có ý nghĩa quan trọng đối với bầu không khí và sức ảnh hưởng của bảo tàng.\nẤn tượng về một ngôi nhà vẫn còn sinh hoạt rõ ràng đối với du khách\n; các căn phòng trông như thể chỉ vừa mới có người rời đi không lâu. Việc những căn phòng này được bỏ trống bởi chủ nhân ban đầu của các món nội thất hay bởi những cư dân gần đây nhất của ngôi nhà lại là điều phụ thuộc vào cách cảm nhận của mỗi người. Vì vậy, Winterthur vẫn giữ nguyên hình thái một ngôi nhà, trong đó một bộ sưu tập nội thất và các yếu tố kiến trúc đã được\ntập hợp\n. Giống như một dinh thự đồng quê kiểu Anh,\nnó\nlà một cấu trúc phát triển tự nhiên; bản thân tòa nhà, cùng với bộ sưu tập và cách bài trí dành cho du khách, đã không ngừng tiến hóa theo thời gian.\nNhững thay đổi này trùng hợp với những khái niệm\nđang phát triển\nvề nghệ thuật Mỹ, sự hiểu biết ngày càng sâu rộng của các nhà sưu tập và học giả, cũng như nỗ lực ngày càng lớn nhằm đạt được tính xác thực lịch sử trong cách buổi trưng bày phòng theo thời kỳ. Các căn phòng tại Winterthur đã tuân theo xu hướng này trong khi vẫn duy trì đặc trưng của một ngôi nhà riêng tư.\n(B)\nKhái niệm về phòng theo thời kỳ như một kỹ thuật trưng bày đã phát triển dần theo thời gian nhằm trình bày các tác phẩm nghệ thuật trong một không gian giúp nâng cao tác động thị giác và mang lại ý nghĩa sâu sắc hơn cho người xem. Tương tự như nhóm mô hình sinh thái trong bảo tàng lịch sử tự nhiên, phòng thời kỳ giúp nghệ thuật trang trí trở nên sống động theo cách hấp dẫn và linh hoạt, cho phép sắp xếp các đồ vật có liên quan về phong cách, niên đại hoặc nơi sản xuất.",
+      "questions": [
+        {
+          "id": "question31",
+          "question": "Câu 31: What does the passage mainly discuss?",
+          "options": [
+            "A. How Winterthur compares to English country houses",
+            "B. Elements that make Winterthur an unusual museum",
+            "C. Historical furniture contained in Winterthur",
+            "D. The reason that Winterthur was redesigned"
+          ],
+          "correct_answer": "B. Elements that make Winterthur an unusual museum",
+          "explanation": "Giải thích:\nWhat does the passage mainly discuss?\n(Bài đọc chủ yếu thảo luận về điều gì?)\n❌\nThe reason that Winterthur was redesigned.\n(Lý do Winterthur được thiết kế lại.) → Sai, vì bài đọc không tập trung vào lý do cải tạo mà vào đặc điểm độc đáo của bảo tàng.\n✅\nElements that make Winterthur an unusual museum.\n(Những yếu tố khiến Winterthur trở thành một bảo tàng độc đáo.) → Đúng, vì bài đọc mô tả Winterthur như một bảo tàng vừa là bộ sưu tập nghệ thuật trang trí vừa là một ngôi nhà.\n❌\nHow Winterthur compares to English country houses.\n(Cách Winterthur so sánh với các dinh thự đồng quê kiểu Anh.) → Sai, vì bài đọc chỉ đề cập thoáng qua đến sự tương đồng, không phải là chủ đề chính.\n❌\nHistorical furniture contained in Winterthur.\n(Nội thất lịch sử có trong Winterthur.) → Sai, vì nội thất là một phần quan trọng nhưng không phải trọng tâm của bài đọc."
+        },
+        {
+          "id": "question32",
+          "question": "Câu 32: The phrase \"devoted to\" in paragraph (A) is closest in meaning to which of the following?",
+          "options": [
+            "A. sentimental about",
+            "B. specializing in",
+            "C. successful with",
+            "D. surrounded by"
+          ],
+          "correct_answer": "B. specializing in",
+          "explanation": "Giải thích:\nThe phrase \"devoted to\" in paragraph (A) is closest in meaning to which of the following?\n(Cụm từ \"devoted to\" trong đoạn (A) có nghĩa gần nhất với từ nào?)\n❌\nsurrounded by\n(bao quanh bởi) → Sai, vì \"devoted to\" không có nghĩa là bị bao quanh.\n✅\nspecializing in\n(chuyên về) → Đúng, vì bài đọc nói về\nbảo tàng chuyên về nghệ thuật trang trí\n.\n❌\nsuccessful with\n(thành công với) → Sai, vì \"devoted to\" không liên quan đến thành công.\n❌\nsentimental about\n(có tình cảm với) → Sai, vì \"devoted to\" không có nghĩa là có cảm xúc với điều gì."
+        },
+        {
+          "id": "question33",
+          "question": "Câu 33: What happened at Winterthur between 1929 and 1931?",
+          "options": [
+            "A. The estate became a museum.",
+            "B. The old furniture was replaced.",
+            "C. The owners moved out.",
+            "D. The house was repaired."
+          ],
+          "correct_answer": "D. The house was repaired.",
+          "explanation": "Giải thích:\nWhat happened at Winterthur between 1929 and 1931?\n(Điều gì đã xảy ra tại Winterthur từ năm 1929 đến 1931?)\n❌\nThe owners moved out.\n(Chủ nhân dọn đi.) → Sai, vì bài đọc nói rằng\nWinterthur vẫn là nơi ở của gia đình sau khi cải tạo\n.\n✅\nThe house was repaired.\n(Ngôi nhà được sửa chữa.) → Đúng, vì bài đọc nói rằng\nWinterthur trải qua một đợt cải tạo lớn\ntrong thời gian này.\n❌\nThe old furniture was replaced.\n(Nội thất cũ bị thay thế.) → Sai, vì bài đọc không nói rằng nội thất bị thay thế hoàn toàn.\n❌\nThe estate became a museum.\n(Khu điền trang trở thành bảo tàng.) → Sai, vì bài đọc không nói rằng Winterthur trở thành bảo tàng trong giai đoạn này."
+        },
+        {
+          "id": "question34",
+          "question": "Câu 34: What does the author mean by stating \"The impression of a lived-in house is apparent to the visitor\" in paragraph (A)?",
+          "options": [
+            "A. Winterthur does not look like a typical museum.",
+            "B. Few people visit Winterthur.",
+            "C. The furniture at Winterthur looks comfortable.",
+            "D. Winterthur is very old."
+          ],
+          "correct_answer": "A. Winterthur does not look like a typical museum.",
+          "explanation": "Giải thích:\nWhat does the author mean by stating \"The impression of a lived-in house is apparent to the visitor\" in paragraph (A)?\n(Tác giả có ý gì khi nói rằng \"Ấn tượng về một ngôi nhà vẫn còn sinh hoạt rõ ràng đối với du khách\" trong đoạn (A)?)\n❌\nWinterthur is very old.\n(Winterthur rất cũ.) → Sai, vì bài đọc không đề cập đến độ tuổi của Winterthur.\n❌\nFew people visit Winterthur.\n(Ít người ghé thăm Winterthur.) → Sai, vì bài đọc không nói về lượng khách du lịch.\n✅\nWinterthur does not look like a typical museum.\n(Winterthur không giống một bảo tàng điển hình.) → Đúng, vì bài đọc nói rằng\ncác căn phòng trông như thể vẫn đang được sử dụng\n, không giống một bảo tàng truyền thống.\n❌\nThe furniture at Winterthur looks comfortable.\n(Nội thất tại Winterthur trông thoải mái.) → Sai, vì bài đọc không đề cập đến mức độ thoải mái của nội thất."
+        },
+        {
+          "id": "question35",
+          "question": "Câu 35: The word \"assembled\" in paragraph (A) is closest in meaning to which of the following?",
+          "options": [
+            "A. appreciated",
+            "B. fundamentally changed",
+            "C. brought together",
+            "D. summoned"
+          ],
+          "correct_answer": "C. brought together",
+          "explanation": "Giải thích:\nThe word \"assembled\" in paragraph (A) is closest in meaning to which of the following?\n(Từ \"assembled\" trong đoạn (A) có nghĩa gần nhất với từ nào?)\n❌\nsummoned\n(triệu tập) → Sai, vì \"assembled\" không có nghĩa là triệu tập ai đó.\n❌\nappreciated\n(được đánh giá cao) → Sai, vì \"assembled\" không liên quan đến việc đánh giá cao.\n✅\nbrought together\n(tập hợp lại) → Đúng, vì bài đọc nói rằng\ncác yếu tố kiến trúc và nội thất được tập hợp lại tại Winterthur\n.\n❌\nfundamentally changed\n(thay đổi hoàn toàn) → Sai, vì \"assembled\" không có nghĩa là thay đổi điều gì."
+        },
+        {
+          "id": "question36",
+          "question": "Câu 36: The word \"it\" in paragraph (A) refers to which of the following?",
+          "options": [
+            "A. English country house",
+            "B. Winterthur",
+            "C. visitor",
+            "D. collection"
+          ],
+          "correct_answer": "B. Winterthur",
+          "explanation": "Giải thích:\nThe word \"it\" in paragraph (A) refers to which of the following?\n(Từ \"it\" trong đoạn (A) ám chỉ điều gì?)\n✅\nWinterthur.\n→ Đúng, vì bài đọc mô tả Winterthur là một ngôi nhà đồng quê phát triển tự nhiên, và từ \"it\" trong câu sau đó tiếp tục chỉ đến Winterthur.\n❌\ncollection.\n→ Sai, vì \"it\" không ám chỉ bộ sưu tập mà là toàn bộ bảo tàng Winterthur.\n❌\nEnglish country house.\n→ Sai, vì bài đọc chỉ so sánh Winterthur với dinh thự đồng quê kiểu Anh, không phải ám chỉ nó là một dinh thự như vậy.\n❌\nvisitor.\n→ Sai, vì \"it\" không ám chỉ khách tham quan."
+        },
+        {
+          "id": "question37",
+          "question": "Câu 37: The word \"developing\" in paragraph (A) is closest in meaning to which of the following?",
+          "options": [
+            "A. evolving",
+            "B. traditional",
+            "C. exhibiting",
+            "D. informative"
+          ],
+          "correct_answer": "A. evolving",
+          "explanation": "Giải thích:\nThe word \"developing\" in paragraph (A) is closest in meaning to which of the following?\n(Từ \"developing\" trong đoạn (A) có nghĩa gần nhất với từ nào?)\n❌\ntraditional.\n(truyền thống) → Sai, vì \"developing\" liên quan đến sự thay đổi, không phải giữ nguyên truyền thống.\n❌\nexhibiting.\n(trưng bày) → Sai, vì \"developing\" không có nghĩa là trưng bày.\n❌\ninformative.\n(cung cấp thông tin) → Sai, vì \"developing\" không có nghĩa là mang tính cung cấp thông tin.\n✅\nevolving.\n(phát triển, tiến hóa) → Đúng, vì bài đọc nói rằng\ncác khái niệm về nghệ thuật Mỹ liên tục phát triển\n."
+        },
+        {
+          "id": "question38",
+          "question": "Câu 38: According to the passage, objects in a period room are related by all of the following EXCEPT?",
+          "options": [
+            "A. past ownership",
+            "B. place of manufacture",
+            "C. date",
+            "D. style"
+          ],
+          "correct_answer": "A. past ownership",
+          "explanation": "Giải thích:\nAccording to the passage, objects in a period room are related by all of the following EXCEPT?\n(Theo bài đọc, các đồ vật trong phòng theo thời kỳ có mối liên hệ với nhau theo tất cả các tiêu chí sau NGOẠI TRỪ?)\n❌\ndate.\n(niên đại) → Sai, vì bài đọc nói rằng đồ vật trong phòng theo thời kỳ có thể được sắp xếp theo niên đại.\n❌\nstyle.\n(phong cách) → Sai, vì đồ vật cũng có thể được sắp xếp theo phong cách.\n❌\nplace of manufacture.\n(nơi sản xuất) → Sai, vì bài đọc đề cập đến việc đồ vật có thể được trưng bày theo nơi sản xuất.\n✅\npast ownership.\n(chủ sở hữu trước đây) → Đúng, vì bài đọc không đề cập đến việc sắp xếp đồ vật theo chủ sở hữu trước đó."
+        },
+        {
+          "id": "question39",
+          "question": "Câu 39: What is the relationship between the two paragraphs in the passage?",
+          "options": [
+            "A. Each paragraph describes a different historical period.",
+            "B. The second paragraph explains a term that was mentioned in the first paragraph.",
+            "C. The second paragraph explains a philosophy of art appreciation that contrasts with the philosophy explained in me first paragraph.",
+            "D. Each paragraph describes a different approach to the display of objects in a museum."
+          ],
+          "correct_answer": "B. The second paragraph explains a term that was mentioned in the first paragraph.",
+          "explanation": "Giải thích:\nWhat is the relationship between the two paragraphs in the passage?\n(Mối quan hệ giữa hai đoạn văn trong bài đọc là gì?)\n✅\nThe second paragraph explains a term that was mentioned in the first paragraph.\n(Đoạn hai giải thích một thuật ngữ được đề cập trong đoạn một.) → Đúng, vì đoạn một mô tả Winterthur như một bảo tàng có phòng thời kỳ, và đoạn hai giải thích khái niệm \"phòng theo thời kỳ\".\n❌\nEach paragraph describes a different approach to the display of objects in a museum.\n(Mỗi đoạn mô tả một cách tiếp cận khác nhau để trưng bày vật thể trong bảo tàng.) → Sai, vì cả hai đoạn đều tập trung vào cách bài trí phòng theo thời kỳ.\n❌\nThe second paragraph explains a philosophy of art appreciation that contrasts with the philosophy explained in the first paragraph.\n(Đoạn hai giải thích một triết lý về nghệ thuật trái ngược với đoạn một.) → Sai, vì đoạn hai không đối lập với đoạn một.\n❌\nEach paragraph describes a different historical period.\n(Mỗi đoạn mô tả một thời kỳ lịch sử khác nhau.) → Sai, vì cả hai đoạn đều nói về bảo tàng Winterthur."
+        },
+        {
+          "id": "question40",
+          "question": "Câu 40: Where in the passage does the author explain why displays at Winterthur have changed?",
+          "options": [
+            "A. In paragraph (A), discussing evolving concepts of American art",
+            "B. At the end of the passage, summarizing the changes over time",
+            "C. In the introduction of the passage",
+            "D. In paragraph (B), explaining the period room concept"
+          ],
+          "correct_answer": "A. In paragraph (A), discussing evolving concepts of American art",
+          "explanation": "Giải thích:\nWhere in the passage does the author explain why displays at Winterthur have changed?\n(Tác giả giải thích tại đâu trong bài đọc về lý do các cách trưng bày tại Winterthur thay đổi?)\n❌\nIn the introduction of the passage.\n(Ở phần mở đầu của bài đọc.) → Sai, vì phần mở đầu chỉ giới thiệu Winterthur, không giải thích sự thay đổi trưng bày.\n✅\nIn paragraph (A), discussing evolving concepts of American art.\n(Trong đoạn (A), thảo luận về sự phát triển của các khái niệm nghệ thuật Mỹ.) → Đúng, vì bài đọc nói rằng\ncác cách trưng bày thay đổi cùng với sự phát triển của nghệ thuật Mỹ\n.\n❌\nIn paragraph (B), explaining the period room concept.\n(Trong đoạn (B), giải thích khái niệm phòng thời kỳ.) → Sai, vì đoạn này tập trung vào khái niệm \"phòng thời kỳ\", không phải lý do thay đổi trưng bày.\n❌\nAt the end of the passage, summarizing the changes over time.\n(Ở cuối bài đọc, tóm tắt sự thay đổi qua thời gian.) → Sai, vì bài đọc không có phần tổng kết sự thay đổi ở cuối."
+        }
+      ],
+      "original_test_id": 20,
+      "original_results_url": "https://luyenthivstep.vn/luyen-de/ket-qua-doc/265764"
+    }
+  ],
   "questions": [
     {
       "id": "question1",
-      "question": "Câu 1: The word \"it\" in paragraph (A) refers to",
+      "question": "Câu 1: The new housing form discussed in the passage refers to?",
       "options": [
-        "A. extinction",
-        "B. 99 percent",
-        "C. environment",
-        "D. species"
+        "A. row houses",
+        "B. hotels",
+        "C. apartment buildings",
+        "D. single-family homes"
       ],
-      "correct_answer": "D. species",
-      "explanation": "Giải thích:\nThe word \"it\" in paragraph (A) refers to:\n(Từ \"it\" trong đoạn (A) ám chỉ đến điều gì?)\n❌\nenvironment\n(Môi trường) → Sai vì từ \"it\" không đề cập đến môi trường, mà đến một đối tượng bị ảnh hưởng bởi môi trường.\n✅\nspecies\n(Loài) → Đúng vì câu trong bài đọc có nội dung: \"When a species is no longer adapted to a changed environment,\nit\nmay perish.\" (\"Khi một loài không còn thích nghi với môi trường thay đổi,\nnó\ncó thể bị diệt vong.\") Từ \"it\" ở đây rõ ràng đề cập đến \"species\" (loài).\n❌\nextinction\n(Sự tuyệt chủng) → Sai vì \"it\" không thay thế cho \"extinction\", mà đang nói về chủ thể bị ảnh hưởng dẫn đến tuyệt chủng.\n❌\n99 percent\n(99 phần trăm) → Sai vì \"99 percent\" chỉ là một con số thống kê, không phải chủ thể bị tuyệt chủng."
+      "correct_answer": "C. apartment buildings",
+      "explanation": "Giải thích:\nThe new housing form discussed in the passage refers to?\n(Loại hình nhà ở mới được đề cập trong bài đọc là gì?)\n❌\nsingle-family homes\n(Nhà đơn lập) → Sai, vì bài đọc nói rằng \"những người có đủ khả năng tài chính vẫn thích nhà đơn lập hơn\", nhưng đây không phải là loại hình nhà ở mới được phát triển.\n✅\napartment buildings\n(Tòa chung cư) → Đúng, vì bài đọc tập trung vào \"sự ra đời của các tòa chung cư ở New York vào cuối thế kỷ XIX\", bắt đầu với tòa nhà Stuyvesant.\n❌\nrow houses\n(Nhà phố liền kề) → Sai, vì bài đọc đề cập rằng \"những căn nhà phố liền kề đã tồn tại từ trước\", và các tòa chung cư được phát triển để thay thế chúng.\n❌\nhotels\n(Khách sạn) → Sai, vì mặc dù bài đọc có đề cập đến khách sạn, nhưng không phải là \"loại hình nhà ở mới được phát triển\"."
     },
     {
       "id": "question2",
-      "question": "Câu 2: The word \"ultimately\" in paragraph (A) is closest in meaning to",
+      "question": "Câu 2: The word \"inviting\" in paragraph (A) is closest in meaning to which of the following?",
       "options": [
-        "A. infortunately",
-        "B. exceptionally",
-        "C. dramatically",
-        "D. eventually"
+        "A. attractive",
+        "B. asking",
+        "C. open",
+        "D. encouraging"
       ],
-      "correct_answer": "D. eventually",
-      "explanation": "Giải thích:\nThe word \"ultimately\" in paragraph (A) is closest in meaning to:\n(Từ \"ultimately\" trong đoạn (A) có nghĩa gần nhất với từ nào?)\n❌\nexceptionally\n(Một cách đặc biệt, khác thường) → Sai vì \"exceptionally\" mang ý nghĩa về sự vượt trội hoặc khác thường, không phù hợp với ngữ cảnh của từ \"ultimately\".\n❌\ndramatically\n(Một cách đáng kể, mạnh mẽ) → Sai vì \"dramatically\" thường chỉ sự thay đổi lớn hoặc đột ngột, không đồng nghĩa với \"ultimately\".\n✅\neventually\n(Cuối cùng, rốt cuộc) → Đúng vì \"ultimately\" có nghĩa là \"cuối cùng\" hoặc \"rốt cuộc\", giống với \"eventually\". Trong đoạn văn, từ này diễn tả kết quả cuối cùng của sự tuyệt chủng sau quá trình cạnh tranh.\n❌\nunfortunately\n(Thật không may) → Sai vì \"unfortunately\" mang ý nghĩa diễn đạt sự tiếc nuối hoặc điều không mong muốn, không phù hợp với nghĩa của \"ultimately\"."
+      "correct_answer": "A. attractive",
+      "explanation": "Giải thích:\nThe word \"inviting\" in paragraph (A) is closest in meaning to which of the following?\n(Từ \"inviting\" trong đoạn (A) có nghĩa gần nhất với từ nào sau đây?)\n❌\nopen\n(mở) → Sai, vì \"inviting\" trong ngữ cảnh của bài đọc mô tả vẻ ngoài thu hút của mặt tiền tòa nhà, không mang nghĩa \"mở\".\n❌\nencouraging\n(khuyến khích) → Sai, vì \"inviting\" không có nghĩa là khuyến khích hay động viên.\n✅\nattractive\n(hấp dẫn, thu hút) → Đúng, vì trong bài đọc, \"inviting façade\" mô tả \"mặt tiền hấp dẫn của tòa nhà\", nghĩa của từ này gần nhất với \"attractive\".\n❌\nasking\n(hỏi) → Sai, vì \"inviting\" không mang nghĩa liên quan đến việc đặt câu hỏi."
     },
     {
       "id": "question3",
-      "question": "Câu 3: What does the author say in paragraph (A) regarding most species in Earth's history?",
+      "question": "Câu 3: Why was the Stuyvesant a limited success?",
       "options": [
-        "A. They have been able to adapt to ecological changes.",
-        "B. They are no longer in existence.",
-        "C. They have caused rapid change in the environment.",
-        "D. They have remained basically unchanged from their original forms."
+        "A. The arrangement of the rooms was not convenient.",
+        "B. Most people could not afford to live there.",
+        "C. It was in a crowded neighborhood.",
+        "D. There were no shopping areas nearby."
       ],
-      "correct_answer": "B. They are no longer in existence.",
-      "explanation": "Giải thích:\nWhat does the author say in paragraph (A) regarding most species in Earth's history?\n(Tác giả nói gì trong đoạn (A) về hầu hết các loài trong lịch sử Trái Đất?)\n❌\nThey have remained basically unchanged from their original forms.\n(Chúng về cơ bản không thay đổi so với hình dạng ban đầu.) → Sai vì đoạn văn nói về sự tuyệt chủng của các loài, không đề cập đến việc chúng giữ nguyên hình dạng ban đầu.\n❌\nThey have been able to adapt to ecological changes.\n(Chúng đã có thể thích nghi với những thay đổi sinh thái.) → Sai vì tác giả nhấn mạnh rằng nhiều loài không thể thích nghi với môi trường thay đổi và đã tuyệt chủng.\n❌\nThey have caused rapid change in the environment.\n(Chúng đã gây ra sự thay đổi nhanh chóng trong môi trường.) → Sai vì đoạn văn không nói rằng các loài là nguyên nhân gây ra thay đổi môi trường, mà chỉ đề cập đến tác động của môi trường lên các loài.\n✅\nThey are no longer in existence.\n(Chúng không còn tồn tại nữa.) → Đúng vì đoạn văn mở đầu với câu: \"It is estimated that over 99 percent of all species that ever existed have become extinct.\" (\"Ước tính hơn 99% tất cả các loài từng tồn tại đã bị tuyệt chủng.\") Điều này khẳng định rằng phần lớn các loài trong lịch sử Trái Đất không còn tồn tại nữa."
+      "correct_answer": "A. The arrangement of the rooms was not convenient.",
+      "explanation": "Giải thích:\nWhy was the Stuyvesant a limited success?\n(Tại sao tòa nhà Stuyvesant chỉ đạt được thành công ở mức hạn chế?)\n✅\nThe arrangement of the rooms was not convenient.\n(Cách bố trí các phòng không thuận tiện.) → Đúng, vì bài đọc đề cập rằng \"mặc dù mặt tiền tòa nhà Stuyvesant rất thu hút, nhưng cách bố trí bên trong lại bất tiện\", khiến những người giàu có không thích sống ở đây.\n❌\nMost people could not afford to live there.\n(Hầu hết mọi người không đủ khả năng sống ở đó.) → Sai, vì vấn đề không nằm ở giá cả, mà là do thiết kế nội thất không phù hợp với những người giàu có.\n❌\nThere were no shopping areas nearby.\n(Không có khu mua sắm gần đó.) → Sai, vì bài đọc không đề cập đến việc thiếu khu mua sắm là một lý do khiến tòa nhà không thành công.\n❌\nIt was in a crowded neighborhood.\n(Nó nằm trong một khu vực đông đúc.) → Sai, vì bài đọc không nhắc đến sự đông đúc của khu vực xung quanh như một vấn đề."
     },
     {
       "id": "question4",
-      "question": "Câu 4: Which of the following is NOT mentioned in paragraph (A) as resulting from rapid ecological change?",
+      "question": "Câu 4: The word \"sumptuous\" in paragraph (A) is closest in meaning to which of the following?",
       "options": [
-        "A. Temperature changes",
-        "B. Availability of food resources",
-        "C. Competition among species",
-        "D. Introduction of new species"
+        "A. distant",
+        "B. unique",
+        "C. luxurious",
+        "D. modern"
       ],
-      "correct_answer": "D. Introduction of new species",
-      "explanation": "Giải thích:\nWhich of the following is NOT mentioned in paragraph (A) as resulting from rapid ecological change?\n(Điều nào sau đây KHÔNG được đề cập trong đoạn (A) là kết quả của sự thay đổi sinh thái nhanh chóng?)\n❌\nTemperature changes\n(Sự thay đổi nhiệt độ) → Sai vì đoạn (A) có đề cập: \"For example, temperatures may change and a species may not be able to adapt.\" (\"Ví dụ, nhiệt độ có thể thay đổi và một loài có thể không kịp thích nghi.\") Điều này chứng tỏ sự thay đổi nhiệt độ là một kết quả của sự thay đổi sinh thái.\n❌\nAvailability of food resources\n(Sự sẵn có của nguồn thức ăn) → Sai vì đoạn (A) có nhắc đến: \"Food resources may be affected by environmental changes, which will then cause problems for a species requiring these resources.\" (\"Nguồn thức ăn có thể bị ảnh hưởng bởi các biến đổi môi trường, gây khó khăn cho những loài phụ thuộc vào nguồn tài nguyên này.\")\n✅\nIntroduction of new species\n(Sự xuất hiện của các loài mới) → Đúng vì đoạn (A) không hề đề cập đến sự xuất hiện của các loài mới như một hệ quả của sự thay đổi sinh thái. Nó chỉ nói về việc một số loài thích nghi tốt hơn với môi trường, nhưng không nói rằng có loài mới xuất hiện.\n❌\nCompetition among species\n(Sự cạnh tranh giữa các loài) → Sai vì đoạn (A) đề cập: \"Other species may become better adapted to an environment, resulting in competition and, ultimately, in the death of a species.\" (\"Những loài khác có thể thích nghi tốt hơn với môi trường, dẫn đến sự cạnh tranh và, cuối cùng, là sự diệt vong của một loài.\") Điều này chứng tỏ sự cạnh tranh giữa các loài là một kết quả của thay đổi sinh thái."
+      "correct_answer": "C. luxurious",
+      "explanation": "Giải thích:\nThe word \"sumptuous\" in paragraph (A) is closest in meaning to which of the following?\n(Từ \"sumptuous\" trong đoạn (A) có nghĩa gần nhất với từ nào sau đây?)\n✅\nluxurious\n(sang trọng, xa hoa) → Đúng, vì trong bài đọc, từ \"sumptuous\" mô tả \"những ngôi nhà đơn lập xa hoa\", và nghĩa gần nhất với \"luxurious\".\n❌\nunique\n(độc đáo) → Sai, vì \"sumptuous\" không có nghĩa là độc đáo, mà nhấn mạnh sự xa hoa và đắt tiền.\n❌\nmodern\n(hiện đại) → Sai, vì \"sumptuous\" không mang nghĩa liên quan đến hiện đại.\n❌\ndistant\n(xa xôi) → Sai, vì \"sumptuous\" không có nghĩa là xa xôi hay cách biệt."
     },
     {
       "id": "question5",
-      "question": "Câu 5: The word \"demise\" in paragraph (A) is closest in meaning to",
+      "question": "Câu 5: It can be inferred that the majority of people who lived in New York's first apartments were most likely _____?",
       "options": [
-        "A. change",
-        "B. help",
-        "C. recovery",
-        "D. death"
+        "A. unemployed",
+        "B. young",
+        "C. wealthy",
+        "D. highly educated"
       ],
-      "correct_answer": "D. death",
-      "explanation": "Giải thích:\nThe word \"demise\" in paragraph (A) is closest in meaning to:\n(Từ \"demise\" trong đoạn (A) có nghĩa gần nhất với từ nào?)\n❌\nchange\n(Sự thay đổi) → Sai vì \"demise\" không mang nghĩa thay đổi, mà chỉ sự kết thúc hoặc sự chết chóc.\n❌\nrecovery\n(Sự hồi phục) → Sai vì \"demise\" là một từ có nghĩa tiêu cực, ngược lại với \"recovery\" vốn mang nghĩa hồi phục và cải thiện.\n❌\nhelp\n(Sự giúp đỡ) → Sai vì \"demise\" không liên quan đến hành động giúp đỡ, mà đề cập đến sự sụp đổ hoặc chấm dứt.\n✅\ndeath\n(Cái chết) → Đúng vì trong ngữ cảnh đoạn văn, \"demise\" được sử dụng để nói về sự tuyệt chủng của khủng long và nhiều dạng sống khác. Đây là nghĩa phù hợp nhất với \"death\"."
+      "correct_answer": "B. young",
+      "explanation": "Giải thích:\nIt can be inferred that the majority of people who lived in New York's first apartments were most likely _____?\n(Có thể suy ra rằng phần lớn những người sống trong các căn hộ đầu tiên ở New York có khả năng là _____?)\n❌\nhighly educated\n(có trình độ học vấn cao) → Sai, vì bài đọc không đề cập đến trình độ học vấn của những cư dân trong các căn hộ đầu tiên.\n❌\nunemployed\n(thất nghiệp) → Sai, vì bài đọc không nói rằng những người sống ở đây bị thất nghiệp.\n❌\nwealthy\n(giàu có) → Sai, vì bài đọc nói rằng \"những người giàu có thích sống trong các ngôi nhà đơn lập xa hoa hơn, thay vì các căn hộ\".\n✅\nyoung\n(trẻ) → Đúng, vì bài đọc đề cập rằng \"tòa nhà Stuyvesant chủ yếu được cư trú bởi các cặp vợ chồng trẻ và những người độc thân\"."
     },
     {
       "id": "question6",
-      "question": "Câu 6: Why is \"plankton\" in paragraph (B) mentioned?",
+      "question": "Câu 6: It can be inferred that the typical New York building lot of the 1870s and 1880s was shaped MOST like a _____?",
       "options": [
-        "A. To emphasize the importance of food resources inpreventing mass extinction.",
-        "B. To demonstrate the interdependence of different species.",
-        "C. To point out that certain species could never become extinct.",
-        "D. To illustrate a comparison between organisms thatlive on the land and those that live in the ocean."
+        "A. Rectangle",
+        "B. Hexagon",
+        "C. Square",
+        "D. Circular"
       ],
-      "correct_answer": "B. To demonstrate the interdependence of different species.",
-      "explanation": "Giải thích:\nWhy is \"plankton\" in paragraph (B) mentioned?\n(Tại sao \"sinh vật phù du\" được đề cập trong đoạn B?)\n✅\nTo demonstrate the interdependence of different species. (Để chứng minh sự phụ thuộc lẫn nhau giữa các loài khác nhau.)\n→ Đúng. Ví dụ về sinh vật phù du được dùng để chỉ ra rằng nếu một loài bị ảnh hưởng, nhiều loài khác cũng sẽ chịu tác động, cho thấy mối liên kết giữa các loài.\n❌\nTo emphasize the importance of food resources in preventing mass extinction. (Để nhấn mạnh tầm quan trọng của nguồn thực phẩm trong việc ngăn chặn tuyệt chủng hàng loạt.)\n→ Sai. Đoạn này không đề cập đến ngăn chặn tuyệt chủng hay vai trò của thực phẩm.\n❌\nTo illustrate a comparison between organisms that live on the land and those that live in the ocean. (Để minh họa sự so sánh giữa sinh vật sống trên cạn và dưới nước.)\n→ Sai. Không có sự so sánh nào như vậy trong đoạn văn.\n❌\nTo point out that certain species could never become extinct. (Để chỉ ra rằng một số loài không bao giờ có thể tuyệt chủng.)\n→ Sai. Đoạn văn nói về sự phụ thuộc lẫn nhau dẫn đến tuyệt chủng, không phải sự miễn nhiễm với tuyệt chủng."
+      "correct_answer": "A. Rectangle",
+      "explanation": "Giải thích:\nIt can be inferred that the typical New York building lot of the 1870s and 1880s was shaped MOST like a _____?\n(Có thể suy ra rằng lô đất xây dựng điển hình ở New York vào những năm 1870 và 1880 có hình dạng giống nhất với _____?)\n❌\nHexagon\n(hình lục giác) → Sai, vì bài đọc không mô tả lô đất có hình lục giác.\n❌\nSquare\n(hình vuông) → Sai, vì bài đọc nói rõ rằng lô đất có chiều dài lớn hơn chiều rộng, không phải hình vuông.\n✅\nRectangle\n(hình chữ nhật) → Đúng, vì bài đọc mô tả\nlô đất điển hình của New York có kích thước 25 feet chiều rộng và 100 feet chiều sâu\n, đây là hình chữ nhật.\n❌\nCircular\n(hình tròn) → Sai, vì bài đọc không đề cập đến lô đất có hình tròn."
     },
     {
       "id": "question7",
-      "question": "Câu 7: According to paragraph (A), evidence from fossils suggests that",
+      "question": "Câu 7: It can be inferred that a New York apartment building in the 1870s and 1880s had all of the following characteristics EXCEPT?",
       "options": [
-        "A. dinosaurs became extinct much earlier than scientists originally believed.",
-        "B. extinction of species has occurred from time to time throughout Earth's history.",
-        "C. extinctions on Earth have generally been massive.",
-        "D. there has been only one mass extinction in Earth's history."
+        "A. It had limited light.",
+        "B. It was rectangular.",
+        "C. It provided ample interior space.",
+        "D. Its room arrangement was not logical."
       ],
-      "correct_answer": "B. extinction of species has occurred from time to time throughout Earth's history.",
-      "explanation": "Giải thích:\nAccording to paragraph (A), evidence from fossils suggests that...\n(Theo đoạn A, bằng chứng từ hóa thạch cho thấy...)\n✅\nextinction of species has occurred from time to time throughout Earth's history. (Sự tuyệt chủng của các loài đã xảy ra theo thời gian trong suốt lịch sử Trái Đất.)\n→ Đúng. Đoạn văn nói rõ rằng hồ sơ hóa thạch cho thấy tuyệt chủng đã xảy ra trong suốt lịch sử Trái Đất, không chỉ một lần.\n❌\nextinctions on Earth have generally been massive. (Sự tuyệt chủng trên Trái Đất thường là hàng loạt.)\n→ Sai. Mặc dù có đề cập đến các đợt tuyệt chủng hàng loạt, nhưng không phải tất cả các đợt tuyệt chủng đều là hàng loạt.\n❌\nthere has been only one mass extinction in Earth's history. (Chỉ có một đợt tuyệt chủng hàng loạt trong lịch sử Trái Đất.)\n→ Sai. Đoạn văn đề cập đến nhiều đợt tuyệt chủng, bao gồm cả đợt 65 triệu năm trước và một đợt lớn hơn 225 triệu năm trước.\n❌\ndinosaurs became extinct much earlier than scientists originally believed. (Khủng long đã tuyệt chủng sớm hơn nhiều so với các nhà khoa học từng nghĩ.)\n→ Sai. Đoạn văn không đề cập đến việc thay đổi niên đại tuyệt chủng của khủng long."
+      "correct_answer": "C. It provided ample interior space.",
+      "explanation": "Giải thích:\nIt can be inferred that a New York apartment building in the 1870s and 1880s had all of the following characteristics EXCEPT?\n(Có thể suy ra rằng một tòa chung cư ở New York vào những năm 1870 và 1880 có tất cả các đặc điểm sau, NGOẠI TRỪ?)\n❌\nIts room arrangement was not logical.\n(Cách bố trí phòng không hợp lý.) → Sai, vì bài đọc nhấn mạnh rằng\ncác chung cư đầu tiên có cách bố trí nội thất bất tiện\n.\n❌\nIt was rectangular.\n(Nó có hình chữ nhật.) → Sai, vì bài đọc nói rằng\ncác tòa chung cư được xây trên các lô đất hình chữ nhật điển hình của New York\n.\n❌\nIt had limited light.\n(Nó có ánh sáng hạn chế.) → Sai, vì bài đọc đề cập rằng\ncác chung cư thời kỳ đầu có vấn đề về ánh sáng\ndo bị giới hạn về diện tích.\n✅\nIt provided ample interior space.\n(Nó cung cấp không gian nội thất rộng rãi.) → Đúng, vì bài đọc nói rằng\ncác tòa chung cư thời kỳ đầu không thể tạo ra những căn hộ rộng rãi\ndo bị giới hạn bởi kích thước lô đất."
     },
     {
       "id": "question8",
-      "question": "Câu 8: The word \"finding\" in paragraph (C) is closest in meaning to",
+      "question": "Câu 8: The word \"yield\" in paragraph (B) is closest in meaning to which of the following?",
       "options": [
-        "A. scientific discovery",
-        "B. ongoing experiment",
-        "C. published information",
-        "D. research method"
+        "A. surrender",
+        "B. harvest",
+        "C. amount",
+        "D. provide"
       ],
-      "correct_answer": "A. scientific discovery",
-      "explanation": "Giải thích:\nThe word \"finding\" in paragraph (C) is closest in meaning to:\n(Từ \"finding\" trong đoạn (C) có nghĩa gần nhất với từ nào?)\n❌\npublished information\n(Thông tin đã được công bố) → Sai vì \"finding\" ám chỉ kết quả hoặc khám phá từ nghiên cứu, không đơn thuần là thông tin đã được xuất bản.\n❌\nresearch method\n(Phương pháp nghiên cứu) → Sai vì \"finding\" đề cập đến kết quả của nghiên cứu, không phải phương pháp nghiên cứu được sử dụng.\n❌\nongoing experiment\n(Thí nghiệm đang diễn ra) → Sai vì \"finding\" là kết quả cuối cùng từ một nghiên cứu, không phải là một thí nghiệm đang diễn ra.\n✅\nscientific discovery\n(Khám phá khoa học) → Đúng vì \"finding\" trong ngữ cảnh đoạn (C) đề cập đến một khám phá mới được phát hiện qua nghiên cứu khoa học về các sự kiện tuyệt chủng định kỳ."
+      "correct_answer": "D. provide",
+      "explanation": "Giải thích:\nThe word \"yield\" in paragraph (B) is closest in meaning to which of the following?\n(Từ \"yield\" trong đoạn (B) có nghĩa gần nhất với từ nào sau đây?)\n❌\nharvest\n(thu hoạch) → Sai, vì \"yield\" trong ngữ cảnh bài đọc không liên quan đến việc thu hoạch nông sản.\n❌\nsurrender\n(đầu hàng) → Sai, vì \"yield\" không mang nghĩa từ bỏ hay đầu hàng trong trường hợp này.\n❌\namount\n(số lượng) → Sai, vì \"yield\" không có nghĩa là số lượng mà nghiêng về nghĩa cung cấp.\n✅\nprovide\n(cung cấp) → Đúng, vì trong bài đọc, \"yield\" được dùng với nghĩa\ntạo ra, cung cấp không gian cho căn hộ\n, phù hợp nhất với nghĩa của \"provide\"."
     },
     {
       "id": "question9",
-      "question": "Câu 9: In paragraph (C), the author makes which of the following statements about a species' survival?",
+      "question": "Câu 9: Why did the idea of living in an apartment become popular in the late 1800s?",
       "options": [
-        "A. It may depend on chance events.",
-        "B. It is associated with astronomical conditions.",
-        "C. It reflects the interrelationship of many species.",
-        "D. It does not vary greatly from species to species."
+        "A. The city officials of New York wanted housing that was centrally located.",
+        "B. Apartments were a better alternative to tenements and more affordable than row houses.",
+        "C. The shape of early apartments could accommodate a variety of interior designs.",
+        "D. Large families needed housing with sufficient space."
       ],
-      "correct_answer": "A. It may depend on chance events.",
-      "explanation": "Giải thích:\nIn paragraph (C), the author makes which of the following statements about a species' survival?\n(Trong đoạn (C), tác giả đưa ra phát biểu nào sau đây về sự sống sót của một loài?)\n❌\nIt reflects the interrelationship of many species.\n(Nó phản ánh mối quan hệ giữa nhiều loài.) → Sai vì thông tin này được đề cập trong đoạn (B).\n✅\nIt may depend on chance events.\n(Nó có thể phụ thuộc vào các sự kiện ngẫu nhiên.) → Đúng vì đoạn (C) nói rằng \"Some researchers have also speculated that extinction may often be random.\" (\"Một số nhà nghiên cứu cũng cho rằng sự tuyệt chủng thường có thể mang tính ngẫu nhiên.\") Điều này cho thấy sự sống sót của một loài có thể phụ thuộc vào yếu tố may rủi.\n❌\nIt does not vary greatly from species to species.\n(Nó không thay đổi nhiều giữa các loài.) → Sai vì đoạn văn không khẳng định rằng sự sống sót của các loài là tương tự nhau. Ngược lại, nó nhấn mạnh rằng sự sống sót có thể do nhiều yếu tố khác nhau quyết định.\n❌\nIt is associated with astronomical conditions.\n(Nó có liên quan đến điều kiện thiên văn.) → Sai vì mặc dù đoạn (C) đề cập đến giả thuyết về quỹ đạo Trái Đất giao với một đám mây sao chổi, nhưng nó không đề cập đến điều kiện thiên văn nào liên quan đến sự sống sót của loài."
+      "correct_answer": "B. Apartments were a better alternative to tenements and more affordable than row houses.",
+      "explanation": "Giải thích:\nWhy did the idea of living in an apartment become popular in the late 1800s?\n(Tại sao ý tưởng sống trong căn hộ trở nên phổ biến vào cuối những năm 1800?)\n❌\nLarge families needed housing with sufficient space.\n(Các gia đình lớn cần nhà ở có đủ không gian.) → Sai, vì bài đọc không đề cập đến việc các gia đình lớn là lý do khiến căn hộ trở nên phổ biến.\n✅\nApartments were a better alternative to tenements and more affordable than row houses.\n(Căn hộ là một lựa chọn tốt hơn so với khu nhà tập thể và rẻ hơn so với nhà phố liền kề.) → Đúng, vì bài đọc nhấn mạnh rằng\ncăn hộ đáp ứng nhu cầu của những người muốn có chỗ ở tốt hơn so với khu nhà tập thể nhưng không đủ khả năng hoặc không muốn mua nhà phố\n.\n❌\nThe city officials of New York wanted housing that was centrally located.\n(Các quan chức thành phố New York muốn có nhà ở nằm ở vị trí trung tâm.) → Sai, vì bài đọc không đề cập đến mong muốn của chính quyền thành phố về vị trí nhà ở.\n❌\nThe shape of early apartments could accommodate a variety of interior designs.\n(Hình dạng của các căn hộ ban đầu có thể phù hợp với nhiều thiết kế nội thất khác nhau.) → Sai, vì bài đọc nói rằng\ncác căn hộ đầu tiên có cách bố trí nội thất bất tiện, không đa dạng\n."
     },
     {
       "id": "question10",
-      "question": "Câu 10: According to the passage, it is believed that the largest extinction of a species occurred",
+      "question": "Câu 10: The author mentions the Dakota and the Ansonia in paragraph (B) because _____?",
       "options": [
-        "A. 250 million years ago",
-        "B. 225 million years ago",
-        "C. 65 million years ago",
-        "D. 26 million years ago"
+        "A. They are famous hotels.",
+        "B. They were built on a single building lot.",
+        "C. They are examples of large, well-designed apartment buildings.",
+        "D. Their design is similar to that of row houses."
       ],
-      "correct_answer": "B. 225 million years ago",
-      "explanation": "Giải thích:\nAccording to the passage, it is believed that the largest extinction of a species occurred:\n(Theo bài đọc, người ta tin rằng sự tuyệt chủng lớn nhất của một loài đã xảy ra vào thời điểm nào?)\n❌\n26 million years ago\n(26 triệu năm trước) → Sai vì con số 26 triệu năm chỉ được đề cập trong đoạn (C) liên quan đến chu kỳ tuyệt chủng, không phải sự kiện tuyệt chủng lớn nhất.\n❌\n65 million years ago\n(65 triệu năm trước) → Sai vì sự kiện tuyệt chủng này liên quan đến sự biến mất của khủng long, nhưng nó không phải là cuộc tuyệt chủng lớn nhất.\n✅\n225 million years ago\n(225 triệu năm trước) → Đúng vì đoạn (B) đề cập rằng \"Perhaps the largest mass extinction was the one that occurred 225 million years ago, when approximately 95 percent of all species died.\" (\"Có lẽ sự tuyệt chủng hàng loạt lớn nhất xảy ra cách đây 225 triệu năm, khi khoảng 95% tất cả các loài bị diệt vong.\")\n❌\n250 million years ago\n(250 triệu năm trước) → Sai vì đoạn (C) chỉ đề cập đến các sự kiện tuyệt chủng trong 250 triệu năm qua mà không nói về một sự kiện cụ thể vào 250 triệu năm trước."
+      "correct_answer": "C. They are examples of large, well-designed apartment buildings.",
+      "explanation": "Giải thích:\nThe author mentions the Dakota and the Ansonia in paragraph (B) because _____?\n(Tác giả đề cập đến Dakota và Ansonia trong đoạn (B) vì _____?)\n✅\nThey are examples of large, well-designed apartment buildings.\n(Chúng là những ví dụ về các tòa chung cư lớn, được thiết kế tốt.) → Đúng, vì bài đọc nói rằng\nvào đầu thế kỷ XX, các tòa chung cư rộng rãi như Dakota và Ansonia cuối cùng đã vượt qua những giới hạn chật hẹp của các lô nhà phố\n, cho thấy chúng là đại diện cho các tòa chung cư cao cấp.\n❌\nTheir design is similar to that of row houses.\n(Thiết kế của chúng tương tự như nhà phố liền kề.) → Sai, vì bài đọc đề cập rằng\ncác tòa chung cư lớn giúp phá vỡ giới hạn không gian của nhà phố liền kề\n, chứ không phải có thiết kế tương tự.\n❌\nThey were built on a single building lot.\n(Chúng được xây trên một lô đất duy nhất.) → Sai, vì bài đọc nói rằng\ncác chung cư lớn được xây trên nhiều lô đất liền kề\nđể khắc phục hạn chế không gian.\n❌\nThey are famous hotels.\n(Chúng là những khách sạn nổi tiếng.) → Sai, vì Dakota và Ansonia là những tòa chung cư lớn, không phải khách sạn."
+    },
+    {
+      "id": "question11",
+      "question": "Câu 11: Which of the following questions is answered in paragraph (A)?",
+      "options": [
+        "A. How are snowflakes formed?",
+        "B. In which months does most snow fall?",
+        "C. Why are snowflakes hexagonal?",
+        "D. What is the optimum temperature for snow?"
+      ],
+      "correct_answer": "A. How are snowflakes formed?",
+      "explanation": "Giải thích:\nWhich of the following questions is answered in paragraph (A)?\n(Câu hỏi nào sau đây được trả lời trong đoạn (A)?)\n❌\nWhy are snowflakes hexagonal?\n(Tại sao bông tuyết có hình lục giác?) → Sai, vì mặc dù đoạn (A) có nhắc đến hình dạng lục giác của bông tuyết, nhưng không giải thích lý do tại sao chúng có hình dạng này.\n❌\nWhat is the optimum temperature for snow?\n(Nhiệt độ tối ưu để có tuyết là bao nhiêu?) → Sai, vì bài đọc không đề cập đến nhiệt độ cụ thể để hình thành tuyết.\n❌\nIn which months does most snow fall?\n(Tuyết rơi nhiều nhất vào những tháng nào?) → Sai, vì bài đọc không nói về thời điểm tuyết rơi nhiều nhất.\n✅\nHow are snowflakes formed?\n(Bông tuyết được hình thành như thế nào?) → Đúng, vì đoạn (A) mô tả quá trình hình thành bông tuyết, từ việc\ntinh thể băng nhỏ phát triển và kết dính lại\nđể tạo thành bông tuyết."
+    },
+    {
+      "id": "question12",
+      "question": "Câu 12: The word \"minute\" in paragraph (A) is closest in meaning to which of the following?",
+      "options": [
+        "A. quick",
+        "B. sharp",
+        "C. clear",
+        "D. tiny"
+      ],
+      "correct_answer": "D. tiny",
+      "explanation": "Giải thích:\nThe word \"minute\" in paragraph (A) is closest in meaning to which of the following?\n(Từ \"minute\" trong đoạn (A) có nghĩa gần nhất với từ nào sau đây?)\n✅\ntiny\n(nhỏ bé) → Đúng, vì trong ngữ cảnh bài đọc, \"minute ice crystals\" mô tả\nnhững tinh thể băng cực nhỏ\n, đồng nghĩa với \"tiny\".\n❌\nquick\n(nhanh chóng) → Sai, vì \"minute\" trong ngữ cảnh này không mang nghĩa về tốc độ.\n❌\nclear\n(rõ ràng) → Sai, vì \"minute\" không có nghĩa là rõ ràng hay dễ hiểu.\n❌\nsharp\n(sắc nét) → Sai, vì \"minute\" không mô tả độ sắc nét của vật thể."
+    },
+    {
+      "id": "question13",
+      "question": "Câu 13: What is at the center of an ice crystal?",
+      "options": [
+        "A. a small snowflake",
+        "B. a drop of water",
+        "C. a hexagon",
+        "D. a nucleus"
+      ],
+      "correct_answer": "D. a nucleus",
+      "explanation": "Giải thích:\nWhat is at the center of an ice crystal?\n(Ở trung tâm của một tinh thể băng có gì?)\n❌\na small snowflake\n(một bông tuyết nhỏ) → Sai, vì bông tuyết là tập hợp nhiều tinh thể băng, không phải lõi của một tinh thể đơn lẻ.\n✅\na nucleus\n(một hạt nhân) → Đúng, vì bài đọc nói rằng\nmỗi tinh thể băng có một hạt nhân cực nhỏ\nđóng vai trò làm trung tâm để hơi ẩm ngưng tụ và đóng băng.\n❌\na drop of water\n(một giọt nước) → Sai, vì bài đọc nói rằng\nhơi nước ngưng tụ quanh hạt nhân\n, chứ không phải giọt nước là trung tâm.\n❌\na hexagon\n(một hình lục giác) → Sai, vì hình lục giác là hình dạng của bông tuyết, không phải phần trung tâm."
+    },
+    {
+      "id": "question14",
+      "question": "Câu 14: The word \"adhere\" in paragraph (A) is closest in meaning to which of the following?",
+      "options": [
+        "A. belong",
+        "B. stick",
+        "C. relate",
+        "D. speed"
+      ],
+      "correct_answer": "B. stick",
+      "explanation": "Giải thích:\nThe word \"adhere\" in paragraph (A) is closest in meaning to which of the following?\n(Từ \"adhere\" trong đoạn (A) có nghĩa gần nhất với từ nào?)\n❌\nbelong\n(thuộc về) → Sai, vì \"adhere\" không có nghĩa là thuộc về cái gì đó.\n❌\nrelate\n(liên quan) → Sai, vì \"adhere\" không có nghĩa là có mối quan hệ.\n✅\nstick\n(dính vào) → Đúng, vì trong bài đọc, \"adhere\" được dùng để mô tả\ntinh thể băng dính vào nhau để tạo thành bông tuyết\n.\n❌\nspeed\n(tốc độ) → Sai, vì \"adhere\" không liên quan đến tốc độ."
+    },
+    {
+      "id": "question15",
+      "question": "Câu 15: What is the main idea of paragraph (B)?",
+      "options": [
+        "A. How ice crystals form",
+        "B. Where the moisture to supply the nuclei comes from",
+        "C. How moisture affects temperature",
+        "D. What happens when ice crystals melt"
+      ],
+      "correct_answer": "B. Where the moisture to supply the nuclei comes from",
+      "explanation": "Giải thích:\nWhat is the main idea of paragraph (B)?\n(Ý chính của đoạn (B) là gì?)\n❌\nHow ice crystals form\n(Cách tinh thể băng hình thành) → Sai, vì đoạn (A) mới nói về quá trình hình thành tinh thể băng.\n❌\nHow moisture affects temperature\n(Hơi ẩm ảnh hưởng đến nhiệt độ như thế nào) → Sai, vì đoạn (B) không tập trung vào mối quan hệ giữa hơi ẩm và nhiệt độ.\n❌\nWhat happens when ice crystals melt\n(Điều gì xảy ra khi tinh thể băng tan chảy) → Sai, vì đoạn (B) không nói về sự tan chảy.\n✅\nWhere the moisture to supply the nuclei comes from\n(Nguồn cung cấp hơi ẩm cho các hạt nhân đến từ đâu) → Đúng, vì đoạn (B) giải thích rằng\nhơi ẩm đến từ các luồng không khí di chuyển qua đại dương\n, như Thái Bình Dương, Vịnh Mexico và Đại Tây Dương."
+    },
+    {
+      "id": "question16",
+      "question": "Câu 16: The word \"it\" in paragraph (B) refers to which of the following?",
+      "options": [
+        "A. cluster",
+        "B. snowfall",
+        "C. snowflake",
+        "D. moisture"
+      ],
+      "correct_answer": "B. snowfall",
+      "explanation": "Giải thích:\nThe word \"it\" in paragraph (B) refers to which of the following?\n(Từ \"it\" trong đoạn (B) ám chỉ đến điều gì?)\n✅\nsnowfall\n(trận tuyết rơi) → Đúng, vì trong câu văn, \"it\" ám chỉ đến\ntrận tuyết rơi đang diễn ra\n, cần có nguồn cung cấp độ ẩm liên tục để tiếp tục.\n❌\nsnowflake\n(bông tuyết) → Sai, vì \"it\" không nói về một bông tuyết riêng lẻ mà về trận tuyết.\n❌\ncluster\n(cụm tinh thể) → Sai, vì \"it\" không ám chỉ các cụm tinh thể mà là toàn bộ trận tuyết.\n❌\nmoisture\n(hơi ẩm) → Sai, vì hơi ẩm là yếu tố cần thiết để trận tuyết tiếp tục, nhưng \"it\" không đề cập đến hơi ẩm."
+    },
+    {
+      "id": "question17",
+      "question": "Câu 17: What is required for a snowfall to continue?",
+      "options": [
+        "A. A decrease in the number of snowflakes",
+        "B. A continuous infusion of moisture",
+        "C. A change in the direction of the airstream",
+        "D. Lowered vapor pressure in ice crystals"
+      ],
+      "correct_answer": "B. A continuous infusion of moisture",
+      "explanation": "Giải thích:\nWhat is required for a snowfall to continue?\n(Điều kiện cần thiết để tuyết rơi tiếp tục là gì?)\n❌\nA decrease in the number of snowflakes\n(Giảm số lượng bông tuyết) → Sai, vì điều này không liên quan đến việc trận tuyết có tiếp tục hay không.\n❌\nLowered vapor pressure in ice crystals\n(Giảm áp suất hơi trong tinh thể băng) → Sai, vì điều này ảnh hưởng đến sự hình thành băng, không quyết định việc tuyết rơi có tiếp tục hay không.\n✅\nA continuous infusion of moisture\n(Nguồn cung cấp độ ẩm liên tục) → Đúng, vì bài đọc nói rằng\nmột trận tuyết rơi cần có luồng cung cấp hơi ẩm liên tục\ntừ các khối không khí ẩm để tiếp tục.\n❌\nA change in the direction of the airstream\n(Sự thay đổi hướng của luồng không khí) → Sai, vì bài đọc không nói rằng hướng gió thay đổi sẽ quyết định trận tuyết có tiếp tục hay không."
+    },
+    {
+      "id": "question18",
+      "question": "Câu 18: How do lake-effect snowstorms typically form?",
+      "options": [
+        "A. Millions of ice crystals form on the surface of a large lake.",
+        "B. Large quantities of wet air come off a nearby mountain.",
+        "C. Water temperature drop below freezing.",
+        "D. Moisture rises from a lake into the airstream."
+      ],
+      "correct_answer": "D. Moisture rises from a lake into the airstream.",
+      "explanation": "Giải thích:\nHow do lake-effect snowstorms typically form?\n(Các trận bão tuyết do hiệu ứng hồ thường hình thành như thế nào?)\n❌\nWater temperature drop below freezing.\n(Nhiệt độ nước giảm xuống dưới mức đóng băng.) → Sai, vì bài đọc không đề cập đến nhiệt độ nước đóng vai trò chính trong việc tạo ra bão tuyết do hiệu ứng hồ.\n✅\nMoisture rises from a lake into the airstream.\n(Hơi ẩm bốc lên từ một hồ nước vào luồng không khí.) → Đúng, vì bài đọc nói rằng\ncác khu vực gần Ngũ Đại Hồ thường trải qua các trận bão tuyết do hơi ẩm bốc lên từ mặt hồ\n, dẫn đến hiệu ứng hồ.\n❌\nLarge quantities of wet air come off a nearby mountain.\n(Một lượng lớn không khí ẩm từ một ngọn núi gần đó.) → Sai, vì bài đọc nói rằng bão tuyết do hiệu ứng hồ\nhình thành từ hơi ẩm của hồ nước\n, không phải từ núi.\n❌\nMillions of ice crystals form on the surface of a large lake.\n(Hàng triệu tinh thể băng hình thành trên bề mặt một hồ lớn.) → Sai, vì bài đọc không nói rằng bão tuyết do hiệu ứng hồ bắt đầu từ tinh thể băng trên bề mặt hồ."
+    },
+    {
+      "id": "question19",
+      "question": "Câu 19: The word \"initiate\" in paragraph (B) is closest in meaning to which of the following?",
+      "options": [
+        "A. begin",
+        "B. increase",
+        "C. enhance",
+        "D. alter"
+      ],
+      "correct_answer": "A. begin",
+      "explanation": "Giải thích:\nThe word \"initiate\" in paragraph (B) is closest in meaning to which of the following?\n(Từ \"initiate\" trong đoạn (B) có nghĩa gần nhất với từ nào?)\n❌\nenhance\n(tăng cường) → Sai, vì \"initiate\" không có nghĩa là làm cho mạnh hơn hay tăng cường.\n❌\nalter\n(thay đổi) → Sai, vì \"initiate\" không có nghĩa là thay đổi điều gì đã tồn tại.\n❌\nincrease\n(tăng lên) → Sai, vì \"initiate\" không có nghĩa là làm tăng.\n✅\nbegin\n(bắt đầu) → Đúng, vì trong bài đọc, \"initiate\" được dùng để mô tả\nquá trình bắt đầu của một trận tuyết rơi\n, đồng nghĩa với \"begin\"."
+    },
+    {
+      "id": "question20",
+      "question": "Câu 20: Which of the following best explains why a place near mountains and a water source might not receive snowfall?",
+      "options": [
+        "A. Too much moisture in the air",
+        "B. Too much wind off the mountains",
+        "C. Atmospheric temperatures above the freezing point",
+        "D. Ground temperatures below the freezing point"
+      ],
+      "correct_answer": "C. Atmospheric temperatures above the freezing point",
+      "explanation": "Giải thích:\nWhich of the following best explains why a place near mountains and a water source might not receive snowfall?\n(Điều nào sau đây giải thích tốt nhất tại sao một khu vực gần núi và nguồn nước có thể không có tuyết rơi?)\n❌\nGround temperatures below the freezing point.\n(Nhiệt độ mặt đất dưới mức đóng băng.) → Sai, vì bài đọc nói rằng\nnhiệt độ không khí\nchứ không phải nhiệt độ mặt đất quyết định sự hình thành tuyết.\n❌\nToo much moisture in the air.\n(Quá nhiều hơi ẩm trong không khí.) → Sai, vì bài đọc không nói rằng quá nhiều hơi ẩm sẽ ngăn chặn tuyết rơi.\n❌\nToo much wind off the mountains.\n(Quá nhiều gió từ núi.) → Sai, vì bài đọc không đề cập đến gió mạnh từ núi là nguyên nhân ngăn cản tuyết rơi.\n✅\nAtmospheric temperatures above the freezing point.\n(Nhiệt độ khí quyển cao hơn mức đóng băng.) → Đúng, vì bài đọc nói rằng\nnhiệt độ khí quyển cần phải dưới mức đóng băng để tuyết hình thành\n. Nếu nhiệt độ quá cao, tuyết sẽ không thể tồn tại."
+    },
+    {
+      "id": "question21",
+      "question": "Câu 21: Which of the following statements best represents the main idea of the passage?",
+      "options": [
+        "A. Ants belonging to the genus Polyergus have an unusual relationship with ants belonging to the genus Formica.",
+        "B. Polyergus ants frequently leave their nests to build new colonies.",
+        "C. Ants belonging to the genus Formica are incapable of performing certain tasks.",
+        "D. The genus Polyergus is quite similar to the genus Formica."
+      ],
+      "correct_answer": "A. Ants belonging to the genus Polyergus have an unusual relationship with ants belonging to the genus Formica.",
+      "explanation": "Giải thích:\nWhich of the following statements best represents the main idea of the passage?\n(Câu nào sau đây thể hiện rõ nhất ý chính của bài đọc?)\n❌\nAnts belonging to the genus Formica are incapable of performing certain tasks.\n(Loài kiến thuộc chi Formica không thể thực hiện một số nhiệm vụ.) → Sai, vì kiến Formica có thể thực hiện nhiều nhiệm vụ và thậm chí còn hỗ trợ kiến Polyergus.\n❌\nThe genus Polyergus is quite similar to the genus Formica.\n(Chi Polyergus khá giống chi Formica.) → Sai, vì hai loài có sự khác biệt lớn, đặc biệt là Polyergus hoàn toàn phụ thuộc vào Formica.\n✅\nAnts belonging to the genus Polyergus have an unusual relationship with ants belonging to the genus Formica.\n(Kiến Polyergus có mối quan hệ bất thường với kiến Formica.) → Đúng, vì bài đọc tập trung vào cách kiến Polyergus phụ thuộc vào Formica để sinh tồn.\n❌\nPolyergus ants frequently leave their nests to build new colonies.\n(Kiến Polyergus thường rời tổ để xây dựng thuộc địa mới.) → Sai, vì chúng không tự xây dựng tổ mà dựa vào kiến Formica để di dời tổ."
+    },
+    {
+      "id": "question22",
+      "question": "Câu 22: The word \"raise\" in paragraph (A) is closest in meaning to which of the following?",
+      "options": [
+        "A. rear",
+        "B. lift",
+        "C. increase",
+        "D. collect"
+      ],
+      "correct_answer": "A. rear",
+      "explanation": "Giải thích:\nThe word \"raise\" in paragraph (A) is closest in meaning to which of the following?\n(Từ \"raise\" trong đoạn (A) có nghĩa gần nhất với từ nào?)\n✅\nrear\n(nuôi dưỡng) → Đúng, vì trong bài đọc, từ \"raise\" được dùng với nghĩa\nnuôi dưỡng con non\n, giống như \"rear\".\n❌\nlift\n(nâng lên) → Sai, vì \"raise\" trong ngữ cảnh này không có nghĩa là nâng một vật lên.\n❌\ncollect\n(thu thập) → Sai, vì \"raise\" không có nghĩa là thu thập thứ gì đó.\n❌\nincrease\n(tăng lên) → Sai, vì \"raise\" trong ngữ cảnh này không có nghĩa là làm tăng số lượng."
+    },
+    {
+      "id": "question23",
+      "question": "Câu 23: The author mentions cuckoos and cowbirds in paragraph (A) because they _____.",
+      "options": [
+        "A. share their nests with each other",
+        "B. are closely related species",
+        "C. are social parasites",
+        "D. raise the young of other birds"
+      ],
+      "correct_answer": "C. are social parasites",
+      "explanation": "Giải thích:\nThe author mentions cuckoos and cowbirds in paragraph (A) because they _____?\n(Tác giả đề cập đến chim cu gáy và chim bò trong đoạn (A) vì chúng _____?)\n❌\nshare their nests with each other.\n(Chúng chia sẻ tổ với nhau.) → Sai, vì chim cu gáy và chim bò không chia sẻ tổ mà đẻ trứng vào tổ của loài khác.\n❌\nare closely related species.\n(Chúng là những loài có quan hệ gần gũi.) → Sai, vì bài đọc không đề cập đến quan hệ tiến hóa của hai loài này.\n❌\nraise the young of other birds.\n(Chúng nuôi con non của loài chim khác.) → Sai, vì chúng không nuôi con non của loài khác mà gửi trứng cho loài khác nuôi.\n✅\nare social parasites.\n(Là loài ký sinh xã hội.) → Đúng, vì bài đọc đề cập đến chim cu gáy và chim bò như ví dụ điển hình của ký sinh xã hội."
+    },
+    {
+      "id": "question24",
+      "question": "Câu 24: The word \"it\" in paragraph (A) refers to which of the following?",
+      "options": [
+        "A. female",
+        "B. species",
+        "C. egg",
+        "D. nest"
+      ],
+      "correct_answer": "C. egg",
+      "explanation": "Giải thích:\nThe word \"it\" in paragraph (A) refers to which of the following?\n(Từ \"it\" trong đoạn (A) ám chỉ điều gì?)\n❌\nspecies\n(loài) → Sai, vì \"it\" không ám chỉ một loài động vật.\n❌\nnest\n(tổ) → Sai, vì bài đọc không nói rằng tổ bị bỏ lại cho vật chủ nuôi.\n✅\negg\n(trứng) → Đúng, vì bài đọc nói rằng con chim cái\nđẻ trứng vào tổ của loài khác và để \"nó\" cho vật chủ chăm sóc\n. Từ \"it\" ám chỉ quả trứng.\n❌\nfemale\n(chim cái) → Sai, vì \"it\" không ám chỉ con chim cái."
+    },
+    {
+      "id": "question25",
+      "question": "Câu 25: What does the author mean by stating that \"The dulotic species of ants are the supreme social parasites\" in paragraph (A)?",
+      "options": [
+        "A. The Polyergus are heavily dependent on the Formica.",
+        "B. The Formica do not reproduce rapidly enough to care for themselves.",
+        "C. The Polyergus are more highly developed than die Formica.",
+        "D. The Formica have developed specialized roles."
+      ],
+      "correct_answer": "A. The Polyergus are heavily dependent on the Formica.",
+      "explanation": "Giải thích:\nWhat does the author mean by stating that \"The dulotic species of ants are the supreme social parasites\" in paragraph (A)?\n(Tác giả có ý gì khi nói rằng \"Các loài kiến dulotic là những kẻ ký sinh xã hội bậc thầy\" trong đoạn (A)?)\n❌\nThe Polyergus are more highly developed than the Formica.\n(Kiến Polyergus phát triển hơn kiến Formica.) → Sai, vì bài đọc không nói rằng Polyergus tiến hóa cao hơn.\n❌\nThe Formica have developed specialized roles.\n(Kiến Formica đã phát triển các vai trò chuyên biệt.) → Sai, vì bài đọc tập trung vào sự phụ thuộc của Polyergus, không phải vai trò của Formica.\n✅\nThe Polyergus are heavily dependent on the Formica.\n(Kiến Polyergus phụ thuộc rất nhiều vào kiến Formica.) → Đúng, vì bài đọc mô tả\nkiến Polyergus không thể tự kiếm ăn hay chăm sóc tổ\nmà hoàn toàn dựa vào Formica.\n❌\nThe Formica do not reproduce rapidly enough to care for themselves.\n(Kiến Formica không sinh sản đủ nhanh để tự chăm sóc bản thân.) → Sai, vì bài đọc không đề cập đến tốc độ sinh sản của Formica."
+    },
+    {
+      "id": "question26",
+      "question": "Câu 26: Which of the following is a task that an ant of the genus Polyergus might do?",
+      "options": [
+        "A. Raid another nest.",
+        "B. Clean its own nest.",
+        "C. Care for the young.",
+        "D. Look for food."
+      ],
+      "correct_answer": "A. Raid another nest.",
+      "explanation": "Giải thích:\nWhich of the following is a task that an ant of the genus Polyergus might do?\n(Nhiệm vụ nào sau đây có thể do một con kiến thuộc chi Polyergus thực hiện?)\n❌\nLook for food.\n(Tìm kiếm thức ăn.) → Sai, vì bài đọc nói rằng\nkiến Polyergus không tự kiếm ăn\nmà phụ thuộc vào kiến Formica.\n✅\nRaid another nest.\n(Tấn công tổ khác.) → Đúng, vì bài đọc mô tả\nkiến Polyergus thực hiện các cuộc tấn công vào tổ kiến Formica\nđể bắt cóc nhộng.\n❌\nCare for the young.\n(Chăm sóc con non.) → Sai, vì bài đọc nói rằng\nkiến Polyergus không nuôi dưỡng ấu trùng\n, mà kiến Formica làm việc này.\n❌\nClean its own nest.\n(Dọn dẹp tổ của chính nó.) → Sai, vì bài đọc nói rằng\nkiến Formica đảm nhiệm việc dọn dẹp tổ\n, không phải Polyergus."
+    },
+    {
+      "id": "question27",
+      "question": "Câu 27: The word \"excavate\" in paragraph (B) is closest in meaning to which of the following?",
+      "options": [
+        "A. clean",
+        "B. repair",
+        "C. find",
+        "D. dig"
+      ],
+      "correct_answer": "D. dig",
+      "explanation": "Giải thích:\nThe word \"excavate\" in paragraph (B) is closest in meaning to which of the following?\n(Từ \"excavate\" trong đoạn (B) có nghĩa gần nhất với từ nào?)\n❌\nfind\n(tìm thấy) → Sai, vì \"excavate\" không có nghĩa là tìm kiếm thứ gì đó.\n❌\nclean\n(làm sạch) → Sai, vì \"excavate\" không có nghĩa là làm sạch mà là hành động đào bới.\n❌\nrepair\n(sửa chữa) → Sai, vì \"excavate\" không có nghĩa là sửa chữa thứ gì đó.\n✅\ndig\n(đào) → Đúng, vì trong bài đọc, từ \"excavate\" được dùng để mô tả\nkiến Formica đào thêm các khoang mới\nkhi dân số tăng."
+    },
+    {
+      "id": "question28",
+      "question": "Câu 28: The word \"recruit\" in paragraph (C) is closest in meaning to which of the following?",
+      "options": [
+        "A. create",
+        "B. enlist",
+        "C. capture",
+        "D. endure"
+      ],
+      "correct_answer": "B. enlist",
+      "explanation": "Giải thích:\nThe word \"recruit\" in paragraph (C) is closest in meaning to which of the following?\n(Từ \"recruit\" trong đoạn (C) có nghĩa gần nhất với từ nào?)\n❌\ncreate\n(tạo ra) → Sai, vì \"recruit\" không có nghĩa là tạo ra thứ gì đó.\n✅\nenlist\n(chiêu mộ) → Đúng, vì trong bài đọc, \"recruit\" được dùng để mô tả\nkiến Formica tuyển mộ đồng loại của mình để di dời tổ\n.\n❌\nendure\n(chịu đựng) → Sai, vì \"recruit\" không liên quan đến việc chịu đựng.\n❌\ncapture\n(bắt giữ) → Sai, vì \"recruit\" không có nghĩa là bắt giữ."
+    },
+    {
+      "id": "question29",
+      "question": "Câu 29: What happens when a mixed colony of Polyergus and Formica ants becomes too large?",
+      "options": [
+        "A. The Polyergus and the Formica move to a new nest.",
+        "B. The Polyergus workers enlarge the existing nest.",
+        "C. The Polyergus and the Formica build separate nests.",
+        "D. The captured Formica workers return to their original nest."
+      ],
+      "correct_answer": "A. The Polyergus and the Formica move to a new nest.",
+      "explanation": "Giải thích:\nWhat happens when a mixed colony of Polyergus and Formica ants becomes too large?\n(Điều gì xảy ra khi một tổ chung của kiến Polyergus và Formica trở nên quá lớn?)\n❌\nThe Polyergus workers enlarge the existing nest.\n(Kiến Polyergus mở rộng tổ hiện tại.) → Sai, vì bài đọc nói rằng\nkiến Polyergus không tự xây dựng hay mở rộng tổ\n.\n❌\nThe captured Formica workers return to their original nest.\n(Kiến Formica bị bắt trở về tổ ban đầu của chúng.) → Sai, vì kiến Formica không quay lại tổ cũ.\n❌\nThe Polyergus and the Formica build separate nests.\n(Kiến Polyergus và Formica xây dựng tổ riêng biệt.) → Sai, vì hai loài này luôn sống chung trong một tổ.\n✅\nThe Polyergus and the Formica move to a new nest.\n(Kiến Polyergus và Formica di chuyển đến tổ mới.) → Đúng, vì bài đọc nói rằng\nkhi tổ trở nên quá tải, kiến Formica tìm kiếm một vị trí mới và di dời toàn bộ tổ\n."
+    },
+    {
+      "id": "question30",
+      "question": "Câu 30: According to the information in the passage, all of the following terms refer to ants belonging to the genus Formica EXCEPT?",
+      "options": [
+        "A. the dulotic species of ants",
+        "B. the developing pupae",
+        "C. the worker population",
+        "D. the captured brood"
+      ],
+      "correct_answer": "A. the dulotic species of ants",
+      "explanation": "Giải thích:\nAccording to the information in the passage, all of the following terms refer to ants belonging to the genus Formica EXCEPT?\n(Theo thông tin trong bài đọc, tất cả các thuật ngữ sau đây đề cập đến kiến thuộc chi Formica NGOẠI TRỪ?)\n✅\nthe dulotic species of ants\n(các loài kiến dulotic) → Đúng, vì thuật ngữ này đề cập đến kiến Polyergus, không phải Formica.\n❌\nthe captured brood\n(lứa nhộng bị bắt) → Sai, vì bài đọc nói rằng\nkiến Polyergus bắt cóc nhộng Formica\n, nên thuật ngữ này chỉ nhộng Formica.\n❌\nthe developing pupae\n(nhộng đang phát triển) → Sai, vì bài đọc nói rằng\nnhộng bị bắt cóc là của kiến Formica\n.\n❌\nthe worker population\n(dân số kiến thợ) → Sai, vì bài đọc nói rằng\nkiến thợ Formica thực hiện tất cả nhiệm vụ trong tổ\n."
+    },
+    {
+      "id": "question31",
+      "question": "Câu 31: What does the passage mainly discuss?",
+      "options": [
+        "A. How Winterthur compares to English country houses",
+        "B. Elements that make Winterthur an unusual museum",
+        "C. Historical furniture contained in Winterthur",
+        "D. The reason that Winterthur was redesigned"
+      ],
+      "correct_answer": "B. Elements that make Winterthur an unusual museum",
+      "explanation": "Giải thích:\nWhat does the passage mainly discuss?\n(Bài đọc chủ yếu thảo luận về điều gì?)\n❌\nThe reason that Winterthur was redesigned.\n(Lý do Winterthur được thiết kế lại.) → Sai, vì bài đọc không tập trung vào lý do cải tạo mà vào đặc điểm độc đáo của bảo tàng.\n✅\nElements that make Winterthur an unusual museum.\n(Những yếu tố khiến Winterthur trở thành một bảo tàng độc đáo.) → Đúng, vì bài đọc mô tả Winterthur như một bảo tàng vừa là bộ sưu tập nghệ thuật trang trí vừa là một ngôi nhà.\n❌\nHow Winterthur compares to English country houses.\n(Cách Winterthur so sánh với các dinh thự đồng quê kiểu Anh.) → Sai, vì bài đọc chỉ đề cập thoáng qua đến sự tương đồng, không phải là chủ đề chính.\n❌\nHistorical furniture contained in Winterthur.\n(Nội thất lịch sử có trong Winterthur.) → Sai, vì nội thất là một phần quan trọng nhưng không phải trọng tâm của bài đọc."
+    },
+    {
+      "id": "question32",
+      "question": "Câu 32: The phrase \"devoted to\" in paragraph (A) is closest in meaning to which of the following?",
+      "options": [
+        "A. sentimental about",
+        "B. specializing in",
+        "C. successful with",
+        "D. surrounded by"
+      ],
+      "correct_answer": "B. specializing in",
+      "explanation": "Giải thích:\nThe phrase \"devoted to\" in paragraph (A) is closest in meaning to which of the following?\n(Cụm từ \"devoted to\" trong đoạn (A) có nghĩa gần nhất với từ nào?)\n❌\nsurrounded by\n(bao quanh bởi) → Sai, vì \"devoted to\" không có nghĩa là bị bao quanh.\n✅\nspecializing in\n(chuyên về) → Đúng, vì bài đọc nói về\nbảo tàng chuyên về nghệ thuật trang trí\n.\n❌\nsuccessful with\n(thành công với) → Sai, vì \"devoted to\" không liên quan đến thành công.\n❌\nsentimental about\n(có tình cảm với) → Sai, vì \"devoted to\" không có nghĩa là có cảm xúc với điều gì."
+    },
+    {
+      "id": "question33",
+      "question": "Câu 33: What happened at Winterthur between 1929 and 1931?",
+      "options": [
+        "A. The estate became a museum.",
+        "B. The old furniture was replaced.",
+        "C. The owners moved out.",
+        "D. The house was repaired."
+      ],
+      "correct_answer": "D. The house was repaired.",
+      "explanation": "Giải thích:\nWhat happened at Winterthur between 1929 and 1931?\n(Điều gì đã xảy ra tại Winterthur từ năm 1929 đến 1931?)\n❌\nThe owners moved out.\n(Chủ nhân dọn đi.) → Sai, vì bài đọc nói rằng\nWinterthur vẫn là nơi ở của gia đình sau khi cải tạo\n.\n✅\nThe house was repaired.\n(Ngôi nhà được sửa chữa.) → Đúng, vì bài đọc nói rằng\nWinterthur trải qua một đợt cải tạo lớn\ntrong thời gian này.\n❌\nThe old furniture was replaced.\n(Nội thất cũ bị thay thế.) → Sai, vì bài đọc không nói rằng nội thất bị thay thế hoàn toàn.\n❌\nThe estate became a museum.\n(Khu điền trang trở thành bảo tàng.) → Sai, vì bài đọc không nói rằng Winterthur trở thành bảo tàng trong giai đoạn này."
+    },
+    {
+      "id": "question34",
+      "question": "Câu 34: What does the author mean by stating \"The impression of a lived-in house is apparent to the visitor\" in paragraph (A)?",
+      "options": [
+        "A. Winterthur does not look like a typical museum.",
+        "B. Few people visit Winterthur.",
+        "C. The furniture at Winterthur looks comfortable.",
+        "D. Winterthur is very old."
+      ],
+      "correct_answer": "A. Winterthur does not look like a typical museum.",
+      "explanation": "Giải thích:\nWhat does the author mean by stating \"The impression of a lived-in house is apparent to the visitor\" in paragraph (A)?\n(Tác giả có ý gì khi nói rằng \"Ấn tượng về một ngôi nhà vẫn còn sinh hoạt rõ ràng đối với du khách\" trong đoạn (A)?)\n❌\nWinterthur is very old.\n(Winterthur rất cũ.) → Sai, vì bài đọc không đề cập đến độ tuổi của Winterthur.\n❌\nFew people visit Winterthur.\n(Ít người ghé thăm Winterthur.) → Sai, vì bài đọc không nói về lượng khách du lịch.\n✅\nWinterthur does not look like a typical museum.\n(Winterthur không giống một bảo tàng điển hình.) → Đúng, vì bài đọc nói rằng\ncác căn phòng trông như thể vẫn đang được sử dụng\n, không giống một bảo tàng truyền thống.\n❌\nThe furniture at Winterthur looks comfortable.\n(Nội thất tại Winterthur trông thoải mái.) → Sai, vì bài đọc không đề cập đến mức độ thoải mái của nội thất."
+    },
+    {
+      "id": "question35",
+      "question": "Câu 35: The word \"assembled\" in paragraph (A) is closest in meaning to which of the following?",
+      "options": [
+        "A. appreciated",
+        "B. fundamentally changed",
+        "C. brought together",
+        "D. summoned"
+      ],
+      "correct_answer": "C. brought together",
+      "explanation": "Giải thích:\nThe word \"assembled\" in paragraph (A) is closest in meaning to which of the following?\n(Từ \"assembled\" trong đoạn (A) có nghĩa gần nhất với từ nào?)\n❌\nsummoned\n(triệu tập) → Sai, vì \"assembled\" không có nghĩa là triệu tập ai đó.\n❌\nappreciated\n(được đánh giá cao) → Sai, vì \"assembled\" không liên quan đến việc đánh giá cao.\n✅\nbrought together\n(tập hợp lại) → Đúng, vì bài đọc nói rằng\ncác yếu tố kiến trúc và nội thất được tập hợp lại tại Winterthur\n.\n❌\nfundamentally changed\n(thay đổi hoàn toàn) → Sai, vì \"assembled\" không có nghĩa là thay đổi điều gì."
+    },
+    {
+      "id": "question36",
+      "question": "Câu 36: The word \"it\" in paragraph (A) refers to which of the following?",
+      "options": [
+        "A. English country house",
+        "B. Winterthur",
+        "C. visitor",
+        "D. collection"
+      ],
+      "correct_answer": "B. Winterthur",
+      "explanation": "Giải thích:\nThe word \"it\" in paragraph (A) refers to which of the following?\n(Từ \"it\" trong đoạn (A) ám chỉ điều gì?)\n✅\nWinterthur.\n→ Đúng, vì bài đọc mô tả Winterthur là một ngôi nhà đồng quê phát triển tự nhiên, và từ \"it\" trong câu sau đó tiếp tục chỉ đến Winterthur.\n❌\ncollection.\n→ Sai, vì \"it\" không ám chỉ bộ sưu tập mà là toàn bộ bảo tàng Winterthur.\n❌\nEnglish country house.\n→ Sai, vì bài đọc chỉ so sánh Winterthur với dinh thự đồng quê kiểu Anh, không phải ám chỉ nó là một dinh thự như vậy.\n❌\nvisitor.\n→ Sai, vì \"it\" không ám chỉ khách tham quan."
+    },
+    {
+      "id": "question37",
+      "question": "Câu 37: The word \"developing\" in paragraph (A) is closest in meaning to which of the following?",
+      "options": [
+        "A. evolving",
+        "B. traditional",
+        "C. exhibiting",
+        "D. informative"
+      ],
+      "correct_answer": "A. evolving",
+      "explanation": "Giải thích:\nThe word \"developing\" in paragraph (A) is closest in meaning to which of the following?\n(Từ \"developing\" trong đoạn (A) có nghĩa gần nhất với từ nào?)\n❌\ntraditional.\n(truyền thống) → Sai, vì \"developing\" liên quan đến sự thay đổi, không phải giữ nguyên truyền thống.\n❌\nexhibiting.\n(trưng bày) → Sai, vì \"developing\" không có nghĩa là trưng bày.\n❌\ninformative.\n(cung cấp thông tin) → Sai, vì \"developing\" không có nghĩa là mang tính cung cấp thông tin.\n✅\nevolving.\n(phát triển, tiến hóa) → Đúng, vì bài đọc nói rằng\ncác khái niệm về nghệ thuật Mỹ liên tục phát triển\n."
+    },
+    {
+      "id": "question38",
+      "question": "Câu 38: According to the passage, objects in a period room are related by all of the following EXCEPT?",
+      "options": [
+        "A. past ownership",
+        "B. place of manufacture",
+        "C. date",
+        "D. style"
+      ],
+      "correct_answer": "A. past ownership",
+      "explanation": "Giải thích:\nAccording to the passage, objects in a period room are related by all of the following EXCEPT?\n(Theo bài đọc, các đồ vật trong phòng theo thời kỳ có mối liên hệ với nhau theo tất cả các tiêu chí sau NGOẠI TRỪ?)\n❌\ndate.\n(niên đại) → Sai, vì bài đọc nói rằng đồ vật trong phòng theo thời kỳ có thể được sắp xếp theo niên đại.\n❌\nstyle.\n(phong cách) → Sai, vì đồ vật cũng có thể được sắp xếp theo phong cách.\n❌\nplace of manufacture.\n(nơi sản xuất) → Sai, vì bài đọc đề cập đến việc đồ vật có thể được trưng bày theo nơi sản xuất.\n✅\npast ownership.\n(chủ sở hữu trước đây) → Đúng, vì bài đọc không đề cập đến việc sắp xếp đồ vật theo chủ sở hữu trước đó."
+    },
+    {
+      "id": "question39",
+      "question": "Câu 39: What is the relationship between the two paragraphs in the passage?",
+      "options": [
+        "A. Each paragraph describes a different historical period.",
+        "B. The second paragraph explains a term that was mentioned in the first paragraph.",
+        "C. The second paragraph explains a philosophy of art appreciation that contrasts with the philosophy explained in me first paragraph.",
+        "D. Each paragraph describes a different approach to the display of objects in a museum."
+      ],
+      "correct_answer": "B. The second paragraph explains a term that was mentioned in the first paragraph.",
+      "explanation": "Giải thích:\nWhat is the relationship between the two paragraphs in the passage?\n(Mối quan hệ giữa hai đoạn văn trong bài đọc là gì?)\n✅\nThe second paragraph explains a term that was mentioned in the first paragraph.\n(Đoạn hai giải thích một thuật ngữ được đề cập trong đoạn một.) → Đúng, vì đoạn một mô tả Winterthur như một bảo tàng có phòng thời kỳ, và đoạn hai giải thích khái niệm \"phòng theo thời kỳ\".\n❌\nEach paragraph describes a different approach to the display of objects in a museum.\n(Mỗi đoạn mô tả một cách tiếp cận khác nhau để trưng bày vật thể trong bảo tàng.) → Sai, vì cả hai đoạn đều tập trung vào cách bài trí phòng theo thời kỳ.\n❌\nThe second paragraph explains a philosophy of art appreciation that contrasts with the philosophy explained in the first paragraph.\n(Đoạn hai giải thích một triết lý về nghệ thuật trái ngược với đoạn một.) → Sai, vì đoạn hai không đối lập với đoạn một.\n❌\nEach paragraph describes a different historical period.\n(Mỗi đoạn mô tả một thời kỳ lịch sử khác nhau.) → Sai, vì cả hai đoạn đều nói về bảo tàng Winterthur."
+    },
+    {
+      "id": "question40",
+      "question": "Câu 40: Where in the passage does the author explain why displays at Winterthur have changed?",
+      "options": [
+        "A. In paragraph (A), discussing evolving concepts of American art",
+        "B. At the end of the passage, summarizing the changes over time",
+        "C. In the introduction of the passage",
+        "D. In paragraph (B), explaining the period room concept"
+      ],
+      "correct_answer": "A. In paragraph (A), discussing evolving concepts of American art",
+      "explanation": "Giải thích:\nWhere in the passage does the author explain why displays at Winterthur have changed?\n(Tác giả giải thích tại đâu trong bài đọc về lý do các cách trưng bày tại Winterthur thay đổi?)\n❌\nIn the introduction of the passage.\n(Ở phần mở đầu của bài đọc.) → Sai, vì phần mở đầu chỉ giới thiệu Winterthur, không giải thích sự thay đổi trưng bày.\n✅\nIn paragraph (A), discussing evolving concepts of American art.\n(Trong đoạn (A), thảo luận về sự phát triển của các khái niệm nghệ thuật Mỹ.) → Đúng, vì bài đọc nói rằng\ncác cách trưng bày thay đổi cùng với sự phát triển của nghệ thuật Mỹ\n.\n❌\nIn paragraph (B), explaining the period room concept.\n(Trong đoạn (B), giải thích khái niệm phòng thời kỳ.) → Sai, vì đoạn này tập trung vào khái niệm \"phòng thời kỳ\", không phải lý do thay đổi trưng bày.\n❌\nAt the end of the passage, summarizing the changes over time.\n(Ở cuối bài đọc, tóm tắt sự thay đổi qua thời gian.) → Sai, vì bài đọc không có phần tổng kết sự thay đổi ở cuối."
     }
   ],
   "test_id": 5,
-  "results_url": "https://luyenthivstep.vn/luyen-de/ket-qua-doc/265739"
+  "results_url": "https://luyenthivstep.vn/luyen-de/ket-qua-doc/265761",
+  "results_urls": [
+    "https://luyenthivstep.vn/luyen-de/ket-qua-doc/265761",
+    "https://luyenthivstep.vn/luyen-de/ket-qua-doc/265762",
+    "https://luyenthivstep.vn/luyen-de/ket-qua-doc/265763",
+    "https://luyenthivstep.vn/luyen-de/ket-qua-doc/265764"
+  ]
 }
