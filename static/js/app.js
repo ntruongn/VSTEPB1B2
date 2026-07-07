@@ -109,6 +109,13 @@ document.addEventListener("DOMContentLoaded", () => {
         elements.listView.classList.remove("active");
         elements.examView.classList.remove("active");
         
+        // Toggle body class for distraction-free exam layout
+        if (viewName === "exam") {
+            document.body.classList.add("in-exam");
+        } else {
+            document.body.classList.remove("in-exam");
+        }
+        
         // Stop any active recordings when leaving speaking exam
         stopSpeakingRecordingState();
         
