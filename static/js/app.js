@@ -70,15 +70,15 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // 2. Navigation Home
     elements.logoHome.addEventListener("click", () => {
-        showView("dashboard");
+        window.location.hash = "#/";
     });
 
     elements.btnListBack.addEventListener("click", () => {
-        showView("dashboard");
+        window.location.hash = "#/";
     });
 
     elements.btnExamBack.addEventListener("click", () => {
-        showView("list");
+        window.location.hash = `#/list/${state.currentCategory}`;
     });
 
     // 3. Load counts & data from API
@@ -95,12 +95,66 @@ document.addEventListener("DOMContentLoaded", () => {
             elements.listeningCount.textContent = data.listening.length;
             elements.writingCount.textContent = data.writing.length;
             elements.speakingCount.textContent = data.speaking.length;
+            
+            // If the user lands directly on a list route, render the grid once data is available
+            const hash = window.location.hash;
+            if (hash.startsWith("#/list/")) {
+                renderExamsGrid();
+            }
         } catch (error) {
             console.error("Error loading dashboard data:", error);
         }
     }
 
+    // 3.5. Hash Routing Controller
+    async function handleRoute() {
+        const hash = window.location.hash;
+        
+        // Handle list view: #/list/:category
+        const listMatch = hash.match(/^#\/list\/([a-z]+)$/);
+        if (listMatch) {
+            const cat = listMatch[1];
+            if (["reading", "listening", "writing", "speaking"].includes(cat)) {
+                state.currentCategory = cat;
+                const titles = {
+                    reading: "Đề thi ĐỌC (Reading)",
+                    listening: "Đề thi NGHE (Listening)",
+                    writing: "Đề thi VIẾT (Writing)",
+                    speaking: "Đề thi NÓI (Speaking)"
+                };
+                elements.listTitle.textContent = titles[cat];
+                elements.searchExamInput.value = "";
+                showView("list");
+                return;
+            }
+        }
+        
+        // Handle exam view: #/exam/:category/:id
+        const examMatch = hash.match(/^#\/exam\/([a-z]+)\/(\d+)$/);
+        if (examMatch) {
+            const cat = examMatch[1];
+            const id = parseInt(examMatch[2]);
+            if (["reading", "listening", "writing", "speaking"].includes(cat) && !isNaN(id)) {
+                state.currentCategory = cat;
+                if (state.currentExamId !== id || state.currentCategory !== cat || !state.currentExamData) {
+                    await loadExam(cat, id);
+                } else {
+                    showView("exam");
+                }
+                return;
+            }
+        }
+        
+        // Default: dashboard view
+        showView("dashboard");
+    }
+
+    // Listen for hash changes
+    window.addEventListener("hashchange", handleRoute);
+
+    // Initial load calls
     loadDashboardData();
+    handleRoute();
 
     // 4. View Router Helper
     function showView(viewName) {
@@ -143,18 +197,7 @@ document.addEventListener("DOMContentLoaded", () => {
     document.querySelectorAll(".skill-card").forEach(card => {
         card.addEventListener("click", () => {
             const cat = card.getAttribute("data-category");
-            state.currentCategory = cat;
-            
-            const titles = {
-                reading: "Đề thi ĐỌC (Reading)",
-                listening: "Đề thi NGHE (Listening)",
-                writing: "Đề thi VIẾT (Writing)",
-                speaking: "Đề thi NÓI (Speaking)"
-            };
-            
-            elements.listTitle.textContent = titles[cat];
-            elements.searchExamInput.value = "";
-            showView("list");
+            window.location.hash = `#/list/${cat}`;
         });
     });
 
@@ -192,7 +235,7 @@ document.addEventListener("DOMContentLoaded", () => {
             `;
             
             card.addEventListener("click", () => {
-                loadExam(state.currentCategory, id);
+                window.location.hash = `#/exam/${state.currentCategory}/${id}`;
             });
             
             elements.examsGridContainer.appendChild(card);
@@ -1475,7 +1518,10 @@ document.addEventListener("DOMContentLoaded", () => {
                     <div class="choice-option" data-qindex="${qIndex}" data-oindex="${oIndex}" id="choice-q${qIndex}-${oIndex}">
                         <input type="radio" name="q-${qIndex}" value="${oIndex}" id="input-q${qIndex}-${oIndex}">
                         <div class="choice-indicator">${optionLetter}</div>
-                        <div class="choice-text">${opt}</div>
+                        <div class="choice-content-wrapper">
+                            <div class="choice-text">${opt}</div>
+                            <div class="choice-explanation" id="choice-explanation-q${qIndex}-${oIndex}" style="display: none;"></div>
+                        </div>
                     </div>
                 `;
             }).join("");
@@ -1641,15 +1687,205 @@ document.addEventListener("DOMContentLoaded", () => {
             // Display explanation card
             const expContainer = document.getElementById(`explanation-q-${qIndex}`);
             if (expContainer && q.explanation) {
-                expContainer.style.display = "block";
-                expContainer.innerHTML = `
-                    <div class="explanation-header">
-                        <i data-lucide="help-circle"></i> <span>Đáp án và Giải thích chi tiết:</span>
-                    </div>
-                    <div class="explanation-content">
-                        ${q.explanation}
-                    </div>
-                `;
+                // Nested helper function for cleaning string
+                const cleanText = (str) => {
+                    if (!str) return "";
+                    // Remove A. B. C. D. prefixes
+                    let s = str.trim().replace(/^[A-Z](?:\.|\)|\/)?\s+/i, "");
+                    // Remove translations/parentheses
+                    s = s.replace(/\([^)]*\)/g, "");
+                    // Keep only alphanumeric and lowercase
+                    return s.replace(/[\W_]+/g, "").toLowerCase();
+                };
+
+                // Helper to extract option details
+                const extractOptionExplanation = (symbol, blockText, isListeningStyle) => {
+                    let rawText = blockText || "";
+                    if (isListeningStyle) {
+                        const lines = rawText.split('\n');
+                        if (lines.length > 1) {
+                            const lastLine = lines[lines.length - 1].trim();
+                            if (lastLine.length > 0 && lastLine.length < 100) {
+                                lines.pop();
+                                rawText = lines.join('\n');
+                            }
+                        }
+                    }
+
+                    let translation = "";
+                    let explanationText = "";
+
+                    const parenthesizedMatch = rawText.match(/\(([^)]+)\)/);
+                    if (parenthesizedMatch) {
+                        translation = parenthesizedMatch[1].trim();
+                    }
+
+                    const separators = [/→/, /->/, /–/, / - /];
+                    let splitIndex = -1;
+                    let sepUsed = null;
+                    for (let sep of separators) {
+                        const match = rawText.match(sep);
+                        if (match) {
+                            splitIndex = match.index;
+                            sepUsed = match[0];
+                            break;
+                        }
+                    }
+
+                    if (splitIndex !== -1) {
+                        explanationText = rawText.substring(splitIndex + sepUsed.length).trim();
+                    } else {
+                        explanationText = rawText.replace(/\([^)]+\)/g, "").trim();
+                        explanationText = explanationText.replace(/^[✅❌\s\-\–\→]+/, "").trim();
+                    }
+
+                    explanationText = explanationText.replace(/^[✅❌\s\-\–\→\:\.\,]+/, "").trim();
+
+                    return {
+                        symbol: symbol,
+                        translation: translation,
+                        explanation: explanationText
+                    };
+                };
+
+                const parts = q.explanation.split(/(✅|❌)/);
+                const optionExplanations = {};
+                let generalExplanation = parts[0] || "";
+
+                if (parts.length > 1) {
+                    q.options.forEach((opt, oIndex) => {
+                        const cleanedOpt = cleanText(opt);
+                        let bestMatchIdx = -1;
+
+                        // First pass: exact match
+                        for (let i = 1; i < parts.length; i += 2) {
+                            const prevText = parts[i - 1] || "";
+                            const nextText = parts[i + 1] || "";
+
+                            const prevLines = prevText.trim().split('\n');
+                            const tailLine = prevLines[prevLines.length - 1] || "";
+
+                            const nextLines = nextText.trim().split('\n');
+                            const headLine = nextLines[0] || "";
+                            const headLine2 = nextLines[1] || "";
+
+                            const cleanTail = cleanText(tailLine);
+                            const cleanHead = cleanText(headLine);
+                            const cleanHead2 = cleanText(headLine2);
+
+                            if (cleanTail === cleanedOpt || cleanHead === cleanedOpt || cleanHead2 === cleanedOpt) {
+                                bestMatchIdx = i;
+                                break;
+                            }
+                        }
+
+                        // Second pass: substring match
+                        if (bestMatchIdx === -1 && cleanedOpt.length > 3) {
+                            for (let i = 1; i < parts.length; i += 2) {
+                                const prevText = parts[i - 1] || "";
+                                const nextText = parts[i + 1] || "";
+
+                                const prevLines = prevText.trim().split('\n');
+                                const tailLine = prevLines[prevLines.length - 1] || "";
+
+                                const nextLines = nextText.trim().split('\n');
+                                const headLine = nextLines[0] || "";
+                                const headLine2 = nextLines[1] || "";
+
+                                const cleanTail = cleanText(tailLine);
+                                const cleanHead = cleanText(headLine);
+                                const cleanHead2 = cleanText(headLine2);
+
+                                if (
+                                    (cleanTail.length > 0 && (cleanTail.includes(cleanedOpt) || cleanedOpt.includes(cleanTail))) ||
+                                    (cleanHead.length > 0 && (cleanHead.includes(cleanedOpt) || cleanedOpt.includes(cleanHead))) ||
+                                    (cleanHead2.length > 0 && (cleanHead2.includes(cleanedOpt) || cleanedOpt.includes(cleanHead2)))
+                                ) {
+                                    bestMatchIdx = i;
+                                    break;
+                                }
+                            }
+                        }
+
+                        if (bestMatchIdx !== -1) {
+                            const symbol = parts[bestMatchIdx];
+                            const blockText = parts[bestMatchIdx + 1];
+
+                            const prevLines = (parts[bestMatchIdx - 1] || "").trim().split('\n');
+                            const tailLine = prevLines[prevLines.length - 1] || "";
+                            const cleanTail = cleanText(tailLine);
+                            const isListeningStyle = cleanTail.length > 0 && (cleanTail.includes(cleanedOpt) || cleanedOpt.includes(cleanTail));
+
+                            optionExplanations[oIndex] = extractOptionExplanation(symbol, blockText, isListeningStyle);
+                        }
+                    });
+                }
+
+                // If we successfully mapped some explanations, distribute them and update main block to show only general context
+                const mappedKeys = Object.keys(optionExplanations);
+                if (mappedKeys.length > 0) {
+                    q.options.forEach((opt, oIndex) => {
+                        const optExp = optionExplanations[oIndex];
+                        const choiceExpContainer = document.getElementById(`choice-explanation-q${qIndex}-${oIndex}`);
+                        if (choiceExpContainer) {
+                            if (optExp) {
+                                const statusClass = optExp.symbol === "✅" ? "correct" : "incorrect";
+                                const statusText = optExp.symbol === "✅" ? "✅ Đúng:" : "❌ Sai:";
+                                
+                                let translationHtml = "";
+                                if (optExp.translation) {
+                                    translationHtml = `
+                                        <div class="choice-translation">
+                                            <span class="lbl-translation">Dịch nghĩa:</span> ${optExp.translation}
+                                        </div>
+                                    `;
+                                }
+
+                                choiceExpContainer.innerHTML = `
+                                    ${translationHtml}
+                                    <div class="choice-exp-detail">
+                                        <span class="lbl-status ${statusClass}">${statusText}</span>
+                                        <span>${optExp.explanation}</span>
+                                    </div>
+                                `;
+                                choiceExpContainer.style.display = "block";
+                            } else {
+                                choiceExpContainer.style.display = "none";
+                            }
+                        }
+                    });
+
+                    // Update main explanation container with only the general transcript/context
+                    let cleanGeneral = generalExplanation.trim();
+                    cleanGeneral = cleanGeneral.replace(/Phân tích các lựa chọn:\s*$/i, "").trim();
+                    cleanGeneral = cleanGeneral.replace(/Phân tích lựa chọn:\s*$/i, "").trim();
+                    cleanGeneral = cleanGeneral.replace(/Chi tiết các đáp án:\s*$/i, "").trim();
+                    
+                    if (cleanGeneral.length > 0) {
+                        expContainer.style.display = "block";
+                        expContainer.innerHTML = `
+                            <div class="explanation-header">
+                                <i data-lucide="help-circle"></i> <span>Thông tin câu hỏi và Dịch nghĩa:</span>
+                            </div>
+                            <div class="explanation-content">
+                                ${cleanGeneral}
+                            </div>
+                        `;
+                    } else {
+                        expContainer.style.display = "none";
+                    }
+                } else {
+                    // Fallback: render full explanation in case parsing failed or no checkboxes present
+                    expContainer.style.display = "block";
+                    expContainer.innerHTML = `
+                        <div class="explanation-header">
+                            <i data-lucide="help-circle"></i> <span>Đáp án và Giải thích chi tiết:</span>
+                        </div>
+                        <div class="explanation-content">
+                            ${q.explanation}
+                        </div>
+                    `;
+                }
             }
         });
         

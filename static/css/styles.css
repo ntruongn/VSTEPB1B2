@@ -744,6 +744,59 @@ a {
     color: var(--text-primary);
 }
 
+.choice-content-wrapper {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    width: 100%;
+}
+
+.choice-explanation {
+    margin-top: 0.75rem;
+    padding-top: 0.75rem;
+    border-top: 1px dashed rgba(255, 255, 255, 0.1);
+    font-size: 0.875rem;
+    color: var(--text-secondary);
+    line-height: 1.5;
+    animation: fadeIn var(--transition-fast);
+}
+
+[data-theme="light"] .choice-explanation {
+    border-top: 1px dashed rgba(0, 0, 0, 0.1);
+}
+
+.choice-translation {
+    margin-bottom: 0.35rem;
+    font-style: italic;
+}
+
+.lbl-translation {
+    font-weight: 600;
+    color: var(--text-secondary);
+    margin-right: 0.25rem;
+    font-style: normal;
+}
+
+.choice-exp-detail {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.25rem;
+}
+
+.lbl-status {
+    font-weight: 700;
+    margin-right: 0.25rem;
+    flex-shrink: 0;
+}
+
+.lbl-status.correct {
+    color: var(--color-success);
+}
+
+.lbl-status.incorrect {
+    color: var(--color-danger);
+}
+
 /* Question Grid progress sidebar in footer */
 .exam-submit-area {
     display: flex;
